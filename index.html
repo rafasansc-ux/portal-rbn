@@ -284,8 +284,8 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
       <button class="nb" onclick="ir('tempo',this)"><span class="pip" style="background:#38BDF8"></span>Tempo</button>
       <button class="nb" onclick="ir('curiosidades',this)"><span class="pip" style="background:#F59E0B"></span>Curiosidades</button>
       <button class="nb" onclick="ir('entretenimento',this)"><span class="pip" style="background:#C084FC"></span>Entretenimento</button>
-      <button class="nb" onclick="ir('boletim',this)"><span class="pip" style="background:#94C3FF"></span>Boletim</button>
-      <button class="nb" onclick="ir('config',this)"><span class="pip" style="background:#F87171"></span>⚙ Configurações</button>
+      <button class="nb" onclick="ir('boletim',this)"><span class="pip" style="background:#94C3FF"></span>📋 Boletim</button>
+      <button class="nb" onclick="ir('config',this)"><span class="pip" style="background:#F87171"></span>⚙ Config</button>
     </nav>
 
     <div class="tb-right">
@@ -337,24 +337,10 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
 
     <!-- CURIOSIDADES -->
     <section class="sec" id="sec-curiosidades">
-      <div class="ed-bloco">
-        <div class="ed-header">
-          <div class="ed-pill" style="background:rgba(245,158,11,.1);color:#F59E0B">💡 Curiosidades</div>
-          <div class="ed-count" id="curio-count">carregando...</div>
-        </div>
-        <div id="curio-grid"></div>
-      </div>
     </section>
 
     <!-- ENTRETENIMENTO -->
     <section class="sec" id="sec-entretenimento">
-      <div class="ed-bloco">
-        <div class="ed-header">
-          <div class="ed-pill" style="background:rgba(192,132,252,.1);color:#C084FC">🎬 Entretenimento</div>
-          <div class="ed-count" id="entret-count">carregando...</div>
-        </div>
-        <div id="entret-grid"></div>
-      </div>
     </section>
 
     <!-- BOLETIM -->
@@ -628,7 +614,7 @@ function renderTodosDoJSON(){
     'Curiosidades':   'sec-curiosidades',
   };
 
-  // Limpa seções
+  // Limpa seções dinâmicas
   ['sec-noticias','sec-esporte','sec-entretenimento','sec-curiosidades']
     .forEach(id => document.getElementById(id).innerHTML = '');
 
@@ -639,23 +625,15 @@ function renderTodosDoJSON(){
     const secId = secMap[ed.nome] || 'sec-noticias';
     const sec = document.getElementById(secId);
 
-    const fontes = ed.fontes.map(f => {
-      // converte formato JSON para formato interno
-      return {
-        nome: f.nome,
-        items: f.noticias.map(n => ({t:n.titulo, r:n.resumo, l:n.link}))
-      };
-    });
+    const fontes = ed.fontes.map(f => ({
+      nome: f.nome,
+      items: f.noticias.map(n => ({t:n.titulo, r:n.resumo, l:n.link}))
+    }));
 
     fontes.forEach(f => f.items.forEach(i => totalTicker.push(i.t)));
 
     const edObj = {editoria: ed.nome, cor: cfg.cor, bg: cfg.bg, icone: cfg.icone, fontes};
     sec.innerHTML += renderEd(edObj);
-
-    // Atualiza contadores específicos
-    const tot = fontes.reduce((a,f)=>a+f.items.length,0);
-    if(ed.nome==='Entretenimento') document.getElementById('entret-count').textContent=`${tot} notícias`;
-    if(ed.nome==='Curiosidades')   document.getElementById('curio-count').textContent=`${tot} notícias`;
   });
 
   // Atualiza ticker com todas as notícias do JSON
