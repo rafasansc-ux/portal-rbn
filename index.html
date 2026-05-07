@@ -257,7 +257,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
     <input type="text" id="u" placeholder="seu.usuario" autocomplete="off">
     <label for="s">Senha</label>
     <input type="password" id="s" placeholder="••••••••">
-    <button class="btn-login" onclick="login()">Entrar na Redação</button>
+    <button class="btn-login" onclick="fazerLogin()">Entrar na Redação</button>
     <div class="l-erro" id="err"></div>
     <div class="l-hint">Usuário: <strong>rbn</strong> &nbsp;·&nbsp; Senha: <strong>1234</strong></div>
   </div>
@@ -529,7 +529,7 @@ const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 // ═══════════════════════════════════════
 // LOGIN
 // ═══════════════════════════════════════
-function login(){
+function fazerLogin(){
   const u=document.getElementById('u').value.trim();
   const s=document.getElementById('s').value.trim();
   if(u==='rbn'&&s==='1234'){
@@ -553,7 +553,7 @@ function sair(){
   tl.style.display='flex';tl.classList.remove('out');
   document.getElementById('u').value='';document.getElementById('s').value='';
 }
-document.addEventListener('keydown',e=>{if(e.key==='Enter')login()});
+document.addEventListener('keydown',e=>{if(e.key==="Enter")fazerLogin()});
 
 // ═══════════════════════════════════════
 // INIT
