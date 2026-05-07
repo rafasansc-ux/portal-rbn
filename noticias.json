@@ -1,0 +1,374 @@
+{
+  "gerado_em": "2026-05-06T23:16:57.444915",
+  "data": "06/05/2026",
+  "hora": "23h16",
+  "total": 43,
+  "editorias": [
+    {
+      "nome": "Local",
+      "fontes": [
+        {
+          "nome": "OCP News",
+          "noticias": [
+            {
+              "titulo": "Banhista é salvo de afogamento por surfistas em São Francisco do Sul",
+              "resumo": "Um homem de 33 anos foi salvo de um afogamento na tarde desta quarta-feira (6) por um grupo de surfistas […] The post Banhista é salvo de afogamento por surfistas em São Francisco do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/banhista-e-salvo-de-afogamento-por-surfistas-em-sao-francisco-do-sul",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "STF suspende julgamento de recurso para garantir revisão da vida toda",
+              "resumo": "O Supremo Tribunal Federal (STF) suspendeu nesta quarta-feira (6) o julgamento de mais um recurso para garantir o direito à […] The post STF suspende julgamento de recurso para garantir revisão da vida toda appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/stf-suspende-julgamento-de-recurso-para-garantir-revisao-da-vida-toda",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Caropreso comemora convênio de R$ 6,1 milhões para ampliar UTIs no Hospital São José, em Jaraguá do Sul",
+              "resumo": "O processo de autorização para a celebração de convênio entre o Hospital São José de Jaraguá do Sul e o […] The post Caropreso comemora convênio de R$ 6,1 milhões para ampliar UTIs no Hospital São José, em Jaraguá do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/caropreso-comemora-convenio-de-r-61-milhoes-para-ampliar-utis-no-hospital-sao-jose-em-jaragua-do-sul",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Mdic define regras para crédito de R$ 21,2 bi do Move Brasil",
+              "resumo": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) detalhou as regras para acesso aos R$ 21,2 bilhões em crédito […] The post Mdic define regras para crédito de R$ 21,2 bi do Move Brasil appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/economia/mdic-define-regras-para-credito-de-r-212-bi-do-move-brasil",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "SC Jaraguá busca empate com um a menos e conquista primeiro ponto na Série B",
+              "resumo": "Quando pouco se esperava, o Sport Club Jaraguá mostrou poder de reação e conquistou seu primeiro ponto na Série B […] The post SC Jaraguá busca empate com um a menos e conquista primeiro ponto na Série B appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/sc-jaragua-busca-empate-com-um-a-menos-e-conquista-primeiro-ponto-na-serie-b",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        },
+        {
+          "nome": "RBN Portal",
+          "noticias": [
+            {
+              "titulo": "Jaraguá do Sul vai realizar mais uma feira de adoção no próximo sábado",
+              "resumo": "Para os interessados é necessário levar documento com foto e comprovante de residência em nome do tutor A Fundação Jaraguaense de Meio Ambiente (Fujama) promove neste sábado (11) mais uma feira de adoção de pets . O evento ocorre das 9h às 12h, na Praça Ângelo Piazera, no Centro da cidade. Em caso de chuva, a mostra parte coberta, na frente do Espaço Scar. Serão disponibilizados 10 cachorros, de porte pequeno, médio e grande.",
+              "link": "https://portal.rbnfm.com.br/jaragua-do-sul-vai-realizar-mais-uma-feira-de-adocao-no-proximo-sabado/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "DNIT instala barreiras de concreto na BR-280 e interdita passagem em Guaramirim neste domingo",
+              "resumo": "O Departamento Nacional de Infraestrutura de Transportes (DNIT) de Santa Catarina está realizando a implantação de barreiras de concreto do tipo New Jersey no canteiro central do Lote 2.1, nas proximidades do km 46 da BR-280, no trecho próximo ao bairro Corticeira, em Guaramirim. A intervenção faz parte das melhorias voltadas à segurança viária na rodovia, considerada uma das principais ligações da região Norte de Santa Catarina.",
+              "link": "https://portal.rbnfm.com.br/dnit-instala-barreiras-de-concreto-na-br-280-e-interdita-passagem-em-guaramirim-neste-domingo/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Manutenção de pontes reforça segurança e infraestrutura em Jaraguá do Sul",
+              "resumo": "Jaraguá do Sul iniciou um amplo trabalho de conservação das principais pontes do município. A ação contempla tanto estruturas localizadas na área urbana quanto na zona rural, com foco na melhoria das condições de uso e na preservação da infraestrutura. De acordo com o secretário da pasta, Alceu Moretti, mais de 100 estruturas — entre pontes e pontilhões — receberão intervenções como limpeza e pintura.",
+              "link": "https://portal.rbnfm.com.br/manutencao-de-pontes-reforca-seguranca-e-infraestrutura-em-jaragua-do-sul/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Prefeitura inicia substituição de lixeiras na área central de Jaraguá do Sul",
+              "resumo": "A Diretoria de Trânsito e Transporte de Jaraguá do Sul iniciou, nesta segunda-feira (4), a troca do primeiro lote de lixeiras instaladas na região central do município. A ação faz parte de um projeto de modernização do mobiliário urbano e, nesta etapa inicial, prevê a substituição de 500 unidades.",
+              "link": "https://portal.rbnfm.com.br/prefeitura-inicia-substituicao-de-lixeiras-na-area-central-de-jaragua-do-sul/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Passagem em nível será totalmente interditada no bairro Centenário neste domingo em Jaraguá do Sul",
+              "resumo": "A Prefeitura de Jaraguá do Sul informou que a passagem em nível localizada na Rua Fidélis Stinghen, no bairro Centenário, estará totalmente interditada neste domingo (10), das 8h às 20h. A medida foi comunicada pela Diretoria de Trânsito e Transporte, vinculada à Secretaria de Planejamento e Urbanismo.",
+              "link": "https://portal.rbnfm.com.br/passagem-em-nivel-sera-totalmente-interditada-no-bairro-centenario-neste-domingo-em-jaragua-do-sul/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Estado",
+      "fontes": [
+        {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "Primeiras baleias-francas surgem em 2026 em SC e aparição é a mais precoce dos últimos 40 anos",
+              "resumo": "Mãe e filhote são primeiras baleias-francas vistas em SC em 2026 Uma mãe com um filhote foram as primeiras baleias-francas vistas no litoral de Santa Catarina em 2026, informaram os projetos Educamar e Instituto Australis.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/06/primeiras-baleias-francas-surgem-em-2026-aparicao-precoce.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Bebê morto em SC após babá acionar Samu e rir na ligação sofria de desnutrição",
+              "resumo": "Bebê de 2 meses morre em São João Batista após parada cardiorrespiratória O bebê que morreu em após parada cardiorrespiratória em São João Batista (SC) apresentava quadro de desnutrição e peso incompatível com a idade, mas não tinha sinais de maus-tratos e ferimentos, informou a Polícia Civil. O caso aconteceu na terça-feira (5), quando autoridades suspeitaram da cuidadora que riu durante a ligação ao Samu.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/06/bebe-morto-sc-baba-acionar-samu-rir-desnutricao.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Médico, advogada e secretária: quem são os investigados em SC por atestados falsos para soltar presos",
+              "resumo": "Operação mira em esquema de atestados para tirar detentos da prisão em SC A operação do Gaeco contra um esquema de atestados falsos para tirar presos da cadeia em Santa Catarina teve entre os alvos o médico Marcelo Marques Costa. Gastroenterologista, ele reagiu à abordagem da prisão e atirou contra um policial militar ao menos quatro vezes. O agente sobreviveu e está bem.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/06/medico-advogada-secretaria-alvos-operacao-atestados-falsos-presos.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Cão é levado pelos bombeiros para a UPA e passa a noite ao lado de tutora ferida em Balneário Camboriú; VÍDEO",
+              "resumo": "Cão é levado para UPA com tutora para ‘cuidar’ dela em Balneário Camboriú (SC) Uma mulher em surto psicótico e com ferimentos nas mãos foi levada pelos bombeiros a uma Unidade de Pronto Atendimento (UPA) de Balneário Camboriú, no Litoral Norte de Santa Catarina, acompanhada do próprio cachorro. O cão passou a noite de terça (5) para quarta-feira (6) ao lado da tutora. \"Quando o bombeiro foi buscá-la, ela estava abraçada com o cachorro em casa.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/06/cao-levado-bombeiros-upa-passa-noite-lado-tutora-ferida-balneario-camboriu-video.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "VÍDEO: Noiva surpreende convidados ao jogar caixa de Mounjaro em vez de buquê em SC",
+              "resumo": "VÍDEO: Noiva surpreende convidados ao jogar caixa de Mounjaro em vez de buquê em SC Uma noiva de Turvo, no Sul de Santa Catarina, viralizou nas redes sociais após inovar em um dos momentos mais tradicionais de casamentos: em vez de jogar o buquê, ela lançou uma caixa do medicamento Mounjaro (tirzepatida) para as convidadas.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/06/video-noiva-surpreende-convidados-jogar-caixa-mounjaro-vez-buque-sc.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
+          "nome": "ND Mais",
+          "noticias": [
+            {
+              "titulo": "Executado dentro de escola: Justiça aumenta pena de dupla por morte brutal de vigilante em SC",
+              "resumo": "Justiça aceitou parte do recurso do MPSC e ampliou as condenações dos homens envolvidos na morte de vigilante uma escola municipal de Araquari, no Norte catarinense O post Executado dentro de escola: Justiça aumenta pena de dupla por morte brutal de vigilante em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/justica/justica-aumenta-pena-de-dupla-por-morte-de-vigilante-em-sc/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "VÍDEO: Carro é consumido pelo fogo e causa transtornos no trânsito em Florianópolis",
+              "resumo": "Incêndio destruiu veículo e provocou lentidão no trânsito na região de Santo Antônio de Lisboa, em Florianópolis, na noite desta quarta-feira (6) O post VÍDEO: Carro é consumido pelo fogo e causa transtornos no trânsito em Florianópolis apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/video-carro-e-consumido-pelo-fogo-e-causa-transtornos-no-transito-em-florianopolis/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Mulher morre após usar caneta emagrecedora contrabandeada do Paraguai em SC: ‘O pior aconteceu’",
+              "resumo": "Segundo um parente, ela utilizou o medicamento sem acompanhamento médico em Balneário Camboriú O post Mulher morre após usar caneta emagrecedora contrabandeada do Paraguai em SC: ‘O pior aconteceu’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/saude/mulher-morre-apos-usar-caneta-emagrecedora-contrabandeada-do-paraguai-em-sc-o-pior-aconteceu/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Exame médico para renovar CNH volta a ser obrigatório no Brasil; comissão aprova mudança em MP",
+              "resumo": "Parlamentares decidem que segurança viária exige exames de aptidão, mesmo com a simplificação da renovação automática da CNH via aplicativo O post Exame médico para renovar CNH volta a ser obrigatório no Brasil; comissão aprova mudança em MP apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/transito/exame-medico-para-renovar-cnh-volta-a-ser-obrigatorio-no-brasil/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "‘Relógio’ feito no Brasil foi usado pela Nasa na Artemis 2 para monitorar astronautas",
+              "resumo": "Tecnologia criada por startup paulista foi usada na missão Artemis 2 para acompanhar sono, atividade física e bem-estar da tripulação O post ‘Relógio’ feito no Brasil foi usado pela Nasa na Artemis 2 para monitorar astronautas apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/ciencia-e-espaco/relogio-brasileiro-nasa-artemis-2/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Brasil",
+      "fontes": [
+        {
+          "nome": "G1 Brasil",
+          "noticias": [
+            {
+              "titulo": "Morre em Belém Paulo Queiroz, ex-vereador e líder da igreja Quadrangular",
+              "resumo": "Morre ex-vereador de Belém e líder evangélico Paulo Queiroz. Divulgação/redes sociais O ex-vereador de Belém e um dos líderes da Igreja do Evangelho Quadrangular, Paulo Queiroz, morreu aos 73 anos na noite desta quarta-feira (6). Segundo a filha, a vereadora Patrícia Queiroz (PP), o velório será aberto ao público na sede da igreja, localizada na avenida Timbó, 1244, no bairro da Pedreira. O horário ainda será divulgado pela família.",
+              "link": "https://g1.globo.com/pa/para/noticia/2026/05/06/morre-ex-vereador-de-belem-e-lider-evangelico-paulo-queiroz.ghtml",
+              "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Vídeos mostram Ed Motta jogando cadeira e princípio de confusão em restaurante no Rio",
+              "resumo": "Vídeo mostra Ed Motta jogando cadeira e princípio de confusão em restaurante no Rio Vídeos do circuito interno do restaurante Grado, no Jardim Botânico, Zona Sul do Rio, mostram um princípio de confusão envolvendo clientes e funcionários e o momento em que o cantor Ed Motta joga uma cadeira dentro do estabelecimento no último sábado (2). Um dos vídeos obtidos pelo g1 mostra um princípio de confusão, com funcionários tentando apaziguar a situação.",
+              "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/06/videos-mostram-ed-motta-jogando-cadeira-e-principio-de-confusao-em-restaurante-no-rio.ghtml",
+              "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 06 de maio de 2026",
+              "resumo": "Confira os destaques desta edição.",
+              "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-06-de-maio-de-2026.ghtml",
+              "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "VÍDEO: protegida por lei, arara-canindé é encontrada morta com marca de tiro em praça de MG",
+              "resumo": "Arara é encontrada morta em praça de MG com suspeita de tiro Uma arara-canindé foi encontrada morta, na tarde desta quarta-feira (5), na praça da Prefeitura de Centralina, no Triângulo Mineiro. Segundo a Polícia Militar de Meio Ambiente (PMMA), o animal tinha uma marca possivelmente de tiro. 🔎A arara-canindé (Ara ararauna) é uma ave silvestre nativa do Brasil e protegida por lei.",
+              "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/06/video-protegida-por-lei-arara-caninde-e-encontrada-morta-com-marca-de-tiro-em-praca-de-mg.ghtml",
+              "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Resultados das Loterias Caixa",
+              "resumo": "Resultados das Loterias Caixa Veja os números, valores dos prêmios e resultados dos sorteios. O g1 transmite os sorteios das Loterias Caixa aqui nesta página e no canal do g1 no YouTube - saiba mais.. Os sorteios acontecem de segunda a sábado, exceto em feriados - veja aqui os horários.",
+              "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+              "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "G1 Economia",
+          "noticias": [
+            {
+              "titulo": "'Um dos maiores de todos os tempos': Trump lamenta morte do fundador da CNN",
+              "resumo": "Ted Turner, fundador da CNN Internacional, morre aos 87 anos O presidente dos Estados Unidos, Donald Trump, lamentou a morte do fundador da rede de TV CNN, Ted Turner. Turner morreu aos 87 anos nesta quarta-feira (6), segundo informou a emissora. Embora seja um crítico constante da CNN, Trump elogiou o empresário, que chamou de \"um dos maiores de todos os tempos\".",
+              "link": "https://g1.globo.com/mundo/noticia/2026/05/06/um-dos-maiores-de-todos-os-tempos-trump-lamenta-morte-fundador-da-cnn-ted-turner-aos-87-anos.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Nova CNH: aluno agora pode escolher instrutores e autoescolas dentro de aplicativo",
+              "resumo": "Aplicativo da CNH do Brasil Divulgação / Serpro O ministro dos Transportes, George Santoro, anunciou nesta quarta-feira (6) novas funcionalidades da CNH do Brasil. O aplicativo passa a mostrar ao aluno instrutores habilitados e autoescolas, que podem ser filtrados por geolocalização, CEP ou endereço. No aplicativo agora também é possível dar avaliação de zero até cinco estrelas para o instrutor e autoescola.",
+              "link": "https://g1.globo.com/carros/noticia/2026/05/06/nova-cnh-aluno-agora-pode-escolher-instrutores-e-autoescolas-dentro-de-aplicativo.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Morre Ted Turner, fundador da CNN, aos 87 anos",
+              "resumo": "Ted Turner, fundador da CNN Internacional, morre aos 87 anos O empresário norte-americano Ted Turner, fundador da rede de TV CNN e um dos nomes mais poderosos da mídia nos Estados Unidos, morreu nesta quarta-feira (6) aos 87 anos, segundo informou a emissora. ➡️ Turner revolucionou o jornalismo nos Estados Unidos ao fundar, em 1980, a CNN, a primeira rede do mundo dedicada à cobertura de notícias durante 24 horas por dia.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/05/06/morre-fundador-da-cnn-ted-turner.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Operação da PF mira grupo suspeito de fraudar seguro-desemprego; prejuízo estimado é de R$ 8 milhões",
+              "resumo": "PF faz operação contra grupo suspeito de fraudar Seguro-Desemprego Divulgação Uma força-tarefa do Ministério do Trabalho e Emprego (MTE) e da Polícia Federal deflagrou, nesta quarta-feira (6), uma operação contra uma organização criminosa suspeita de fraudar o seguro-desemprego com a criação de empresas fictícias.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/06/operacao-da-pf-suspeito-de-fraudar-seguro-desemprego.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Taxa das blusinhas: ministro da Fazenda admite que fim do imposto está sendo discutido",
+              "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (6) que não abre mão do programa Remessa Conforme, que regularizou e controlou a importação de produtos de baixo valor no país, mas admitiu que o fim da chamada \"taxa das blusinhas\" está em discussão dentro do governo.",
+              "link": "https://g1.globo.com/economia/noticia/2026/05/06/taxa-das-blusinhas-ministro-da-fazenda-diz-que-nao-abre-mao-do-programa-mas-admite-que-fim-do-imposto-esta-sendo-discutido.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "CNN Brasil",
+          "noticias": [
+            {
+              "titulo": "Audax Italiano 1 x 2 Vasco: veja melhores momentos da Copa Sul-Americana",
+              "resumo": "Time carioca conseguiu uma importante vitória de virada no Chile",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/audax-italiano-1-x-2-vasco-veja-melhores-momentos-da-copa-sul-americana/",
+              "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "BB renegocia R$ 3 milhões em dívidas em 1º dia de Novo Desenrola Brasil",
+              "resumo": "Segundo comunicado do banco houve maior interesse dos clientes em renegociar as dívidas nesta semana, após anúncio do programa",
+              "link": "https://www.cnnbrasil.com.br/economia/negocios/bb-renegocia-r-3-milhoes-em-dividas-em-1o-dia-de-novo-desenrola-brasil/",
+              "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Royalties e minerais ampliam debates sobre controle e divisão de recursos",
+              "resumo": "As disputas sobre os assuntos envolvem interesses regionais, pressão do setor produtivo, preocupação com soberania nacional e impactos diretos nas contas públicas, por exemplo",
+              "link": "https://www.cnnbrasil.com.br/politica/royalties-e-minerais-ampliam-debates-sobre-controle-e-divisao-de-recursos/",
+              "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Virginia, Anitta e Kylie Jenner perdem seguidores após limpeza do Instagram",
+              "resumo": "Plataforma removeu milhares de seguidores falsos em nova limpeza contra robôs",
+              "link": "https://www.cnnbrasil.com.br/entretenimento/virginia-anitta-e-kylie-jenner-perdem-seguidores-apos-limpeza-do-instagram/",
+              "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Entenda decisão que impôs pagamento mensal de ex-mulher a Stênio Garcia",
+              "resumo": "Medida provisória considera direito de usufruto e situação do ator enquanto processo segue em análise",
+              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/entenda-decisao-que-impos-pagamento-mensal-de-ex-mulher-a-stenio-garcia/",
+              "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "Agência Brasil",
+          "noticias": [
+            {
+              "titulo": "Delegação europeia confia em aprovação final de acordo com Mercosul",
+              "resumo": "Representantes do Parlamento Europeu foram recebidos nesta quarta-feira (6), no Palácio do Planalto, em Brasília, pelo presidente em exercício, Geraldo Alckmin.",
+              "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/delegacao-europeia-confia-em-aprovacao-final-de-acordo-com-mercosul",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Câmara aprova fundo de até R$ 5 bilhões para minerais críticos",
+              "resumo": "A Câmara dos Deputados aprovou nesta quarta-feira (6), em votação simbólica, o texto base do projeto de Lei (PL) 2780/24, que institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE). O projeto prevê, entre outros pontos, a criação de um comitê ou conselho responsável por definir quais são os minerais críticos e estratégicos do país.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/camara-aprova-fundo-de-ate-r-5-bilhoes-para-minerais-criticos",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Olimpíada escolar antirracista recebe inscrições até a próxima sexta",
+              "resumo": "Terminam na próxima sexta-feira (8) as inscrições para a Olimpíada Brasileira de Africanidades e Povos Originários (Obapo), que visa reconhecer a inserção do letramento étnico-racial em escolas públicas e particulares. Podem participar estudantes que estão desde o 2º ano do ensino fundamental ao 3º ano do ensino médio, As duas primeiras edições da competição, realizadas no ano passado, mobilizaram mais de 33 mil alunos de todo o país.",
+              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/olimpiada-escolar-antirracista-recebe-inscricoes-ate-proxima-sexta",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Esporte",
+      "fontes": [
+        {
+          "nome": "GE",
+          "noticias": [
+            {
+              "titulo": "Alianza Atlético x América de Cali - Copa Sul-Americana 2026 - Ao vivo - globoesporte.com",
+              "resumo": "Copa Sul-Americana 2026 no globoesporte.com - acompanhe tudo sobre Alianza Atlético x América de Cali: escalação, informações sobre o jogo, fotos e muito mais",
+              "link": "https://ge.globo.com/futebol/copa-sul-americana/jogo/06-05-2026/alianza-atletico-america-de-cali.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            },
+            {
+              "titulo": "Sport x ASA - Copa do Nordeste 2026 - Ao vivo - globoesporte.com",
+              "resumo": "Copa do Nordeste 2026 no globoesporte.com - acompanhe tudo sobre Sport x ASA: escalação, informações sobre o jogo, fotos e muito mais",
+              "link": "https://ge.globo.com/futebol/copa-do-nordeste/jogo/06-05-2026/sport-asa-arapiraca.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            },
+            {
+              "titulo": "Joaçaba perde para Tatuí e decisão da Liga Ouro vai ao jogo 3",
+              "resumo": "O Joaçaba foi derrotado pelo Tatuí por 85 a 59 na noite desta quarta-feira, no Ginásio Manoel Soares, pela Liga Ouro de Basquete. O time paulista abriu vantagem, vencendo os dois primeiros quartos por 18 a 13 e 22 a 11. Na sequência, as equipes empataram o terceiro período em 20 a 20, mas o Tatuí voltou a ampliar no último quarto, com parcial de 25 a 15.",
+              "link": "https://ge.globo.com/sc/basquete/noticia/2026/05/06/joacaba-perde-para-tatui-e-decisao-da-liga-ouro-vai-ao-jogo-3.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            },
+            {
+              "titulo": "Macará x Tigre - Copa Sul-Americana 2026 - globoesporte.com",
+              "resumo": "",
+              "link": "https://ge.globo.com/futebol/copa-sul-americana/jogo/06-05-2026/macara-tigre.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            },
+            {
+              "titulo": "Borré desencanta no fim, vira o jogo, e garante título da Recopa ao Inter",
+              "resumo": "Colorado conquista o tricampeonato do torneio e atacante encerra seca de gols",
+              "link": "https://ge.globo.com/rs/futebol/jogo/06-05-2026/brasil-de-pelotas-internacional.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
