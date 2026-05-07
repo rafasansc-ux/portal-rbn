@@ -23,8 +23,8 @@
 body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branco);min-height:100vh;overflow-x:hidden}
 
 /* ── LOGIN ── */
-#login{position:fixed;inset:0;background:var(--azul-bg);display:flex;align-items:center;justify-content:center;z-index:999;transition:opacity .5s,transform .5s}
-#login.out{opacity:0;transform:scale(1.05);pointer-events:none}
+#tela-acesso{position:fixed;inset:0;background:var(--azul-bg);display:flex;align-items:center;justify-content:center;z-index:999;transition:opacity .5s,transform .5s;padding:20px}
+#tela-acesso.out{opacity:0;transform:scale(1.05);pointer-events:none}
 
 .lbox{width:100%;max-width:380px;padding:0 24px;animation:up .6s cubic-bezier(.22,1,.36,1) both}
 @keyframes up{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:translateY(0)}}
@@ -63,7 +63,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
   transition:border-color .2s,box-shadow .2s;margin-bottom:16px
 }
 .lbox input:focus{border-color:var(--azul);box-shadow:0 0 0 3px rgba(21,101,232,.2)}
-.btn-login{
+.btn-entrar{
   width:100%;background:var(--azul);color:#fff;border:none;border-radius:9px;
   padding:14px;font-family:'Barlow Condensed',sans-serif;
   font-size:17px;font-weight:700;letter-spacing:2px;text-transform:uppercase;
@@ -241,7 +241,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
 <body>
 
 <!-- LOGIN -->
-<div id="login">
+<div id="tela-acesso">
   <div class="lbox">
     <div class="login-logo">
       <div class="logo-mark">
@@ -253,11 +253,11 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
       </div>
       <div class="login-sub">Portal da Redação</div>
     </div>
-    <label for="u">Usuário</label>
-    <input type="text" id="u" placeholder="seu.usuario" autocomplete="off">
-    <label for="s">Senha</label>
-    <input type="password" id="s" placeholder="••••••••">
-    <button class="btn-login" onclick="login()">Entrar na Redação</button>
+    <label for="inp-user">Usuário</label>
+    <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off">
+    <label for="inp-pass">Senha</label>
+    <input type="password" id="inp-pass" placeholder="••••••••">
+    <button class="btn-entrar" onclick="fazerLogin()">Entrar na Redação</button>
     <div class="l-erro" id="err"></div>
     <div class="l-hint">Usuário: <strong>rbn</strong> &nbsp;·&nbsp; Senha: <strong>1234</strong></div>
   </div>
@@ -373,6 +373,24 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
 
     <!-- CONFIGURAÇÕES -->
     <section class="sec" id="sec-config">
+      <!-- Tela de senha das configurações -->
+      <div id="config-lock" style="display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:400px;gap:20px">
+        <div style="font-size:48px">🔒</div>
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:24px;font-weight:700;letter-spacing:2px;color:var(--branco)">Área Restrita</div>
+        <div style="font-size:13px;color:var(--cinza)">Digite a senha de administrador para acessar as configurações</div>
+        <div style="display:flex;flex-direction:column;gap:10px;width:100%;max-width:320px">
+          <input id="cfg-senha" type="password" placeholder="Senha de administrador"
+            style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:12px 16px;color:var(--branco);font-family:'Barlow',sans-serif;font-size:14px;outline:none;text-align:center;letter-spacing:4px"
+            onkeydown="if(event.key==='Enter')verificarSenhaConfig()">
+          <button onclick="verificarSenhaConfig()" style="background:var(--azul);color:#fff;border:none;border-radius:8px;padding:12px;font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;letter-spacing:2px;text-transform:uppercase;cursor:pointer">
+            Acessar
+          </button>
+          <div id="cfg-senha-erro" style="color:#F87171;font-size:12px;text-align:center;min-height:16px"></div>
+        </div>
+      </div>
+
+      <!-- Conteúdo real das configurações (oculto até senha correta) -->
+      <div id="config-conteudo" style="display:none">
       <div class="ed-bloco">
         <div class="ed-header">
           <div class="ed-pill" style="background:rgba(248,113,113,.1);color:#F87171">⚙ Configurações de Fontes</div>
@@ -386,9 +404,11 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
           <button class="btn-ac bp" onclick="abrirModalFonte()">+ Adicionar Site</button>
           <button class="btn-ac bs" onclick="exportarFontes()">⬇ Exportar fontes.json</button>
           <button class="btn-ac bs" onclick="copiarFontes()">📋 Copiar JSON</button>
+          <button class="btn-ac bs" onclick="bloquearConfig()" style="margin-left:auto;border-color:rgba(248,113,113,.3);color:#F87171">🔒 Bloquear</button>
           <span id="cfg-msg" style="font-size:12px;color:#34D399;opacity:0;transition:opacity .3s"></span>
         </div>
         <div id="cfg-lista"></div>
+      </div>
       </div>
     </section>
 
@@ -421,6 +441,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
     </div>
   </div>
 </div>
+<script>
 // ═══════════════════════════════════════
 // DADOS — notícias reais do boletim
 // ═══════════════════════════════════════
@@ -529,12 +550,12 @@ const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 // ═══════════════════════════════════════
 // LOGIN
 // ═══════════════════════════════════════
-function login(){
-  const u=document.getElementById('u').value.trim();
-  const s=document.getElementById('s').value.trim();
+function fazerLogin(){
+  const u=document.getElementById('inp-user').value.trim();
+  const s=document.getElementById('inp-pass').value.trim();
   if(u==='rbn'&&s==='1234'){
     document.getElementById('err').textContent='';
-    const tl=document.getElementById('login');
+    const tl=document.getElementById("tela-acesso");
     tl.classList.add('out');
     setTimeout(()=>{
       tl.style.display='none';
@@ -543,17 +564,17 @@ function login(){
     },500);
   }else{
     document.getElementById('err').textContent='Usuário ou senha incorretos.';
-    document.getElementById('s').value='';
-    document.getElementById('s').focus();
+    document.getElementById('inp-pass').value='';
+    document.getElementById('inp-pass').focus();
   }
 }
 function sair(){
   document.getElementById('portal').classList.remove('on');
-  const tl=document.getElementById('login');
+  const tl=document.getElementById("tela-acesso");
   tl.style.display='flex';tl.classList.remove('out');
-  document.getElementById('u').value='';document.getElementById('s').value='';
+  document.getElementById('inp-user').value='';document.getElementById('inp-pass').value='';
 }
-document.addEventListener('keydown',e=>{if(e.key==='Enter')login()});
+document.addEventListener('keydown',e=>{if(e.key==="Enter")fazerLogin()});
 
 // ═══════════════════════════════════════
 // INIT
@@ -579,7 +600,12 @@ function ir(id,btn){
   btn.classList.add('on');
   if(id==='tempo') carregarTempo();
   if(id==='boletim') renderBoletim();
-  if(id==='config') renderConfig();
+  if(id==='config'){
+    document.getElementById('config-lock').style.display='flex';
+    document.getElementById('config-conteudo').style.display='none';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha-erro').textContent='';
+  }
 }
 
 // ═══════════════════════════════════════
@@ -747,7 +773,27 @@ function renderBoletim(){
 // ═══════════════════════════════════════
 // CONFIGURAÇÕES — gerenciador de fontes
 // ═══════════════════════════════════════
-const EDITORIAS_DISPONIVEIS = ['Local','Estado','Brasil','Esporte','Curiosidades','Entretenimento'];
+const SENHA_CONFIG = 'rbn@admin2026'; // ← mude aqui para sua senha
+
+function verificarSenhaConfig(){
+  const s = document.getElementById('cfg-senha').value;
+  if(s === SENHA_CONFIG){
+    document.getElementById('config-lock').style.display='none';
+    document.getElementById('config-conteudo').style.display='block';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha-erro').textContent='';
+    renderConfig();
+  } else {
+    document.getElementById('cfg-senha-erro').textContent='Senha incorreta.';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha').focus();
+  }
+}
+
+function bloquearConfig(){
+  document.getElementById('config-lock').style.display='flex';
+  document.getElementById('config-conteudo').style.display='none';
+}
 const COR_EDITORIA = {
   'Local':'#4D8FFF','Estado':'#FBBF24','Brasil':'#6EE7B7',
   'Esporte':'#34D399','Curiosidades':'#F59E0B','Entretenimento':'#C084FC'
