@@ -63,7 +63,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
   transition:border-color .2s,box-shadow .2s;margin-bottom:16px
 }
 .lbox input:focus{border-color:var(--azul);box-shadow:0 0 0 3px rgba(21,101,232,.2)}
-.btn-login{
+.btn-entrar{
   width:100%;background:var(--azul);color:#fff;border:none;border-radius:9px;
   padding:14px;font-family:'Barlow Condensed',sans-serif;
   font-size:17px;font-weight:700;letter-spacing:2px;text-transform:uppercase;
@@ -241,7 +241,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
 <body>
 
 <!-- LOGIN -->
-<div id="login">
+<div id="tela-acesso">
   <div class="lbox">
     <div class="login-logo">
       <div class="logo-mark">
@@ -253,11 +253,11 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
       </div>
       <div class="login-sub">Portal da Redação</div>
     </div>
-    <label for="u">Usuário</label>
-    <input type="text" id="u" placeholder="seu.usuario" autocomplete="off">
-    <label for="s">Senha</label>
-    <input type="password" id="s" placeholder="••••••••">
-    <button class="btn-login" onclick="fazerLogin()">Entrar na Redação</button>
+    <label for="inp-user">Usuário</label>
+    <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off">
+    <label for="inp-pass">Senha</label>
+    <input type="password" id="inp-pass" placeholder="••••••••">
+    <button class="btn-entrar" onclick="fazerLogin()">Entrar na Redação</button>
     <div class="l-erro" id="err"></div>
     <div class="l-hint">Usuário: <strong>rbn</strong> &nbsp;·&nbsp; Senha: <strong>1234</strong></div>
   </div>
@@ -530,11 +530,11 @@ const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 // LOGIN
 // ═══════════════════════════════════════
 function fazerLogin(){
-  const u=document.getElementById('u').value.trim();
-  const s=document.getElementById('s').value.trim();
+  const u=document.getElementById('inp-user').value.trim();
+  const s=document.getElementById('inp-pass').value.trim();
   if(u==='rbn'&&s==='1234'){
     document.getElementById('err').textContent='';
-    const tl=document.getElementById('login');
+    const tl=document.getElementById("tela-acesso");
     tl.classList.add('out');
     setTimeout(()=>{
       tl.style.display='none';
@@ -543,15 +543,15 @@ function fazerLogin(){
     },500);
   }else{
     document.getElementById('err').textContent='Usuário ou senha incorretos.';
-    document.getElementById('s').value='';
-    document.getElementById('s').focus();
+    document.getElementById('inp-pass').value='';
+    document.getElementById('inp-pass').focus();
   }
 }
 function sair(){
   document.getElementById('portal').classList.remove('on');
-  const tl=document.getElementById('login');
+  const tl=document.getElementById("tela-acesso");
   tl.style.display='flex';tl.classList.remove('out');
-  document.getElementById('u').value='';document.getElementById('s').value='';
+  document.getElementById('inp-user').value='';document.getElementById('inp-pass').value='';
 }
 document.addEventListener('keydown',e=>{if(e.key==="Enter")fazerLogin()});
 
