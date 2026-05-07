@@ -373,6 +373,24 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
 
     <!-- CONFIGURAÇÕES -->
     <section class="sec" id="sec-config">
+      <!-- Tela de senha das configurações -->
+      <div id="config-lock" style="display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:400px;gap:20px">
+        <div style="font-size:48px">🔒</div>
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:24px;font-weight:700;letter-spacing:2px;color:var(--branco)">Área Restrita</div>
+        <div style="font-size:13px;color:var(--cinza)">Digite a senha de administrador para acessar as configurações</div>
+        <div style="display:flex;flex-direction:column;gap:10px;width:100%;max-width:320px">
+          <input id="cfg-senha" type="password" placeholder="Senha de administrador"
+            style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:12px 16px;color:var(--branco);font-family:'Barlow',sans-serif;font-size:14px;outline:none;text-align:center;letter-spacing:4px"
+            onkeydown="if(event.key==='Enter')verificarSenhaConfig()">
+          <button onclick="verificarSenhaConfig()" style="background:var(--azul);color:#fff;border:none;border-radius:8px;padding:12px;font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;letter-spacing:2px;text-transform:uppercase;cursor:pointer">
+            Acessar
+          </button>
+          <div id="cfg-senha-erro" style="color:#F87171;font-size:12px;text-align:center;min-height:16px"></div>
+        </div>
+      </div>
+
+      <!-- Conteúdo real das configurações (oculto até senha correta) -->
+      <div id="config-conteudo" style="display:none">
       <div class="ed-bloco">
         <div class="ed-header">
           <div class="ed-pill" style="background:rgba(248,113,113,.1);color:#F87171">⚙ Configurações de Fontes</div>
@@ -386,9 +404,11 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
           <button class="btn-ac bp" onclick="abrirModalFonte()">+ Adicionar Site</button>
           <button class="btn-ac bs" onclick="exportarFontes()">⬇ Exportar fontes.json</button>
           <button class="btn-ac bs" onclick="copiarFontes()">📋 Copiar JSON</button>
+          <button class="btn-ac bs" onclick="bloquearConfig()" style="margin-left:auto;border-color:rgba(248,113,113,.3);color:#F87171">🔒 Bloquear</button>
           <span id="cfg-msg" style="font-size:12px;color:#34D399;opacity:0;transition:opacity .3s"></span>
         </div>
         <div id="cfg-lista"></div>
+      </div>
       </div>
     </section>
 
@@ -580,7 +600,12 @@ function ir(id,btn){
   btn.classList.add('on');
   if(id==='tempo') carregarTempo();
   if(id==='boletim') renderBoletim();
-  if(id==='config') renderConfig();
+  if(id==='config'){
+    document.getElementById('config-lock').style.display='flex';
+    document.getElementById('config-conteudo').style.display='none';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha-erro').textContent='';
+  }
 }
 
 // ═══════════════════════════════════════
@@ -748,7 +773,27 @@ function renderBoletim(){
 // ═══════════════════════════════════════
 // CONFIGURAÇÕES — gerenciador de fontes
 // ═══════════════════════════════════════
-const EDITORIAS_DISPONIVEIS = ['Local','Estado','Brasil','Esporte','Curiosidades','Entretenimento'];
+const SENHA_CONFIG = 'rbn@admin2026'; // ← mude aqui para sua senha
+
+function verificarSenhaConfig(){
+  const s = document.getElementById('cfg-senha').value;
+  if(s === SENHA_CONFIG){
+    document.getElementById('config-lock').style.display='none';
+    document.getElementById('config-conteudo').style.display='block';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha-erro').textContent='';
+    renderConfig();
+  } else {
+    document.getElementById('cfg-senha-erro').textContent='Senha incorreta.';
+    document.getElementById('cfg-senha').value='';
+    document.getElementById('cfg-senha').focus();
+  }
+}
+
+function bloquearConfig(){
+  document.getElementById('config-lock').style.display='flex';
+  document.getElementById('config-conteudo').style.display='none';
+}
 const COR_EDITORIA = {
   'Local':'#4D8FFF','Estado':'#FBBF24','Brasil':'#6EE7B7',
   'Esporte':'#34D399','Curiosidades':'#F59E0B','Entretenimento':'#C084FC'
