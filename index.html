@@ -340,18 +340,20 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
       <div class="ed-bloco">
         <div class="ed-header">
           <div class="ed-pill" style="background:rgba(245,158,11,.1);color:#F59E0B">💡 Curiosidades</div>
-          <div class="ed-count" id="curio-count">15 itens</div>
+          <div class="ed-count" id="curio-count">carregando...</div>
         </div>
-        <div class="curio-grid" id="curio-grid"></div>
+        <div id="curio-grid"></div>
       </div>
     </section>
 
     <!-- ENTRETENIMENTO -->
     <section class="sec" id="sec-entretenimento">
-      <div class="ph">
-        <div class="ph-icon">🎬</div>
-        <div class="ph-title">Entretenimento</div>
-        <div class="ph-desc">Em breve: fofocas, celebridades, novelas, música e TV — feeds do Quem, Ego e Pure People integrados automaticamente.</div>
+      <div class="ed-bloco">
+        <div class="ed-header">
+          <div class="ed-pill" style="background:rgba(192,132,252,.1);color:#C084FC">🎬 Entretenimento</div>
+          <div class="ed-count" id="entret-count">carregando...</div>
+        </div>
+        <div id="entret-grid"></div>
       </div>
     </section>
 
@@ -577,17 +579,90 @@ function sair(){
 document.addEventListener('keydown',e=>{if(e.key==="Enter")fazerLogin()});
 
 // ═══════════════════════════════════════
-// INIT
+// INIT — carrega do noticias.json se disponível
 // ═══════════════════════════════════════
-function init(){
-  renderNoticias();
-  renderEsporte();
-  renderCuriosidades();
-  renderTicker();
+const COR_MAP = {
+  'Local':          {cor:'#4D8FFF', bg:'rgba(77,143,255,.11)', icone:'📍'},
+  'Estado':         {cor:'#FBBF24', bg:'rgba(251,191,36,.09)', icone:'🏛'},
+  'Brasil':         {cor:'#6EE7B7', bg:'rgba(110,231,183,.07)', icone:'🇧🇷'},
+  'Esporte':        {cor:'#34D399', bg:'rgba(52,211,153,.09)', icone:'⚽'},
+  'Entretenimento': {cor:'#C084FC', bg:'rgba(192,132,252,.09)', icone:'🎬'},
+  'Curiosidades':   {cor:'#F59E0B', bg:'rgba(245,158,11,.09)', icone:'💡'},
+};
+
+let DADOS_JSON = null; // dados do noticias.json
+
+async function init(){
   iniciarRelogio();
-  let tot=0;
-  [...NOTICIAS,...ESPORTE].forEach(e=>e.fontes.forEach(f=>tot+=f.items.length));
-  document.getElementById('tot').textContent=tot;
+  renderNoticias(); // render estático enquanto carrega
+  renderEsporte();
+  renderTicker();
+
+  // Tenta carregar noticias.json do servidor
+  try {
+    const r = await fetch('noticias.json?t='+Date.now());
+    if(r.ok){
+      DADOS_JSON = await r.json();
+      renderTodosDoJSON();
+    }
+  } catch(e) {
+    // usa dados estáticos se não encontrar
+  }
+}
+
+function renderTodosDoJSON(){
+  if(!DADOS_JSON || !DADOS_JSON.editorias) return;
+
+  // Atualiza data/hora do hero
+  if(DADOS_JSON.data) document.querySelector('.hero-sub').textContent =
+    `${DADOS_JSON.data} · ${DADOS_JSON.hora} · Coleta automática ativa`;
+
+  // Contador total
+  document.getElementById('tot').textContent = DADOS_JSON.total || 0;
+
+  // Renderiza cada editoria do JSON
+  const secMap = {
+    'Local':   'sec-noticias', 'Estado': 'sec-noticias',
+    'Brasil':  'sec-noticias', 'Esporte': 'sec-esporte',
+    'Entretenimento': 'sec-entretenimento',
+    'Curiosidades':   'sec-curiosidades',
+  };
+
+  // Limpa seções
+  ['sec-noticias','sec-esporte','sec-entretenimento','sec-curiosidades']
+    .forEach(id => document.getElementById(id).innerHTML = '');
+
+  let totalTicker = [];
+
+  DADOS_JSON.editorias.forEach(ed => {
+    const cfg = COR_MAP[ed.nome] || {cor:'#94C3FF', bg:'rgba(148,195,255,.1)', icone:'📰'};
+    const secId = secMap[ed.nome] || 'sec-noticias';
+    const sec = document.getElementById(secId);
+
+    const fontes = ed.fontes.map(f => {
+      // converte formato JSON para formato interno
+      return {
+        nome: f.nome,
+        items: f.noticias.map(n => ({t:n.titulo, r:n.resumo, l:n.link}))
+      };
+    });
+
+    fontes.forEach(f => f.items.forEach(i => totalTicker.push(i.t)));
+
+    const edObj = {editoria: ed.nome, cor: cfg.cor, bg: cfg.bg, icone: cfg.icone, fontes};
+    sec.innerHTML += renderEd(edObj);
+
+    // Atualiza contadores específicos
+    const tot = fontes.reduce((a,f)=>a+f.items.length,0);
+    if(ed.nome==='Entretenimento') document.getElementById('entret-count').textContent=`${tot} notícias`;
+    if(ed.nome==='Curiosidades')   document.getElementById('curio-count').textContent=`${tot} notícias`;
+  });
+
+  // Atualiza ticker com todas as notícias do JSON
+  if(totalTicker.length > 0){
+    const h = totalTicker.map(t=>`<span class="tk-item">${esc(t)}</span><span class="tk-sep">◆</span>`).join('');
+    document.getElementById('ticker').innerHTML = h+h;
+  }
 }
 
 // ═══════════════════════════════════════
@@ -627,7 +702,7 @@ function renderTicker(){
 }
 
 // ═══════════════════════════════════════
-// RENDER NOTÍCIAS / ESPORTE
+// RENDER NOTÍCIAS / ESPORTE (dados estáticos)
 // ═══════════════════════════════════════
 function renderNoticias(){document.getElementById('sec-noticias').innerHTML=NOTICIAS.map(renderEd).join('')}
 function renderEsporte(){document.getElementById('sec-esporte').innerHTML=ESPORTE.map(renderEd).join('')}
