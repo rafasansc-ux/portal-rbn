@@ -122,8 +122,8 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
 }
 .hero::before{content:'';position:absolute;top:-80px;right:-60px;width:380px;height:380px;background:radial-gradient(circle,rgba(21,101,232,.16) 0%,transparent 65%);border-radius:50%;pointer-events:none}
 .hero-in{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:24px;position:relative;z-index:1}
-.ao-vivo{display:inline-flex;align-items:center;gap:7px;background:rgba(21,101,232,.18);border:1px solid rgba(21,101,232,.4);border-radius:20px;padding:4px 12px;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#7AADFF;margin-bottom:12px}
-.dot{width:6px;height:6px;background:#4D8FFF;border-radius:50%;animation:blink 1.4s infinite}
+.ao-vivo{display:inline-flex;align-items:center;gap:7px;background:rgba(232,25,44,.15);border:1px solid rgba(232,25,44,.4);border-radius:20px;padding:4px 12px;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#FF6B7A;margin-bottom:12px}
+.dot{width:6px;height:6px;background:#E8192C;border-radius:50%;animation:blink 1.4s infinite}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
 .hero h1{font-family:'Montserrat',sans-serif;font-weight:900;font-size:40px;letter-spacing:-1px;line-height:1.05;text-transform:uppercase;margin-bottom:7px}
 .hero h1 em{color:#7AADFF;font-style:normal}
@@ -254,9 +254,9 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
       <div class="login-sub">Portal da Redação</div>
     </div>
     <label for="inp-user">Usuário</label>
-    <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off">
+    <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
     <label for="inp-pass">Senha</label>
-    <input type="password" id="inp-pass" placeholder="••••••••">
+    <input type="password" id="inp-pass" placeholder="••••••••" autocomplete="off">
     <button class="btn-entrar" onclick="fazerLogin()">Entrar na Redação</button>
     <div class="l-erro" id="err"></div>
     <div class="l-hint">Usuário: <strong>rbn</strong> &nbsp;·&nbsp; Senha: <strong>1234</strong></div>
@@ -541,7 +541,7 @@ const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 // LOGIN
 // ═══════════════════════════════════════
 function fazerLogin(){
-  const u=document.getElementById('inp-user').value.trim();
+  const u=document.getElementById('inp-user').value.trim().toLowerCase();
   const s=document.getElementById('inp-pass').value.trim();
   if(u==='rbn'&&s==='1234'){
     document.getElementById('err').textContent='';
