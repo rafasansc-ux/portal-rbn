@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RBN 94,3 — Portal da Redação</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --azul:       #1565E8;
+  --azul-bg:    #0A1220;
+  --azul-painel:#0D1A30;
+  --azul-card:  #101F38;
+  --azul-borda: #1A3260;
+  --azul-hover: #162A50;
+  --branco:     #EEF3FF;
+  --cinza:      #6A85B0;
+  --sutil:      #2A4070;
+}
+
+body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branco);min-height:100vh;overflow-x:hidden}
+
+/* ── LOGIN ── */
+#login{position:fixed;inset:0;background:var(--azul-bg);display:flex;align-items:center;justify-content:center;z-index:999;transition:opacity .5s,transform .5s}
+#login.out{opacity:0;transform:scale(1.05);pointer-events:none}
+
+.lbox{width:100%;max-width:380px;padding:0 24px;animation:up .6s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:translateY(0)}}
+
+/* Logo fiel à imagem */
+.login-logo{display:flex;flex-direction:column;align-items:center;margin-bottom:48px;gap:14px}
+
+.logo-mark{
+  width:96px;height:96px;border-radius:20px;
+  background:#1565E8;
+  display:flex;align-items:center;justify-content:center;
+  box-shadow:0 0 70px rgba(21,101,232,.5);
+  position:relative;
+}
+
+.logo-wordmark{
+  display:flex;flex-direction:column;align-items:flex-start;line-height:1;
+}
+.logo-rbn{
+  font-family:'Barlow Condensed',sans-serif;
+  font-weight:900;font-size:15px;letter-spacing:1.5px;
+  color:rgba(255,255,255,.55);text-transform:uppercase;
+  margin-bottom:2px;
+}
+.logo-freq{
+  font-family:'Barlow Condensed',sans-serif;
+  font-weight:400;font-size:12px;letter-spacing:1px;color:rgba(255,255,255,.4);
+}
+.login-sub{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--cinza);margin-top:4px}
+
+.lbox label{display:block;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--cinza);margin-bottom:7px}
+.lbox input{
+  width:100%;background:var(--azul-painel);border:1px solid var(--azul-borda);
+  border-radius:9px;padding:13px 16px;color:var(--branco);
+  font-family:'Barlow',sans-serif;font-size:15px;outline:none;
+  transition:border-color .2s,box-shadow .2s;margin-bottom:16px
+}
+.lbox input:focus{border-color:var(--azul);box-shadow:0 0 0 3px rgba(21,101,232,.2)}
+.btn-login{
+  width:100%;background:var(--azul);color:#fff;border:none;border-radius:9px;
+  padding:14px;font-family:'Barlow Condensed',sans-serif;
+  font-size:17px;font-weight:700;letter-spacing:2px;text-transform:uppercase;
+  cursor:pointer;transition:all .2s;box-shadow:0 4px 24px rgba(21,101,232,.45)
+}
+.btn-login:hover{background:#1A75FF;box-shadow:0 6px 32px rgba(21,101,232,.6)}
+.btn-login:active{transform:scale(.98)}
+.l-erro{color:#FF7070;font-size:13px;text-align:center;margin-top:10px;min-height:18px}
+.l-hint{text-align:center;font-size:12px;color:var(--sutil);margin-top:24px}
+
+/* ── PORTAL ── */
+#portal{display:none;min-height:100vh;flex-direction:column}
+#portal.on{display:flex}
+
+/* TOPBAR */
+.topbar{
+  position:sticky;top:0;z-index:200;
+  background:rgba(10,18,32,.95);backdrop-filter:blur(16px);
+  border-bottom:1px solid var(--azul-borda);
+  display:flex;align-items:center;padding:0 28px;height:58px;gap:0;
+}
+
+/* Logo no topbar — versão pequena fiel */
+.tb-logo{display:flex;align-items:center;gap:10px;margin-right:28px;flex-shrink:0;text-decoration:none}
+.tb-mark{
+  width:32px;height:32px;border-radius:7px;
+  background:#1565E8;
+  display:flex;align-items:center;justify-content:center;flex-shrink:0;
+}
+.tb-text{display:flex;flex-direction:column;line-height:1}
+.tb-rbn{font-family:'Barlow Condensed',sans-serif;font-weight:900;font-size:19px;letter-spacing:.5px;color:var(--branco)}
+.tb-freq{font-size:9px;letter-spacing:1.5px;color:var(--cinza)}
+
+.tb-nav{display:flex;gap:2px;flex:1;overflow-x:auto;scrollbar-width:none}
+.tb-nav::-webkit-scrollbar{display:none}
+.nb{
+  background:none;border:none;color:var(--cinza);
+  font-family:'Barlow',sans-serif;font-size:14px;font-weight:500;
+  padding:7px 16px;border-radius:7px;cursor:pointer;white-space:nowrap;
+  transition:all .15s;display:flex;align-items:center;gap:7px
+}
+.nb:hover{color:var(--branco);background:var(--azul-hover)}
+.nb.on{color:var(--branco);background:var(--azul-card);border:1px solid var(--azul-borda)}
+.pip{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+
+.tb-right{display:flex;align-items:center;gap:12px;margin-left:auto;flex-shrink:0}
+.tb-hora{font-family:'Barlow Condensed',sans-serif;font-size:15px;letter-spacing:1px;color:var(--cinza);font-variant-numeric:tabular-nums}
+.btn-sair{background:none;border:1px solid var(--azul-borda);color:var(--cinza);font-size:12px;padding:5px 12px;border-radius:6px;cursor:pointer;font-family:'Barlow',sans-serif;transition:all .15s}
+.btn-sair:hover{border-color:var(--azul);color:var(--branco)}
+
+/* HERO */
+.hero{
+  background:linear-gradient(135deg,var(--azul-painel) 0%,#080F1E 60%,var(--azul-bg) 100%);
+  border-bottom:1px solid var(--azul-borda);
+  padding:32px 32px 28px;position:relative;overflow:hidden;
+}
+.hero::before{content:'';position:absolute;top:-80px;right:-60px;width:380px;height:380px;background:radial-gradient(circle,rgba(21,101,232,.16) 0%,transparent 65%);border-radius:50%;pointer-events:none}
+.hero-in{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:24px;position:relative;z-index:1}
+.ao-vivo{display:inline-flex;align-items:center;gap:7px;background:rgba(21,101,232,.18);border:1px solid rgba(21,101,232,.4);border-radius:20px;padding:4px 12px;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:#7AADFF;margin-bottom:12px}
+.dot{width:6px;height:6px;background:#4D8FFF;border-radius:50%;animation:blink 1.4s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+.hero h1{font-family:'Barlow Condensed',sans-serif;font-weight:900;font-size:40px;letter-spacing:-1px;line-height:1.05;text-transform:uppercase;margin-bottom:7px}
+.hero h1 em{color:#7AADFF;font-style:normal}
+.hero-sub{font-size:13px;color:var(--cinza)}
+.stats{display:flex;gap:32px;flex-shrink:0}
+.stat-n{font-family:'Barlow Condensed',sans-serif;font-size:38px;font-weight:800;letter-spacing:-1px;color:var(--branco);line-height:1}
+.stat-n em{color:#7AADFF;font-size:22px;font-style:normal}
+.stat-l{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-top:3px}
+
+/* TICKER */
+.ticker{background:#1565E8;padding:8px 28px;display:flex;align-items:center;gap:14px;overflow:hidden}
+.tk-label{font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:rgba(255,255,255,.6);flex-shrink:0}
+.tk-track{flex:1;overflow:hidden}
+.tk-inner{display:flex;gap:48px;animation:scroll 50s linear infinite;white-space:nowrap}
+@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tk-item{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:600;color:#fff;flex-shrink:0}
+.tk-sep{color:rgba(255,255,255,.35);margin:0 4px}
+
+/* CONTEÚDO */
+.content{max-width:1400px;margin:0 auto;padding:32px;flex:1}
+.sec{display:none;animation:si .3s ease both}
+.sec.on{display:block}
+@keyframes si{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+/* EDITORIA */
+.ed-bloco{margin-bottom:52px}
+.ed-header{display:flex;align-items:center;gap:12px;margin-bottom:24px;padding-bottom:14px;border-bottom:1px solid var(--azul-borda)}
+.ed-pill{display:inline-flex;align-items:center;gap:8px;border-radius:7px;padding:7px 14px;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+.ed-count{margin-left:auto;font-size:11px;color:var(--cinza);background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:20px;padding:4px 12px;font-family:'Barlow Condensed',sans-serif;letter-spacing:1px}
+
+/* FONTE */
+.fonte-bloco{margin-bottom:36px}
+.fonte-label{font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--sutil);margin-bottom:14px;padding-left:10px;border-left:2px solid var(--azul-borda)}
+
+/* GRID */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+
+/* CARD */
+.card{background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:12px;padding:20px;position:relative;overflow:hidden;transition:border-color .2s,transform .2s,box-shadow .2s}
+.card:hover{border-color:var(--cor,var(--azul));transform:translateY(-3px);box-shadow:0 10px 28px rgba(0,0,0,.35)}
+.card::after{content:'';position:absolute;top:0;left:0;width:0;height:3px;background:var(--cor,var(--azul));transition:width .3s;border-radius:12px 12px 0 0}
+.card:hover::after{width:100%}
+.c-idx{font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:700;letter-spacing:2px;color:var(--cor,var(--azul));opacity:.6;margin-bottom:9px}
+.c-titulo{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:18px;line-height:1.35;color:var(--branco);margin-bottom:10px}
+.c-resumo{font-size:13px;line-height:1.72;color:var(--cinza);margin-bottom:16px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.c-footer{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--azul-borda);padding-top:12px}
+.c-link{font-size:12px;font-weight:600;letter-spacing:.4px;color:var(--cor,var(--azul));text-decoration:none;transition:opacity .15s}
+.c-link:hover{opacity:.7}
+.c-fonte{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--sutil)}
+
+/* DESTAQUE */
+.card.dest{grid-column:1/-1;display:grid;grid-template-columns:1fr 240px;padding:0;overflow:hidden;gap:0}
+.dest-body{padding:26px 30px;display:flex;flex-direction:column}
+.dest-side{background:linear-gradient(135deg,var(--azul-hover),var(--sutil));display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;padding:24px;border-left:1px solid var(--azul-borda)}
+.dest-num{font-family:'Barlow Condensed',sans-serif;font-size:72px;font-weight:900;line-height:1;color:var(--cor,var(--azul));opacity:.12}
+.dest-tag{font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--cor,var(--azul));opacity:.5}
+.card.dest .c-titulo{font-size:23px}
+.card.dest .c-resumo{-webkit-line-clamp:4}
+@media(max-width:600px){.card.dest{grid-template-columns:1fr}.dest-side{display:none}}
+
+/* PLACEHOLDER */
+.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:360px;gap:12px;color:var(--cinza);text-align:center}
+.ph-icon{font-size:52px;opacity:.2;margin-bottom:6px}
+.ph-title{font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:var(--branco);opacity:.35}
+.ph-desc{font-size:14px;max-width:360px;line-height:1.7;opacity:.55}
+
+/* ── PREVISÃO DO TEMPO ── */
+.tempo-grid{display:grid;grid-template-columns:1fr;gap:14px;margin-bottom:32px;max-width:900px}
+.cidade-card{background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:16px;padding:32px;position:relative;overflow:hidden;transition:border-color .2s}
+.cidade-card:hover{border-color:#38BDF8}
+.cidade-card::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(56,189,248,.06) 0%,transparent 60%);pointer-events:none}
+.cidade-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:24px}
+.cidade-nome{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:22px;letter-spacing:3px;text-transform:uppercase;color:var(--cinza);margin-bottom:12px}
+.cidade-temp{font-family:'Barlow Condensed',sans-serif;font-weight:900;font-size:80px;letter-spacing:-3px;line-height:1;color:var(--branco)}
+.cidade-temp span{font-size:36px;font-weight:400;color:var(--cinza)}
+.cidade-desc{font-size:16px;color:var(--cinza);margin-top:8px;margin-bottom:20px}
+.cidade-extras{display:flex;gap:20px;flex-wrap:wrap}
+.cidade-extra{font-size:13px;color:var(--sutil);display:flex;align-items:center;gap:6px}
+.cidade-icone-grande{font-size:72px;opacity:.25;line-height:1}
+.previsao-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:28px;padding-top:24px;border-top:1px solid var(--azul-borda)}
+.prev-dia{background:var(--azul-hover);border:1px solid var(--azul-borda);border-radius:10px;padding:16px;text-align:center}
+.prev-dia .pd-dia{font-family:'Barlow Condensed',sans-serif;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:8px}
+.prev-dia .pd-ico{font-size:28px;margin-bottom:8px}
+.prev-dia .pd-desc{font-size:11px;color:var(--sutil);margin-bottom:8px;line-height:1.4;min-height:28px}
+.prev-dia .pd-temps{display:flex;justify-content:center;align-items:baseline;gap:8px}
+.prev-dia .pd-max{font-family:'Barlow Condensed',sans-serif;font-size:24px;font-weight:700;color:var(--branco)}
+.prev-dia .pd-min{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:400;color:var(--cinza)}
+
+/* ── CURIOSIDADES ── */
+.curio-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.curio-card{background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:12px;padding:20px;transition:border-color .2s,transform .2s;cursor:default}
+.curio-card:hover{border-color:#F59E0B;transform:translateY(-3px)}
+.curio-tag{display:inline-block;background:rgba(245,158,11,.12);border:1px solid rgba(245,158,11,.25);color:#F59E0B;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;border-radius:4px;padding:3px 8px;margin-bottom:12px}
+.curio-titulo{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:19px;line-height:1.35;color:var(--branco);margin-bottom:10px}
+.curio-texto{font-size:13px;line-height:1.72;color:var(--cinza);display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+
+/* BOLETIM */
+.bol-actions{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:28px}
+.btn-ac{display:inline-flex;align-items:center;gap:7px;padding:10px 20px;border-radius:8px;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;transition:all .15s;border:none}
+.bp{background:var(--azul);color:#fff;box-shadow:0 4px 16px rgba(21,101,232,.35)}
+.bp:hover{background:#1A75FF}
+.bs{background:var(--azul-card);color:var(--cinza);border:1px solid var(--azul-borda)}
+.bs:hover{border-color:var(--azul);color:var(--branco)}
+
+@media(max-width:768px){
+  .topbar{padding:0 16px}
+  .content{padding:20px 16px}
+  .hero{padding:24px 16px}
+  .hero h1{font-size:30px}
+  .stats{display:none}
+  .tb-hora{display:none}
+}
+</style>
+</head>
+<body>
+
+<!-- LOGIN -->
+<div id="login">
+  <div class="lbox">
+    <div class="login-logo">
+      <div class="logo-mark">
+        <img src="LOGO_RBN-03.png" alt="RBN 94,3" style="width:64px;height:auto;display:block;filter:brightness(0) invert(1)">
+      </div>
+      <div style="text-align:center">
+        <div style="font-family:'Barlow Condensed',sans-serif;font-weight:900;font-size:38px;letter-spacing:2px;color:#EEF3FF;line-height:1">rbn</div>
+        <div style="font-family:'Barlow Condensed',sans-serif;font-weight:400;font-size:16px;letter-spacing:3px;color:rgba(255,255,255,.45)">94,3</div>
+      </div>
+      <div class="login-sub">Portal da Redação</div>
+    </div>
+    <label for="u">Usuário</label>
+    <input type="text" id="u" placeholder="seu.usuario" autocomplete="off">
+    <label for="s">Senha</label>
+    <input type="password" id="s" placeholder="••••••••">
+    <button class="btn-login" onclick="login()">Entrar na Redação</button>
+    <div class="l-erro" id="err"></div>
+    <div class="l-hint">Usuário: <strong>rbn</strong> &nbsp;·&nbsp; Senha: <strong>1234</strong></div>
+  </div>
+</div>
+
+<!-- PORTAL -->
+<div id="portal">
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <div class="tb-logo">
+      <div class="tb-mark">
+        <img src="LOGO_RBN-03.png" alt="RBN" style="width:20px;height:auto;display:block;filter:brightness(0) invert(1)">
+      </div>
+      <div class="tb-text">
+        <div class="tb-rbn">rbn</div>
+        <div class="tb-freq">94,3 FM</div>
+      </div>
+    </div>
+
+    <nav class="tb-nav">
+      <button class="nb on" onclick="ir('noticias',this)"><span class="pip" style="background:#4D8FFF"></span>Notícias</button>
+      <button class="nb" onclick="ir('esporte',this)"><span class="pip" style="background:#34D399"></span>Esporte</button>
+      <button class="nb" onclick="ir('tempo',this)"><span class="pip" style="background:#38BDF8"></span>Tempo</button>
+      <button class="nb" onclick="ir('curiosidades',this)"><span class="pip" style="background:#F59E0B"></span>Curiosidades</button>
+      <button class="nb" onclick="ir('entretenimento',this)"><span class="pip" style="background:#C084FC"></span>Entretenimento</button>
+      <button class="nb" onclick="ir('boletim',this)"><span class="pip" style="background:#94C3FF"></span>Boletim</button>
+      <button class="nb" onclick="ir('config',this)"><span class="pip" style="background:#F87171"></span>⚙ Configurações</button>
+    </nav>
+
+    <div class="tb-right">
+      <span class="tb-hora" id="relogio">--:--:--</span>
+      <button class="btn-sair" onclick="sair()">Sair</button>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-in">
+      <div>
+        <div class="ao-vivo"><span class="dot"></span>Redação ao vivo</div>
+        <h1>Portal da<br><em>Redação RBN</em></h1>
+        <p class="hero-sub">28/04/2026 &nbsp;·&nbsp; 16h00 &nbsp;·&nbsp; Coleta automática ativa</p>
+      </div>
+      <div class="stats">
+        <div><div class="stat-n" id="tot">0</div><div class="stat-l">Notícias hoje</div></div>
+        <div><div class="stat-n">7</div><div class="stat-l">Fontes ativas</div></div>
+        <div><div class="stat-n">6<em>×</em></div><div class="stat-l">Coletas/dia</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TICKER -->
+  <div class="ticker">
+    <div class="tk-label">Ao vivo</div>
+    <div class="tk-track"><div class="tk-inner" id="ticker"></div></div>
+  </div>
+
+  <!-- CONTEÚDO -->
+  <div class="content">
+
+    <section class="sec on" id="sec-noticias"></section>
+    <section class="sec" id="sec-esporte"></section>
+
+    <!-- TEMPO -->
+    <section class="sec" id="sec-tempo">
+      <div class="ed-bloco">
+        <div class="ed-header">
+          <div class="ed-pill" style="background:rgba(56,189,248,.1);color:#38BDF8">🌤 Previsão do Tempo</div>
+          <div class="ed-count" id="tempo-status">Carregando...</div>
+        </div>
+        <div class="tempo-grid" id="tempo-cards">
+          <div class="tempo-loading"><div class="spinner"></div>Buscando previsão...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CURIOSIDADES -->
+    <section class="sec" id="sec-curiosidades">
+      <div class="ed-bloco">
+        <div class="ed-header">
+          <div class="ed-pill" style="background:rgba(245,158,11,.1);color:#F59E0B">💡 Curiosidades</div>
+          <div class="ed-count" id="curio-count">15 itens</div>
+        </div>
+        <div class="curio-grid" id="curio-grid"></div>
+      </div>
+    </section>
+
+    <!-- ENTRETENIMENTO -->
+    <section class="sec" id="sec-entretenimento">
+      <div class="ph">
+        <div class="ph-icon">🎬</div>
+        <div class="ph-title">Entretenimento</div>
+        <div class="ph-desc">Em breve: fofocas, celebridades, novelas, música e TV — feeds do Quem, Ego e Pure People integrados automaticamente.</div>
+      </div>
+    </section>
+
+    <!-- BOLETIM -->
+    <section class="sec" id="sec-boletim">
+      <div class="ed-bloco">
+        <div class="ed-header">
+          <div class="ed-pill" style="background:rgba(148,195,255,.1);color:#94C3FF">📋 Gerar Boletim</div>
+        </div>
+        <div class="bol-actions">
+          <button class="btn-ac bp">⬇ Baixar .HTML</button>
+          <button class="btn-ac bp">⬇ Baixar .TXT</button>
+          <button class="btn-ac bs">🔄 Nova Coleta</button>
+          <button class="btn-ac bs">⚙ Configurar Fontes</button>
+        </div>
+        <div id="bol-prev"></div>
+      </div>
+    </section>
+
+    <!-- CONFIGURAÇÕES -->
+    <section class="sec" id="sec-config">
+      <div class="ed-bloco">
+        <div class="ed-header">
+          <div class="ed-pill" style="background:rgba(248,113,113,.1);color:#F87171">⚙ Configurações de Fontes</div>
+          <div class="ed-count" id="config-count">-- fontes</div>
+        </div>
+        <div style="background:rgba(251,191,36,.08);border:1px solid rgba(251,191,36,.25);border-radius:10px;padding:16px 20px;margin-bottom:24px;font-size:13px;line-height:1.7;color:#FBBF24">
+          <b>Como funciona:</b> Aqui você gerencia quais sites o coletor vai buscar notícias.<br>
+          Para salvar: clique em <b>Exportar fontes.json</b>, baixe o arquivo e substitua em <code style="background:rgba(255,255,255,.08);padding:2px 6px;border-radius:4px">C:/redacao_automatica/fontes.json</code>. Na próxima coleta, as mudanças entram em vigor.
+        </div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px;align-items:center">
+          <button class="btn-ac bp" onclick="abrirModalFonte()">+ Adicionar Site</button>
+          <button class="btn-ac bs" onclick="exportarFontes()">⬇ Exportar fontes.json</button>
+          <button class="btn-ac bs" onclick="copiarFontes()">📋 Copiar JSON</button>
+          <span id="cfg-msg" style="font-size:12px;color:#34D399;opacity:0;transition:opacity .3s"></span>
+        </div>
+        <div id="cfg-lista"></div>
+      </div>
+    </section>
+
+  </div>
+</div>
+
+<!-- MODAL ADICIONAR/EDITAR FONTE -->
+<div id="modal-fonte" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:500;align-items:center;justify-content:center;padding:20px">
+  <div style="background:var(--azul-painel);border:1px solid var(--azul-borda);border-radius:16px;padding:32px;width:100%;max-width:460px">
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:700;margin-bottom:24px" id="modal-titulo">Adicionar Site</div>
+    <div style="margin-bottom:16px">
+      <label style="display:block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:7px">Nome do site</label>
+      <input id="f-nome" type="text" placeholder="ex: NSC Total" style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:12px 14px;color:var(--branco);font-family:'Barlow',sans-serif;font-size:14px;outline:none">
+    </div>
+    <div style="margin-bottom:16px">
+      <label style="display:block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:7px">Editoria</label>
+      <select id="f-editoria" style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:12px 14px;color:var(--branco);font-family:'Barlow',sans-serif;font-size:14px;outline:none">
+        <option>Local</option><option>Estado</option><option>Brasil</option>
+        <option>Esporte</option><option>Curiosidades</option><option>Entretenimento</option>
+      </select>
+    </div>
+    <div style="margin-bottom:24px">
+      <label style="display:block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:7px">URL do RSS</label>
+      <input id="f-rss" type="url" placeholder="https://site.com.br/feed/" style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:12px 14px;color:var(--branco);font-family:'Barlow',sans-serif;font-size:14px;outline:none">
+      <div style="font-size:11px;color:var(--sutil);margin-top:6px">💡 Tente adicionar <b>/feed/</b> ou <b>/rss/</b> ao final do endereço do site</div>
+    </div>
+    <div style="display:flex;gap:10px;justify-content:flex-end">
+      <button class="btn-ac bs" onclick="fecharModal()">Cancelar</button>
+      <button class="btn-ac bp" onclick="salvarFonte()">Salvar</button>
+    </div>
+  </div>
+</div>
+// ═══════════════════════════════════════
+// DADOS — notícias reais do boletim
+// ═══════════════════════════════════════
+const NOTICIAS = [
+  {
+    editoria:'Local', cor:'#4D8FFF', bg:'rgba(77,143,255,.11)', icone:'📍',
+    fontes:[{
+      nome:'OCP News',
+      items:[
+        {t:'14º BPM receberá 44 policiais temporários para reforçar efetivo em Jaraguá do Sul e região',r:'O comandante-geral da PM de SC, coronel Emerson Fernandes, anunciou o reforço durante visita a Jaraguá do Sul.',l:'https://ocp.news/cotidiano/14o-bpm-recebera-44-policiais-temporarios-para-reforcar-efetivo-em-jaragua-do-sul-e-regiao'},
+        {t:'OAB/SC apresenta proposta de reforma do Supremo Tribunal Federal',r:'A OAB/SC concluiu estudo técnico-jurídico com diretrizes para uma proposta de reforma no STF.',l:'https://ocp.news/politica/oab-sc-apresenta-proposta-de-reforma-do-supremo-tribunal-federal'},
+        {t:'Eleições 2026: prazo para regularizar pendências termina em uma semana',r:'Os eleitores têm até o dia 6 de maio para regularizar pendências e garantir o direito de votar em outubro.',l:'https://ocp.news/politica/eleicoes-2026-prazo-para-regularizar-pendencias-termina-em-uma-semana'},
+        {t:'Prefeitura de Jaraguá do Sul manterá serviços essenciais no feriado do Dia do Trabalhador',r:'Não haverá expediente nos equipamentos municipais no feriado de 1º de maio.',l:'https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-mantera-servicos-essenciais-no-feriado-do-dia-do-trabalhador'},
+        {t:'Chiodini reprova encontro com governador e manda carta aos filiados do MDB',r:'O presidente do MDB/SC respondeu de forma firme ao encontro realizado com o governador.',l:'https://ocp.news/politica/chiodini-reprova-encontro-com-governador-e-manda-carta-aos-filiados-do-mdb'}
+      ]
+    }]
+  },
+  {
+    editoria:'Estado', cor:'#FBBF24', bg:'rgba(251,191,36,.09)', icone:'🏛',
+    fontes:[
+      {nome:'ND Mais',items:[
+        {t:'Mais de 10,2 milhões de vazamentos de dados do Pix desde 2021, aponta BC',r:'Ao menos 23 incidentes envolvendo chaves e informações sensíveis foram registrados, segundo o Banco Central.',l:'https://ndmais.com.br/economia/vazamento-de-dados-do-pix-expoe-milhoes-de-chaves-desde-2021/'},
+        {t:'Ferrovia de SC pode ter contrato renovado por 30 anos com R$ 131 mi em investimentos',r:'O processo de prorrogação da Ferrovia Tereza Cristina avança após audiência pública.',l:'https://ndmais.com.br/infraestrutura/ferrovia-de-sc-pode-ter-contrato-renovado-30-anos/'},
+        {t:'Jovem de 20 anos morre eletrocutado em Barra Bonita',r:'Tragédia ocorreu na tarde de segunda-feira no Oeste de Santa Catarina.',l:'https://ndmais.com.br/video/jovem-de-20-anos-morre-eletrocutado-em-barra-bonita/'},
+        {t:'Brasileiro é procurado por feminicídio de jovem no Paraguai',r:'O caso ganha novos desdobramentos com a fuga do suspeito Vitor Rangel Aguiar.',l:'https://ndmais.com.br/video/brasileiro-e-procurado-por-feminicidio-de-jovem-no-paraguai/'},
+        {t:'Itajaí recebe Festival de Dança nos dias 28 a 30 de abril',r:'O festival reúne grupos de dança de todo o estado no município de Itajaí.',l:'https://ndmais.com.br/video/itajai-recebe-festival-de-danca-entre-os-dias-28-e-30-de-abril/'}
+      ]},
+      {nome:'G1 SC',items:[
+        {t:'Cliente aplica golpe para comer sushi de graça e é condenado em SC',r:'A Justiça de SC manteve condenação de homem que aplicou golpes em restaurante delivery ao menos três vezes.',l:'https://g1.globo.com/sc/santa-catarina/noticia/2026/04/28/cliente-aplica-golpe-comer-sushi-graca-condenado-sc-diz-tj.ghtml'},
+        {t:'Desaparecimento foi voluntário, diz polícia sobre mulher que sumiu após entrar em carro de app',r:'A Polícia Civil classificou o sumiço de Karyn Lima, 24 anos, como voluntário. Ela foi encontrada após 8 dias.',l:'https://g1.globo.com/sc/santa-catarina/noticia/2026/04/28/desaparecimento-foi-voluntario-diz-policia-sobre-mulher-sumiu-apos-entrar-carro-aplicativo-sc.ghtml'},
+        {t:'Casa do Empreendedor de Florianópolis conquista Selo Sebrae Ouro inédito',r:'Florianópolis recebe pela primeira vez o Selo Sebrae de Referência em Atendimento na categoria Ouro.',l:'https://g1.globo.com/sc/santa-catarina/noticia/2026/04/28/casa-do-empreendedor-conquista-selo-sebrae-ouro-inedito.ghtml'},
+        {t:'MP do Paraguai denuncia ex-namorado por feminicídio contra brasileira estudante de medicina',r:'O MP paraguaio denunciou Vitor Rangel Aguiar pelo assassinato da estudante Julia Vitoria, 22 anos.',l:'https://g1.globo.com/sc/santa-catarina/noticia/2026/04/28/mp-paraguai-denuncia-feminicidio-brasileira-estudante-medicina.ghtml'}
+      ]}
+    ]
+  },
+  {
+    editoria:'Brasil', cor:'#6EE7B7', bg:'rgba(110,231,183,.07)', icone:'🇧🇷',
+    fontes:[
+      {nome:'G1 Brasil',items:[
+        {t:'Rei Charles III faz discurso histórico ao Congresso dos EUA',r:'Charles III reforçou os laços entre EUA e Reino Unido em momento de tensão entre os aliados históricos.',l:'https://g1.globo.com/mundo/ao-vivo/rei-charles-iii-visita-eua-trump.ghtml'},
+        {t:'Haribo encerra produção no Brasil e fecha fábrica em Bauru',r:'A indústria alemã anunciou o fechamento da unidade de Bauru, encerrando atividades fabris no país.',l:'https://g1.globo.com/sp/bauru-marilia/noticia/2026/04/28/dona-dos-ursinhos-de-ouro-haribo-encerra-producao-no-brasil.ghtml'},
+        {t:'Vídeo mostra homem incendiando vereador no litoral do Paraná',r:'Câmeras registraram o momento em que homem ateou fogo no vereador João Luiz em Guaraqueçaba.',l:'https://g1.globo.com/pr/parana/noticia/2026/04/28/video-mostra-homem-incendiando-vereador-no-litoral-do-parana.ghtml'},
+        {t:'Hospital é condenado por morte de jovem após demora em cirurgia de apendicite em MG',r:'A Justiça de MG condenou hospital pela morte de paciente de 21 anos após atraso em cirurgia.',l:'https://g1.globo.com/mg/vales-mg/noticia/2026/04/28/hospital-e-condenado-por-morte-de-jovem-apos-demora-em-cirurgia-de-apendicite-em-mg.ghtml'}
+      ]},
+      {nome:'CNN Brasil',items:[
+        {t:'Petrobras pode aumentar gasolina se houver redução de tributos, diz CEO',r:'Magda Chambriard disse que a empresa não vai transferir ao consumidor a ansiedade do momento.',l:'https://www.cnnbrasil.com.br/infra/petrobras-pode-aumentar-gasolina-se-houver-reducao-de-tributos-diz-ceo/'},
+        {t:'BCE enfrenta dilema com inflação em alta e crescimento em queda',r:'O Banco Central Europeu deve manter juros na quinta-feira, mas novos aumentos são esperados em junho.',l:'https://www.cnnbrasil.com.br/economia/macroeconomia/aumento-da-inflacao-e-deterioracao-do-crescimento-criam-dilema-para-o-bce/'}
+      ]},
+      {nome:'Agência Brasil',items:[
+        {t:'Lista de peixes e invertebrados ameaçados de extinção é atualizada no Brasil',r:'A revisão incluiu 100 novas espécies, mantendo 490 classificadas como ameaçadas.',l:'https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada'},
+        {t:'Estudo de 22 anos na Amazônia descarta teoria da savanização',r:'A pesquisa realizada em Querência (MT) concluiu que o bioma não está se transformando em savana.',l:'https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao'},
+        {t:'Redução da jornada vai favorecer o empreendedorismo, afirma ministro',r:'O ministro Paulo Pereira disse que a medida terá impacto positivo na qualidade de vida e na economia.',l:'https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro'},
+        {t:'PF e Receita Federal investigam fraude de R$ 86 bilhões no Porto do Rio',r:'A Operação Mare Liberum mira esquema de corrupção na alfândega do Porto do Rio de Janeiro.',l:'https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/pf-e-receita-combatem-fraude-de-rs-86-bilhoes-no-porto-do-rio'}
+      ]}
+    ]
+  }
+];
+
+const ESPORTE = [{
+  editoria:'Esporte', cor:'#34D399', bg:'rgba(52,211,153,.09)', icone:'⚽',
+  fontes:[{
+    nome:'GE — Globo Esporte',
+    items:[
+      {t:'Marcus Buchecha amplia jejum sem vitórias e se complica no UFC',r:'Buchecha foi nocauteado por Ryan Spann no 2º round do UFC Vegas 116. São duas derrotas e um empate no UFC.',l:'https://ge.globo.com/sp/santos-e-regiao/noticia/2026/04/28/marcus-buchecha-amplia-jejum-sem-vitorias-e-se-complica-no-ufc.ghtml'},
+      {t:'PSG x Bayern de Munique — Semifinal da Champions ao vivo',r:'Jogo de ida no Parc des Princes. Confira escalações e informações completas.',l:'https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/jogo/28-04-2026/parissaintgermain-bayerndemunique.ghtml'},
+      {t:'NBA, Fiba e EuroLeague avançam em criação de liga europeia de basquete',r:'As entidades mantêm diálogo sobre o formato e governança de uma nova liga continental.',l:'https://www.cnnbrasil.com.br/esportes/basquete/nba-fiba-e-euroleague-avancam-em-criacao-de-liga-europeia-de-basquete/'},
+      {t:'Estádio Nogueirão, em Mossoró, é totalmente demolido',r:'A derrubada foi concluída na manhã de segunda como parte do projeto da nova Arena Nogueirão, de R$ 215 milhões.',l:'https://ge.globo.com/rn/noticia/2026/04/28/estadio-nogueirao-em-mossoro-e-totalmente-demolido-veja-imagens.ghtml'},
+      {t:'Vanessa Cristina é convocada para representar o Brasil em competições na Suíça',r:'A atleta paralímpica de Santos disputará a Daniela Jutzeler Memorial e o Grand Prix de Nottwil em maio.',l:'https://ge.globo.com/sp/santos-e-regiao/noticia/2026/04/28/vanessa-cristina-e-convocada-para-representar-o-brasil-em-competicoes-na-suica.ghtml'}
+    ]
+  }]
+}];
+
+// Curiosidades estáticas (futuro: RSS automático)
+const CURIOSIDADES = [
+  {tag:'Ciência',t:'Por que o céu é azul?',r:'A luz solar é dispersada pela atmosfera. As ondas azuis se espalham mais que as outras cores, por isso enxergamos o céu azul durante o dia.'},
+  {tag:'Saúde',t:'Dormir menos de 6 horas aumenta risco de AVC em 45%',r:'Pesquisa da Universidade de Birmingham acompanhou 500 mil adultos e encontrou associação direta entre sono curto e doenças cardiovasculares.'},
+  {tag:'Tecnologia',t:'IA já diagnostica câncer de pele com precisão maior que dermatologistas',r:'Algoritmos treinados em milhões de imagens identificaram melanomas com 95% de acerto, superando a média de 86% dos especialistas humanos.'},
+  {tag:'Natureza',t:'Árvores se comunicam pelo solo através de fungos',r:'A "internet da floresta" conecta raízes de árvores diferentes, permitindo troca de nutrientes e até sinais de alerta contra pragas.'},
+  {tag:'Curiosidade',t:'O mel nunca estraga — arqueólogos encontraram mel comestível de 3.000 anos',r:'Potes de mel encontrados em tumbas egípcias ainda estavam em perfeito estado. A alta concentração de açúcar impede o crescimento de bactérias.'},
+  {tag:'Espaço',t:'Um dia em Vênus é mais longo que um ano em Vênus',r:'O planeta demora 243 dias terrestres para girar em torno do próprio eixo, mas apenas 225 dias para orbitar o Sol.'},
+  {tag:'Corpo Humano',t:'O estômago produz um novo revestimento a cada 3 dias',r:'O ácido estomacal é tão forte que destruiria as paredes do próprio estômago sem essa renovação constante do revestimento mucoso.'},
+  {tag:'História',t:'Cleópatra viveu mais perto da invenção do iPhone do que das Pirâmides',r:'As pirâmides foram construídas há 4.500 anos. Cleópatra viveu há 2.000 anos. A diferença temporal é de 2.500 anos — mais do que nos separa dela.'},
+  {tag:'Animal',t:'Polvos têm três corações e sangue azul',r:'Dois corações bombeiam sangue pelas guelras, enquanto o terceiro circula pelo corpo. O sangue é azul por conter hemocianina em vez de hemoglobina.'},
+  {tag:'Tecnologia',t:'O primeiro SMS da história disse "Feliz Natal"',r:'Em dezembro de 1992, o engenheiro Neil Papworth enviou a mensagem "Merry Christmas" para o diretor da Vodafone — o primeiro SMS do mundo.'},
+  {tag:'Saúde',t:'Rir por 15 minutos tem efeito equivalente a 45 min de exercício leve',r:'Pesquisadores da Universidade de Vanderbilt calcularam que gargalhadas genuínas aumentam o gasto calórico e liberam endorfinas.'},
+  {tag:'Natureza',t:'Flamingos são naturalmente brancos — a cor vem da comida',r:'Os pigmentos rosas e laranjas dos flamingos vêm de carotenoides presentes em algas e crustáceos. Em cativeiro sem essa dieta, eles ficam brancos.'},
+  {tag:'Ciência',t:'Água quente pode congelar mais rápido que água fria',r:'O Efeito Mpemba, observado em 1963, mostra que em certas condições a água quente congela antes da fria — fenômeno ainda debatido pela ciência.'},
+  {tag:'Curiosidade',t:'A língua portuguesa tem mais falantes na África do que em Portugal',r:'Com países como Angola, Moçambique e Cabo Verde, o continente africano soma mais de 30 milhões de falantes nativos de português.'},
+  {tag:'Espaço',t:'Há mais estrelas no universo do que grãos de areia em todas as praias da Terra',r:'Estimativas apontam para 1 septilhão de estrelas (10²⁴) no universo observável — número impossível de imaginar em escala humana.'}
+];
+
+// Cidades para previsão do tempo
+const CIDADES = [
+  {nome:'Jaraguá do Sul', lat:-26.4851, lon:-49.0711}
+];
+
+const ICONES_TEMPO = {
+  0:'☀️',1:'🌤',2:'⛅',3:'🌥',45:'🌫',48:'🌫',
+  51:'🌦',53:'🌦',55:'🌧',61:'🌧',63:'🌧',65:'🌧',
+  71:'🌨',73:'🌨',75:'🌨',80:'🌦',81:'🌧',82:'🌧',
+  95:'⛈',96:'⛈',99:'⛈'
+};
+
+const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+
+// ═══════════════════════════════════════
+// LOGIN
+// ═══════════════════════════════════════
+function login(){
+  const u=document.getElementById('u').value.trim();
+  const s=document.getElementById('s').value.trim();
+  if(u==='rbn'&&s==='1234'){
+    document.getElementById('err').textContent='';
+    const tl=document.getElementById('login');
+    tl.classList.add('out');
+    setTimeout(()=>{
+      tl.style.display='none';
+      document.getElementById('portal').classList.add('on');
+      init();
+    },500);
+  }else{
+    document.getElementById('err').textContent='Usuário ou senha incorretos.';
+    document.getElementById('s').value='';
+    document.getElementById('s').focus();
+  }
+}
+function sair(){
+  document.getElementById('portal').classList.remove('on');
+  const tl=document.getElementById('login');
+  tl.style.display='flex';tl.classList.remove('out');
+  document.getElementById('u').value='';document.getElementById('s').value='';
+}
+document.addEventListener('keydown',e=>{if(e.key==='Enter')login()});
+
+// ═══════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════
+function init(){
+  renderNoticias();
+  renderEsporte();
+  renderCuriosidades();
+  renderTicker();
+  iniciarRelogio();
+  let tot=0;
+  [...NOTICIAS,...ESPORTE].forEach(e=>e.fontes.forEach(f=>tot+=f.items.length));
+  document.getElementById('tot').textContent=tot;
+}
+
+// ═══════════════════════════════════════
+// NAV
+// ═══════════════════════════════════════
+function ir(id,btn){
+  document.querySelectorAll('.sec').forEach(s=>s.classList.remove('on'));
+  document.querySelectorAll('.nb').forEach(b=>b.classList.remove('on'));
+  document.getElementById('sec-'+id).classList.add('on');
+  btn.classList.add('on');
+  if(id==='tempo') carregarTempo();
+  if(id==='boletim') renderBoletim();
+  if(id==='config') renderConfig();
+}
+
+// ═══════════════════════════════════════
+// RELÓGIO
+// ═══════════════════════════════════════
+function iniciarRelogio(){
+  const atualiza=()=>{document.getElementById('relogio').textContent=new Date().toLocaleTimeString('pt-BR')};
+  atualiza();setInterval(atualiza,1000);
+}
+
+// ═══════════════════════════════════════
+// TICKER
+// ═══════════════════════════════════════
+function renderTicker(){
+  const titulos=[];
+  [...NOTICIAS,...ESPORTE].forEach(e=>e.fontes.forEach(f=>f.items.forEach(i=>titulos.push(i.t))));
+  const h=titulos.map(t=>`<span class="tk-item">${esc(t)}</span><span class="tk-sep">◆</span>`).join('');
+  document.getElementById('ticker').innerHTML=h+h;
+}
+
+// ═══════════════════════════════════════
+// RENDER NOTÍCIAS / ESPORTE
+// ═══════════════════════════════════════
+function renderNoticias(){document.getElementById('sec-noticias').innerHTML=NOTICIAS.map(renderEd).join('')}
+function renderEsporte(){document.getElementById('sec-esporte').innerHTML=ESPORTE.map(renderEd).join('')}
+
+function renderEd(e){
+  const tot=e.fontes.reduce((a,f)=>a+f.items.length,0);
+  return `<div class="ed-bloco" style="--cor:${e.cor}">
+    <div class="ed-header">
+      <div class="ed-pill" style="background:${e.bg};color:${e.cor}">${e.icone} ${e.editoria}</div>
+      <div class="ed-count">${tot} notícias</div>
+    </div>
+    ${e.fontes.map(f=>renderFonte(f,e.cor,e.editoria)).join('')}
+  </div>`;
+}
+
+function renderFonte(f,cor){
+  return `<div class="fonte-bloco">
+    <div class="fonte-label">${esc(f.nome)}</div>
+    <div class="grid">${f.items.map((n,i)=>renderCard(n,i,cor,f.nome)).join('')}</div>
+  </div>`;
+}
+
+function renderCard(n,i,cor,fonte){
+  if(i===0) return `<div class="card dest" style="--cor:${cor}">
+    <div class="dest-body">
+      <div class="c-idx" style="color:${cor}">DESTAQUE</div>
+      <div class="c-titulo">${esc(n.t)}</div>
+      <div class="c-resumo">${esc(n.r)}</div>
+      <div class="c-footer">
+        <a class="c-link" href="${n.l}" target="_blank" style="color:${cor}">Ler original →</a>
+        <span class="c-fonte">${esc(fonte)}</span>
+      </div>
+    </div>
+    <div class="dest-side">
+      <div class="dest-num">01</div>
+      <div class="dest-tag">Destaque</div>
+    </div>
+  </div>`;
+  return `<div class="card" style="--cor:${cor}">
+    <div class="c-idx" style="color:${cor}">${String(i+1).padStart(2,'0')}</div>
+    <div class="c-titulo">${esc(n.t)}</div>
+    <div class="c-resumo">${esc(n.r)}</div>
+    <div class="c-footer">
+      <a class="c-link" href="${n.l}" target="_blank" style="color:${cor}">Ler original →</a>
+      <span class="c-fonte">${esc(fonte)}</span>
+    </div>
+  </div>`;
+}
+
+// ═══════════════════════════════════════
+// PREVISÃO DO TEMPO — Open-Meteo (grátis)
+// ═══════════════════════════════════════
+let tempoCarregado=false;
+async function carregarTempo(){
+  if(tempoCarregado)return;
+  tempoCarregado=true;
+  const container=document.getElementById('tempo-cards');
+  const status=document.getElementById('tempo-status');
+  try{
+    const resultados=await Promise.all(CIDADES.map(async c=>{
+      const url=`https://api.open-meteo.com/v1/forecast?latitude=${c.lat}&longitude=${c.lon}&current=temperature_2m,weathercode,windspeed_10m,relativehumidity_2m&daily=temperature_2m_max,temperature_2m_min,weathercode&timezone=America/Sao_Paulo&forecast_days=5`;
+      const r=await fetch(url);
+      const d=await r.json();
+      return {cidade:c.nome,dados:d};
+    }));
+    status.textContent=`Atualizado agora · ${new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}`;
+    container.innerHTML=resultados.map(({cidade,dados})=>{
+      const cur=dados.current;
+      const daily=dados.daily;
+      const temp=Math.round(cur.temperature_2m);
+      const wc=cur.weathercode;
+      const ico=ICONES_TEMPO[wc]||'🌡';
+      const desc=descTempo(wc);
+      const wind=Math.round(cur.windspeed_10m);
+      const hum=cur.relativehumidity_2m;
+      // próximos 4 dias com descrição
+      const prev=daily.time.slice(1,5).map((d,i)=>{
+        const dt=new Date(d+'T12:00:00');
+        const dia=DIAS_SEMANA[dt.getDay()];
+        const mx=Math.round(daily.temperature_2m_max[i+1]);
+        const mn=Math.round(daily.temperature_2m_min[i+1]);
+        const wcd=daily.weathercode[i+1];
+        const ico2=ICONES_TEMPO[wcd]||'🌡';
+        const desc2=descTempo(wcd);
+        return `<div class="prev-dia">
+          <div class="pd-dia">${dia}</div>
+          <div class="pd-ico">${ico2}</div>
+          <div class="pd-desc">${desc2}</div>
+          <div class="pd-temps">
+            <span class="pd-max">${mx}°</span>
+            <span class="pd-min">${mn}°</span>
+          </div>
+        </div>`;
+      }).join('');
+      return `<div class="cidade-card">
+        <div class="cidade-top">
+          <div>
+            <div class="cidade-nome">${cidade}</div>
+            <div class="cidade-temp">${temp}<span>°C</span></div>
+            <div class="cidade-desc">${desc}</div>
+            <div class="cidade-extras">
+              <div class="cidade-extra">💨 Vento ${wind} km/h</div>
+              <div class="cidade-extra">💧 Umidade ${hum}%</div>
+            </div>
+          </div>
+          <div class="cidade-icone-grande">${ico}</div>
+        </div>
+        <div class="previsao-row">${prev}</div>
+      </div>`;
+    }).join('');
+  }catch(e){
+    container.innerHTML=`<div class="tempo-loading">⚠️ Não foi possível carregar a previsão. Verifique a conexão.</div>`;
+    status.textContent='Erro na conexão';
+    tempoCarregado=false;
+  }
+}
+
+function descTempo(code){
+  const m={0:'Céu limpo',1:'Predominante limpo',2:'Parcialmente nublado',3:'Nublado',45:'Névoa',48:'Névoa com gelo',51:'Garoa leve',53:'Garoa moderada',55:'Garoa forte',61:'Chuva leve',63:'Chuva moderada',65:'Chuva forte',71:'Neve leve',73:'Neve moderada',75:'Neve forte',80:'Pancadas leves',81:'Pancadas moderadas',82:'Pancadas fortes',95:'Trovoada',96:'Trovoada com granizo',99:'Trovoada forte'};
+  return m[code]||'Condição variável';
+}
+
+// ═══════════════════════════════════════
+// CURIOSIDADES
+// ═══════════════════════════════════════
+function renderCuriosidades(){
+  document.getElementById('curio-grid').innerHTML=CURIOSIDADES.map(c=>`
+    <div class="curio-card">
+      <div class="curio-tag">${c.tag}</div>
+      <div class="curio-titulo">${esc(c.t)}</div>
+      <div class="curio-texto">${esc(c.r)}</div>
+    </div>`).join('');
+  document.getElementById('curio-count').textContent=`${CURIOSIDADES.length} itens`;
+}
+
+// ═══════════════════════════════════════
+// BOLETIM
+// ═══════════════════════════════════════
+function renderBoletim(){
+  document.getElementById('bol-prev').innerHTML=[...NOTICIAS,...ESPORTE].map(renderEd).join('');
+}
+
+// ═══════════════════════════════════════
+// CONFIGURAÇÕES — gerenciador de fontes
+// ═══════════════════════════════════════
+const EDITORIAS_DISPONIVEIS = ['Local','Estado','Brasil','Esporte','Curiosidades','Entretenimento'];
+const COR_EDITORIA = {
+  'Local':'#4D8FFF','Estado':'#FBBF24','Brasil':'#6EE7B7',
+  'Esporte':'#34D399','Curiosidades':'#F59E0B','Entretenimento':'#C084FC'
+};
+
+// Fontes iniciais carregadas do fontes.json (simulação — em produção vem de fetch)
+let FONTES_CONFIG = [
+  {nome:'OCP News',    editoria:'Local',   rss:'https://ocp.news/feed',                                          ativo:true},
+  {nome:'RBN Portal',  editoria:'Local',   rss:'https://portal.rbnfm.com.br/feed/',                              ativo:true},
+  {nome:'G1 SC',       editoria:'Estado',  rss:'https://g1.globo.com/rss/g1/sc/',                                ativo:true},
+  {nome:'ND Mais',     editoria:'Estado',  rss:'https://ndmais.com.br/feed/',                                    ativo:true},
+  {nome:'G1 Brasil',   editoria:'Brasil',  rss:'https://g1.globo.com/dynamo/rss2.xml',                           ativo:true},
+  {nome:'G1 Economia', editoria:'Brasil',  rss:'https://g1.globo.com/dynamo/economia/rss2.xml',                  ativo:true},
+  {nome:'Gazeta do Povo',editoria:'Brasil',rss:'https://www.gazetadopovo.com.br/rss/',                           ativo:true},
+  {nome:'CNN Brasil',  editoria:'Brasil',  rss:'https://www.cnnbrasil.com.br/feed/',                             ativo:true},
+  {nome:'Agência Brasil',editoria:'Brasil',rss:'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml',  ativo:true},
+  {nome:'GE',          editoria:'Esporte', rss:'https://ge.globo.com/rss/ge/',                                   ativo:true},
+];
+
+let editandoIdx = -1;
+
+function renderConfig(){
+  const lista = document.getElementById('cfg-lista');
+  const count = document.getElementById('config-count');
+  count.textContent = `${FONTES_CONFIG.length} fontes · ${FONTES_CONFIG.filter(f=>f.ativo).length} ativas`;
+
+  // Agrupar por editoria
+  const grupos = {};
+  FONTES_CONFIG.forEach((f,i)=>{
+    if(!grupos[f.editoria]) grupos[f.editoria]=[]; grupos[f.editoria].push({...f,_idx:i});
+  });
+
+  lista.innerHTML = Object.entries(grupos).map(([ed, fontes])=>`
+    <div style="margin-bottom:28px">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid var(--azul-borda)">
+        <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:${COR_EDITORIA[ed]||'#94C3FF'}">${ed}</span>
+        <span style="font-size:11px;color:var(--sutil)">${fontes.length} fonte${fontes.length>1?'s':''}</span>
+      </div>
+      ${fontes.map(f=>`
+        <div style="display:flex;align-items:center;gap:12px;padding:14px 16px;background:var(--azul-card);border:1px solid ${f.ativo?'var(--azul-borda)':'var(--sutil)'};border-radius:10px;margin-bottom:8px;opacity:${f.ativo?1:.5}">
+          <div style="flex:1;min-width:0">
+            <div style="font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:15px;color:var(--branco);margin-bottom:3px">${esc(f.nome)}</div>
+            <div style="font-size:11px;color:var(--sutil);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(f.rss)}</div>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;flex-shrink:0">
+            <!-- Toggle ativo/inativo -->
+            <button onclick="toggleFonte(${f._idx})"
+              style="padding:5px 12px;border-radius:6px;border:1px solid ${f.ativo?'#34D399':'var(--azul-borda)'};background:${f.ativo?'rgba(52,211,153,.12)':'var(--azul-hover)'};color:${f.ativo?'#34D399':'var(--cinza)'};font-size:11px;font-weight:600;cursor:pointer;letter-spacing:1px;font-family:'Barlow',sans-serif">
+              ${f.ativo?'✓ ATIVA':'INATIVA'}
+            </button>
+            <button onclick="editarFonte(${f._idx})"
+              style="padding:5px 10px;border-radius:6px;border:1px solid var(--azul-borda);background:none;color:var(--cinza);font-size:12px;cursor:pointer">✏</button>
+            <button onclick="removerFonte(${f._idx})"
+              style="padding:5px 10px;border-radius:6px;border:1px solid rgba(248,113,113,.3);background:none;color:#F87171;font-size:12px;cursor:pointer">✕</button>
+          </div>
+        </div>`).join('')}
+    </div>`).join('');
+}
+
+function toggleFonte(idx){
+  FONTES_CONFIG[idx].ativo = !FONTES_CONFIG[idx].ativo;
+  renderConfig();
+}
+
+function removerFonte(idx){
+  if(confirm(`Remover "${FONTES_CONFIG[idx].nome}"?`)){
+    FONTES_CONFIG.splice(idx,1);
+    renderConfig();
+  }
+}
+
+function editarFonte(idx){
+  editandoIdx = idx;
+  const f = FONTES_CONFIG[idx];
+  document.getElementById('modal-titulo').textContent = 'Editar Fonte';
+  document.getElementById('f-nome').value = f.nome;
+  document.getElementById('f-editoria').value = f.editoria;
+  document.getElementById('f-rss').value = f.rss;
+  document.getElementById('modal-fonte').style.display='flex';
+}
+
+function abrirModalFonte(){
+  editandoIdx = -1;
+  document.getElementById('modal-titulo').textContent = 'Adicionar Fonte';
+  document.getElementById('f-nome').value = '';
+  document.getElementById('f-editoria').value = 'Local';
+  document.getElementById('f-rss').value = '';
+  document.getElementById('modal-fonte').style.display='flex';
+}
+
+function fecharModal(){
+  document.getElementById('modal-fonte').style.display='none';
+}
+
+function salvarFonte(){
+  const nome = document.getElementById('f-nome').value.trim();
+  const editoria = document.getElementById('f-editoria').value;
+  const rss = document.getElementById('f-rss').value.trim();
+  if(!nome||!rss){alert('Preencha nome e URL do RSS.');return;}
+  if(editandoIdx>=0){
+    FONTES_CONFIG[editandoIdx] = {...FONTES_CONFIG[editandoIdx], nome, editoria, rss};
+  } else {
+    FONTES_CONFIG.push({nome, editoria, rss, ativo:true});
+  }
+  fecharModal();
+  renderConfig();
+  mostrarMsg('Salvo! Exporte o JSON e substitua o fontes.json no PC.');
+}
+
+function exportarFontes(){
+  const json = JSON.stringify(FONTES_CONFIG.map(({nome,editoria,rss,ativo})=>({nome,editoria,rss,ativo})), null, 2);
+  const blob = new Blob([json],{type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'fontes.json';
+  a.click();
+}
+
+function copiarFontes(){
+  const json = JSON.stringify(FONTES_CONFIG.map(({nome,editoria,rss,ativo})=>({nome,editoria,rss,ativo})), null, 2);
+  navigator.clipboard.writeText(json).then(()=>mostrarMsg('JSON copiado!'));
+}
+
+function mostrarMsg(txt){
+  const el = document.getElementById('cfg-msg');
+  el.textContent = txt;
+  el.style.opacity = 1;
+  setTimeout(()=>el.style.opacity=0, 3000);
+}
+
+// ═══════════════════════════════════════
+// UTILS
+// ═══════════════════════════════════════
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+</script>
+</body>
+</html>
