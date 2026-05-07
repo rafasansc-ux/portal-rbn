@@ -301,6 +301,7 @@ body{font-family:'Barlow',sans-serif;background:var(--azul-bg);color:var(--branc
         <div class="ao-vivo"><span class="dot"></span>Redação ao vivo</div>
         <h1>Portal da<br><em>Redação RBN</em></h1>
         <p class="hero-sub">28/04/2026 &nbsp;·&nbsp; 16h00 &nbsp;·&nbsp; Coleta automática ativa</p>
+        <p class="hero-sub" id="hero-data-extra" style="margin-top:6px;color:var(--frequencia);font-size:12px;letter-spacing:.5px"></p>
       </div>
       <div class="stats">
         <div><div class="stat-n" id="tot">0</div><div class="stat-l">Notícias hoje</div></div>
@@ -602,6 +603,7 @@ function renderTodosDoJSON(){
   // Atualiza data/hora do hero
   if(DADOS_JSON.data) document.querySelector('.hero-sub').textContent =
     `${DADOS_JSON.data} · ${DADOS_JSON.hora} · Coleta automática ativa`;
+  renderHeroDataExtra();
 
   // Contador total
   document.getElementById('tot').textContent = DADOS_JSON.total || 0;
@@ -817,8 +819,89 @@ function renderCuriosidades(){
 }
 
 // ═══════════════════════════════════════
-// BOLETIM
+// CALENDÁRIO — datas comemorativas
 // ═══════════════════════════════════════
+const CALENDARIO = {
+  '01-01': '🎉 Confraternização Universal / Ano Novo',
+  '01-25': '🏙️ Aniversário de São Paulo',
+  '02-02': '🌊 Dia de Iemanjá',
+  '02-14': '❤️ Dia de São Valentim',
+  '03-08': '👩 Dia Internacional da Mulher',
+  '03-20': '🌱 Início do Outono',
+  '03-21': '🌸 Dia Internacional da Eliminação da Discriminação Racial',
+  '03-22': '💧 Dia Mundial da Água',
+  '04-01': '🤡 Dia da Mentira',
+  '04-07': '🏥 Dia Mundial da Saúde',
+  '04-18': '✝️ Sexta-Feira Santa',
+  '04-20': '🐣 Páscoa',
+  '04-21': '⛪ Tiradentes',
+  '04-22': '🌿 Dia do Descobrimento do Brasil / Dia da Terra',
+  '04-23': '📚 Dia do Livro',
+  '05-01': '👷 Dia do Trabalho',
+  '05-05': '🐦 Dia do Meio Ambiente',
+  '05-07': '📻 Dia Mundial do Rádio e das Telecomunicações',
+  '05-11': '👩‍👦 Dia das Mães',
+  '05-15': '👨‍🏫 Dia do Professor',
+  '05-25': '🌍 Dia da África',
+  '06-05': '🌎 Dia Mundial do Meio Ambiente',
+  '06-12': '❤️ Dia dos Namorados',
+  '06-13': '🎊 Festa de Santo Antônio',
+  '06-21': '🌞 Início do Inverno',
+  '06-24': '🎆 Festa de São João',
+  '06-29': '🎇 Festa de São Pedro',
+  '07-02': '🇧🇷 Independência da Bahia',
+  '07-09': '⚔️ Revolução Constitucionalista',
+  '07-28': '🎵 Dia do Músico Brasileiro',
+  '08-09': '🌿 Dia Internacional dos Povos Indígenas',
+  '08-11': '⚖️ Dia do Advogado',
+  '08-13': '👨‍👩‍👧 Dia dos Pais',
+  '08-25': '🌺 Dia do Soldado',
+  '09-01': '🌸 Início da Primavera',
+  '09-07': '🇧🇷 Independência do Brasil',
+  '09-08': '📖 Dia Internacional da Alfabetização',
+  '09-21': '🌳 Dia da Árvore',
+  '10-01': '👴 Dia do Idoso',
+  '10-04': '🐾 Dia de São Francisco / Dia dos Animais',
+  '10-05': '👩‍🏫 Dia do Professor',
+  '10-12': '👼 Nossa Senhora Aparecida / Dia das Crianças',
+  '10-15': '🍎 Dia do Professor',
+  '10-28': '🏥 Dia do Servidor Público',
+  '10-31': '🎃 Halloween',
+  '11-02': '✝️ Finados',
+  '11-15': '🏛️ Proclamação da República',
+  '11-19': '🎮 Dia Internacional dos Homens',
+  '11-20': '✊ Consciência Negra / Zumbi dos Palmares',
+  '12-01': '🔴 Dia Mundial de Luta contra a AIDS',
+  '12-08': '🙏 Imaculada Conceição',
+  '12-21': '❄️ Início do Verão',
+  '12-25': '🎄 Natal',
+  '12-31': '🎆 Véspera de Ano Novo',
+};
+
+function renderHeroDataExtra(){
+  const agora = new Date();
+  const mes   = String(agora.getMonth()+1).padStart(2,'0');
+  const dia   = String(agora.getDate()).padStart(2,'0');
+  const chave = `${mes}-${dia}`;
+
+  // Dias restantes no ano
+  const fimAno    = new Date(agora.getFullYear(), 11, 31);
+  const diff      = Math.ceil((fimAno - agora) / (1000*60*60*24));
+  const diasLabel = diff === 1 ? 'falta 1 dia' : `faltam ${diff} dias`;
+
+  const dataCom = CALENDARIO[chave] || '';
+  const extra   = document.getElementById('hero-data-extra');
+  if(!extra) return;
+
+  if(dataCom){
+    extra.textContent = `${dataCom} · ${diasLabel} para o fim do ano`;
+  } else {
+    extra.textContent = `📅 ${diasLabel} para o fim do ano`;
+  }
+}
+
+// Chama ao iniciar
+renderHeroDataExtra();
 function renderBoletim(){
   document.getElementById('bol-prev').innerHTML=[...NOTICIAS,...ESPORTE].map(renderEd).join('');
 }
