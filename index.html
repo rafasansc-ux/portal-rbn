@@ -30,15 +30,14 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
 @keyframes up{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:translateY(0)}}
 
 /* Logo fiel à imagem */
-.login-logo{display:flex;flex-direction:column;align-items:center;margin-bottom:48px;gap:16px}
+.login-logo{display:flex;flex-direction:column;align-items:center;margin-bottom:40px;gap:0}
 
 .logo-mark{
-  width:200px;
-  border-radius:20px;
+  width:80px;height:80px;border-radius:18px;
   background:#1565E8;
   display:flex;align-items:center;justify-content:center;
-  box-shadow:0 0 70px rgba(21,101,232,.5);
-  padding:20px 24px;
+  box-shadow:0 0 50px rgba(21,101,232,.4);
+  margin-bottom:16px;
 }
 
 .logo-wordmark{
@@ -246,9 +245,10 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
   <div class="lbox">
     <div class="login-logo">
       <div class="logo-mark">
-        <img src="LOGO_RBN-03.png" alt="RBN 94,3" style="width:110px;height:auto;display:block;">
+        <img src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:64px;height:64px;object-fit:contain;filter:brightness(0) invert(1)">
       </div>
-      <div class="login-sub">Portal da Redação</div>
+      <div style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:32px;letter-spacing:-1px;text-align:center;color:#EEF3FF;line-height:1">RBN 94,3</div>
+      <div class="login-sub" style="margin-top:6px">Portal da Redação</div>
     </div>
     <label for="inp-user">Usuário</label>
     <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
@@ -267,7 +267,7 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
   <div class="topbar">
     <div class="tb-logo">
       <div class="tb-mark">
-        <img src="LOGO_RBN-03.png" alt="RBN" style="width:20px;height:auto;display:block;filter:brightness(0) invert(1)">
+        <img src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:20px;height:20px;object-fit:contain;filter:brightness(0) invert(1)">
       </div>
       <div class="tb-text">
         <div class="tb-rbn">rbn</div>
