@@ -288,6 +288,7 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
 
     <div class="tb-right">
       <span class="tb-hora" id="relogio">--:--:--</span>
+      <button class="btn-sair" onclick="abrirModalConfig()" style="border-color:var(--azul-borda)">⚙️ Config</button>
       <button class="btn-sair" onclick="sair()">Sair</button>
     </div>
   </div>
@@ -900,6 +901,96 @@ function renderHeroDataExtra(){
 
 // Chama ao iniciar
 renderHeroDataExtra();
+
+// ═══════════════════════════════════════
+// TEMAS E FONTES
+// ═══════════════════════════════════════
+const TEMAS = [
+  {id:'oceano',  nome:'🔵 Oceano',   bg:'#0A1220', painel:'#0D1A30', card:'#101F38', borda:'#1A3260', hover:'#162A50', azul:'#1565E8', sutil:'#2A4070', cinza:'#6A85B0', branco:'#EEF3FF'},
+  {id:'carbono', nome:'⚫ Carbono',  bg:'#111111', painel:'#1A1A1A', card:'#222222', borda:'#333333', hover:'#2A2A2A', azul:'#1565E8', sutil:'#444444', cinza:'#999999', branco:'#F0F0F0'},
+  {id:'neutro',  nome:'🩶 Neutro',   bg:'#1A1A22', painel:'#22222E', card:'#2A2A38', borda:'#38384A', hover:'#303040', azul:'#6C8EF5', sutil:'#3A3A50', cinza:'#8888AA', branco:'#E8E8F0'},
+  {id:'verde',   nome:'🟢 Floresta', bg:'#0A1A10', painel:'#0D2018', card:'#102818', borda:'#1A4028', hover:'#163020', azul:'#22C55E', sutil:'#1A3020', cinza:'#6A9080', branco:'#EEFAEF'},
+];
+
+const FONTES_OPTS = [
+  {id:'montserrat', nome:'Montserrat', css:"'Montserrat',sans-serif", url:'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap'},
+  {id:'inter',      nome:'Inter',      css:"'Inter',sans-serif",      url:'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap'},
+  {id:'poppins',    nome:'Poppins',    css:"'Poppins',sans-serif",    url:'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'},
+  {id:'roboto',     nome:'Roboto',     css:"'Roboto',sans-serif",     url:'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap'},
+];
+
+let temaAtivo  = localStorage.getItem('portal_tema')  || 'oceano';
+let fonteAtiva = localStorage.getItem('portal_fonte') || 'montserrat';
+
+function aplicarTema(id){
+  const t = TEMAS.find(x=>x.id===id);
+  if(!t) return;
+  const r = document.documentElement.style;
+  r.setProperty('--azul-bg',    t.bg);
+  r.setProperty('--azul-painel',t.painel);
+  r.setProperty('--azul-card',  t.card);
+  r.setProperty('--azul-borda', t.borda);
+  r.setProperty('--azul-hover', t.hover);
+  r.setProperty('--azul',       t.azul);
+  r.setProperty('--sutil',      t.sutil);
+  r.setProperty('--cinza',      t.cinza);
+  r.setProperty('--branco',     t.branco);
+  temaAtivo = id;
+  localStorage.setItem('portal_tema', id);
+}
+
+function aplicarFonte(id){
+  const f = FONTES_OPTS.find(x=>x.id===id);
+  if(!f) return;
+  const linkId = 'font-link-'+id;
+  if(!document.getElementById(linkId)){
+    const link = document.createElement('link');
+    link.id=linkId; link.rel='stylesheet'; link.href=f.url;
+    document.head.appendChild(link);
+  }
+  document.documentElement.style.setProperty('--font', f.css);
+  fonteAtiva = id;
+  localStorage.setItem('portal_fonte', id);
+}
+
+// Aplica preferências salvas ao carregar
+aplicarTema(temaAtivo);
+aplicarFonte(fonteAtiva);
+
+function renderTemasFontes(){
+  const tg = document.getElementById('cfg-temas-grid');
+  if(tg) tg.innerHTML = TEMAS.map(t=>`
+    <div onclick="aplicarTema('${t.id}');renderTemasFontes()" style="
+      background:${t.card};border:2px solid ${temaAtivo===t.id?t.azul:t.borda};
+      border-radius:10px;padding:10px 8px;text-align:center;cursor:pointer;transition:all .2s">
+      <div style="font-size:12px;font-weight:700;color:${t.azul};margin-bottom:6px">${t.nome}</div>
+      <div style="display:flex;gap:4px;justify-content:center">
+        <div style="width:14px;height:14px;border-radius:50%;background:${t.bg};border:1px solid ${t.borda}"></div>
+        <div style="width:14px;height:14px;border-radius:50%;background:${t.azul}"></div>
+        <div style="width:14px;height:14px;border-radius:50%;background:${t.card};border:1px solid ${t.borda}"></div>
+      </div>
+    </div>`).join('');
+
+  const fg = document.getElementById('cfg-fontes-grid');
+  if(fg) fg.innerHTML = FONTES_OPTS.map(f=>`
+    <div onclick="aplicarFonte('${f.id}');renderTemasFontes()" style="
+      background:var(--azul-card);border:2px solid ${fonteAtiva===f.id?'var(--azul)':'var(--azul-borda)'};
+      border-radius:10px;padding:10px;text-align:center;cursor:pointer;transition:all .2s;font-family:${f.css}">
+      <div style="font-size:14px;font-weight:700;color:var(--branco)">${f.nome}</div>
+      <div style="font-size:11px;color:var(--cinza);margin-top:2px">Aa Bb Cc 123</div>
+    </div>`).join('');
+}
+
+function abrirModalConfig(){
+  renderTemasFontes();
+  // reset lock
+  document.getElementById('config-lock').style.display='flex';
+  document.getElementById('config-conteudo').style.display='none';
+  document.getElementById('cfg-senha').value='';
+  document.getElementById('cfg-senha-erro').textContent='';
+  document.getElementById('modal-cfg-visual').classList.add('on');
+}
+
 function renderBoletim(){
   document.getElementById('bol-prev').innerHTML=[...NOTICIAS,...ESPORTE].map(renderEd).join('');
 }
@@ -1063,5 +1154,28 @@ function mostrarMsg(txt){
 // ═══════════════════════════════════════
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 </script>
+<!-- MODAL CONFIG VISUAL -->
+<div class="modal-overlay" id="modal-cfg-visual">
+  <div style="background:var(--azul-painel);border:1px solid var(--azul-borda);border-radius:16px;padding:28px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto">
+    <div style="font-family:'Montserrat',sans-serif;font-size:18px;font-weight:800;margin-bottom:20px;letter-spacing:-.5px">⚙️ Personalizar Portal</div>
+
+    <!-- TEMAS -->
+    <div style="background:var(--azul-bg);border:1px solid var(--azul-borda);border-radius:10px;padding:18px;margin-bottom:16px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:14px">🎨 Tema Visual</div>
+      <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px" id="cfg-temas-grid"></div>
+    </div>
+
+    <!-- FONTES -->
+    <div style="background:var(--azul-bg);border:1px solid var(--azul-borda);border-radius:10px;padding:18px;margin-bottom:20px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:14px">✏️ Fonte</div>
+      <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px" id="cfg-fontes-grid"></div>
+    </div>
+
+    <div style="display:flex;justify-content:flex-end">
+      <button class="btn-sair" onclick="document.getElementById('modal-cfg-visual').classList.remove('on')" style="padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700">Fechar</button>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
