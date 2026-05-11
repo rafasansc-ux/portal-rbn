@@ -1,0 +1,116 @@
+[
+  {
+    "nome": "OCP News",
+    "editoria": "Local",
+    "rss": "https://ocp.news/feed",
+    "ativo": true
+  },
+  {
+    "nome": "RBN Portal",
+    "editoria": "Local",
+    "rss": "https://portal.rbnfm.com.br/feed/",
+    "ativo": true
+  },
+  {
+    "nome": "G1 SC",
+    "editoria": "Estado",
+    "rss": "https://g1.globo.com/rss/g1/sc/",
+    "ativo": true
+  },
+  {
+    "nome": "ND Mais",
+    "editoria": "Estado",
+    "rss": "https://ndmais.com.br/feed/",
+    "ativo": true
+  },
+  {
+    "nome": "G1 Brasil",
+    "editoria": "Brasil",
+    "rss": "https://g1.globo.com/dynamo/rss2.xml",
+    "ativo": true
+  },
+  {
+    "nome": "G1 Economia",
+    "editoria": "Brasil",
+    "rss": "https://g1.globo.com/dynamo/economia/rss2.xml",
+    "ativo": true
+  },
+  {
+    "nome": "Gazeta do Povo",
+    "editoria": "Brasil",
+    "rss": "https://www.gazetadopovo.com.br/rss/",
+    "ativo": true
+  },
+  {
+    "nome": "CNN Brasil",
+    "editoria": "Brasil",
+    "rss": "https://www.cnnbrasil.com.br/feed/",
+    "ativo": true
+  },
+  {
+    "nome": "Agência Brasil",
+    "editoria": "Brasil",
+    "rss": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+    "ativo": true
+  },
+  {
+    "nome": "GE",
+    "editoria": "Esporte",
+    "rss": "https://ge.globo.com/rss/ge/",
+    "ativo": true
+  },
+  {
+    "nome": "Política SC — Deputados e Senadores",
+    "editoria": "Politica",
+    "rss": "https://news.google.com/rss/search?q=politica+Santa+Catarina+deputado+senador&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Política Brasil — Congresso e Presidente",
+    "editoria": "Politica",
+    "rss": "https://news.google.com/rss/search?q=politica+brasil+congresso+presidente+senado&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Famosos e Celebridades",
+    "editoria": "Entretenimento",
+    "rss": "https://news.google.com/rss/search?q=famosos+celebridades+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "TV e Novelas",
+    "editoria": "Entretenimento",
+    "rss": "https://news.google.com/rss/search?q=novela+televisao+TV+Globo&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Cinema e Filmes",
+    "editoria": "Entretenimento",
+    "rss": "https://news.google.com/rss/search?q=cinema+filmes+estreia+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Música",
+    "editoria": "Entretenimento",
+    "rss": "https://news.google.com/rss/search?q=musica+show+artista+lancamento&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Ciência e Tecnologia",
+    "editoria": "Curiosidades",
+    "rss": "https://news.google.com/rss/search?q=ciencia+tecnologia+descoberta&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Saúde e Bem-estar",
+    "editoria": "Curiosidades",
+    "rss": "https://news.google.com/rss/search?q=saude+bem+estar+pesquisa&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  },
+  {
+    "nome": "Curiosidades Gerais",
+    "editoria": "Curiosidades",
+    "rss": "https://news.google.com/rss/search?q=curiosidades+inusitado+surpreendente&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "ativo": true
+  }
+]
