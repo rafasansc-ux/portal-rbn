@@ -1,0 +1,50 @@
+name: Atualizar Noticias RBN
+
+on:
+  schedule:
+    # Horários em UTC — Brasil é UTC-3
+    # 05h BR = 08h UTC
+    # 08h BR = 11h UTC
+    # 11h BR = 14h UTC
+    # 14h BR = 17h UTC
+    # 17h BR = 20h UTC
+    # 22h BR = 01h UTC (dia seguinte)
+    - cron: '0 8 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 1 * * *'
+
+  # Permite rodar manualmente pelo GitHub
+  workflow_dispatch:
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install feedparser
+
+      - name: Rodar coletor
+        run: python coletor_cloud.py
+
+      - name: Salvar noticias.json no repositório
+        run: |
+          git config user.name "RBN Bot"
+          git config user.email "bot@rbnfm.com.br"
+          git add noticias.json historico.json
+          git diff --staged --quiet || git commit -m "Boletim automático $(date -u '+%d/%m/%Y %H:%Mh')"
+          git push
