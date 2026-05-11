@@ -12,7 +12,7 @@ import feedparser
 import json
 import re
 import html
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from html import escape
 
@@ -47,7 +47,7 @@ else:
     historico_raw = []
 
 # Limpar histórico antigo
-limite_data = datetime.now() - timedelta(days=DIAS_HISTORICO)
+limite_data = datetime.now(timezone.utc) - timedelta(hours=3) - timedelta(days=DIAS_HISTORICO)
 historico = [
     item for item in historico_raw
     if datetime.fromisoformat(item.get("data", "2000-01-01")) > limite_data
@@ -165,7 +165,7 @@ for fonte in fontes:
 # SALVAR HISTÓRICO
 # ══════════════════════════════════════════════════
 
-agora_iso = datetime.now().isoformat()
+agora_iso = (datetime.now(timezone.utc) - timedelta(hours=3)).isoformat()
 for titulo in novos_titulos:
     historico.append({"titulo": titulo, "data": agora_iso})
 
@@ -178,7 +178,7 @@ print(f"\nHistórico: {len(historico)} títulos salvos")
 # SALVAR NOTICIAS.JSON
 # ══════════════════════════════════════════════════
 
-agora          = datetime.now()
+agora          = datetime.now(timezone.utc) - timedelta(hours=3)  # UTC-3 Brasília
 data_formatada = agora.strftime("%d/%m/%Y")
 hora_formatada = agora.strftime("%Hh%M")
 
