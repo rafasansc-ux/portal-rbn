@@ -838,9 +838,6 @@ const CALENDARIO = {
   '04-22': '🌿 Dia do Descobrimento do Brasil / Dia da Terra',
   '04-23': '📚 Dia do Livro',
   '05-01': '👷 Dia do Trabalho',
-  '05-05': '🐦 Dia do Meio Ambiente',
-  '05-07': '📻 Dia Mundial do Rádio e das Telecomunicações',
-  '05-11': '👩‍👦 Dia das Mães',
   '05-15': '👨‍🏫 Dia do Professor',
   '05-25': '🌍 Dia da África',
   '06-05': '🌎 Dia Mundial do Meio Ambiente',
@@ -854,7 +851,6 @@ const CALENDARIO = {
   '07-28': '🎵 Dia do Músico Brasileiro',
   '08-09': '🌿 Dia Internacional dos Povos Indígenas',
   '08-11': '⚖️ Dia do Advogado',
-  '08-13': '👨‍👩‍👧 Dia dos Pais',
   '08-25': '🌺 Dia do Soldado',
   '09-01': '🌸 Início da Primavera',
   '09-07': '🇧🇷 Independência do Brasil',
@@ -879,14 +875,16 @@ const CALENDARIO = {
 };
 
 function renderHeroDataExtra(){
-  const agora = new Date();
-  const mes   = String(agora.getMonth()+1).padStart(2,'0');
-  const dia   = String(agora.getDate()).padStart(2,'0');
+  // Usa horário de Brasília (UTC-3)
+  const agora = new Date(new Date().getTime() - 3 * 60 * 60 * 1000);
+  const mes   = String(agora.getUTCMonth()+1).padStart(2,'0');
+  const dia   = String(agora.getUTCDate()).padStart(2,'0');
   const chave = `${mes}-${dia}`;
 
-  // Dias restantes no ano
-  const fimAno    = new Date(agora.getFullYear(), 11, 31);
-  const diff      = Math.ceil((fimAno - agora) / (1000*60*60*24));
+  // Dias restantes no ano (em horário local)
+  const hoje  = new Date();
+  const fimAno = new Date(hoje.getFullYear(), 11, 31);
+  const diff   = Math.ceil((fimAno - hoje) / (1000*60*60*24));
   const diasLabel = diff === 1 ? 'falta 1 dia' : `faltam ${diff} dias`;
 
   const dataCom = CALENDARIO[chave] || '';
