@@ -983,12 +983,8 @@ function renderTemasFontes(){
 
 function abrirModalConfig(){
   renderTemasFontes();
-  // reset lock
-  document.getElementById('config-lock').style.display='flex';
-  document.getElementById('config-conteudo').style.display='none';
-  document.getElementById('cfg-senha').value='';
-  document.getElementById('cfg-senha-erro').textContent='';
-  document.getElementById('modal-cfg-visual').classList.add('on');
+  const m = document.getElementById('modal-cfg-visual');
+  m.style.display='flex';
 }
 
 function renderBoletim(){
@@ -1155,7 +1151,7 @@ function mostrarMsg(txt){
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 </script>
 <!-- MODAL CONFIG VISUAL -->
-<div class="modal-overlay" id="modal-cfg-visual">
+<div id="modal-cfg-visual" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:500;align-items:center;justify-content:center;padding:20px">
   <div style="background:var(--azul-painel);border:1px solid var(--azul-borda);border-radius:16px;padding:28px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto">
     <div style="font-family:'Montserrat',sans-serif;font-size:18px;font-weight:800;margin-bottom:20px;letter-spacing:-.5px">⚙️ Personalizar Portal</div>
 
@@ -1172,7 +1168,7 @@ function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
     </div>
 
     <div style="display:flex;justify-content:flex-end">
-      <button class="btn-sair" onclick="document.getElementById('modal-cfg-visual').classList.remove('on')" style="padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700">Fechar</button>
+      <button class="btn-sair" onclick="document.getElementById('modal-cfg-visual').style.display='none'" style="padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700">Fechar</button>
     </div>
   </div>
 </div>
