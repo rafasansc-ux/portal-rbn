@@ -245,10 +245,10 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
   <div class="lbox">
     <div class="login-logo">
       <div class="logo-mark">
-        <img src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:64px;height:64px;object-fit:contain;filter:brightness(0) invert(1)">
+        <img class="logo-portal" src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:64px;height:64px;object-fit:contain;filter:brightness(0) invert(1)">
       </div>
-      <div style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:32px;letter-spacing:-1px;text-align:center;color:#EEF3FF;line-height:1">RBN 94,3</div>
-      <div class="login-sub" style="margin-top:6px">Portal da Redação</div>
+      <div id="login-nome-radio" style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:32px;letter-spacing:-1px;text-align:center;color:#EEF3FF;line-height:1">RBN 94,3</div>
+      <div class="login-sub" id="login-slogan" style="margin-top:6px">Portal da Redação</div>
     </div>
     <label for="inp-user">Usuário</label>
     <input type="text" id="inp-user" placeholder="seu.usuario" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
@@ -267,11 +267,11 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
   <div class="topbar">
     <div class="tb-logo">
       <div class="tb-mark">
-        <img src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:20px;height:20px;object-fit:contain;filter:brightness(0) invert(1)">
+        <img class="logo-portal" src="https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png" alt="RBN" style="width:20px;height:20px;object-fit:contain;filter:brightness(0) invert(1)">
       </div>
       <div class="tb-text">
-        <div class="tb-rbn">rbn</div>
-        <div class="tb-freq">94,3 FM</div>
+        <div class="tb-rbn" id="tb-nome-radio">rbn</div>
+        <div class="tb-freq" id="tb-freq-radio">94,3 FM</div>
       </div>
     </div>
 
@@ -981,11 +981,138 @@ function renderTemasFontes(){
     </div>`).join('');
 }
 
+// ═══════════════════════════════════════
+// LOGO DO PORTAL
+// ═══════════════════════════════════════
+let logoPortalTemp = null;
+
+function carregarLogoPortal(input){
+  const file = input.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    logoPortalTemp = e.target.result;
+    const prev = document.getElementById('cfg-logo-preview');
+    const ph   = document.getElementById('cfg-logo-placeholder');
+    if(prev){ prev.src = logoPortalTemp; prev.style.display = ''; }
+    if(ph) ph.style.display = 'none';
+  };
+  reader.readAsDataURL(file);
+}
+
+function salvarLogoPortal(){
+  if(!logoPortalTemp){ toast('Selecione uma imagem primeiro!'); return; }
+  localStorage.setItem('portal_logo', logoPortalTemp);
+  aplicarLogoPortal(logoPortalTemp);
+  logoPortalTemp = null;
+  document.getElementById('modal-cfg-visual').style.display='none';
+  toast('Logo atualizada!');
+}
+
+function removerLogoPortal(){
+  if(!confirm('Remover a logo e voltar ao padrão?')) return;
+  localStorage.removeItem('portal_logo');
+  logoPortalTemp = null;
+  // Volta para a logo padrão do GitHub
+  const logoUrl = 'https://raw.githubusercontent.com/rafasansc-ux/portal-rbn/main/LOGO_RBN-03.png';
+  document.querySelectorAll('.logo-portal').forEach(img => { img.src = logoUrl; img.style.display = ''; });
+  const prev = document.getElementById('cfg-logo-preview');
+  const ph   = document.getElementById('cfg-logo-placeholder');
+  if(prev) prev.style.display = 'none';
+  if(ph)   ph.style.display   = '';
+  document.getElementById('cfg-logo-input').value = '';
+  toast('Logo removida — voltou ao padrão!');
+}
+
+function aplicarLogoPortal(src){
+  document.querySelectorAll('.logo-portal').forEach(img => { img.src = src; img.style.display = ''; });
+}
+
+function carregarLogoSalvaPortal(){
+  const src = localStorage.getItem('portal_logo');
+  if(src) aplicarLogoPortal(src);
+}
+
+// Aplica logo salva ao carregar
+carregarLogoSalvaPortal();
+
 function abrirModalConfig(){
   renderTemasFontes();
-  const m = document.getElementById('modal-cfg-visual');
-  m.style.display='flex';
+  // Preenche campos com valores salvos
+  document.getElementById('cfg-nome-radio').value = localStorage.getItem('portal_nome') || 'RBN 94,3';
+  document.getElementById('cfg-slogan').value = localStorage.getItem('portal_slogan') || 'Portal da Redação';
+  const corSalva = localStorage.getItem('portal_cor') || '#1565E8';
+  document.getElementById('cfg-cor-picker').value = corSalva;
+  document.getElementById('cfg-cor-hex').value = corSalva;
+  document.getElementById('cfg-cor-preview').style.background = corSalva;
+
+  // Color picker → hex
+  document.getElementById('cfg-cor-picker').oninput = function(){
+    document.getElementById('cfg-cor-hex').value = this.value;
+    document.getElementById('cfg-cor-preview').style.background = this.value;
+  };
+  document.getElementById('cfg-cor-hex').oninput = function(){
+    const hex = this.value;
+    if(/^#[0-9A-Fa-f]{6}$/.test(hex)){
+      document.getElementById('cfg-cor-picker').value = hex;
+      document.getElementById('cfg-cor-preview').style.background = hex;
+    }
+  };
+
+  // Preview logo
+  const logoSalva = localStorage.getItem('portal_logo');
+  const prev = document.getElementById('cfg-logo-preview');
+  const ph   = document.getElementById('cfg-logo-placeholder');
+  if(logoSalva && prev){ prev.src = logoSalva; prev.style.display = ''; if(ph) ph.style.display = 'none'; }
+  else { if(prev) prev.style.display = 'none'; if(ph) ph.style.display = ''; }
+  logoPortalTemp = null;
+  document.getElementById('cfg-logo-input').value = '';
+
+  document.getElementById('modal-cfg-visual').style.display='flex';
 }
+
+function aplicarIdentidade(){
+  const nome   = document.getElementById('cfg-nome-radio').value.trim() || 'RBN 94,3';
+  const slogan = document.getElementById('cfg-slogan').value.trim() || 'Portal da Redação';
+  const cor    = document.getElementById('cfg-cor-hex').value.trim();
+  const corVal = /^#[0-9A-Fa-f]{6}$/.test(cor) ? cor : '#1565E8';
+
+  // Aplica nome
+  const elNome = document.getElementById('login-nome-radio');
+  const elSlogan = document.getElementById('login-slogan');
+  const elTbNome = document.getElementById('tb-nome-radio');
+  if(elNome) elNome.textContent = nome;
+  if(elSlogan) elSlogan.textContent = slogan;
+  if(elTbNome) elTbNome.textContent = nome.split(' ')[0].toLowerCase();
+
+  // Aplica cor principal
+  document.documentElement.style.setProperty('--azul', corVal);
+  // Gera variações da cor
+  document.documentElement.style.setProperty('--frequencia', corVal);
+
+  // Salva
+  localStorage.setItem('portal_nome', nome);
+  localStorage.setItem('portal_slogan', slogan);
+  localStorage.setItem('portal_cor', corVal);
+
+  toast('Identidade aplicada!');
+}
+
+// Aplica identidade salva ao carregar
+(function(){
+  const nome   = localStorage.getItem('portal_nome');
+  const slogan = localStorage.getItem('portal_slogan');
+  const cor    = localStorage.getItem('portal_cor');
+  if(nome){
+    const elNome = document.getElementById('login-nome-radio');
+    const elSlogan = document.getElementById('login-slogan');
+    const elTbNome = document.getElementById('tb-nome-radio');
+    if(elNome) elNome.textContent = nome;
+    if(elSlogan) elSlogan.textContent = slogan||'Portal da Redação';
+    if(elTbNome) elTbNome.textContent = nome.split(' ')[0].toLowerCase();
+  }
+  if(cor) document.documentElement.style.setProperty('--azul', cor);
+})();
 
 function renderBoletim(){
   document.getElementById('bol-prev').innerHTML=[...NOTICIAS,...ESPORTE].map(renderEd).join('');
@@ -1154,6 +1281,54 @@ function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
 <div id="modal-cfg-visual" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:500;align-items:center;justify-content:center;padding:20px">
   <div style="background:var(--azul-painel);border:1px solid var(--azul-borda);border-radius:16px;padding:28px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto">
     <div style="font-family:'Montserrat',sans-serif;font-size:18px;font-weight:800;margin-bottom:20px;letter-spacing:-.5px">⚙️ Personalizar Portal</div>
+
+    <!-- IDENTIDADE -->
+    <div style="background:var(--azul-bg);border:1px solid var(--azul-borda);border-radius:10px;padding:18px;margin-bottom:16px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:14px">📻 Identidade da Rádio</div>
+      <div style="margin-bottom:12px">
+        <label style="display:block;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:6px">Nome da Rádio</label>
+        <input id="cfg-nome-radio" type="text" placeholder="Ex: RBN 94,3" style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:10px 14px;color:var(--branco);font-family:var(--font);font-size:14px;outline:none">
+      </div>
+      <div style="margin-bottom:12px">
+        <label style="display:block;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:6px">Slogan / Subtítulo</label>
+        <input id="cfg-slogan" type="text" placeholder="Ex: Portal da Redação" style="width:100%;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:10px 14px;color:var(--branco);font-family:var(--font);font-size:14px;outline:none">
+      </div>
+      <div>
+        <label style="display:block;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:6px">Cor Principal</label>
+        <div style="display:flex;gap:10px;align-items:center">
+          <input id="cfg-cor-picker" type="color" value="#1565E8" style="width:48px;height:40px;border:none;border-radius:8px;cursor:pointer;padding:2px;background:var(--azul-card)">
+          <input id="cfg-cor-hex" type="text" placeholder="#1565E8" maxlength="7" style="flex:1;background:var(--azul-card);border:1px solid var(--azul-borda);border-radius:8px;padding:10px 14px;color:var(--branco);font-family:monospace;font-size:14px;outline:none">
+          <div id="cfg-cor-preview" style="width:40px;height:40px;border-radius:8px;background:#1565E8;flex-shrink:0"></div>
+        </div>
+      </div>
+      <button onclick="aplicarIdentidade()" style="margin-top:14px;width:100%;background:var(--azul);color:#fff;border:none;border-radius:8px;padding:10px;font-family:var(--font);font-size:13px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;cursor:pointer">Aplicar</button>
+    </div>
+
+    <!-- LOGO -->
+    <div style="background:var(--azul-bg);border:1px solid var(--azul-borda);border-radius:10px;padding:18px;margin-bottom:16px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--cinza);margin-bottom:14px">🖼️ Logo do Portal</div>
+      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
+        <div style="width:64px;height:64px;background:var(--azul);border-radius:14px;display:flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden">
+          <img id="cfg-logo-preview" src="" alt="Logo" style="width:52px;height:52px;object-fit:contain;filter:brightness(0) invert(1);display:none">
+          <span id="cfg-logo-placeholder" style="font-size:24px">📻</span>
+        </div>
+        <div style="flex:1">
+          <div style="font-size:13px;color:var(--branco);margin-bottom:4px;font-weight:600">Logo atual</div>
+          <div style="font-size:11px;color:var(--cinza)">PNG ou JPG · Recomendado fundo transparente ou escuro</div>
+        </div>
+      </div>
+      <label style="display:block;background:var(--azul-card);border:2px dashed var(--azul-borda);border-radius:10px;padding:16px;text-align:center;cursor:pointer;transition:border-color .2s"
+             onmouseover="this.style.borderColor='var(--azul)'" onmouseout="this.style.borderColor='var(--azul-borda)'">
+        <input type="file" id="cfg-logo-input" accept="image/*" style="display:none" onchange="carregarLogoPortal(this)">
+        <div style="font-size:24px;margin-bottom:6px">📁</div>
+        <div style="font-size:13px;font-weight:700;color:var(--branco)">Clique para selecionar imagem</div>
+        <div style="font-size:11px;color:var(--cinza);margin-top:4px">PNG · JPG · WebP</div>
+      </label>
+      <div style="display:flex;gap:8px;margin-top:12px">
+        <button onclick="salvarLogoPortal()" style="flex:1;background:var(--azul);color:#fff;border:none;border-radius:8px;padding:10px;font-family:var(--font);font-size:12px;font-weight:700;cursor:pointer;text-transform:uppercase;letter-spacing:.5px">💾 Salvar logo</button>
+        <button onclick="removerLogoPortal()" style="background:rgba(239,68,68,.1);color:#EF4444;border:1px solid rgba(239,68,68,.3);border-radius:8px;padding:10px 14px;font-family:var(--font);font-size:12px;font-weight:700;cursor:pointer;text-transform:uppercase;letter-spacing:.5px">🗑️ Remover</button>
+      </div>
+    </div>
 
     <!-- TEMAS -->
     <div style="background:var(--azul-bg);border:1px solid var(--azul-borda);border-radius:10px;padding:18px;margin-bottom:16px">
