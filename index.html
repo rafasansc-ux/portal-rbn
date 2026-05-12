@@ -298,7 +298,7 @@ body{font-family:'Montserrat',sans-serif;background:var(--azul-bg);color:var(--b
       <div>
         <div class="ao-vivo"><span class="dot"></span>Redação ao vivo</div>
         <h1>Portal da<br><em>Redação RBN</em></h1>
-        <p class="hero-sub">28/04/2026 &nbsp;·&nbsp; 16h00 &nbsp;·&nbsp; Coleta automática ativa</p>
+        <p class="hero-sub" id="hero-sub-data">Carregando...</p>
         <p class="hero-sub" id="hero-data-extra" style="margin-top:6px;color:var(--frequencia);font-size:12px;letter-spacing:.5px"></p>
       </div>
       <div class="stats">
@@ -600,8 +600,11 @@ function renderTodosDoJSON(){
   if(!DADOS_JSON || !DADOS_JSON.editorias) return;
 
   // Atualiza data/hora do hero
-  if(DADOS_JSON.data) document.querySelector('.hero-sub').textContent =
-    `${DADOS_JSON.data} · ${DADOS_JSON.hora} · Coleta automática ativa`;
+  // Atualiza data da última coleta (não o horário atual)
+  if(DADOS_JSON.data){
+    const ultimaColeta = `${DADOS_JSON.data} · Última coleta: ${DADOS_JSON.hora}`;
+    document.getElementById('hero-sub-data').textContent = ultimaColeta;
+  }
   renderHeroDataExtra();
 
   // Contador total
@@ -667,8 +670,21 @@ function ir(id,btn){
 // RELÓGIO
 // ═══════════════════════════════════════
 function iniciarRelogio(){
-  const atualiza=()=>{document.getElementById('relogio').textContent=new Date().toLocaleTimeString('pt-BR')};
-  atualiza();setInterval(atualiza,1000);
+  function atualiza(){
+    const agora = new Date();
+    const hora  = agora.toLocaleTimeString('pt-BR');
+    const data  = agora.toLocaleDateString('pt-BR');
+    // Topbar
+    const rel = document.getElementById('relogio');
+    if(rel) rel.textContent = hora;
+    // Hero — só atualiza a hora se ainda não carregou o JSON
+    const heroSub = document.getElementById('hero-sub-data');
+    if(heroSub && heroSub.textContent === 'Carregando...'){
+      heroSub.textContent = `${data} · ${hora}`;
+    }
+  }
+  atualiza();
+  setInterval(atualiza, 1000);
 }
 
 // ═══════════════════════════════════════
