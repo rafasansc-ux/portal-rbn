@@ -1,9 +1,104 @@
 {
-  "gerado_em": "2026-07-05T07:11:59.351029",
+  "gerado_em": "2026-07-05T09:07:20.435408",
   "data": "05/07/2026",
-  "hora": "07h11",
-  "total": 29,
+  "hora": "09h07",
+  "total": 54,
   "editorias": [
+    {
+      "nome": "Local",
+      "fontes": [
+        {
+          "nome": "OCP News",
+          "noticias": [
+            {
+              "titulo": "Grave acidente na BR-470 deixa quatro feridos, entre eles um menino de 9 anos",
+              "resumo": "Um grave acidente envolvendo três veículos deixou quatro pessoas feridas na madrugada deste domingo (5), na BR-470, na localidade de […] The post Grave acidente na BR-470 deixa quatro feridos, entre eles um menino de 9 anos appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/grave-acidente-na-br-470-deixa-quatro-feridos-entre-eles-um-menino-de-9-anos",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Papa Leão faz apelo por acolhimento a imigrantes no aniversário da independência dos EUA",
+              "resumo": "O Papa Leão marcou o 250º aniversário da independência dos Estados Unidos, neste sábado (4), com um apelo para que […] The post Papa Leão faz apelo por acolhimento a imigrantes no aniversário da independência dos EUA appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/papa-leao-faz-apelo-por-acolhimento-a-imigrantes-no-aniversario-da-independencia-dos-eua",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Motorista fica em estado grave após capotamento na BR-280, em Guaramirim",
+              "resumo": "Os Bombeiros Voluntários de Guaramirim foram acionados na noite deste sábado (4) para atender um capotamento na BR-280, em Guaramirim. […] The post Motorista fica em estado grave após capotamento na BR-280, em Guaramirim appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/motorista-fica-em-estado-grave-apos-capotamento-na-br-280-em-guaramirim",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Último dia da Expo 150 reúne debates, atrações culturais e transmissão do jogo do Brasil",
+              "resumo": "A Expo 150 chega ao fim neste domingo (5), encerrando a programação especial em comemoração aos 150 anos de Jaraguá […] The post Último dia da Expo 150 reúne debates, atrações culturais e transmissão do jogo do Brasil appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/ultimo-dia-da-expo-150-reune-debates-atracoes-culturais-e-transmissao-do-jogo-do-brasil",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Estado",
+      "fontes": [
+        {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "Além de Vozinha: moradora de SC tem nome inspirado em craque da Seleção de 1986 porque 'pai insistiu'",
+              "resumo": "Josemara da Silva e Josimar José Évora Dias, o Vozinha, têm nomes inspirados no jogador Josimar Higino Pereira Arquivo pessoal e TV Globo/Reprodução Josemara da Silva, moradora de Biguaçu, na Grande Florianópolis, e Josimar José Évora Dias, o goleiro de Cabo Verde conhecido com Vozinha, têm um ponto em comum: os dois tiveram o nome escolhido em homenagem a Josimar Higino Pereira, lateral-direito brasileiro que brilhou na Seleção de 1986.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/28/alem-vozinha-moradora-sc-nome-inspirado-craque-selecao-1986.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
+          "nome": "ND Mais",
+          "noticias": [
+            {
+              "titulo": "Você sabe por que o volante é na direita na Europa e na esquerda no Brasil? Especialista conta o segredo dos séculos",
+              "resumo": "Mão inglesa surgiu muito antes dos carros e uma decisão tomada há séculos ainda explica por que o Brasil faz diferente O post Você sabe por que o volante é na direita na Europa e na esquerda no Brasil? Especialista conta o segredo dos séculos apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/carros/volante-e-na-direita-na-europa-e-na-esquerda-no-brasil/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Acidente com três veículos faz ônibus despencar de ponte no RS; um morre e sete ficam feridos",
+              "resumo": "Acidente com ônibus ocorreu na ERS-324, entre Casca e Paraí. Condutor morreu no local e motorista de carro envolvido deixou a cena antes da chegada da polícia O post Acidente com três veículos faz ônibus despencar de ponte no RS; um morre e sete ficam feridos apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/acidente-onibus-ponte-rs-motorista-morto-sete-feridos/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Brazilcore 2026: como usar verde e amarelo com elegância para torcer pela Seleção sem perder o estilo",
+              "resumo": "Brazilcore 2026 mostra que é possível vestir as cores da Seleção de forma sofisticada, equilibrando tendências atuais com a identidade brasileira O post Brazilcore 2026: como usar verde e amarelo com elegância para torcer pela Seleção sem perder o estilo apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/moda-e-beleza/brazilcore-2026-como-usar-verde-e-amarelo-com-elegancia-para-torcer-pela-selecao-sem-perder-o-estilo/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Menos burocracia e custo zero em curso teórico levam a recorde de emissões de CNH do Brasil",
+              "resumo": "Com economia bilionária para motoristas, CNH do Brasil bate recorde histórico de emissões O post Menos burocracia e custo zero em curso teórico levam a recorde de emissões de CNH do Brasil apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/cnh-do-brasil-registra-recorde-historico-de-emissoes/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Por que a Noruega é rica? A resposta não é o petróleo.",
+              "resumo": "Antes de enfrentar o Brasil na Copa, a Noruega revela uma lição econômica importante: recursos naturais ajudam, mas são as instituições que fazem a riqueza durar. O post Por que a Noruega é rica? A resposta não é o petróleo. apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/mundo/por-que-a-noruega-e-rica-a-resposta-nao-e-o-petroleo/",
+              "fonte": "ND Mais",
+              "editoria": "Estado"
+            }
+          ]
+        }
+      ]
+    },
     {
       "nome": "Brasil",
       "fontes": [
@@ -11,37 +106,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Aprenda a fazer guisado de carneiro com farofa de cuscuz",
-              "resumo": "Receita de guisado de carneiro com farofa de cuscuz foi destaque no Inter TV Rural Inter TV Costa Branca O sabor do sertão é o destaque da receita exibida no quadro \"Bom Que Só\", do Inter TV Rural deste domingo (5). Preparado pelo gastrólogo Alexandre Dantas, o guisado de carneiro com farofa de cuscuz é uma receita que combina tradição, simplicidade e muito sabor.",
-              "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/05/aprenda-a-fazer-guisado-de-carneiro-com-farofa-de-cuscuz.ghtml",
+              "titulo": "Região de Campinas faz quase 13 cirurgias eletivas de vesícula por dia em meio a alta pós-pandemia",
+              "resumo": "IMAGEM DE ARQUIVO: Paciente passa por cirurgia na região do abdômen Divulgação A região de Campinas (SP) realizou 4.661 cirurgias eletivas de vesícula pelo Sistema Único de Saúde (SUS) em 2025, uma média de quase 13 procedimentos por dia. O volume permanece em um patamar superior ao registrado antes da pandemia de Covid-19: em comparação a 2019, quando foram feitas 3.377 operações, o aumento é de cerca de 38%.",
+              "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/regiao-de-campinas-faz-quase-13-cirurgias-eletivas-de-vesicula-por-dia-em-meio-a-alta-pos-pandemia.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Desabamento de ponte no Acre completa 1 mês; ferido segue internado",
-              "resumo": "Ponte que desabou e deixou quatro feridos no AC ligava distritos de município; veja como ficou a obra Um mês após o desabamento da Ponte Frei Paolino Baldassari, em Sena Madureira, no interior do Acre, o juiz aposentado Edinaldo Muniz, de 54 anos, segue internado em São Paulo. O acidente, ocorrido no dia 5 de junho, deixou quatro pessoas feridas e teve repercussão nacional.",
-              "link": "https://g1.globo.com/ac/acre/noticia/2026/07/05/desabamento-de-ponte-no-acre-completa-1-mes.ghtml",
+              "titulo": "Férias escolares: juiz alerta para riscos e crimes ligados ao uso de cerol e linha chilena no Amapá",
+              "resumo": "Soltar pipa usando linha com cerol é crime Reprodução/TV TEM Durante as férias escolares, o juiz Augusto Leite, titular do Juizado Especial Criminal de Macapá, fez um alerta sobre os perigos e as consequências legais do uso de cerol e linha chilena em pipas. Segundo ele, além de colocar vidas em risco, a prática pode gerar responsabilização criminal e civil.",
+              "link": "https://g1.globo.com/ap/amapa/noticia/2026/07/05/ferias-escolares-juiz-alerta-para-riscos-e-crimes-ligados-ao-uso-de-cerol-e-linha-chilena-no-amapa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Balneários: veja horários e preços de entrada para curtir as férias no AM",
-              "resumo": "Julho é mês de férias escolares e de calor intenso na Amazônia. Para aproveitar o verão, famílias buscam balneários em Manaus e na região metropolitana. O g1 reuniu os principais locais de lazer. Confira abaixo: Balneário do Sesc Balneário do Sesc, em Manaus. Divulgação/SESC-AM O balneário do Serviço Social do Comércio (Sesc) é uma opção para quem quer se refrescar sem sair de Manaus. Fica na Avenida Constantinopla, nº 288, bairro Alvorada.",
-              "link": "https://g1.globo.com/am/amazonas/noticia/2026/07/05/balnearios-veja-horarios-e-precos-de-entrada-para-curtir-as-ferias-no-am.ghtml",
+              "titulo": "Muito além do quarto: por que o robe virou uma das peças mais versáteis do vestuário",
+              "resumo": "Existem peças que entram no guarda-roupa para cumprir uma única função. Outras surpreendem justamente porque acompanham diferentes momentos do dia sem que a gente perceba. O robe faz parte desse segundo grupo. Quem costuma usá-lo sabe que ele oferece conforto nos dias frios, mas basta olhar com um pouco mais de atenção para descobrir que seu potencial vai muito além desse primeiro papel.",
+              "link": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/07/05/muito-alem-do-quarto-por-que-o-robe-virou-uma-das-pecas-mais-versateis-do-vestuario.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Seleção para médicos oferece salários de até R$ 22,5 mil em hospital do interior do TO",
-              "resumo": "Hospital Regional de Araguaína Divulgação SES-TO O Governo do Estado abriu um processo seletivo para a contratação temporária de médicos especialistas que atuarão no Hospital de Referência de Araguaína, no norte do Tocantins. Os salários variam de R$ 7,5 mil a R$ 22,5 mil, conforme a carga horária.",
-              "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/05/selecao-para-medicos-oferece-salarios-de-ate-r-225-mil-em-hospital-do-interior-do-to.ghtml",
+              "titulo": "Você viu? Expoacre Juruá, crise no transporte coletivo, Dom Joaquín renuncia e mais",
+              "resumo": "Confira os principais destaques do g1 AC entre 28 de junho a 4 de julho g1 AC O g1 lista as reportagens mais acessadas para você ficar por dentro de tudo que aconteceu entre 28 de junho a 4 de julho. Confira abaixo.",
+              "link": "https://g1.globo.com/ac/acre/noticia/2026/07/05/voce-viu-expoacre-jurua-crise-no-transporte-coletivo-dom-joaquin-renuncia-e-mais.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Filha de Neymar, Mel completa 1 ano em dia decisivo para para o Brasil na Copa do Mundo",
-              "resumo": "Neymar joga decisão da Copa do Mundo no dia do aniversário de um ano da filha Mel Reprodução/Instagram A filha de Neymar, Mel, completa 1 ano neste domingo (5), enquanto o craque se prepara para vestir a camisa 10 em confronto decisivo do Brasil pelas oitavas de final da Copa do Mundo. A menina é fruto do relacionamento com Bruna Biancardi, com quem já tem Mavie e que espera outra filha.",
-              "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/filha-de-neymar-mel-completa-1-ano-em-dia-decisivo-para-para-o-brasil-na-copa-do-mundo.ghtml",
+              "titulo": "Veja o que abre e fecha na Baixada Santista durante o jogo do Brasil na Copa do Mundo",
+              "resumo": "Disputa entre Brasil e Noruega acontece neste domingo (5), às 17h Reuters/Troy Taormina Shoppings, pontos turísticos e unidades do Bom Prato da Baixada Santista terão horários alterados neste domingo (5) devido ao jogo do Brasil na Copa. A Seleção Brasileira enfrenta a Noruega às 17h (horário de Brasília), pelas oitavas de final.",
+              "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/veja-o-que-abre-e-fecha-na-baixada-santista-durante-o-jogo-do-brasil-na-copa-do-mundo.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -51,37 +146,30 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Brasil x Noruega: qual é a seleção mais valiosa da partida deste domingo? Veja o top 10",
-              "resumo": "Brasil enfrenta a Noruega pelas oitavas de final da Copa do Mundo de 2026. Reuters A Noruega será a seleção mais valiosa enfrentada pelo Brasil até agora na Copa do Mundo de 2026. A partida ocorre neste domingo (5), às 17h (horário de Brasília). Liderados por Erling Haaland, os jogadores da equipe nórdica são avaliados em 589,9 milhões de euros (R$ 3,49 bilhões).",
-              "link": "https://g1.globo.com/economia/noticia/2026/07/05/brasil-x-noruega-qual-e-a-selecao-mais-valiosa-da-partida-deste-domingo-veja-o-top-10.ghtml",
+              "titulo": "Descarte correto de embalagens de defensivos fortalece sustentabilidade no campo",
+              "resumo": "Descarte correto de embalagens de defensivos fortalece sustentabilidade no campo Reprodução/TV TEM A sustentabilidade na produção agrícola vai muito além do manejo das lavouras. Depois da aplicação dos defensivos agrícolas, uma etapa igualmente importante começa: o descarte correto das embalagens vazias.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/descarte-correto-de-embalagens-de-defensivos-fortalece-sustentabilidade-no-campo.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "El Niño ameaça produção e pode encarecer alimentos no Brasil; veja os mais afetados",
-              "resumo": "Café é o principal produto de exportação de Varginha. Crédito: Divulgação. Está cada vez mais claro: o El Niño pode reduzir a oferta de alguns alimentos e aumentar os preços nos supermercados brasileiros, apontam economistas consultados pelo g1. \"Certamente vai impactar preço dos alimentos.",
-              "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/05/el-nino-ameaca-producao-e-pode-encarecer-alimentos-no-brasil-veja-os-mais-afetados.ghtml",
+              "titulo": "Silagem fortalece nutrição do gado nos períodos de estiagem",
+              "resumo": "Silagem fortalece nutrição do gado nos períodos de estiagem TV TEM A chegada do inverno e a ausência de chuvas trazem também o período de estiagem, quando o pasto seca e os animais têm maior dificuldade para se alimentar. É neste momento que a silagem favorece o ganho de peso e a produção de leite.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/silagem-fortalece-nutricao-do-gado-nos-periodos-de-estiagem.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Muito além das remadas: a surpreendente economia dos vikings — que enfrentam o Brasil na Copa",
-              "resumo": "Haaland fala sobre as chances da Noruega contra o Brasil: \"Pequenas\" Após avançar às oitavas de final da Copa do Mundo, o Brasil enfrenta uma seleção que costuma levar para as arquibancadas um dos símbolos mais conhecidos da história nórdica: a remada viking.",
-              "link": "https://g1.globo.com/economia/noticia/2026/07/05/a-surpreendente-economia-dos-vikings-que-enfrentam-o-brasil-na-copa.ghtml",
+              "titulo": "Seu salário é bom? Veja por que a resposta depende de mais do que o valor na conta",
+              "resumo": "Você ganha bem ou mal? Entenda 3 formas de avaliar sua renda Ganhar bem ou mal não é apenas uma questão de salário. Na economia, a renda é relativa e pode ser analisada por diferentes critérios — como a posição na distribuição de renda do país, o poder de compra e quanto sobra no fim do mês. O custo de vida ajuda a definir o valor real do rendimento. Outro fator é a estabilidade. Ganhos pontuais não sustentam padrão de vida ao longo do tempo.",
+              "link": "https://g1.globo.com/g1-explica/noticia/2026/07/05/seu-salario-e-bom-veja-por-que-a-resposta-depende-de-mais-do-que-o-valor-na-conta.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Com medo de furtos, produtores reforçam segurança e deixam de armazenar café e pimenta no ES",
-              "resumo": "Época de colheita muda rotina de produtores para evitar prejuízos com gado, pimenta e café A insegurança no campo tem mudado a rotina de produtores rurais do Norte do Espírito Santo, principalmente durante o período de colheita de culturas como café e pimenta-do-reino. Com receio de furtos e roubos, agricultores passaram a adotar medidas extras de proteção e até a alterar a forma de armazenamento da produção.",
-              "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/07/05/com-medo-de-furtos-produtores-reforcam-seguranca-e-deixam-de-armazenar-cafe-e-pimenta-no-es.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Copa impulsiona contratações temporárias no Brasil; veja os direitos dos trabalhadores",
-              "resumo": "Copa do Mundo: Brasil pode ter mais dois jogos em dias úteis A Copa do Mundo de 2026 já movimenta o mercado de trabalho brasileiro, mesmo sendo realizada nos Estados Unidos, Canadá e México. O torneio, que segue até 19 de julho, tem impulsionado o consumo de alimentos, bebidas, televisores, artigos esportivos e produtos para confraternizações.",
-              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/05/copa-impulsiona-contratacoes-temporarias-no-brasil-veja-os-direitos-dos-trabalhadores.ghtml",
+              "titulo": "Mega-Sena, concurso 3026: confira os números sorteados",
+              "resumo": "Concurso 3026 da Mega-Sena - veja sorteio O sorteio do concurso 3026 da Mega-Sena foi realizado na noite desta quinta-feira (2), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas era de R$ 25,8 milhões. No entanto, ninguém levou a faixa principal e o valor acumulou para R$ 33 milhões.",
+              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/02/mega-sena-concurso-3026-confira-os-numeros-sorteados.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -91,37 +179,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Consumo de alimentos industrializados em jogos da seleção exige atenção",
-              "resumo": "Cervejas, refrigerantes e salgadinhos podem elevar a pressão arterial se consumidos em excesso",
-              "link": "https://www.cnnbrasil.com.br/saude/consumo-de-alimentos-industrializados-em-jogos-da-selecao-exige-atencao/",
+              "titulo": "Real Madrid anuncia contratação de Dumfries por quatro temporadas",
+              "resumo": "Lateral holandês deixa a Inter de Milão após cinco anos",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-anuncia-contratacao-de-dumfries-por-quatro-temporadas/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "O que o excesso de notícias ruins faz com sua mente? Entenda com Dr. Kalil",
-              "resumo": "Ao CNN Sinais Vitais, psiquiatras explicam como a exposição contínua a notícias negativas pode desencadear ansiedade e afetar a saúde mental",
-              "link": "https://www.cnnbrasil.com.br/saude/o-que-o-excesso-de-noticias-ruins-faz-com-sua-mente-entenda-com-dr-kalil/",
+              "titulo": "Quem é mais decisivo? Veja os números de Vini Jr e Haaland pelas seleções",
+              "resumo": "Brasil e Noruega se enfrentam neste domingo (5), em jogo válido pelas oitavas de final da Copa do Mundo 2026",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-e-mais-decisivo-veja-os-numeros-de-vini-jr-e-haaland-pelas-selecoes/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Preocupa? Haaland tem 9 gols contra dupla de zaga da Seleção Brasileira",
-              "resumo": "Atacante do Manchester City balançou as redes seis vezes contra Gabriel Magalhães e três diante de Marquinhos; confronto com zagueiro do Arsenal é marcado por embate físico e brigas dentro de campo",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/preocupa-haaland-tem-9-gols-contra-dupla-de-zaga-da-selecao-brasileira/",
+              "titulo": "À CNN, Murilo Huff fala sobre exposição de filho com Marilia Mendonça",
+              "resumo": "Em entrevista, o cantor disse que evita mostrar herdeiro nas redes sociais",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/a-cnn-murilo-huff-fala-sobre-exposicao-de-filho-com-marilia-mendonca/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Promessa de emprego na Rússia leva peruanos ao front na Ucrânia",
-              "resumo": "Homens foram atraídos com promessas de trabalho lucrativo e cidadania russa, mas acabaram em combate, com famílias desesperadas",
-              "link": "https://www.cnnbrasil.com.br/internacional/promessa-de-emprego-na-russia-leva-peruanos-ao-front-na-ucrania/",
+              "titulo": "Metas e lazer: veja como ter uma rotina de estudos equilibrada para o Enem",
+              "resumo": "É importante intercalar momentos de estudo e de diversão para não se sobrecarregar",
+              "link": "https://www.cnnbrasil.com.br/educacao/metas-e-lazer-veja-como-ter-uma-rotina-de-estudos-equilibrada-para-o-enem/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Qual a importância da terapia para jogadores na Copa? Psicóloga responde",
-              "resumo": "Acompanhamento fortalece equilíbrio emocional dentro e fora dos gramados",
-              "link": "https://www.cnnbrasil.com.br/lifestyle/qual-a-importancia-da-terapia-para-jogadores-na-copa-psicologa-responde-2/",
+              "titulo": "Inglaterra tem problema na zaga para jogo contra o México pela Copa",
+              "resumo": "Reece James é dúvida para duelo das oitavas de final",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-tem-problema-na-zaga-para-jogo-contra-o-mexico-pela-copa/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -136,10 +224,50 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Conheça a carreira política de Jorginho Mello, pré-candidato ao governo de SC - Rádio Itatiaia",
-              "resumo": "Conheça a carreira política de Jorginho Mello, pré-candidato ao governo de SC Rádio Itatiaia",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3U3TmF1U0NwTWlNLUV4RzlxazBxVmJGQi1zTm5NS1Y4UGlUenh4aVIyd3FuSVk3NXA4LTVaNVlSRkFXbWlUNjl0Y1Vac29JNm16QVJRSnctYXE2ckVXYldJRXIyOFUyREx0MmUyclR3S19ENHlOTm5XdXVFdTdEd0FIWTZkdXZPbDZNVjEwMGxkODdYdWNFaEoyd1FucUtvczdfUF95V2Z6bW1UaUpPTXdnMFVpWFlnRXRTTHN0TFo?oc=5",
+              "titulo": "Federação condiciona apoio a Amin para Jorginho Mello em SC - Gazeta do Povo",
+              "resumo": "Federação condiciona apoio a Amin para Jorginho Mello em SC Gazeta do Povo",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2dIdDI4SmJZZE1nWHNVZEcycE1rVWUtMFJqMnFZVmYtTTRlTjZPdldKVzBlM01RaHdiTXBHMEV0TFJUYm1rU2RmZjZsVmg5akhlR0d1OWlKSU1aS3FDSGlucy1tcGlLRG1RNVZUN0dyLXBqaEh6aWlLSkNGa1dvZmM4Znl0TXRoWlhSU3o2SkdrWElBcklOTF9OZnl5eEROWVBKa054UHRLWlFIczNUWXhNanlsdUEzSE5wYVIxYnVwRVY4MjVOekk2R2VDZjg?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Fim da escala 6×1 é aprovada com pressão popular e sim constrangido da oposição - Extra Classe",
+              "resumo": "Fim da escala 6×1 é aprovada com pressão popular e sim constrangido da oposição Extra Classe",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnFfUlZEdHBHcGZOTlB6Vi1JaHdkcG52M2h3U3psMTFsTXNQTmV2bFdlN2Jsbm9nSnRQVjdCVHZIbWFzaldYeDZqb1ZtU1kzdlpTRVNwM3l2UVp2ZWZYRVpyMnFpcl9OYV9URkZRT1lvWFpKNWpEbGoxQi1rWGlUZ2tsZEtTa05ZamlzTVAzVlVxQi1xSEh6amppRVZvbHZFUTdvOU51N3A4aFNPZ19mNjFYWU55bnR6LWxockVuMXd2QzVpV24w?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Pesquisa soa alerta, e Flávio Bolsonaro reage para dar ‘musculatura’ à candidatura de Carlos - VEJA",
+              "resumo": "Pesquisa soa alerta, e Flávio Bolsonaro reage para dar ‘musculatura’ à candidatura de Carlos VEJA",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemU1eGUyYklfSzEwaFJYQmRtN3B3b2Z4VVJyUkY2Slk4Q3dESTBocXdGeWxVYkd5ZFdoYlNOM0VpaHUxazVjd0VFU0NfeG51TVhRblJab2l6b3JiWkcyZ1Vyc3c2amsxQlNJTmFGbzVYTmltNURxUmkzMEVmMUd6ckFadzB6RUJkZkkwc2dlV3hiNk5lTDR0akJ3aTkzako1bWN6UHlxY0FZQXhpMmZBRTZWMjYxR3dOdGJqMHRhZlg5WnM?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Senado e Câmara aprovam no mesmo dia projeto que aumenta o número de deputados federais - G1",
+              "resumo": "Senado e Câmara aprovam no mesmo dia projeto que aumenta o número de deputados federais G1",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQck8xM2Jsb1pGdV9zTjN6QVlya0gyd3NOQUVqa0J1bW9QS3hvQWFOS3hlbE5admplUTVhZ01CMlNIOC1OUmZabFZTbEFaemhPUnNiUzJhQlZZSHlhWGlDcWJ1TER0M2VxMnc1dEM2a2tWdUhQMVZmNElKbE1kWTF3UThYTnB0blhMNXR2bVpoQmlkOTM5XzdnQmx2U21PelJ5aXNmUXJ5bU5UcTlzRlJHbG83TVlEMjY4WWNUcjhOZzdKYVJZeDdJcmItQV93dXNFQmU5TS1SV2VQUdIB6AFBVV95cUxORFRzbko1STRVamNMT2xmcG9qZGp2T2syVXhXXzJxb01hS0NfUHlHcURZcGlUaXFDbDNLbERudDc1VmVWSjVJa0hSaGgxUGZFb19oN2pyczZCVnZaN1MxbXlyQktIcU1iVGd3enhLc1VGZHdhLXhtQUJXMl9yR2NXY21SR2llQVgxOVN1c0FJTlFiZklabjZGRHRZRmNnVDdZX3BOckhFa3lkd2JXMnYwVXcwZmJEaUlsVmRrZnh2WDFVem1kbzlQTnI4R3JSOVBORjktbkkxMDJqTmt4VGpjZ1lId0JYN2st?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Como cada deputado votou no projeto que aumenta o número de vagas na Câmara; veja - Estadão",
+              "resumo": "Como cada deputado votou no projeto que aumenta o número de vagas na Câmara; veja Estadão",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGxJbzI0NG91dHA3bktUdzVTMnhGMzRRbEJPREVHeXE4aklMcHBtNlZiQmhfNEJHa21HOENkLUZSdWxiTTlxTHBGVHJpeGRGVDN3MGZZellrY0JJeUh1QmtDN3JhaTVzc0xzaFlyaG00MC1sVEFEMTkxN0QzTU03dWxha3U4d2tEaGJvQ0IyTmRaVVQ2bUNwSEFhYTZpZE53STRj0gGoAUFVX3lxTFA1N3F6ZV90SUxCU0ZwcDdPMDlmVjJ0RHlHT3FhQU1RdTFCN3pfWEhoTmJZVW9VRXpvYmhtbFhpNVJudHhzbmRidkF4VVEzTnJMWGdtRjR3SkJyT28xUEg2Rzc5djhXN3F4c3Vua1FNUktqS0x5NHdnTU1neWppTDlrUVdrWEVRUEhuR09OTDQzanBESExhR1JtVl9SU3pTTmxoSHB6cFhWbg?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            }
+          ]
+        },
+        {
+          "nome": "Política Brasil — Congresso e Presidente",
+          "noticias": [
+            {
+              "titulo": "Congresso não admite interferência na atuação dos Poderes, diz Alcolumbre - CNN Brasil",
+              "resumo": "Congresso não admite interferência na atuação dos Poderes, diz Alcolumbre CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanNzdFdyVjhXdHNyR1RtVVFEQWltZFpfd3pjVDJuQ283SVA0TTNqYk5rMVBEamdVWGJfQmVPaXl3bzZ5dFNzSGlkbzJiNzZTN0s1WHBSNzc1Ylc5emlNZVdKV0s5c0ZNQ2pWRXhJb3ZBT2FyWkY1T0lyb2RsVEtpSUpvRXZuajNOamlNbURGZWN6YVpmLWZOVG1yaUcyWW53R2xrR3dfX3NCTW55akhuVQ?oc=5",
+              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -153,37 +281,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Raio-x da Noruega: como joga o próximo adversário do Brasil na Copa do Mundo",
-              "resumo": "Marcação especial? Ancelotti diz como se prepara para parar Haaland a o A Noruega promete complicar a vida do Brasil no confronto válido pelas oitavas de final da Copa do Mundo neste domingo (05), às 17h, em Nova York, com transmissão ao vivo da Globo. Além da classificação para as quartas de final, o jogo também coloca um inc Noruega é a única seleção que o Brasil nunca venceu entre aquelas que enfrentou ao menos uma vez.",
-              "link": "https://ge.globo.com/blogs/painel-tatico/post/2026/07/05/raio-x-da-noruega-como-joga-o-proximo-adversario-do-brasil-na-copa-do-mundo.ghtml",
+              "titulo": "Acre no ge: veja os principais destaques do esporte acreano na última semana",
+              "resumo": "O ge apresenta os principais destaques do esporte acreano durante a semana, entre domingo (28) e este sábado (4).",
+              "link": "https://ge.globo.com/ac/noticia/2026/07/05/acre-no-ge-veja-os-principais-destaques-do-esporte-acreano-na-ultima-semana.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Corrida por degraus celebra 136 anos de Boa Vista; veja vencedores",
-              "resumo": "Um dos principais cartões-postais da capital roraimense foi palco do início das celebrações do aniversário de 136 anos de Boa Vista. A 2ª Corrida Vertical aconteceu neste sábado (4), com cerca de 300 atletas subindo mais de 450 degraus correndo até o topo do Mirante Edileusa Lóz.",
-              "link": "https://ge.globo.com/rr/atletismo/noticia/2026/07/05/corrida-por-degraus-celebra-136-anos-de-boa-vista-veja-vencedores.ghtml",
+              "titulo": "Presidente quer boa campanha na Copa Paulista para Comercial voltar ao cenário nacional",
+              "resumo": "Comercial anuncia volta de Raphael Pereira para Copa Paulista Com o Comercial prestes a disputar o primeiro campeonato sob a gestão de Wesley Rios, o presidente do clube demonstrou confiança no desempenho da equipe na Copa Paulista. Em entrevista ao Globo Esporte, o dirigente afirmou que o clube entra na competição com a expectativa de fazer uma campanha competitiva e, quem sabe, conquistar uma vaga em uma competição nacional já nesta temporada.",
+              "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/comercial-sp/noticia/2026/07/05/presidente-quer-boa-campanha-na-copa-paulista-para-comercial-voltar-ao-cenario-nacional.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Afundada em crise, Ponte amarga pior sequência do século: um ponto em 10 jogos",
-              "resumo": "Ponte Preta perde novamente em partida contra o Fortaleza no Ceará A derrota por 2 a 0 para o Fortaleza, na última quinta-feira, ampliou a crise da Ponte Preta na Série B do Campeonato Brasileiro. A equipe chegou a dez partidas sem vencer e atingiu a pior sequência do clube no século considerando o número de pontos em jejuns desse porte.",
-              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/07/05/afundada-em-crise-ponte-amarga-pior-sequencia-do-seculo-um-ponto-em-10-jogos.ghtml",
+              "titulo": "Figueirense terá sequência contra times da parte de cima na reta final da Série C",
+              "resumo": "Melhores momentos: Figueirense 1 x 1 Guarani, 12ª rodada da Série C - Vídeo: SportyNet O Figueirense terá uma sequência decisiva na reta final da primeira fase da Série C. Dos sete adversários restantes, cinco estão atualmente na zona de classificação para a próxima fase, e apenas um aparece abaixo do Furacão na tabela.",
+              "link": "https://ge.globo.com/sc/futebol/times/figueirense/noticia/2026/07/05/figueirense-tera-sequencia-contra-times-da-parte-de-cima-na-reta-final-da-serie-c.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Nascido quando CR7 já tinha jogado uma Copa, Yamal busca revanche do único encontro",
-              "resumo": "O que a faixa de cabelo de Lamine Yamal tem a ver com animes? Entenda O roteiro do clássico ibérico promete ser fascinante: um dos mais promissores estreantes desta Copa encara um dos mais emblemáticos jogadores da história dos Mundiais. Nesta segunda-feira, Espanha e Portugal entram em campo pelas oitavas de final, às 16h, em Dallas, colocando frente a frente a longevidade de Cristiano Ronaldo, de 41 anos, e a precocidade de Lamine Yamal, de 18.",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/nascido-quando-cr7-ja-tinha-jogado-uma-copa-yamal-busca-revanche-do-unico-encontro.ghtml",
+              "titulo": "Como Salah, ídolo do Egito, usa a paixão pelo xadrez para aliviar a pressão causada pelo futebol",
+              "resumo": "Que confiança, Salah! O Egito avançou às oitavas de final da Copa do Mundo ao derrotar a Austrália nos pênaltis por 4 a 2, na sexta-feira. O jogo terminou empatado por 1 a 1 no tempo normal e na prorrogação. O time africano vem fazendo história em 2026: conquistou sua primeira vitória e está disputando o mata-mata do Mundial pela primeira vez em quatro participações.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/como-salah-idolo-do-egito-usa-a-paixao-pelo-xadrez-para-aliviar-a-pressao-causada-pelo-futebol.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Lembra dele? Algoz do Brasil em 1998 foi apelidado de Flonaldo e hoje treina o sub-16 da Noruega",
-              "resumo": "Copa do Mundo da França: Brasil 1 x 2 Noruega (1998) No dia em que Brasil e Noruega voltam a se encontrar em uma Copa após 28 anos, o nome de Tore Andre Flo certamente será lembrado pelos torcedores nórdicos. Os dois países duelarão, neste domingo, às 17h (de Brasília), em Nova Jersey, pelas oitavas de final do Mundial dos Estados Unidos, Canadá e México.",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/lembra-dele-algoz-do-brasil-em-1998-foi-apelidado-de-flonaldo-e-hoje-treina-o-sub-16-da-noruega.ghtml",
+              "titulo": "Cometa Haaland: veja os avassaladores números e recordes do atacante da Noruega",
+              "resumo": "Os números do gigante Haaland e a rivalidade com Gabriel Magalhães Erling Haaland é um artilheiro nato. Desde os primeiros passos no futebol, o norueguês mostrou o instinto de área que hoje assusta qualquer defesa. Principal desafio para a zaga da seleção brasileira neste domingo, o centroavante de 1,95m e apenas 25 anos já reúne marcas impressionantes numa carreira ainda curta. São 423 participações diretas em 433 jogos.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/cometa-haaland-veja-os-avassaladores-numeros-e-recordes-do-atacante-da-noruega.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -198,30 +326,37 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de artes cênicas do mundo - G1",
-              "resumo": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de artes cênicas do mundo G1",
-              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRFMtVmh3OGxYbTZhWHNyYmc1RjhCUHVSS05QeGNWMEw0bjhwckN2RklHNVdBUzFxVS03MWg2VzBpREpkUXk2ZUtRMDltSmZTSDBrVnM5MFczRHhtRjgweVc3NmZibGo5ZVBVaVJ1bGhVOTZnUlNmUWFQNVVmSTFqbEVTbUNWblRFOE53SThRaDhKOWFua2IzTWZXRnZyZ3NjM1U0c295M2RJaVM5cWdoYms2WUVVRER0VDd2ekJQZFppWi0zejNpSjNhcGx4bTdLaVpldDRuSnRKNl82OEtMeTRMbkd5c0tZS3pRbDRia19SN3ZKaTlsVFJ0ZTRESEFuSG9MOTctX29qbXV2akVHeWw4ZjliczNGLVBBZXl2Y1NEWm_SAbICQVVfeXFMTVp4T3ozazc4YXJ4Ul90SkFyQ1RtdHpFTTNOZEU0YndtcGFWeUJsSGRsR1V4cTdNdS1tTmRMd2lFLXA2TE1SVk5DSzdNXzZMaTVENFR0bGZvQTI0MTZVZk44Wkdza3dtUkVWbDBEV3BFQ0FJakVIRVM3WGk5eThTSFN2TmxRajIzMVA3OUJrc1NMTUpaNVJ4M1lLMVA5SEdCRndBRGpPSW1RTWVtQ0o4bG1CdEFTSmQwR3hZZU1kVnczSHJkVEFDX2cwUzN3aDJJZHRlWUVRZU5SMjdxS2p6MlZtZDdjd2NIbkhVaG9RZ2NmX3c3Vk9XT2I2WnNVakRzU0o2Y3hUVi14NUVkaDFCbkpjVjRmMjczRi1KQXlRUXFBWWRPS2o0bGRjNFppSC02T1NB?oc=5",
+              "titulo": "Veja os looks dos famosos para o 3º jogo do Brasil na Copa do Mundo 2026 - CNN Brasil",
+              "resumo": "Veja os looks dos famosos para o 3º jogo do Brasil na Copa do Mundo 2026 CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjNqc3ItdTVBcWZwUjlNQko1UHJlTndUaXd6bGtxUmwxT2xyb21EVUhwWG1WeHdxa19DcFRPMVVtTjUya3RXZXhXSEdGWFlsRW5DN2gyYU5vYzVNZmFybTJkYmNNZEFoaE5XcWhnd2RZZTVHUEVFS2dKblFFYjZlZ3N2WEtFN3Z1dnFlWmNBVmQ4cVhkdm56a1NoYzVJR3I2NU5fNTNjWlVxUXpxc1FJajBSeV9hSXFfWGdZ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Além de Gaby Spanic: famosos estrangeiros que moram no Brasil - iG Gente",
-              "resumo": "Além de Gaby Spanic: famosos estrangeiros que moram no Brasil iG Gente",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3VPcWhWNlBDa0FSdGo4aFdBdlZRYWdVOUtqY3E1RU5tVTRNMC1MVnk2WEFPQ2lQY1RaQmNVdEpReWZXQ212TXZzNzV1N3ZrLVlGYzMyLWRjbkw5bmhqeFVRb0pERnBHTWx3Zy1XdUZJSFg4VjR1TUZtTW1oV29EeV9PUkwtdkhIRl93T3JNZXI5a05uMFI4c21rQnFOMlNwdldJSGl4ZkwzZWdkQ3Y2T2VUMNIBuAFBVV95cUxOY1BhUVNXek5SMjdpeWVuYlFmbUVVRTZNeElLNnI5dHdiZFNwVG13RjNIamJaWmhXTzVmdkV1dmxaQXphRTRtRE9wODh1MWZBOXc4bzV1dFJKUkNmemo0S2lPS2c4MHIzVXRndzZRNXphdUF5QXFmT2NvemlyZEJBZnRJaXJkTGVuNUhJZXRrczBLQXh5QS1xd1JVb1VqU3ZXV2RoTG5sUUdZa2kzdWlHdE1uX1VXRWJh?oc=5",
+              "titulo": "9 famosos que entraram em obra para construir casas impressionantes do zero - Casa e Jardim",
+              "resumo": "9 famosos que entraram em obra para construir casas impressionantes do zero Casa e Jardim",
+              "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1Z5blc3TC1XY3BRcTZ0NExMOERLUmVNUTdueTAyLW5Dai15THgzdUcyU3JHbG04LWJza0NuSkoxQ0ppR0RmWjJDbkphSWtuSTNKemtsMnVhTlJHVlJ1Z1hUSENnR3JaWG1kNU1UQkNHRHF1T0F4cUpTVHpNNlRuQ0FnNmk0ck42MjFtQU1LU3NBZmNpOHpfdlBDWW9MUUJkZXBndjdWTjJ5cFlWcm0zaHIzc3kyZGFlZDR2ZUZ0T3BhRDBlenhEYXpCQTlqQTlUcVpHcFlWWXFlWW1QRk5lMjc0SjJSamE3OUZybNIB-wFBVV95cUxQb25aZENLOG85d2hCX0NITkNDWXNZUGVPNWhvdWg2LTlBWlZUOWdvUnBhZi1XcVE3VEQ4N0xydVdhVV9VNDFqU3ExQzMycHdwTDFud29nQUthZy1JdkpESlZLUHdyS2dNRFhjc1VjbG1CSV9jM2M3aUpvSUNIQmFwQWs1QTM0aDRuTjJqcFYtNGFUOWpHVEppQzNWWUxDMFZmWlJIWnVyanRSZTdXbXFsVjlRVzhpVTFVTm1YdllTU2Jlbjd2QnhzN2dTeXM0YTlNOXdDbTF3Rk5WenVaN0RzWlBBbFR4S0FSRXJNTUcteHVQb09CWVZUSjhMWQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "“Ser artista no Brasil é um ato de coragem”, diz Leticia Laranja - iG Gente",
-              "resumo": "“Ser artista no Brasil é um ato de coragem”, diz Leticia Laranja iG Gente",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmNyZHJNbVNZYkp6ME1sOXBKNjNEaG5ZMU5iNUJhdklxQkJqQjFSRUNFQ0ZpWFR5TnFYN3BmbnY0Z0NVRmZ5YzNmd1VHdlotLWtQaWpGUnZwbDAwb3lqRlY3Q2lCOXgtQl9KdURVY1pCVndCakJkX2htZVFmQ1NzdzkxOXpWekRBYlJJV2ZvcFlsWGFnODBYRDY2WHNXQlF3OFNnakRXeURJcDRUdHJlNnEtMlVzUdIBuwFBVV95cUxOb2tWUjR3V3FHajZjUi1QY2tuWkFLTHFzN053dmRRUHFtWnl2dzA1Nk9ZSm1Ld0dLZl9sRmJnSlJGSFdoWnhiSEE3cm9yRi0wUklER3o4Ukd2cjRaS1JEUzlxellPcDZzd1ZGV19ock8tVE1wTHVlQXZfczk1eDZjTE1jNVFwVk5WOERjbG80R3hRbmhIcXdESmNtMlk2d2JYQ2thYzBaS0RDc0pCRXVzSndBMzFkYngwQzk4?oc=5",
+              "titulo": "Celebridades trocam o calor do Brasil pelo frio em viagens internacionais - Portal UAI",
+              "resumo": "Celebridades trocam o calor do Brasil pelo frio em viagens internacionais Portal UAI",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1dUaGxUcUthNGVDVEpjR2hiNnlnUDUtZ2xjNFdDb1Bnb0hVQW4xdHNmcDVrWHEzS2RMSkV6bEJEekdvOGk2dVpTT3h0T2JjOFNDZUtzeTJZZUFUV0VIdUNDVDZYYVpWUHBHOElOQzlIa3B1RGNQdlZuUGQzRHBiQnNDdDZuT2xZNXJ6dFc3M3c2dVpzVElLWTBBZVdfZlA4SXE0TDN5TVlQV0huUDRQajJxQW5jY1R0N3hqTUVxTUN4alRwQnk5b0ROQkRmV0hPUkxZZko0S2JNem5CbFRLdDgyUmxYRlV2TGd4TnV5ek_SAfABQVVfeXFMTnpZSXBxaUYzMEFicXNwWEwwcU51b1dQU1lMWTc1SjBISFM2X1BHM3ZHQlRQbEhfa3M0VVlSMG0zN1l3c3A1TTdTc2JfcVM1dFUxWDF2VktrRUtwNm16aEh6U19JZGtheWYyY3lDeGF3d0hDc2U1UklmSGFRTW50NFBkSlhCY1QxRXEwdUtSLXpqa21SbkhMc2szNC1jWTJDbmc5ZVJjRGZWUGNiTTJvcWxBemFid3NySmpMUW56XzNwQnRLQUsxaXphajh1Z2pvaXo4andXRW9wczllQXlMOVF2SklXXzlVcUxFbTRPcGxv?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Meta processa grupos no Brasil e China por golpes com famosos - Olhar Digital",
-              "resumo": "Meta processa grupos no Brasil e China por golpes com famosos Olhar Digital",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3V5dUN5aGZ4VURjWGlEaURwNE9JU2dZelAzMTVHNi1JN1hFSHhTczVpd0tVQ2p3b3FhS1MzMTNJRDZIRWJjSnZhV2E2Yllwa3ZwR19GQUJubGpJczNzYnhzVXNkcDZYQWh3SVdZM1RxY2FuQTFvLUUyNWRoc1NmekhSRTVXY1B6Tk1lQl83TlFJQ2ZweE1WWU9YTE1Nek15UGlKVWtMa1Q?oc=5",
+              "titulo": "Lázaro Ramos e Fernanda Montenegro são os famosos mais influentes do País; veja ranking - Estadão",
+              "resumo": "Lázaro Ramos e Fernanda Montenegro são os famosos mais influentes do País; veja ranking Estadão",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWZFN3Y1Q0NwN3dWSHhfaTdzcUVqR0NPMUxDYUxueVBYVHp4MlhaRjhyb0Zwazc0LUt3YWpQcVhJRDNnZy1pV0s0NndRaHpsb2xfS2EwX0tsWEV6U2laenp2Y1k2MDZkQWxnNTBlMkVac1kwYTdwbW5DeGE0ejVCU2NIRkZWWHEtUlBLeGJvLXR6c1pLeHpuNW9RYUdJQkVFdl85d1FNZ2dwZkZpWG41UUgzX1lzZ3J2VTNFYzgtdS14U3dITDdZc1Z0Z1LSAdIBQVVfeXFMT0Jwd1NfUG9vRHVvM0NFem5JU2YzSlctLXlnODdCRHJqNDQ3X291UjhoaWd3R2tlRDROQVhhekNQSmFGNTNzZ3M4cVo1dHlqdkhKMWpYdVF5RlZrT0Z6UmttWmFoZ01XLWhONWM3U2w1X00tUTNLcHR3dkZKMzhydGIzS2psdHdaTHBqYmNpaG5yY2laamNMYWg4dnhLODNsZnJ0bVU0bE9EdWFwX2d3cWRYU04wVVhvTzlZNjdkMTJwdmhpTnctRDFpRlJYX0tlNUNB?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "MasterChef Celebridades: quem são os participantes? Veja lista - Estadão",
+              "resumo": "MasterChef Celebridades: quem são os participantes? Veja lista Estadão",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRU53YlBPNHNiZmZfVF80Q19JS0hOZmlsbFpreUhTc1h0aXRrTnNxaW84cUFrLWc1ck43QmFuMUtsZ05fdjNwcWEyelVpTmxJeEF5aGYwRUIzVUpDTXlLcHhsdXlYaFQ3bHVUTnViNklYekpkc1JkYS1LRmlwRU1zOVVuZE5sc0szRHpxZ3dWZ0JTTDduZGZ2UkJ4QVVxZkx0a2h6QdIBqgFBVV95cUxOSHFQODBEZzdVdUR1ZkJpMGZFUDhwTWdfcG9zR2d1ZTQ4cVc4Y1dKbDVscmRaWjhVeENWYnhhREc3ODhHblgzWl9zbGd1TDRySEtpUjlrM050Y01OVUUyUlRYUnRMTVZFTlZ5YTcwTlMxZGlaZzE4RmlJSjN1ajIwTHVneHdERGZtQkRFSlhzY05TVlo4d3FndHZTMkdxUWlITjlZOC1RT2lmdw?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
@@ -231,16 +366,37 @@
           "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Globo já reconhece, no Globoplay, o erro de seguir com novelas tão longas - Bem Paraná",
-              "resumo": "Globo já reconhece, no Globoplay, o erro de seguir com novelas tão longas Bem Paraná",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlQtcHhIU1piVTIxTm5fWlhwa2RXSUtLZTk1em1BbXBTSE9wTFFacFBjVE0wS2Npdkk2Y1FjeDUxU1psVUUzQkR4VHExV0x1RV9oVzhJUlhmUW1na1gwZXAxM3pSVDNORW9qLTh3TGdNTW95NGtpS1EzR1VsRkVrc2VNeVJjY0JlRE05THpmUUpwOXN5LUlNOGJ1NUllN21faVYyZFR2STRRRjhMb3RxU0xPLWpWS2IxV19DS19lT0JHNGJFekZjM1NGZ9IB0AFBVV95cUxNckRTQWJnSGFSWkdJS0xISzNIeHNhRlFqdmJHYnZXdHRMUFJ4UmppelVHbWhKNE1DS0xtQWR3aXhQaUxlVW41cDAzSGNkazFzUnUxX0ZDUW1ZVEs5a0RFN2IxbUtHbnNLNFpJSk1SX0ZKc0k5cmhOVmVpUTJCd24xN0pINnVVRlo4ZFFTbUxiQTAzX1JteUxhYnBrRHVzQ090cFc0QW5kdDRqUHd4SzZPSmwwZnRRelM3Q05OWERZTnpLbU1lamJHSV96VmFMWTNk?oc=5",
+              "titulo": "Manoel Carlos, o Maneco, marcou era na TV com suas novelas e Helenas - G1",
+              "resumo": "Manoel Carlos, o Maneco, marcou era na TV com suas novelas e Helenas G1",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkNjRGJsNVZYZ1pmNWRJckcxZTFyNTlXMU4tNVM4aUJQMXVYRlVDaVhYRWpTbnQ0Z1ZRTzNtaEppdmRmSWVuVGJaUV9Ycnh5Znk1bEhtWk4tdExNVlRjN2JEa2ltZzFrMkg5SFlJb25fZzN5cC13YUdaMWktRXJPSl90Qnl2SFBTZkpyU1VfUkM0cDdBUzdEM200dzl1UmFWeUdfZ1ozRE5tVjQySHJlVzc2dkxhM1XSAcYBQVVfeXFMT0JncWJoQmtfSFpfajNEblFlc2pzRGVtT1NxQzJxZC1QbV81Wm9KbExCUk1EcDYyM2ZoNnNCcUk5UU44cWhXa282Wmx1a0NTY1hOYk5YSV9NWjRPOC1KS2xwbzBCUlVkYUdyekpTaUlMRzhubTExMnIydDJuZkRvVzZDeHZGalVubnlJcUJhODlrRlhzQ0pmc0x5aUVWbTgtUkJ0LVBrbUJoZWFPdXdIYlNFVk5RZ0dHaXg2YVl1MDZLLUNzOUln?oc=5",
               "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Aos 22 anos, ator garante retorno à Globo e é escalado para próxima novela das sete - CARAS Brasil",
-              "resumo": "Aos 22 anos, ator garante retorno à Globo e é escalado para próxima novela das sete CARAS Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1VFanNVT084Z2xOYlhYV2pycWU2YjVLNUliNl9ORkU2LXZSa0h5SjdBTHBFZXo2UlYzQ0lHdWV2dkFSVUhrRXhjN2NBc1J1NmFhM3gwQlFxWXZibnhQTEMyN3hXaWRyZ0RpS20xRWVQVXJMdk9QRlZkWlFuTWVkSHlRcjc1YmUxSGp5X1lFa1ZJZ08xbzBNbWJvcVhpb1M0aE5tZjFPUEVJVElXNzd1ckpXSF9tUnJx?oc=5",
+              "titulo": "Após GE TV, Globo lança canal no YouTube para a GloboNews; saiba detalhes - UOL",
+              "resumo": "Após GE TV, Globo lança canal no YouTube para a GloboNews; saiba detalhes UOL",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNy13NmJWdFJDTEJzMUtlc2lkTVhWektVeWptdzBFTVhZb1hrWUVha2tKRy1abGcybFUyVTlPWkducjd3alVObDhoQlVhY0lFbm1hbDVkS282ZVozRUxJQ1hBYktNZU1mS3o0dF9naGMwejNPbDNSbjVzdVNCVW40ZHNHS283bWZlMTV2RzBGVzRvQTJpUjg3SnlzSWhwX0h2VU9fdW4yY2VfdzJ0R2R1RmdSRndrTjlqRHdJdWNKbXlYVGoyVXdmYzdpcWFfOHhybnfSAdcBQVVfeXFMT1BaLUhKRm83R2g3LUtZNjJwTGdCV0dTUno1bDRCaVk1MERSUUpHX1NpcWVGdWVjWlA1R1UySnJLbXpaYU1xdWxIOWU5VkNmclpBVVdvZzFYZWJvOUtqU3pzOERmZE9fZzVaekhBeEtpaHJ5U3BPMFM1VE9fcno3ZXNLeFgwYWw3QUNucXpRd3RSRElzdDRLOXhZWTY0c0hBcWJpM2pWYzdST3Q5anZuUnI1eEpJNGtvNzQ0RjMtNUVyRkxHUWJqMmU1V1lwdDl3QTJELUZHMVk?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Do clássico brasileiro ao romance turco: setembro traz duas estreias no canal Globoplay Novelas - Gshow",
+              "resumo": "Do clássico brasileiro ao romance turco: setembro traz duas estreias no canal Globoplay Novelas Gshow",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzNmZDNvVFpuNVB3WW5uR1FqWU51WHFabmFlLWl5em5FX0otUHZXZk5Idzg1S29UM3k4Rk0wcjVKeTF5TXJpbDlacHFMNlBzenRxR2VEdzNvY2ptR3RsYXJuODR3MndKTTBuY184MGVRUE1MSzN1ZW1iY0VTSkVhYTRNNGZYOUJGUFdzWXhqSGpfYzNrT0J1UExFckYwWkZzVzRLZVp4NHR0Q0ZOZ2hqWFVpS1NKRlFpOVREUGNiQ1VUS3k5blhqbGhFUlFkb2stWndaNG04NnNnQdIB6AFBVV95cUxPYjB2TXZlUkpabXU4LV9mZUwtaHp3RHkzS2ZrTXQtWXVkd09UNlFleFpFRzVacDZYdlpCLU1hMXRpWEQyN2tCYm9iY2s0dFpKeWVPTFRtWmlSbi1UNnlXRHZ2ajF4UHp2Z0pSTEt6MEFRaFhLT014cExVZExqZTI0bTVWRXFVeFVaRF9zN05weHZCdTU2dTRUU2pxMTBsSnFBWEJMZnk5cmo4XzJnTVFwS0VMRV9UcDA3OGt0T0hxS2h1VnRMZFI0dWhHUkZ2b2RqWjhPVlpvWEllS1JIQThRaFFfYThseHpD?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Alexandre Frota volta à TV Globo 26 anos após última novela - CNN Brasil",
+              "resumo": "Alexandre Frota volta à TV Globo 26 anos após última novela CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFBUU29QbkxQdTBTNVNSamRKeU1Md3BHZWNQLThPby1lRjN2NVZFeXFSVUhyb3NJWGJ0LUN4R0NEY2M2QWdDR2kxQlNhYjl1LTJLeHh1V1ZMZVh4NW13NWhfbUVpUXdkd3BrVVgwa19sR3VRQW95ekN3M3ZTUWxlR3FGbkRQczk0LXR1UTlTWmlnNUZfeUlFRg?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Nos 50 anos da TV em cores no Brasil, veja curiosidades de 'O Bem-Amado', a primeira novela colorida - Gshow",
+              "resumo": "Nos 50 anos da TV em cores no Brasil, veja curiosidades de 'O Bem-Amado', a primeira novela colorida Gshow",
+              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc2tWNnVkM3JROXo0UlVWYUdCUjVIRE1XRXhCeGk4UmNzQ2MxOTIzaVFFak1kUTlKOXVfQ2lPcjM4QmpZR1RIU2Z5MWhJU3J0Y2M2YXdSdUlQX3M3VnR1Z2NxUXBRM2FXZW1zeF8tbzFIbmlhcy0xa2tkYk4wYjBmOExpNnNPajZaUkhwU05jOS13cGstNnB2UmwtUDlsbFRpVFIyN3hmSGkwQUVDQXFGYkZtSEdPdm9QNUI0bmttTDlKX2EtanZLSThyTUZLVG55TkNoZV9ELVNtTWUyOHdTbUQtaWt1UlRsOFNuT0FRa9IB_gFBVV95cUxQaVVuUEl1eDMwMEVyQ3ZLeW5TY2MxaGVPLXNjVWRBc3dEbVZmTnFqNWhXNkpwdkhyaHJhZG9ETXR5d2RoR3M3R2IyR1JuUUxvajBVYnkweUxSengwNjZtdkdLanRtZ1FOSUNVX1JGTzRiUGV4QW1xa0duRVBBeFhNSERpaTBWT0U4LWh2bjN5azJBbHBpQjhqNWEzY0hPUmdjT3dMenRyY3BHbHFfVlJESGFhX285c1ctVVhjaHpOeXYyZDhkeThudGVtTm0zMVVXZ00wRkVHdVJKTVhNME90QURHYmFOQzJKSGV2NDJPOWNDUUYtOF9tdmlBaDYydw?oc=5",
               "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             }
@@ -250,9 +406,9 @@
           "nome": "Cinema e Filmes",
           "noticias": [
             {
-              "titulo": "Dia D: por que o novo filme de Spielberg chegou ao Brasil antes dos EUA - Salada de Cinema",
-              "resumo": "Dia D: por que o novo filme de Spielberg chegou ao Brasil antes dos EUA Salada de Cinema",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MeVJtTTZnMWlTckRfODZjSXlfZUhxTmRnVGttVXpyM01Mek5hcU5YV2R3ZFdLWnhHWlhHU0ZXY21aQzIxZkRYVDdHcDRWT2N6bjEwYk1Zb1lHSVMzMzB0ZDVMSHNBTnVyX1BueHRscW9jb3JwRlZFZTIxWUg0Zw?oc=5",
+              "titulo": "Cine Passeio exibiu novo filme de Almodóvar com exclusividade no Brasil - Prefeitura de Curitiba",
+              "resumo": "Cine Passeio exibiu novo filme de Almodóvar com exclusividade no Brasil Prefeitura de Curitiba",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTE0bmJLR0xoRUs2eXJUWllXWDJEWFNIZ1RtMWszR2Nvc0UtejhfWXFLX3V4SU5XTnFqaXF6SUttRFktM1otM1JsdC1RcmRNMFlkNi1Xd2dhT1dzUFZJZkdyNmRLWVZsM2tBbkI3TlVQTGNNT1YwWU4yOXFXbHAtdXJSU1RURnhJeG41bnV2TDZIRkpJZGhEODRQR05uVEF3XzhMQUNXVVcyOWFQY2hsUFd5dGh6cXNX?oc=5",
               "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
             }
@@ -264,12 +420,71 @@
       "nome": "Curiosidades",
       "fontes": [
         {
+          "nome": "Ciência e Tecnologia",
+          "noticias": [
+            {
+              "titulo": "As 10 mais importantes invenções e descobertas da ciência - Terra",
+              "resumo": "As 10 mais importantes invenções e descobertas da ciência Terra",
+              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlQwWkNfbzlraWYtdldGU1FzbWJ2aTBfVUVEU2cxTWlnWTNzQVVGMXhPY3FtV2xpM1RoNE5fd1M0ZkYwUl84dk1RaG53am9BeHprR210MkJjMm5VRS1xMlM0QXNha0hYb1NBcnFlTTlZSVdZcW1neGRjZDJucjlzVk94NkRqOGQ1WnZ6Z1hPalh0Yld5Ykg1ek50YkEtbkU4QmRHR1lnY3dSb1lsVkZKOExpaFpCWDN0VjVyYnd5TllkRlRpcnVmaU5QOUtHSFFjaHVqVFJGaGZuSllaYWgyR1hB?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Saúde e Bem-estar",
+          "noticias": [
+            {
+              "titulo": "Empresas ampliam programas de bem-estar em meio à preocupação com saúde mental - CNN Brasil",
+              "resumo": "Empresas ampliam programas de bem-estar em meio à preocupação com saúde mental CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaTlWZk5lU05yMXlvNkt3bWNIUmJWb0N0SEMzMmxMTzhIRUtYeF9DQXhFSGI1Wk1MaVAxeGpFcGtiR2pGX2RDNzFGWXh5R0NkQ09aWF9ZeEpabVo1bjdUQW55MjM5T0ZQb2EyVFh1NW5vVGd1U0xFWFdmREJOcWxyQkZEUnByVG15MmFINzFvMVdsTTFwQkd6cFFyQlNOaEhHdE92aElZN1VXbzB2NExFOVRvNnN4c3NOX1FPQ0xncUtIODlGTGdTWQ?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Estudo sobre Saúde Mental e bem-estar de adolescentes - Plan International Brasil",
+              "resumo": "Estudo sobre Saúde Mental e bem-estar de adolescentes Plan International Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVklYS3VwUWt1NEY3SGxsSFpxUHZRT0J1VlUxWUVWVWUwM1ZHajM2R3hHUDlIWjdHOEdkMktyaVdVb2VwSXBvWXR5Q1UzVUdmbTRHcGs1V05KTjBsbS1JWUxuVTlSZ2xPY253M01vZmp6SmdjTktNVHpyWnU0NnBENEptam9kbDZUWVE?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Saúde mental: indicador inédito mostra os perfis dos brasileiros que mais sofrem no país; veja os grupos - O GLOBO",
+              "resumo": "Saúde mental: indicador inédito mostra os perfis dos brasileiros que mais sofrem no país; veja os grupos O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHN2NHc0MTNVYzJ1Qy1zQWh3LVZyYWQ5ZlJIMWt6UE5mYl9OZ2xJUlJxcVo0Zk9HQ2dBVE5LVmI4Nk1NMWVNMlRYN2hFZXY2cW5xYVFoTUpnbXRfcXVCUjRuX3lWVENpSXQ0VmFWcFpzb0hHdXZnaHJrMUdOU2JkMzdzdXZ2bVp2TW9YcjRfSzVaTUNyUENqaUZaWFYtR25kVkROeXpHZXdkOVVsWlBaTWxSRGU3ZzhjQklrOU1jWGI1MjlVOVlfZUdNcGd0NEpMWWtremRpRlpFR3lEdEtEcl8ySXJnTmFDRlJhd0VPUnBNSGFhVzZvYTR0LWzSAYsCQVVfeXFMTkw1YVVEUW5MelUxaGhlQS1xMjUyalozNjhKd1dZaW00RmpELU9hWmN0bkpLVzNZSmZIYWo4RnhIMHYzWXVvSU9hUnpYcGdzSWlMa1IxWmZ5V3U0NXl3Y1JQaUdIaEJVbXNkSnc2M244R01tRFM5QkczWks2LU4ySjZQRDA1bDZveDNOeTYwcnlfcVlHN3BFd2VOOGRfN3puTDJyR2tDMVdudjFocC0tbHRKZW9Qak9iWS0tV2p2LVVsVzdnOVY2b3pwdmc5NFhSZzRFMWduU1ZoVGg2dDcwZWRsS2lfNU5ZdzZZcC1ob3o2WjJRd2N4ZU1xUzVtZUlUZkUtMUN4VXhJSl80?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Pesquisa levanta dados sobre saúde mental e bem-estar no Terceiro Setor - Observatório do Terceiro Setor",
+              "resumo": "Pesquisa levanta dados sobre saúde mental e bem-estar no Terceiro Setor Observatório do Terceiro Setor",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJwMTdVV3Q1ZW10S2d5TkpHYm8ySDZmZEEyZGhmMHNJdGZWeVNDMnczS0RLWFNPVWJZb2pHX09iYkViaGFCNnp1TkhreTNCaXFiUlJtR0FBSldobXBLWFJTSGpHcmhxcGc1MVhxcFFtaldGVnEtM0QzUDhIcFgyQjVQRnBrbzJ4V1JCSmFJRzZkb0p6TDhGcGRpVjh3MVNqMVEzN2xRanVYdw?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "MPPR realiza pesquisa sobre bem-estar e saúde mental no ambiente de trabalho - Associação Paranaense do Ministério Público",
+              "resumo": "MPPR realiza pesquisa sobre bem-estar e saúde mental no ambiente de trabalho Associação Paranaense do Ministério Público",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEszczAzQzlCY0VscDZtUmJPLUFFYWtsSmxjd2llU1BNcTYtNkRWOUdYNEVOa2JVOHZfN0ZKOU5CS2N6cHJuel9fOENGeUZhZUk3aTAycFJSa2kyWGp6eVRzOE96Z2FRMW1OX3JxckExVmo4b29MRHkxbUY0LVdfbEQtcnduMU1IeEV4UVpUZ0hFRTl5Q0RlcHhsOWJUa2JwOG9TSWdVVlFGdzlsMXQwRExKc3lpNk0?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
           "nome": "Curiosidades Gerais",
           "noticias": [
             {
-              "titulo": "Sensacional! Estas ilustrações geniais ocultam surpresas inesperadas - Mega Curioso",
-              "resumo": "Sensacional! Estas ilustrações geniais ocultam surpresas inesperadas Mega Curioso",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjFoVmphcE1yRk4weEFRTEZKLUVya3djMmxZZkJ4U0twUTF1UGdRUUxZdTNvUlM0UmVTaThCUzN2WS0wQ0FZQXpDMTg4a1dpVnRzcGs3ZnNvRWQwSU9CMEl5bXZ6ODNwNGt6R3BfTzdpRVZ5RnVnUTVoS3NxdG1KYzl3LTZmeF9ENkxPQXlCYkNnZGpjZVAxTzNXeUNpaEJBMWFDcmNoUkV2ajlLQ3ZRUmJpOUYtaDVJN0l6aWRlLU0?oc=5",
+              "titulo": "No Brasil, Guns N’ Roses surpreende com pedido gastronômico inusitado - Metrópoles",
+              "resumo": "No Brasil, Guns N’ Roses surpreende com pedido gastronômico inusitado Metrópoles",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2VkYUI0MFlxRC1jd004Ny1ndVpveE5HQ1BoM255U1RqY2psS0JhcDRIQ1JBaDQ0Vmc1bkstbURJMUszQUNCTnN4SXk3Vy1yVWhaazRiaFhDQ0Z3aEJWUjVFOVBWaE9YLVZqamJVa1Q3OW1lUnhucnNXYXNCYTNYZUh1ei0yMEJkQ0RYU3FMZ0xzdnZlVHA1UjhJTGlVUXdXdFVYeFA5ZTVvUQ?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Marcelo Argenta revela surpresa em novela da Globo: “Inusitado” - iG Gente",
+              "resumo": "Marcelo Argenta revela surpresa em novela da Globo: “Inusitado” iG Gente",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWFTSUhKRVJxVUZtMFRtYnczbXRLQmlNYnliVkRKRXBDM0JLVWlPdFJXdVRSODNXYVNWZk4yX2RWVkNmS1RQOEhBRHpQNjBkcDJWaW5ka2l4RFo1Ulp5YXplLUUxTlpTTEExbFdxX3NSVHJMdWl5WVZBQWRjLWVlQ2pieFNoVkR3TDAtX0dzaHhUX0gyM1dodTkyczBnRW5hdWlXVDVpdzJEMmNHV1VrQTMtWE7SAboBQVVfeXFMTUNxOF9JODl3cTZiU0xMcWMtZnFLdlJQbGJnSE1ybmhfdk5pNGVPU09LSVhQZUd0R3p6SGctZGJJMmpvd0I5eWxQNUU3Mm5Ndklqd3V2U1YyNWlXLTQ1c0pMMnFBSFZZZ3FWaG9KZGR3dWlUclRxQlh6b2xSSVF5dVNyTHdQZ0pTdnJNRjg0TlhHT1RzZHJueUpMelYwSVZyMkp2WU44NW5zUlpfcnI1TDlvVlVRN3NNUlBB?oc=5",
               "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
