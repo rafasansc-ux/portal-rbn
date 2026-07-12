@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-07-12T11:58:27.509348",
+  "gerado_em": "2026-07-12T15:01:40.154884",
   "data": "12/07/2026",
-  "hora": "11h58",
-  "total": 43,
+  "hora": "15h01",
+  "total": 49,
   "editorias": [
     {
       "nome": "Local",
@@ -11,16 +11,37 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Santa Catarina registra 29 feminicídios em 2026; maioria das vítimas foi morta por companheiros",
-              "resumo": "Santa Catarina registrou 29 casos de feminicídio entre janeiro e julho de 2026, segundo dados do Observatório de Violência Contra […] The post Santa Catarina registra 29 feminicídios em 2026; maioria das vítimas foi morta por companheiros appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/santa-catarina-registra-29-feminicidios-em-2026-maioria-das-vitimas-foi-morta-por-companheiros",
+              "titulo": "Lotérica de Santa Catarina vende aposta premiada da Mega-Sena",
+              "resumo": "Uma lotérica de Dionísio Cerqueira, no Extremo Oeste de Santa Catarina, vendeu uma das apostas premiadas na quina da Mega-Sena […] The post Lotérica de Santa Catarina vende aposta premiada da Mega-Sena appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/loterica-de-santa-catarina-vende-aposta-premiada-da-mega-sena",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Vídeo e cor do cabelo provocam reviravolta em investigação sobre morte em salto de rope jump",
-              "resumo": "A investigação sobre a morte de Maria Eduarda Rodrigues de Freitas, de 21 anos, durante um salto de rope jump […] The post Vídeo e cor do cabelo provocam reviravolta em investigação sobre morte em salto de rope jump appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/video-e-cor-do-cabelo-provocam-reviravolta-em-investigacao-sobre-morte-em-salto-de-rope-jump",
+              "titulo": "Motociclista morre após cair na BR-101 e ser atropelado em Biguaçu",
+              "resumo": "Um motociclista de 52 anos morreu na madrugada deste sábado (12) após um acidente na BR-101, em Biguaçu, na Grande […] The post Motociclista morre após cair na BR-101 e ser atropelado em Biguaçu appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/motociclista-morre-apos-cair-na-br-101-e-ser-atropelado-em-biguacu",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Ataque do Irã ao Catar provoca evacuação parcial de aeroporto e aumenta tensão no Oriente Médio",
+              "resumo": "O Aeroporto Internacional de Doha, no Catar, registrou momentos de apreensão após alertas de segurança emitidos durante ataques do Irã […] The post Ataque do Irã ao Catar provoca evacuação parcial de aeroporto e aumenta tensão no Oriente Médio appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/ataque-do-ira-ao-catar-provoca-evacuacao-parcial-de-aeroporto-e-aumenta-tensao-no-oriente-medio",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Ladrões quebram porta de vidro e furtam comércio durante a madrugada em Schroeder",
+              "resumo": "Um estabelecimento comercial foi alvo de furto na madrugada deste domingo (12), no bairro Schroeder I, em Schroeder. A ocorrência […] The post Ladrões quebram porta de vidro e furtam comércio durante a madrugada em Schroeder appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/ladroes-quebram-porta-de-vidro-e-furtam-comercio-durante-a-madrugada-em-schroeder",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Homem entra em residência por engano e é levado à delegacia em Jaraguá do Sul",
+              "resumo": "Um homem de 65 anos foi encaminhado à Delegacia de Polícia após entrar no pátio de uma residência na Rua […] The post Homem entra em residência por engano e é levado à delegacia em Jaraguá do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/homem-entra-em-residencia-por-engano-e-e-levado-a-delegacia-em-jaragua-do-sul",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -32,40 +53,59 @@
       "nome": "Estado",
       "fontes": [
         {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "Apostas de SC batem na trave, acertam 5 números e levam R$ 42 mil em prêmio da Mega-Sena",
+              "resumo": "Cidade de Dionísio Cerqueira, em Santa Catarina, onde aposta foi vencedora Prefeitura de Dionísio Cerqueira/Divulgação Duas apostas de Santa Catarina bateram na trave e acertaram cinco números do sorteio da Mega-Sena na noite de sábado (11). Os apostadores são de Concórdia e Dionísio Cerqueira e levaram, cada um, R$42.373,42. Como ninguém acertou os seis números, o prêmio principal acumulou em R$ 25 milhões.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/12/mega-sena-sc-apostas-batem-trave-acertam-numeros-premio.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Comediante é agredida com cadeirada durante show em Florianópolis; VÍDEO",
+              "resumo": "Comediante é agredida com cadeirada durante show em Florianópolis; VÍDEO A comediante Fernanda Arantes relatou ter sido vítima de uma agressão durante sua apresentação em Florianópolis, na noite de sexta-feira (10). Segundo a artista, uma espectadora se levantou durante o show, fez xingamentos contra ela e arremessou uma cadeira em sua direção.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/12/comediante-agredida-cadeirada-show-florianopolis-video.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Ciclone traz chuva de até 73 mm em 24 horas em SC e faz rio subir 4 metros",
-              "resumo": "Vale do Itajaí concentrou os maiores acumulados do estado, segundo a Defesa Civil O post Ciclone traz chuva de até 73 mm em 24 horas em SC e faz rio subir 4 metros apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/chuva-em-sc-vale-do-itajai-registra-acumulados-de-ate-70-mm/",
+              "titulo": "‘Pode acreditar’: CBF lança vídeo de campanha para o novo ciclo da Seleção Brasileira rumo à Copa do Mundo de 2030",
+              "resumo": "Primeira publicação da entidade após a eliminação na Copa do Mundo destaca jovens promessas e mantém Carlo Ancelotti em evidência O post ‘Pode acreditar’: CBF lança vídeo de campanha para o novo ciclo da Seleção Brasileira rumo à Copa do Mundo de 2030 apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/pode-acreditar-cbf-video-novo-ciclo-da-selecao-brasileira/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "PL nega que possível apoio do Republicanos à candidatura de Flávio Bolsonaro envolva indicação ao STF",
-              "resumo": "Segundo a pré-campanha, a hipótese é \"absolutamente falsa\" e \"jamais foi objeto de qualquer conversa ou negociação\" O post PL nega que possível apoio do Republicanos à candidatura de Flávio Bolsonaro envolva indicação ao STF apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/pl-nega-que-possivel-apoio-do-republicanos-a-candidatura-de-flavio-bolsonaro-envolva-indicacao-ao-stf/",
+              "titulo": "Dona de imóvel vive momentos de terror ao ser ameaçada por inquilino armado com facão em SC",
+              "resumo": "Inquilino foi preso após ameaçar proprietária de imóvel neste sábado (11), em Xanxerê O post Dona de imóvel vive momentos de terror ao ser ameaçada por inquilino armado com facão em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/dona-de-imovel-ameacada-por-inquilino-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Ex-prefeito de Navegantes e pré-candidato a deputado estadual sofre acidente na BR-101",
-              "resumo": "Liba Fronza, que foi prefeito de Navegantes por dois mandatos e é pré-candidato a deputado estadual, estava com a esposa, sogra e mãe no veículo O post Ex-prefeito de Navegantes e pré-candidato a deputado estadual sofre acidente na BR-101 apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/ex-prefeito-de-navegantes-e-pre-candidato-a-deputado-estadual-sofre-acidente-na-br-101/",
+              "titulo": "ENTREVISTA: Betão, ex-Corinthians e Avaí, relembra carreira, aventura na Ucrânia e o início de tudo",
+              "resumo": "Série \"Porta Aberta\" traz entrevistas com personalidades do esporte e o ex-jogador Betão, ex-Corinthians, Santos e Avaí, repassa sua história no futebol e no Figueirense O post ENTREVISTA: Betão, ex-Corinthians e Avaí, relembra carreira, aventura na Ucrânia e o início de tudo apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/entrevista-betao-ex-corinthians-e-avai-relembra-carreira-aventura-na-ucrania-e-o-inicio-de-tudo/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Morte do jogador Jayden Adams: esposa faz homenagem emocionante nas redes sociais: ‘Sentirei sua falta’",
-              "resumo": "Viúva do meio-campista usou as redes sociais para homenagear o atleta, que morreu aos 25 anos poucos dias depois de disputar a Copa O post Morte do jogador Jayden Adams: esposa faz homenagem emocionante nas redes sociais: ‘Sentirei sua falta’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/jogador-jayden-adams-esposa-faz-homenagem-emocionante/",
+              "titulo": "Homem morre em frente a Centro de Assistência Social em SC e causa da morte é investigada",
+              "resumo": "Homem de 56 anos foi encontrado morto em frente ao CREAS do Balneário Rincão, no Sul de SC; autoridades investigam a causa da morte O post Homem morre em frente a Centro de Assistência Social em SC e causa da morte é investigada apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/policia-investiga-causa-da-morte-creas-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Mulher invade palco e ataca humorista com cadeirada durante show em Florianópolis: ‘tem espelho em casa, sua ridícula?’",
-              "resumo": "Fernanda Arantes gravava a apresentação quando foi surpreendida por uma mulher, que invadiu o palco e começou a ofendê-la O post Mulher invade palco e ataca humorista com cadeirada durante show em Florianópolis: ‘tem espelho em casa, sua ridícula?’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/mulher-invade-palco-e-ataca-humorista-com-cadeirada-durante-show-em-florianopolis/",
+              "titulo": "Argentinos invadem calçadão e fazem festa após vitória na Copa em Balneário Camboriú",
+              "resumo": "Imagens registraram a celebração dos hermanos após a vitória sobre a Suíça e a vaga na semifinal O post Argentinos invadem calçadão e fazem festa após vitória na Copa em Balneário Camboriú apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/argentinos-invadem-calcadao-e-fazem-festa-apos-vitoria-na-copa-em-balneario-camboriu/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -80,37 +120,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Cantora Jéssica Costa morre após batida entre carros a caminho de show em Timon (MA)",
-              "resumo": "Cantora Jéssica Costa e um homem morreram após colisão entre dois carros no sábado (11), em Timon (MA). Reprodução A cantora Jéssica Costa e um homem morreram na noite de sábado (11) após uma colisão entre dois carros em Timon, no Maranhão. A artista seguia para um show na cidade quando o veículo em que estava foi atingido por uma caminhonete, segundo o produtor da banda.",
-              "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/cantora-jessica-costa-morre-acidente.ghtml",
+              "titulo": "Quermesse de Cubatão é cancelada após ventos fortes danificarem estrutura",
+              "resumo": "Quermesse de Cubatão é cancelada após ventos danificarem estrutura do evento. Reprodução A Prefeitura de Cubatão (SP) anunciou o cancelamento da programação da quermesse neste domingo (12), último dia do evento, após uma ventania danificar parte da estrutura durante a madrugada. O parque de diversões também não funcionará. A quermesse era realizada no Kartódromo Municipal.",
+              "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/12/quermesse-de-cubatao-e-cancelada-apos-ventos-fortes-danificarem-estrutura.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Dino cita indicação de emendas por Eduardo Cunha mesmo sem mandato e manda bloquear até R$ 6 milhões",
-              "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou o bloqueio de R$ 6 milhões do ex-deputado federal Eduardo Cunha (Republicanos-MG), por suspeita de desvio de emendas parlamentares. A decisão é de 6 de julho e tornou-se pública neste domingo (12). Em atualização.",
-              "link": "https://g1.globo.com/politica/noticia/2026/07/12/dino-cita-indicacao-de-emendas-por-eduardo-cunha-mesmo-sem-mandato-e-manda-bloquear-ate-r-6-milhoes.ghtml",
+              "titulo": "Perícia mostra que suspeito de matar mulher em São João da Baliza arrastou vítima até uma área de mata",
+              "resumo": "Mulher é assassinada e marido é principal suspeito em São João da Baliza O exame da perícia da Polícia Civil (PC) identificou que Daiely Pereira da Conceição, de 30 anos, foi arrastada para uma área de mata antes de ser morta nesta sexta-feira (10) em São João da Baliza, no Sul de Roraima. Os agentes prenderam o marido, Ronivaldo Silva de Sousa, de 31 anos, suspeito de cometer o crime.",
+              "link": "https://g1.globo.com/rr/roraima/noticia/2026/07/12/pericia-mostra-que-suspeito-de-matar-mulher-em-sao-joao-da-baliza-arrastou-o-corpo-ate-uma-area-de-mata.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Prefeito sanciona lei que autoriza leitura da Bíblia nas escolas de Porto Velho; entenda",
-              "resumo": "Prefeito de Porto Velho sanciona lei que autoriza leitura da Bíblia em escolas públicas e particulares Freepik O prefeito de Porto Velho, Léo Moraes (Podemos), sancionou a lei que autoriza a leitura da Bíblia Sagrada como material de apoio nas escolas públicas e particulares do município. A norma foi publicada no Diário Oficial e já está em vigor. De acordo com a Lei nº 3.",
-              "link": "https://g1.globo.com/ro/rondonia/noticia/2026/07/12/prefeito-sanciona-lei-que-autoriza-leitura-da-biblia-nas-escolas-de-porto-velho-entenda.ghtml",
+              "titulo": "Menino de 1 ano engasgado com mamadeira é salvo por policial civil em Santo Antônio de Pádua",
+              "resumo": "Policial salva um bebê engasgado com leite em Santo Antônio de Pádua. Um menino de 1 ano foi salvo por um policial civil após se engasgar enquanto tomava mamadeira, na manhã desta sexta-feira (11), em Santo Antônio de Pádua, no Noroeste Fluminense. Segundo testemunhas, a criança chegou a parar de respirar e foi socorrida em frente à 136ª Delegacia de Polícia.",
+              "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/12/menino-de-1-ano-engasgado-com-mamadeira-e-salvo-por-policial-civil-em-santo-antonio-de-padua.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Motociclista morre em batida de frente com ônibus na AMG-0335 em Divinópolis",
-              "resumo": "Moto invadiu contramão e bateu de frente com ônibus na AMG-0335, em Divinópolis Polícia Militar Rodoviária/Reprodução Um motociclista, de 28 anos, morreu após uma batida frontal com um ônibus, na noite deste sábado (11), na rodovia AMG-0335, em Divinópolis, próximo ao bairro Belo Vale. O motorista do ônibus, de 60 anos, não se feriu.",
-              "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/12/motociclista-morre-em-batida-de-frente-com-onibus-na-amg-0335-em-divinopolis.ghtml",
+              "titulo": "Detento é recapturado 1 ano após fuga em massa de presídio em Rio Branco",
+              "resumo": "Francisco Guimarães Santana foi recapturado na madrugada deste domingo (12), em Rio Branco Arquivo/Iapen-AC Após pouco mais de um ano foragido, o detento Francisco Guimarães Santana, de 26 anos, foi recapturado na madrugada deste domingo (12), em Rio Branco. O preso havia fugido do Complexo Penitenciário Francisco de Oliveira Conde (FOC) no dia 19 de junho de 2025, quando ele e outros oito detentos escaparam da unidade prisional.",
+              "link": "https://g1.globo.com/ac/acre/noticia/2026/07/12/detento-e-recapturado-1-ano-apos-fuga-em-massa-de-presidio-em-rio-branco.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Bairro periférico de Juiz de Fora é transformado em 'museu a céu aberto' para resgatar memória e resistência local",
-              "resumo": "Fala Comunidade: projeto transforma bairro Dom Bosco em museu a céu aberto em Juiz de Fora As ruas, os becos, as bicas d’água e os grandes escadões do bairro Dom Bosco, em Juiz de Fora, guardam histórias e uma riqueza cultural que deram origem ao projeto 'Museu de Território Dom Bosco'. A iniciativa busca valorizar a identidade e a trajetória da comunidade.",
-              "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/12/bairro-periferico-de-juiz-de-fora-e-transformado-em-museu-a-ceu-aberto-para-resgatar-memoria-e-resistencia-local.ghtml",
+              "titulo": "Acidente envolvendo carro e caminhão em Cravinhos, SP, mata uma pessoa e deixa outra ferida",
+              "resumo": "Acidente envolvendo dois veículos deixa um morto e um ferido em Cravinhos, SP CCM/Artesp Uma pessoa morreu após um acidente envolvendo dois veículos no começo da tarde deste domingo (12), em Cravinhos (SP). A vítima estava no carro que bateu de frente com um caminhão. O motorista do caminhão teve ferimentos leves. A colisão aconteceu por volta das 12h20, na altura do km 297,5 da Rodovia José Fregonezi (SP-328).",
+              "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/12/acidente-envolvendo-carro-e-caminhao-em-cravinhos-sp-mata-uma-pessoa-e-deixa-outra-ferida.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -120,30 +160,9 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "'Chegava a trabalhar 17 horas': vítimas de violência doméstica usam apps de transporte para reconstruir vida",
-              "resumo": "Possibilidade de ganho imediato é o principal fator para mulheres optarem por trabalho por aplicativo Foto: Carlos A. Moreno/ZUMA/IMAGO Após ser agredida e ameaçada de morte pelo ex-marido, Nany Cardoso decidiu denunciá-lo e pedir o divórcio. Sem emprego e morando de favor na casa do irmão com as três filhas, alugou um carro para trabalhar como motorista de aplicativo em Niterói (RJ). \"No começo, chegava a ficar 17 horas trabalhando direto.",
-              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/12/chegava-a-trabalhar-17-horas-vitimas-de-violencia-domestica-usam-apps-de-transporte-para-reconstruir-vida.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Carrinho que vende apenas um sabor faz fila em praia de Natal e rende negócio de R$ 60 mil por mês",
-              "resumo": "Sorveteria que vende apenas um sabor fatura R$ 60 mil por mês A fila no calçadão de Ponta Negra, em Natal (RN), já virou parte da paisagem. Turistas e moradores se reúnem diariamente para provar um sorvete artesanal servido dentro do próprio coco — combinação que transformou um carrinho de praia em um negócio com faturamento médio de R$ 60 mil por mês.",
-              "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/12/carrinho-que-vende-apenas-um-sabor-faz-fila-em-praia-de-natal-e-rende-negocio-de-r-60-mil-por-mes.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Petróleo mais caro: por que uma guerra tão distante pesa no bolso do brasileiro?",
-              "resumo": "Do avião ao ovo: por que o petróleo afeta o preço de tudo? Uma guerra no Oriente Médio pode impactar o bolso dos brasileiros porque a região concentra grandes reservas de petróleo. E petróleo mais caro encarece combustíveis como gasolina e diesel, e aumenta o custo do transporte em um país onde quase tudo circula por caminhões.",
-              "link": "https://g1.globo.com/g1-explica/noticia/2026/07/12/petroleo-mais-caro-por-que-uma-guerra-tao-distante-pesa-no-bolso-do-brasileiro.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Mega-Sena, concurso 3030: confira os números sorteados",
-              "resumo": "Sorteio 3030 da mega-sena Reprodução O sorteio do concurso 3030 da Mega-Sena foi realizado na noite deste sábado (11), em São Paulo. O prêmio estimado acumulou em R$ 25 milhões. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp Veja os números sorteados: 06 - 11 - 25 - 45 - 48 - 58. 6 acertos: não houve ganhadores 5 acertos: 41 apostas ganhadoras, R$ 42.",
-              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/11/mega-sena-concurso-3030-confira-os-numeros-sorteados.ghtml",
+              "titulo": "'Levamos marmita para o trabalho por 10 anos e conseguimos nos aposentar aos 35 e 40 anos'",
+              "resumo": "Katie e Alan Donegan conseguiram se aposentar quando ele tinha 40 anos, e ela, 35 Acervo pessoal/BBC Brasil Toda vez que chegava o inverno, Alan e Katie Donegan evitavam ligar o aquecimento da sua casa, no sul da Inglaterra. \"Em vez disso, colocávamos mais camadas de roupa e usávamos bolsas de água quente; transformamos isso em um jogo\", conta Alan. \"Não era sofrimento, era estratégia.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/12/levamos-marmita-para-o-trabalho-por-10-anos-e-conseguimos-nos-aposentar-aos-35-e-40-anos.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -153,37 +172,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Trump diz que EUA atingiram Irã “com muita força” durante a noite",
-              "resumo": "Presidente americano também insistiu que o Estreito de Ormuz está aberto, após Irã afirmar que fechou a via",
-              "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-atingiram-ira-com-muita-forca-durante-a-noite/",
+              "titulo": "Dua Lipa mostra torcida para a Inglaterra com bandeira pintada no rosto",
+              "resumo": "Cantora britânica celebrou vitória da seleção inglesa, que avançou para a semifinal da Copa do Mundo",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/dua-lipa-mostra-torcida-para-a-inglaterra-com-bandeira-pintada-no-rosto/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Messi manda recado após classificação: “Entre os quatro melhores do mundo”",
-              "resumo": "Craque argentino usou as redes sociais para celebrar o feito inédito na campanha da Albiceleste no Mundial",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/messi-manda-recado-apos-classificacao-entre-os-quatro-melhores-do-mundo/",
+              "titulo": "Comediante Fernanda Arantes leva cadeirada em show e compartilha cena",
+              "resumo": "A humorista estava fazendo um show em Florianópolis quando foi abordada por espectadora do stand-up",
+              "link": "https://www.cnnbrasil.com.br/pop/comediante-fernanda-arantes-leva-cadeirada-em-show-e-compartilha-cena/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "“Quem Ama Cuida” aborda homofobia familiar e cenas repercutem; veja",
-              "resumo": "Capítulo do último sábado (11) mostrou embate entre os personagens Otoniel (Tony Ramos) e o neto, Maurício (João Victor Gonçalves)",
-              "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-aborda-homofobia-familiar-e-cenas-repercutem-veja/",
+              "titulo": "Zelensky anuncia substituição de primeira-ministra e reformas no governo",
+              "resumo": "Yulia Svyrydenko foi nomeada em julho de 2025, após um ano como vice-chefe do gabinete do presidente ucraniano",
+              "link": "https://www.cnnbrasil.com.br/internacional/zelensky-anuncia-substituicao-de-primeira-ministra-e-reformas-no-governo/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Maíra Cardi ironiza polêmica com fotos de antes e depois do marido; confira",
-              "resumo": "A influenciadora usou fotos do marido para mostrar um antes e depois irônico, relacionando o consumo da bebida à sua aparência",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/maira-cardi-ironiza-polemica-com-fotos-de-antes-e-depois-do-marido-confira/",
+              "titulo": "Via Láctea pode ser maior do que o estimado, diz estudo",
+              "resumo": "Pesquisadores utilizaram explosões de raios gama para medir com precisão a extensão dos braços espirais, revelando novas dimensões",
+              "link": "https://www.cnnbrasil.com.br/ciencia/via-lactea-pode-ser-maior-do-que-o-estimado-diz-estudo/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Le Pen lidera pesquisas para eleição de 2027 mesmo após condenação",
-              "resumo": "Dois institutos mostram a líder da ultradireita à frente no primeiro turno e como vencedora no segundo da eleição presidencial de 2025",
-              "link": "https://www.cnnbrasil.com.br/internacional/le-pen-lidera-pesquisas-para-eleicao-de-2027-mesmo-apos-condenacao/",
+              "titulo": "Onda de frio: “Abrigo Solidário” é ativado no Metrô de São Paulo",
+              "resumo": "Ação tem como objetivo oferecer acolhimento emergencial à população em situação de rua diante a queda das temperaturas nos próximos dias",
+              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onda-de-frio-abrigo-solidario-e-ativado-no-metro-de-sao-paulo/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -193,30 +212,37 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Prouni recebe inscrições até este domingo para o 2º semestre de 2026",
-              "resumo": "As inscrições para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre terminam às 23h59 deste domingo (12), no horário de Brasília. O procedimento deve ser feito exclusivamente online, pelo Portal Único de Acesso ao Ensino Superior na parte do Prouni. Notícias relacionadas:ITA recebe inscrições para o vestibular de 2027 até domingo.Prouni 2026: último dia de inscrição para o 2º semestre é hoje.",
-              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-inscricoes-ate-este-domingo-para-o-2o-semestre-de-2026",
+              "titulo": "IBGE inicia coleta da Pesquisa Nacional de Saúde 2026",
+              "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou, na última semana, a coleta da terceira edição da Pesquisa Nacional de Saúde (PNS 2026), realizada em parceria com o Ministério da Saúde. A PNS é realizada por amostragem. Até 30 de novembro, cerca de 1,8 mil entrevistadores visitarão aproximadamente 140 mil domicílios distribuídos em todos os estados brasileiros.",
+              "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ibge-inicia-coleta-da-pesquisa-nacional-de-saude-2026",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mega-Sena acumula para R$ 25 milhões; confira números sorteados",
-              "resumo": "Sem apostadores que acertassem seis dezenas, o prêmio da Mega-Sena acumulou na noite de sábado (11), segundo a Caixa Econômica Federal. O próximo concurso, na terça-feira (14), poderá pagar R$ 25 milhões. Os números sorteados neste fim de semana foram 06, 11, 25, 45, 48 e 58. Um total de 41 apostas conseguiu acertar cinco dezenas e levou o prêmio de R$ 42.373,42. Mais 2.983 apostas tiveram quatro acertos e faturaram R$ 960,00.",
-              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-acumula-para-r-25-milhoes-confira-numeros-sorteados",
+              "titulo": "Brasil perde para os Estados Unidos por 3 a 0 no vôlei feminino",
+              "resumo": "A seleção feminina de vôlei foi superada na madrugada deste domingo (12/7) pelos Estados Unidos, por 3 sets a 0 (26/24, 25/22 e 25/16). A partida era o último compromisso da fase classificatória da Liga das Nações 2026 (VNL), em Osaka, no Japão. A ponteira Ana Cristina foi a maior pontuadora entre as brasileiras, com 18 pontos.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-para-os-estados-unidos-por-3-0-no-volei-feminino",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Argentina elimina Suíça e enfrenta Inglaterra na semifinal",
-              "resumo": "A Argentina se garantiu na semifinal da Copa do Mundo de 2026 e mantém vivo o sonho do tetracampeonato. A atual campeã sofreu, mas fez 3 a 1 na Suíça em Miami (Estados Unidos) no final da noite deste sábado (11). Mac Allister, da equipe Argentina, abriu o placar aos 10 minutos do primeiro tempo. Ndoye empatou no início da etapa final. Na prorrogação, Julián Álvarez e Lautaro Martínez garantiram a classificação argentina.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/argentina-elimina-suica-e-enfrenta-inglaterra-na-semifinal",
+              "titulo": "Projeto de música e valorização do mangue conscientiza alunos no Rio",
+              "resumo": "Alunos de escolas da Zona Oeste do Rio de Janeiro estão aprendendo, na prática, a importância de conservar o meio ambiente, ao mesmo tempo em que recebem formação musical do Projeto Flautistas da Marambaia. Desde fevereiro deste ano, as aulas são realizadas no Sítio Roberto Burle Marx, Patrimônio Mundial reconhecido pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco).",
+              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/projeto-de-musica-e-valorizacao-do-mangue-conscientiza-alunos-no-rio",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Catadoras de mangaba resistem à especulação imobiliária em Aracaju",
-              "resumo": "Um dos principais ícones culturais e ambientais de Sergipe, a mangaba se tornou, nos últimos anos, símbolo de resistência nas comunidades extrativistas que dependem da proteção de seus territórios para garantir o sustento de dezenas de famílias e um modo de vida totalmente integrado à natureza.",
-              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/catadoras-de-mangaba-resistem-especulacao-imobiliaria-em-aracaju",
+              "titulo": "TV Brasil estreia documentário Manual Básico da Educação Financeira",
+              "resumo": "O documentário independente Manual Básico da Educação Financeira estreia na programação da TV Brasil neste domingo (12), às 19h30. O filme será reexibido às 2h de segunda (13). O conteúdo inédito mergulha nas complexidades econômicas do país ao abordar temas como o endividamento das famílias e a importância da alfabetização financeira. Notícias relacionadas:Brasil no Mundo passará a ser exibido às 21h de quinta, na TV Brasil.",
+              "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tv-brasil-estreia-documentario-manual-basico-da-educacao-financeira",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Afogamentos estão entre principais causas de mortes de crianças",
+              "resumo": "Afogamentos estão entre as principais causas de morte de crianças no Brasil, segundo alerta da Sociedade Brasileira de Salvamento Aquático (Sobrasa), que lança neste mês uma campanha para a prevenção desses acidentes. Por dia, quatro crianças morrem no país por esse tipo de acidente. Segundo a Sobrasa, entre as crianças de 1 a 4 anos de idade, o afogamento é a segunda causa de morte mais frequente.",
+              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/afogamentos-estao-entre-principais-causas-de-mortes-de-criancas",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -231,43 +257,10 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Federação condiciona apoio a Amin para Jorginho Mello em SC - Gazeta do Povo",
-              "resumo": "Federação condiciona apoio a Amin para Jorginho Mello em SC Gazeta do Povo",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2dIdDI4SmJZZE1nWHNVZEcycE1rVWUtMFJqMnFZVmYtTTRlTjZPdldKVzBlM01RaHdiTXBHMEV0TFJUYm1rU2RmZjZsVmg5akhlR0d1OWlKSU1aS3FDSGlucy1tcGlLRG1RNVZUN0dyLXBqaEh6aWlLSkNGa1dvZmM4Znl0TXRoWlhSU3o2SkdrWElBcklOTF9OZnl5eEROWVBKa054UHRLWlFIczNUWXhNanlsdUEzSE5wYVIxYnVwRVY4MjVOekk2R2VDZjg?oc=5",
+              "titulo": "'Seguimos unidos' x 'terá que deixar o partido': entenda a briga na chapa de Carlos Bolsonaro em Santa Catarina - O GLOBO",
+              "resumo": "'Seguimos unidos' x 'terá que deixar o partido': entenda a briga na chapa de Carlos Bolsonaro em Santa Catarina O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUFZkdkQ5dlBrOU0wVzhldlgwR2xxVGllUjR0SGtaYXV1Z2FFVGV3UFhsQTVvOVd3MGJxUFdLbmRsXzJfdkpGYTNGR3I1WUc2VFBnUkFSV3JQRjRWanUxNFBTbEdaWGQ1YVNCd19ic0UzSEFqbWt4aC1pVWlRWDBIVXRpcHkwS0tCaUpkVjhreUJFN1NHM1phSWtFTVh5SU5wNHJlZE5kTzFTN2VYY1RBNm1iVC1nRHUtUkd0WVBZZHN2anhkMS05VVlEbHBMRmZyWEg5cE56Ui1Way1zeWxGNmtBMnhmUXo5aHk1MXJZWVFYbFpEZGxiTdIBhwJBVV95cUxQZU45bWZva0FaUTFkMWJFUTI4VkxUZHhzVVpNVVVKd19iWGdLUDdUNHh0VHRqYUhDZFpZb0VYTGQ5d1d4VWQ2QXJfaTJxQ3k5c2V2UVl5YjFiLTJoOWpjQ2dRay1LRDMxS0RaQjdTRk11elRqdklxMHJhQ1pQUTBtblRkOUdNd3FZX2dHV0hJLVloYV9SSktJeGdTa1JpekhCT2JuTU1ZUXoyZ2VOVWVuOXNKYzltYzd0ZzZISXpSYV9IMk1SRUVwb1NsdXR4VWt3Z1dwMERqQ2tJa2w0X3o3SjQ1N3hFNDR0Sk8wRXZnVF93QldET0hmX0k2eG9PcWo4RU1DQlhvTQ?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "STF pode barrar? Veja as próximas etapas do PL da dosimetria - Valor Econômico",
-              "resumo": "STF pode barrar? Veja as próximas etapas do PL da dosimetria Valor Econômico",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanVFTlZza0VwaE5kcGx3WndFZnl4Wjl3c1RmdUxwb0hXNjdSV1dVcXhfVVhzNWJpSURzTWpVcTF4TDVOTmUyTFVXZzJKYTdHeHhmangzU3huVlV1SV9ob2NwWWR5LWx4ZEllSmp0aWU5V04wcGZwSEptYXNoRC1TRTZtWnFDbVI2NFk0WjI5SU9UblNBRHNVUW9LX3ZILXdnYzRmMl9tVFhXU1FVOVFqZDRiUXFhb2p3aHo4RGNmNnDSAc8BQVVfeXFMT0otdF9UZDFQczBaUnQtSnNVN3BqSDM3MlFzQUpRQlpVRDBHRERjUVlPMmVSQk15WWVQU0xsall1Q1dyaEpZRksxMmJ2cVBYVXdsNUNDUlBCbnJTU2g5Zm5BcXJtUy1fdlZIclNaVmZQOFpXVjF5ZUdyYWoweE5KR2tyajdGV1hQcHh0TEdJNUpjWndrMjJ5NXpnVDQ1U2tTM1pYU241ZlpKd2Q2ZE1zSC12NmxQZnotMkljRWNaS3E2YVFRQ0lkUVVWMjU5QVk4?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            }
-          ]
-        },
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Congresso não admite interferência na atuação dos Poderes, diz Alcolumbre - CNN Brasil",
-              "resumo": "Congresso não admite interferência na atuação dos Poderes, diz Alcolumbre CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanNzdFdyVjhXdHNyR1RtVVFEQWltZFpfd3pjVDJuQ283SVA0TTNqYk5rMVBEamdVWGJfQmVPaXl3bzZ5dFNzSGlkbzJiNzZTN0s1WHBSNzc1Ylc5emlNZVdKV0s5c0ZNQ2pWRXhJb3ZBT2FyWkY1T0lyb2RsVEtpSUpvRXZuajNOamlNbURGZWN6YVpmLWZOVG1yaUcyWW53R2xrR3dfX3NCTW55akhuVQ?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Datafolha: 70% dizem que Lula e Congresso têm relação mais de confronto do que de colaboração - Folha de S.Paulo",
-              "resumo": "Datafolha: 70% dizem que Lula e Congresso têm relação mais de confronto do que de colaboração Folha de S.Paulo",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTGpvaG5lVUtpR0FmNE9NUzNLN2ZSSHRXOXlRaW5rRFcxTUJVVS1lal9NRTMzQi1XRFBQNzhyZzl5ZWhndjh3MG80VURjVTNMMVFNek9wRTJlR05fOGs1eEJEZjdOZGJzWXhCaFNqYUV2M2l3NWpKVVRsUVhwV2hFQjZKYV91N19jMEt2MkN2YUJEa3NQX0h2OVVMUlp4bFUyQllqNjZIN3hycERnVXBweVdvdXU4M3NpbGRUckZ6WUZkbDhsTmZxSW42eUZrekFKd3haTUsyNGPSAd4BQVVfeXFMT29mcVdPV1Y2OGdYbVlvcVZnZVRrSWROcGlGWkRZaXpVNXoyWFRrd2Y2cGNJSlJUR05ER09CU0JuYXdrUFJmSmNHOWZMN0thNG54Z1lBR2liSXNxRFRVbzBmV0xRX0JydFl5SEVQQWVpamxVNzhMcDNVZVhmS0sxLWZ2UXpCYWJMQjcxYWtYRWpCOU5RSkwyNUswbHNTZGpjZ0FoQWVwX1JTbkIxcUJpR2twU0VFLXI0cVU1X1V5eWdNaHpyTkQ1WjA3NFNjbzRWWWo3Y3FXcjhwZVBZLUVB?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Congresso do Brasil aprova projeto de lei para reduzir a pena de 27 anos de prisão do ex-presidente Jair Bolsonaro - Euronews.com",
-              "resumo": "Congresso do Brasil aprova projeto de lei para reduzir a pena de 27 anos de prisão do ex-presidente Jair Bolsonaro Euronews.com",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUJ1aEM5QlBBWG52UlFHaEdEd0Y3QjVDaHYtMW1XcTFjQXpFbjQ2YXo2ZEItSkRNT0t3cFRicmkxQ0EzSFNKMTdVQXRTdlNiWTE1VnFOVEw0LXJoSkx0Q3RFMGQyQ3E2c0ZOOWtlVUtEMFhRc1Nvckc5OWhOa2NmdHNBdGl1dVhtajRIUHJia21ONTdKTXg1TkVhejZxXzBaV1lLZHRwTnVhck83VGJPMXlyTXFFZnduNWg3N2dmNXQxQzA?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -281,37 +274,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Cássio desabafa sobre lesão no Cruzeiro e mostra confiança: \"Dois joelhos novos\"",
-              "resumo": "Em recuperação, Cássio projeta retorno no Cruzeiro: \"Confiante para o futuro\" Afastado dos gramados desde março, o goleiro Cássio desabafou sobre o tempo em recuperação de grave lesão e mostrou confiança para o retorno. Ele trata lesão multiligamentar no joelho esquerdo e deve encarar mais um mês sem entrar em campo.",
-              "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/07/12/cassio-desabafa-sobre-lesao-no-cruzeiro-e-mostra-confianca-dois-joelhos-novos.ghtml",
+              "titulo": "ABC x Águia de Marabá - Campeonato Brasileiro Série D 2026 - Ao vivo - globoesporte.com",
+              "resumo": "Campeonato Brasileiro Série D 2026 no globoesporte.com - acompanhe tudo sobre ABC x Águia de Marabá: escalação, informações sobre o jogo, fotos e muito mais",
+              "link": "https://ge.globo.com/pi/futebol/brasileirao-serie-d/jogo/12-07-2026/abc-aguia-de-maraba.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Artilheiro brilha e Resende vence o Maricá no jogo de ida da semifinal da Série A2 do RJ",
-              "resumo": "Resende 1x0 Maricá | Matheus Goiano | semifinal (ida) Campeonato Carioca Série A2 2026 O Resende venceu o Maricá por 1 a 0 na noite de sábado (11), pelo jogo de ida da semifinal da Série A2 do Campeonato Carioca. O duelo foi realizado no Estádio do Trabalhador, em Resende. O herói da partida foi o artilheiro da Segundona do RJ, Matheus Goiano, que marcou o único gol do jogo.",
-              "link": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/times/resende/noticia/2026/07/12/artilheiro-brilha-e-resende-vence-o-marica-no-jogo-de-ida-da-semifinal-da-serie-a2-do-rj.ghtml",
+              "titulo": "Beach Tennis: paranaenses Vitoria Marchezini e Giovanni Cariani são campeões do Sand Series São Paulo",
+              "resumo": "O Paraná fechou o Sand Series São Paulo no lugar mais alto do pódio. A número 1 do mundo, Vitoria Marchezini, e o número 5 do ranking masculino da International Tennis Federation (ITF), Giovanni Cariani, conquistaram neste domingo os títulos da principal competição do circuito mundial de Beach Tennis.",
+              "link": "https://ge.globo.com/pr/noticia/2026/07/12/beach-tennis-paranaenses-vitoria-marchezini-e-giovanni-cariani-sao-campeoes-do-sand-series-sao-paulo.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Barra-SC x Santa Cruz - Campeonato Brasileiro Série C 2026 - Ao vivo - globoesporte.com",
-              "resumo": "Campeonato Brasileiro Série C 2026 no globoesporte.com - acompanhe tudo sobre Barra-SC x Santa Cruz: escalação, informações sobre o jogo, fotos e muito mais",
-              "link": "https://ge.globo.com/sc/futebol/brasileirao-serie-c/jogo/12-07-2026/barra-sc-santa-cruz.ghtml",
+              "titulo": "Guarani empresta atacante Mirandinha para o futebol asiático",
+              "resumo": "Guarani fica no 0 a 0 com o Floresta e empata o segundo jogo seguido O atacante Mirandinha não faz mais parte do elenco do Guarani. Ele foi emprestado ao Jeonnam Dragons, da segunda divisão da Coreia do Sul, com contrato até o fim de 2026 e opção de compra. A informação foi divulgada inicialmente pelo jornalista Lucas Rossafa e confirmada pela reportagem do ge.",
+              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/07/12/guarani-empresta-atacante-mirandinha-para-o-futebol-asiatico.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Sem Terra estreia com virada sobre o São Raimundo e larga na frente na Copa Norte 2026",
-              "resumo": "O Sem Terra começou a caminhada em busca do tricampeonato da Copa Norte 2026 com uma vitória de virada. Na abertura da 7ª edição da competição, disputada neste sábado (11), no Estádio Panterão, em Santarém, no oeste do Pará, o atual bicampeão derrotou o São Raimundo por 2 a 1 diante de um bom público e confirmou o favoritismo logo na estreia.",
-              "link": "https://ge.globo.com/pa/santarem-regiao/noticia/2026/07/12/sem-terra-estreia-com-virada-sobre-o-sao-raimundo-e-larga-na-frente-na-copa-norte-2026.ghtml",
+              "titulo": "Cartola da Copa do Mundo da FIFA™: confira quatro coadjuvantes para escalar na semifinal",
+              "resumo": "Noruega 1 X 2 Inglaterra | Gols | Quartas de final | Copa do Mundo 2026 França x Espanha e Inglaterra x Argentina são os confrontos da semifinal da Copa do Mundo de 2026. Quatro campeãs do mundo se encontram na fase final do Mundial, que tem sido marcado pelo brilho dos grandes craques. Pensando nisso, o Gato Mestre aparece com quatro coadjuvantes que podem roubar a cena nesta rodada. Confira os nomes e considere escalar no seu time.",
+              "link": "https://ge.globo.com/cartola/copa-do-mundo/noticia/2026/07/12/cartola-da-copa-do-mundo-da-fifatm-confira-quatro-coadjuvantes-para-escalar-na-semifinal.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Dois pilotos morrem em acidente no início de prova na República Tcheca",
-              "resumo": "Dois pilotos de motociclismo morreram após um grave acidente no sábado (11), durante o começo da etapa do Campeonato Internacional de Alpe Adria na pista de Brno, na República Tcheca. O austríaco Philipp Steinmayr, de 32 anos, e o romeno Adrian Rus, de 43, não resistiram à colisão. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Philipp Steinmayr (esq.) e Adrian Rus (dir.",
-              "link": "https://ge.globo.com/motor/motovelocidade/noticia/2026/07/12/dois-pilotos-morrem-em-acidente-na-largada-de-prova-na-republica-tcheca.ghtml",
+              "titulo": "Julia Kudiess diz que fará cirurgia em BH: \"Vou voltar tão forte\"",
+              "resumo": "Julia Kudiess diz que volta a Belo Horizonte para cirurgia e agradece mensagens de apoio Julia Kudiess contou que seguirá para Belo Horizonte, onde vai passar por cirurgia em função da lesão no ligamento cruzado anterior (LCA) do joelho esquerdo, sofrida na derrota para os Estados Unidos, neste domingo.",
+              "link": "https://ge.globo.com/volei/noticia/2026/07/12/julia-kudiess-diz-que-fara-cirurgia-em-bh-vou-voltar-tao-forte.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -326,55 +319,43 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Famosas apostam em looks customizados e criativos para estreia do Brasil - Capricho",
-              "resumo": "Famosas apostam em looks customizados e criativos para estreia do Brasil Capricho",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFQ3NXF6R2U0c0daWGx0MnNNNjVPV1hGUWFSa0JDYUpxcExLMjAyWEQ4OGxvLTFFTGRnVjFlUnRMV2doa3ppX0tOeU9kSUR4MExMbE1QWkt6MFptQ2NsTnJwRUU0bkMtcGNQeDMyMzF2OFFWY1ZxNmN2d3FIV1RHUGpnd3VObHFpN3RTWXRvOU5zT2JMWWk2eVBwdGItMGUyT1ZUZWxWbTlxaGxt?oc=5",
+              "titulo": "Confira famosas internacionais que torcem para o Brasil na Copa do Mundo - CNN Brasil",
+              "resumo": "Confira famosas internacionais que torcem para o Brasil na Copa do Mundo CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUlmNWhvbU5wdjdfaTNWTG1jWm82TUVmRGFjcHktMU9mbVlNcW9fZUd0d1lpRTRGTnUxN3hUeFd0UkVscE1UbEFFMUhxSnlqM0NCNUpMN2FpUzBXazByODNVVHhGOHZVUU1jUnZNYWhxT3hidUNOR0xVeWRDX0c3cHlGNE5VNUJ3d1FPbzdlajBIRTgxekhVUEY2NkZxUmpiTmFZdHp2dW51dzRZMXRHdjJ4Vk9qVWt2?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Veja os looks dos famosos para o 3º jogo do Brasil na Copa do Mundo 2026 - CNN Brasil",
-              "resumo": "Veja os looks dos famosos para o 3º jogo do Brasil na Copa do Mundo 2026 CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjNqc3ItdTVBcWZwUjlNQko1UHJlTndUaXd6bGtxUmwxT2xyb21EVUhwWG1WeHdxa19DcFRPMVVtTjUya3RXZXhXSEdGWFlsRW5DN2gyYU5vYzVNZmFybTJkYmNNZEFoaE5XcWhnd2RZZTVHUEVFS2dKblFFYjZlZ3N2WEtFN3Z1dnFlWmNBVmQ4cVhkdm56a1NoYzVJR3I2NU5fNTNjWlVxUXpxc1FJajBSeV9hSXFfWGdZ?oc=5",
+              "titulo": "Nem celebridades salvam, e MasterChef vira receita indigesta para a Band - Notícias da TV",
+              "resumo": "Nem celebridades salvam, e MasterChef vira receita indigesta para a Band Notícias da TV",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX0NuTk14WnpseTY3TkdjU3Jrazl1cl83UGpac3Z6aXdyRUJ2TjFoM3J2c193UnpOWkdiTzUyczROZmVnUXpBVVJuTUpSc2ZtSDRqU0JtaW9yRFlMR2IzTnJNOXJpenZPemVLVml3YzVKUWEyemJPbDFRUVlOamRmN0dvcWdYZzN1UURXSDJXaVVVOUhFZ2RaaGRqLUpuNHNjYU5TYkdGNkNITm5NY0p2dmlQdEt5UEphaFJSSFoxdGhMcUhTZ2lFTFZOUdIB2gFBVV95cUxPMURyR0FpOEJSaXFNNDJMUlNYYnpLdHdQMnItSmc5b295ajlBWENvOW90dnVKdURSWEdLVFdsbGpTbHRRWDJ3ZXdlRmhyTDVxWGZLSnhTRmhfWDlVeUJfcU5sajJmTTlxWm1pVUpVX3BfMXh2WUR2TmtsMXJIWFNMTHJ4YnMzMHhMb0NvVFgwWWRzb2p2Z05vWHpnYkRKX0pTbzlrSFh2NDVYcHk2ZGIzYjNuOU1EdkZVZnZmQ2ZTdXdDck1lVFhDbnRqb2xrdUJuWjM3X0ZMUXB2UQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Celebridades trocam o calor do Brasil pelo frio em viagens internacionais - Portal UAI",
-              "resumo": "Celebridades trocam o calor do Brasil pelo frio em viagens internacionais Portal UAI",
-              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1dUaGxUcUthNGVDVEpjR2hiNnlnUDUtZ2xjNFdDb1Bnb0hVQW4xdHNmcDVrWHEzS2RMSkV6bEJEekdvOGk2dVpTT3h0T2JjOFNDZUtzeTJZZUFUV0VIdUNDVDZYYVpWUHBHOElOQzlIa3B1RGNQdlZuUGQzRHBiQnNDdDZuT2xZNXJ6dFc3M3c2dVpzVElLWTBBZVdfZlA4SXE0TDN5TVlQV0huUDRQajJxQW5jY1R0N3hqTUVxTUN4alRwQnk5b0ROQkRmV0hPUkxZZko0S2JNem5CbFRLdDgyUmxYRlV2TGd4TnV5ek_SAfABQVVfeXFMTnpZSXBxaUYzMEFicXNwWEwwcU51b1dQU1lMWTc1SjBISFM2X1BHM3ZHQlRQbEhfa3M0VVlSMG0zN1l3c3A1TTdTc2JfcVM1dFUxWDF2VktrRUtwNm16aEh6U19JZGtheWYyY3lDeGF3d0hDc2U1UklmSGFRTW50NFBkSlhCY1QxRXEwdUtSLXpqa21SbkhMc2szNC1jWTJDbmc5ZVJjRGZWUGNiTTJvcWxBemFid3NySmpMUW56XzNwQnRLQUsxaXphajh1Z2pvaXo4andXRW9wczllQXlMOVF2SklXXzlVcUxFbTRPcGxv?oc=5",
+              "titulo": "Famosos na virada: veja os destinos de Réveillon de Virginia, Thaila Ayala, Maisa e outras celebridades - Francês News",
+              "resumo": "Famosos na virada: veja os destinos de Réveillon de Virginia, Thaila Ayala, Maisa e outras celebridades Francês News",
+              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT0gzRFRGcDk3cWdFT2N0RC1EQXFLQUdTRy16LUFDX083OGpuWk1LQ2NwRXBYOE95SXZONXZudDZyaVl5NGV4Qk0xeDVCQ0xkOTVybW9SZl9YRDV5dFVpRWlQak5vdnd1V0s5VUhQblJTN2lRZURNVXltVkptVlJnR09DeUxQdklITVlCbk44Z3ZwWGZVM1I0T1J3OF9KVVBGbEdQWUgxNXZTZjNiSnl2RFVockJpS2dZMVVRTjFucHJOT25fZldoY2ppanUwN1dOa2RLTmVKWHhyQ05WUW5BM01B?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Lázaro Ramos e Fernanda Montenegro são os famosos mais influentes do País; veja ranking - Estadão",
-              "resumo": "Lázaro Ramos e Fernanda Montenegro são os famosos mais influentes do País; veja ranking Estadão",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWZFN3Y1Q0NwN3dWSHhfaTdzcUVqR0NPMUxDYUxueVBYVHp4MlhaRjhyb0Zwazc0LUt3YWpQcVhJRDNnZy1pV0s0NndRaHpsb2xfS2EwX0tsWEV6U2laenp2Y1k2MDZkQWxnNTBlMkVac1kwYTdwbW5DeGE0ejVCU2NIRkZWWHEtUlBLeGJvLXR6c1pLeHpuNW9RYUdJQkVFdl85d1FNZ2dwZkZpWG41UUgzX1lzZ3J2VTNFYzgtdS14U3dITDdZc1Z0Z1LSAdIBQVVfeXFMT0Jwd1NfUG9vRHVvM0NFem5JU2YzSlctLXlnODdCRHJqNDQ3X291UjhoaWd3R2tlRDROQVhhekNQSmFGNTNzZ3M4cVo1dHlqdkhKMWpYdVF5RlZrT0Z6UmttWmFoZ01XLWhONWM3U2w1X00tUTNLcHR3dkZKMzhydGIzS2psdHdaTHBqYmNpaG5yY2laamNMYWg4dnhLODNsZnJ0bVU0bE9EdWFwX2d3cWRYU04wVVhvTzlZNjdkMTJwdmhpTnctRDFpRlJYX0tlNUNB?oc=5",
+              "titulo": "5 casas de famosos à beira-mar com vistas de tirar o fôlego - Casa e Jardim",
+              "resumo": "5 casas de famosos à beira-mar com vistas de tirar o fôlego Casa e Jardim",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSUNrN0RXTHppdkk2V0o0ZFZBNDhUMnZPUFQ3TGRlRGhyX211RWNETlF1VEZRMjNrcjB0TVhoV1dJY1ZjM2NlY2EyNy11YmFRWnFnd3BqcjYxRGs5SUtPUHJhSEEzTnlrQWN2SXNZenVONWh6SzVkcHpNcXNWNjIxWXdySzBCS01meVBfR2kzcy1ZY0lOOWxmQVhnNlV4ejhOeFhNYXZqemxKZnc2TGl4dG1lMjh4UkZPTjdxenVkdlE0TUJJNTVaOWFpOHNYWDZzR3hQaFBod9IB5gFBVV95cUxPbTNCMlg1cnFsSTNTLVdxREUybXhPeHh5WThSZlVZTXpGQzNBQ1JUVGlrYUpVVXh5Q1FtQmM5Z1NldDA3d3NwM0hBUlNmU2ZZS0FMclZ5b283cXJMYm9jRUFleGxoWUdrNldSbk9UeDEtLWxhRUVwNWhWUDV3Ulg2WTRwbFhvZzJiNG1sSmxkbDNFY1JJbmNGNzlkZkxiaUVuVFRvTEZPbkxNVlBJX2RvRWZrSDdWVkFRWVUxcE5KUy1oZFROcjVTSWxlMWQ4bVl6VkcyUEJvWjFfemEyVVJzeEJzNkJ3UQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
           ]
         },
         {
-          "nome": "TV e Novelas",
+          "nome": "Música",
           "noticias": [
             {
-              "titulo": "Manoel Carlos, o Maneco, marcou era na TV com suas novelas e Helenas - G1",
-              "resumo": "Manoel Carlos, o Maneco, marcou era na TV com suas novelas e Helenas G1",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkNjRGJsNVZYZ1pmNWRJckcxZTFyNTlXMU4tNVM4aUJQMXVYRlVDaVhYRWpTbnQ0Z1ZRTzNtaEppdmRmSWVuVGJaUV9Ycnh5Znk1bEhtWk4tdExNVlRjN2JEa2ltZzFrMkg5SFlJb25fZzN5cC13YUdaMWktRXJPSl90Qnl2SFBTZkpyU1VfUkM0cDdBUzdEM200dzl1UmFWeUdfZ1ozRE5tVjQySHJlVzc2dkxhM1XSAcYBQVVfeXFMT0JncWJoQmtfSFpfajNEblFlc2pzRGVtT1NxQzJxZC1QbV81Wm9KbExCUk1EcDYyM2ZoNnNCcUk5UU44cWhXa282Wmx1a0NTY1hOYk5YSV9NWjRPOC1KS2xwbzBCUlVkYUdyekpTaUlMRzhubTExMnIydDJuZkRvVzZDeHZGalVubnlJcUJhODlrRlhzQ0pmc0x5aUVWbTgtUkJ0LVBrbUJoZWFPdXdIYlNFVk5RZ0dHaXg2YVl1MDZLLUNzOUln?oc=5",
-              "fonte": "TV e Novelas",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Cinema e Filmes",
-          "noticias": [
-            {
-              "titulo": "Cine Passeio exibiu novo filme de Almodóvar com exclusividade no Brasil - Prefeitura de Curitiba",
-              "resumo": "Cine Passeio exibiu novo filme de Almodóvar com exclusividade no Brasil Prefeitura de Curitiba",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTE0bmJLR0xoRUs2eXJUWllXWDJEWFNIZ1RtMWszR2Nvc0UtejhfWXFLX3V4SU5XTnFqaXF6SUttRFktM1otM1JsdC1RcmRNMFlkNi1Xd2dhT1dzUFZJZkdyNmRLWVZsM2tBbkI3TlVQTGNNT1YwWU4yOXFXbHAtdXJSU1RURnhJeG41bnV2TDZIRkpJZGhEODRQR05uVEF3XzhMQUNXVVcyOWFQY2hsUFd5dGh6cXNX?oc=5",
-              "fonte": "Cinema e Filmes",
+              "titulo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" - GZH",
+              "resumo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" GZH",
+              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNGg0VGx0VkVmNnQ2ejBZd3E3YS00ZVl1Y015TDdjMU5tak9RMjI4cWk1Q1dtVThwQ2pCNVFsY1JmUEVWWGdrVXBnTUdXNTdsX3RuU3lISE1MbUZSWjN4ODQ1ai1RRU0zVmVWS2FlNUdLbWxlLWE2aE4wa21hWWRiSkVkZEl2OWpkY1MtVDhBeF9pT1RWZ0lTMWlySmU1d3VyTlIxSXk3ODMxajA4b2h2VnZaZS05NXUtcExNblJQa2w4NGJfTVpvWTBYSU9HOURPZXJCMWlFSEVWZXpnbmNBYmV5QzhRbUx2YVdaTjZ6N2xNRFFYSS1aWmpqUjBRdEN5YUxJRERR?oc=5",
+              "fonte": "Música",
               "editoria": "Entretenimento"
             }
           ]
@@ -385,19 +366,85 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Curiosidades Gerais",
+          "nome": "Ciência e Tecnologia",
           "noticias": [
             {
-              "titulo": "No Brasil, Guns N’ Roses surpreende com pedido gastronômico inusitado - Metrópoles",
-              "resumo": "No Brasil, Guns N’ Roses surpreende com pedido gastronômico inusitado Metrópoles",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2VkYUI0MFlxRC1jd004Ny1ndVpveE5HQ1BoM255U1RqY2psS0JhcDRIQ1JBaDQ0Vmc1bkstbURJMUszQUNCTnN4SXk3Vy1yVWhaazRiaFhDQ0Z3aEJWUjVFOVBWaE9YLVZqamJVa1Q3OW1lUnhucnNXYXNCYTNYZUh1ei0yMEJkQ0RYU3FMZ0xzdnZlVHA1UjhJTGlVUXdXdFVYeFA5ZTVvUQ?oc=5",
-              "fonte": "Curiosidades Gerais",
+              "titulo": "Relembre os destaques da ciência em 2025, segundo a revista Science - CNN Brasil",
+              "resumo": "Relembre os destaques da ciência em 2025, segundo a revista Science CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUJsd1Y2ZHRnUzg2VHcxTVd2clY2bWVHQlVSTHp5UFRhQlRhMXJiODZ2Y1dqZzVWV1VsdFRFTkVnRnBGYm81bzVFd3oxWFFsdTJaZWJTbG5oRXZYc1dJNHpRalpFd1VhczhZcjBEemZ4R2lEOUVoeUhxdGFrU1dFemNwaXpudy1fMzUyS1F6NUdPdmhWZU43cU9waVliYThBOE85bXRjaVRCdkU?oc=5",
+              "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Marcelo Argenta revela surpresa em novela da Globo: “Inusitado” - iG Gente",
-              "resumo": "Marcelo Argenta revela surpresa em novela da Globo: “Inusitado” iG Gente",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWFTSUhKRVJxVUZtMFRtYnczbXRLQmlNYnliVkRKRXBDM0JLVWlPdFJXdVRSODNXYVNWZk4yX2RWVkNmS1RQOEhBRHpQNjBkcDJWaW5ka2l4RFo1Ulp5YXplLUUxTlpTTEExbFdxX3NSVHJMdWl5WVZBQWRjLWVlQ2pieFNoVkR3TDAtX0dzaHhUX0gyM1dodTkyczBnRW5hdWlXVDVpdzJEMmNHV1VrQTMtWE7SAboBQVVfeXFMTUNxOF9JODl3cTZiU0xMcWMtZnFLdlJQbGJnSE1ybmhfdk5pNGVPU09LSVhQZUd0R3p6SGctZGJJMmpvd0I5eWxQNUU3Mm5Ndklqd3V2U1YyNWlXLTQ1c0pMMnFBSFZZZ3FWaG9KZGR3dWlUclRxQlh6b2xSSVF5dVNyTHdQZ0pTdnJNRjg0TlhHT1RzZHJueUpMelYwSVZyMkp2WU44NW5zUlpfcnI1TDlvVlVRN3NNUlBB?oc=5",
+              "titulo": "Pesquisadores coreanos criam tecnologia que reverte células cancerígenas em células normais - Época Negócios",
+              "resumo": "Pesquisadores coreanos criam tecnologia que reverte células cancerígenas em células normais Época Negócios",
+              "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOanpDTW9Qd2p5OG1ndENwcnB6S25pLVJOQ0JtczBJWE5DQVBjakc5azFabXJjbnNVQngxOFVJNGpQNkkycHB6bFpOcWQ3WXIxOHFkc18tcmJRWmdUcjJYenlNUG1pZVFIN0Q4bTVJcmdDMDJLbGlMRlBvTlBzSEw1SnRudTJtaEVuMTI0QWIyYUpzZkhydTh0TnV4cTJoV1p2c0RPTWtRWjYzYUxNZVRsbG5BSVg3bjNTNVNSQlhSVXctenRZNW9Icy1xMnZNU0ZqMFVnajlrUnNBblBhZ25fTEVCcU9ScnNDN0VGbUl4V0NVZE3SAYICQVVfeXFMTk9FUDhpMFJQWjhuUXJVNnZEeGJtTlNiTXVUM1lpeEU1Wlc2d0wzNXJWTU9hclBJcU1yemVwa0w0YjFxeWhTRktvczVhMkVUV0tlQVNNdVgxX3daNnBhWVJNQXFfY0lfeS1XSU5vQTc4MWxRYW9Sc09Ra21uMzAtQzJRRzVmU1JxSGpmWVlramtOYzVaSjBhNDhhcGU0MnZ6UWhYV3Y3c1hZNzZQN0YwcVduTXhYVjh5M254bEpsN1d0TzJxbzk5ck5WTzRhUm9haHJGX21yWlJ0TXlGN1dUeDNuaE9RVmhyMnhrMkhPaFBYelN2TjNMMjBGTktTYno1Q0xR?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Avanço em problema global: Cientistas brasileiros anunciam descoberta de sementes que podem remover microplástico da água potável - conheça a capacidade das sementes de moringa - CPG Click Petróleo e Gás",
+              "resumo": "Avanço em problema global: Cientistas brasileiros anunciam descoberta de sementes que podem remover microplástico da água potável - conheça a capacidade das sementes de moringa CPG Click Petróleo e Gás",
+              "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQVi05bDNuQ2h5VVE4c1ZNbHVzOVFaMWFBMGdkVU1rY29TcjIwSl9SekxnWUNudlZYM21xck1pa3Joc0R1YnpmbFFpcEh0RWpuYW9HZmdESTJfMW54MklkeEJIQjVQc1NRalRwTmp1dGNwMzI1c0I4TENwWG5Jb0RCQkRwMVM0WktLa3NwelNaR25mSzF0ZnJSWms0SVMtYXpMRmZPbXNrbmJ5Q1JoNjJSVURhNFUtanFxWGZ6b09obzVmM1RHdU5NSXp3WFpXMmFCdjdzX1lsSUhLRl9tdUFfbV9SWTlBYVM4ZnhYc2FxeUhxbjRtdXhGc2hQVEpWc3ljMmIyNjY3emVXbGNFNzRrYWFobENJY1BNX3BBVE9JanNHLXZ6Mk05V2JvVkxKbHhzbVJjRUE5c0RYZw?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Vida extraterrestre: por que cientistas dizem que estamos perto de descoberta fora da Terra - BBC",
+              "resumo": "Vida extraterrestre: por que cientistas dizem que estamos perto de descoberta fora da Terra BBC",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Wb1plM1BZcHBZbDNWVThrM3ROMkpaYkRQSVk5UnVNSWItQXhjcEwtWEZaR0d1SDZGa3Bac0VqUW9fZDN3bG1Cc0ZoYTVLMDNQNWdCWUhSMDM2WkdjeG9lXzdn0gFnQVVfeXFMTXktS0FOeGgyR2k3T2tEQmxqMHhRNjBUNXBNYjBDS0piUkxJU1FKTmJCdHBSUzlGVmNPMWRfX2F3dFQwTi1nU0h1MV9fQVVuMVNUbDJ2a19FS3I2dlozUlp2dHh0ZGZ0SQ?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Nobel de Química 2020 vai para Emmanuelle Charpentier e Jennifer Doudna pelo desenvolvimento do Crispr, método de edição do genoma - G1",
+              "resumo": "Nobel de Química 2020 vai para Emmanuelle Charpentier e Jennifer Doudna pelo desenvolvimento do Crispr, método de edição do genoma G1",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakR6WXhaa0kzNmI4QXZmOTNzYXd3bWJMTl9KVF9HN0lqRlpWemZDbG04OEFkZ3l4S3RuNUZ6ZkYwY25NaWpvMkM4N0dMbGJlTlItYjN2NW1ob3Q1ZnNFSTczXzduQVRCMnZPdldMM1ZoQnRuc1d3bDdBSWlLSG1abllzeUo5ZE96UkVieENIMHNqUEdueEQ1UURpUjVydTV4VG1jdEJnYnRLcnpfR014QnQwckY0VHpzUkEwR1RScVhhRjMzV2JjRGp1Y2FIb2d20gHfAUFVX3lxTFBQOHNVODJwaXh4bmRJV1NCaDI0ZDlQVGhkdGxOT1IwQTBRQUVmM0ZrdFhhMmVfdGJYME5yaGNnU3hWVEFYQ1FPSDJZZ3o3RWY0MkRocnN4VkpLWUdpZGlpaENYckd4aEVZNFBkOEVlOXRFWDljd2xuZWg4Z0lhbFo4Qkw4Z0twb3ltek9uNUtHVHZPcEVCcFN6SG9GeURNa0ZxUUtOZ29laTFpVnpFeXVpam9MWGRGalJkSFN3UUFtaWk0WWlKSlc2c0RxSXZybFQ0aEFUNlpUX24za0Vud2c?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Saúde e Bem-estar",
+          "noticias": [
+            {
+              "titulo": "Como o perdão pode impactar o bem-estar? Estudo de Harvard responde - Exame",
+              "resumo": "Como o perdão pode impactar o bem-estar? Estudo de Harvard responde Exame",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnZlN09EQjJJbDJLMDhad1UzYm1iemVsWlpLbnZTRVVES052aEM5QXpWMEdGWnh1QTc2d0lxb3hzZDRBOV9VbnpUZGFsRmxmRXBXU2NCbXEzamI5amF3Q3UtVFlTWi1NSWV4aXdpS1pFSExsOTVKQTJyWEdFNlVmQmI3Sm5VUjItbjYxRXdiVUV3V0E?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Saúde mental em pauta: qual a relação entre o consumo de mídia e o bem-estar dos brasileiros - Globo Gente",
+              "resumo": "Saúde mental em pauta: qual a relação entre o consumo de mídia e o bem-estar dos brasileiros Globo Gente",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8waXpMdEo0cktHQWU5LWkyQkk2VmY1Tk5mQVdiTFh4TXRoYUNvVUJOb2dWZzdnbHYzQnlUNS1PV2xSVjhweFR4NjcwU2JOdUJSZlNTVDFvY25tbjdreXdWcw?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Anunciados os vencedores do Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar 2025 - Agência FAPESP",
+              "resumo": "Anunciados os vencedores do Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar 2025 Agência FAPESP",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWE5TakpKUlZ0ZmQ1dDdoUGNiX29VMUh6UldKXzJLT3VTdmZqeEtianVuanQ3cmhvMC1QeTFYYUVlX2xWTHhVOWVveTV2QzY0OHNkMlF2YzRuUy1Samo5Ul9GbVoweFN4Yjltb3pSMlM5ODFCSmRtNjIyeEx6Vl84TzhfcjI3T3I1WXdEaFVWa2d0eWhIaGlCaHBFUjR1azJVVHJwaVV3VmRORUZyUV9Kb1lVZnR3UHZlUUhDME0xRzBGZU9RaW5URU5DTQ?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Manter conexões sociais traz sensação felicidade coletiva, segundo pesquisa - Catraca Livre",
+              "resumo": "Manter conexões sociais traz sensação felicidade coletiva, segundo pesquisa Catraca Livre",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1JQWHlSNGF2dkhzRUNjWXRSRDlMTzBhM0FJbFpYVVQydWVxalBIbE0yZjNZb0djYmJndG95N01IbUNrWjJacFQ0NzlYX3FPejBuUzRxWEZxMW1uYWx3YkNacUxqazhKMEpfb0Q2NmdmcWhOMmpqZFdveTRfdnJ2SVhHN2Rub1R2Mkx3Si0tbG9iZ1VpZDMwRWplWnNkaVJBWldfNmNVZkRrTks0T1NuWWFWajRKZjJES01v?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Curiosidades Gerais",
+          "noticias": [
+            {
+              "titulo": "Grávida, Ranya surpreende Jade com desejo inusitado, se abala com resposta e faz ameaça: “Contar para o Said” - Observatório da TV",
+              "resumo": "Grávida, Ranya surpreende Jade com desejo inusitado, se abala com resposta e faz ameaça: “Contar para o Said” Observatório da TV",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGtMdHF1eU01eTVwYXVJUEVxWEItVm5jUmFWZnBvNzJpczI3VzRiMk1lWTdCYndtcGpHZzhXTC1BVTlNUlEzdVhadEcyLS1kczk1UTdCU2dxRnhmSnhXd2VnM0xXTktDOVNVeGlmOEk4S1RNY1FxbkpvUnpaY1BScFU1X1VqTWQ3eTN4T19rQldfNG9Wc1J2ZWVkQjlPNXBQQV91dmFnR0UyT0ZQUU9NQ0ZXWjUzNkdvTV85UXFhWjgtby0yMmNNc05KZHVFN1hSZGw4U1ZHN1MwYmpaU3MwRlRyZW90YW1XMnc?oc=5",
               "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
