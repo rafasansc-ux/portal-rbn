@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-07-18T17:46:06.223552",
-  "data": "18/07/2026",
-  "hora": "17h46",
-  "total": 33,
+  "gerado_em": "2026-07-19T01:19:35.838012",
+  "data": "19/07/2026",
+  "hora": "01h19",
+  "total": 56,
   "editorias": [
     {
       "nome": "Local",
@@ -11,30 +11,30 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Jaraguá do Sul 150 anos: uma noite que celebrou a história, a fé e a música",
-              "resumo": "As comemorações pelos 150 anos de Jaraguá do Sul seguiram na noite desta sexta-feira (17) com um grande evento gospel […] The post Jaraguá do Sul 150 anos: uma noite que celebrou a história, a fé e a música appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/jaragua-do-sul-150-anos-uma-noite-que-celebrou-a-historia-a-fe-e-a-musica",
+              "titulo": "Jaraguá Futsal perde para o Praia Clube e vê escapar chance de entrar no G-4 da LNF",
+              "resumo": "O Jaraguá Futsal enfrentou muitas adversidades neste sábado (18), em Uberlândia (MG), e acabou derrotado pelo Praia Clube por 3 […] The post Jaraguá Futsal perde para o Praia Clube e vê escapar chance de entrar no G-4 da LNF appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/jaragua-futsal-perde-para-o-praia-clube-e-ve-escapar-chance-de-entrar-no-g-4-da-lnf",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Homem morre após ser esfaqueado em Joinville; companheira diz que reagiu a enforcamento",
-              "resumo": "Um homem morreu após ser esfaqueado na manhã deste sábado (18), no bairro Morro do Meio, em Joinville, no Norte […] The post Homem morre após ser esfaqueado em Joinville; companheira diz que reagiu a enforcamento appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/homem-morre-apos-ser-esfaqueado-em-joinville-companheira-diz-que-reagiu-a-enforcamento",
+              "titulo": "Sport Club Jaraguá é goleado pelo Metropolitano na Série B",
+              "resumo": "O Sport Club Jaraguá acumulou mais uma goleada sofrida nesta reta final de Série B do Campeonato Catarinense. Já rebaixado, […] The post Sport Club Jaraguá é goleado pelo Metropolitano na Série B appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/sport-club-jaragua-e-goleado-pelo-metropolitano-na-serie-b",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Joaquim Barbosa desiste de pré-candidatura à Presidência por falta de alianças e recursos",
-              "resumo": "O ex-ministro do Supremo Tribunal Federal (STF) Joaquim Barbosa desistiu da disputa pela Presidência da República após não conseguir viabilizar […] The post Joaquim Barbosa desiste de pré-candidatura à Presidência por falta de alianças e recursos appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/politica/joaquim-barbosa-desiste-de-pre-candidatura-a-presidencia-por-falta-de-aliancas-e-recursos",
+              "titulo": "Discussão entre casal termina com os dois feridos e levados à delegacia em Guaramirim",
+              "resumo": "Uma ocorrência de violência doméstica terminou com um casal conduzido à Delegacia de Polícia neste sábado (18), no Centro de […] The post Discussão entre casal termina com os dois feridos e levados à delegacia em Guaramirim appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/discussao-entre-casal-termina-com-os-dois-feridos-e-levados-a-delegacia-em-guaramirim",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Homem é encontrado morto às margens do Rio Benedito, em Indaial",
-              "resumo": "Um homem foi encontrado morto na manhã deste sábado (18) às margens do Rio Benedito, em Indaial, no Vale do […] The post Homem é encontrado morto às margens do Rio Benedito, em Indaial appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/homem-e-encontrado-morto-as-margens-do-rio-benedito-em-indaial",
+              "titulo": "Bombeiros completam mais de 60 horas de operação após vazamento de gás em Manaus",
+              "resumo": "O Corpo de Bombeiros Militar do Amazonas (CBMAM) completou, na manhã deste sábado (18), mais de 60 horas consecutivas de […] The post Bombeiros completam mais de 60 horas de operação após vazamento de gás em Manaus appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/bombeiros-completam-mais-de-60-horas-de-operacao-apos-vazamento-de-gas-em-manaus",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -46,40 +46,66 @@
       "nome": "Estado",
       "fontes": [
         {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "'Incompatível com a vida extrauterina': Justiça de SC autoriza mulher a interromper gravidez de feto com malformação",
+              "resumo": "Imagem ilustrativa de gravidez Hospital das Clínicas/Divulgação A Justiça de Santa Catarina autorizou a interrupção terapêutica de uma gravidez de 17 semanas após exames médicos confirmarem que o feto não apresentava condições de sobreviver fora do útero. A decisão divulgada nesta semana é da Vara de Família de uma cidade do Oeste do estado. O nome da mulher e nem a comarca de origem foram revelados.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/18/justica-sc-autoriza-mulher-interromper-gravidez-de-feto-com-malformacao.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "Chuvas provocam alagamentos, atingem casas e Inmet coloca SC em alerta de perigo para tempestades",
+              "resumo": "Confira a Previsão do Tempo em SC As chuvas provocaram quedas de árvores, causaram alagamentos e interditaram ruas neste sábado (11) em cidades de Santa Catarina. Apesar dos danos materiais, a Defesa Civil informou que não há registro de pessoas desalojadas ou desabrigadas. O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta laranja de perigo para tempestades válido até as 23h59 deste sábado.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/11/chuvas-provocam-alagamentos-e-inmet-coloca-sc-em-alerta-de-perigo-para-tempestades.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            },
+            {
+              "titulo": "‘Se tem placa, tem história’: Golden ‘ladrão de roupas’ surpreende menina em SC e momento viraliza",
+              "resumo": "‘Se tem placa, tem história’: golden ‘ladrão de roupas’ pega menina de surpresa em SC Uma menina foi surpreendida por um Golden Retriever \"ladrão de roupas\" enquanto passeava com a família em Itajaí (SC). O registro do momento divertido viralizou nas redes sociais e já acumulava mais de 700 mil visualizações até este sábado (11).",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/11/se-tem-placa-tem-historia-golden-ladrao-de-roupas-surpreende-menina-em-sc-e-momento-viraliza.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Hermanos favoritos? Fifa anuncia uniformes das seleções na final entre Espanha x Argentina",
-              "resumo": "Decisão da Copa terá uniformes diferentes dos usados nas semifinais. A Argentina aposta na tradição, enquanto a Espanha retorna ao seu uniforme principal O post Hermanos favoritos? Fifa anuncia uniformes das seleções na final entre Espanha x Argentina apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/fifa-uniformes-de-selecoes-final-entre-espanha-x-argentina/",
+              "titulo": "Os conselhos de São Filipe Néri para os pais protegerem os jovens de más companhias:’absolutamente necessário que evitem’",
+              "resumo": "Afastar-se de más influências e cultivar conexões saudáveis continua sendo o caminho mais seguro para manter o foco, a integridade e alcançar grandes objetivos O post Os conselhos de São Filipe Néri para os pais protegerem os jovens de más companhias:’absolutamente necessário que evitem’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/religiao/sao-filipe-neri-revela-aos-pais-de-jovens-que-e-absolutamente-necessario-que-evitem-mas-companhias-e-se-familiarizem-com-as-boas/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Multinacional norte-americana fecha fábrica em cidade no interior de São Paulo e afeta cerca de 100 metalúrgicos",
-              "resumo": "Empresa informou que encerramento da unidade faz parte de uma estratégia de otimização operacional O post Multinacional norte-americana fecha fábrica em cidade no interior de São Paulo e afeta cerca de 100 metalúrgicos apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/negocios/multinacional-norte-americana-parker-fecha-unidade-em-sp/",
+              "titulo": "Como fazer pipoca proteica sabor brownie sem açúcar de forma rápida",
+              "resumo": "prenda a preparar uma massa leve, maleável e saudável que utiliza frango, ovos e requeijão light para substituir a farinha no seu planejamento alimentar O post Como fazer pipoca proteica sabor brownie sem açúcar de forma rápida apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/gastronomia/receitas/receita-panqueca-proteica-sem-trigo-3-ingredientes/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Por que Argentina x Inglaterra é muito mais do que futebol",
-              "resumo": "Argentina x Inglaterra voltou a transformar uma Copa em palco da disputa pelas Malvinas, uma rivalidade que mistura guerra, memória nacional, soberania e futebol. O post Por que Argentina x Inglaterra é muito mais do que futebol apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/por-que-argentina-x-inglaterra-e-muito-mais-do-que-futebol/",
+              "titulo": "Receita de pudim proteico na Air Fryer sem açúcar e sem banho-maria",
+              "resumo": "Com apenas 35 minutos de cozimento e sem necessidade de banho-maria, o doce leva calda de agave e whey protein para garantir saciedade e sabor na dieta. O post Receita de pudim proteico na Air Fryer sem açúcar e sem banho-maria apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/gastronomia/receitas/pudim-proteico-na-air-fryer-zero-acucar/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Argentina suspende jogos no país e prepara megaoperação para receber seleção após a Copa do Mundo",
-              "resumo": "Suspensão atinge diversas competições enquanto o país organiza a recepção da equipe após a final contra a Espanha O post Argentina suspende jogos no país e prepara megaoperação para receber seleção após a Copa do Mundo apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/argentina-suspende-jogos-no-pais-e-prepara-megaoperacao-para-receber-selecao-apos-a-copa-do-mundo/",
+              "titulo": "Jovem é executado dentro de casa por homens encapuzados em SC; vítima foi encontrada morta dentro do banheiro",
+              "resumo": "Matheus Willian tinha apenas 26 anos e foi encontrado dentro do banheiro em Lages, na Serra catarinense; criminosos fugiram após o crime O post Jovem é executado dentro de casa por homens encapuzados em SC; vítima foi encontrada morta dentro do banheiro apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/jovem-executado-em-lages-homens-encapuzados/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Espanha x Argentina: tempestade cancela treino antes da final da Copa do Mundo",
-              "resumo": "Seleção espanhola desistiu da atividade após o temporal comprometer a programação em Nova Jersey. A final da Copa do Mundo será disputada neste domingo, em Nova York O post Espanha x Argentina: tempestade cancela treino antes da final da Copa do Mundo apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/espanha-x-argentina-tempestade-cancela-treino-final-da-copa/",
+              "titulo": "Rolê aleatório? Jade Picon ganha recado da Adidas após participação na Copa: ‘Com estilo’",
+              "resumo": "Atriz esteve no gramado do Hard Rock Stadium e chamou atenção antes de França x Inglaterra O post Rolê aleatório? Jade Picon ganha recado da Adidas após participação na Copa: ‘Com estilo’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/jade-picon-recado-adidas-apos-participacao-copa-do-mundo/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -94,37 +120,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "VÍDEO: homem entra em loja de cosméticos, derruba produtos de prateleiras e causa prejuízo de R$ 3 mil no ES",
-              "resumo": "Homem entra em loja de cosméticos e derruba produtos de prateleiras em Colatina Um homem invadiu uma loja de cosméticos e derrubou dezenas de produtos das prateleiras na tarde de sexta-feira (17), em Colatina, no Noroeste do Espírito Santo. A ação foi registrada por câmeras de segurança e, segundo a Polícia Militar, causou um prejuízo estimado em R$ 3 mil ao estabelecimento.",
-              "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/07/18/video-homem-entra-em-loja-de-cosmeticos-derruba-produtos-de-prateleiras-e-causa-prejuizo-de-r-3-mil-no-es.ghtml",
+              "titulo": "Amigos percorrem 300 km a pé para mostrar lugares inóspitos do RS: 'Que inspire mais pessoas a conhecer essa região'",
+              "resumo": "Amigos vão percorrer 300 km a pé no RS para mostrar o litoral e a serra Três amigos embarcaram em uma aventura na terça-feira (14): Filipe Pereira, Arthur Teixeira e Gustavo Ribas vão caminhar por 300 quilômetros e percorrer 10 cidades do Rio Grande do Sul com o objetivo de \"divulgar as belezas naturais\" do estado. \"Mostrar o quanto a nossa Serra Geral é extraordinária e que o nosso litoral não é só praia\", diz Filipe.",
+              "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/amigos-percorrem-300-km-a-pe-para-mostrar-lugares-inospitos-do-rs-que-inspire-mais-pessoas-a-conhecer-essa-regiao.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Adolescente é apreendido suspeito de matar o irmão em Belém",
-              "resumo": "Agora no g1 Um adolescente foi apreendido em flagrante pela Polícia Civil nesta sexta-feira (18), suspeito de matar o próprio irmão, também menor de idade, no distrito de Icoaraci, em Belém. As circunstâncias do crime não foram detalhadas. O caso é apurado pela Divisão de Atendimento ao Adolescente (Data).",
-              "link": "https://g1.globo.com/pa/para/noticia/2026/07/18/adolescente-e-apreendido-suspeito-de-matar-o-irmao-em-belem.ghtml",
+              "titulo": "Terremoto de magnitude 5,5 atinge região central do Peru",
+              "resumo": "Terremoto na região central do Peru Reprodução/Centro Sismológico Euro-Mediterrâneo Um terremoto de magnitude 5,5 atingiu a região central do Peru neste sábado (18), informou o Centro Sismológico Europeu-Mediterrâneo. O epicentro do terremoto foi de 22 km (13,67 milhas), segundo o EMSC.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "VÍDEO mostra armazém desabando na Rússia após ataque de drones ucranianos",
-              "resumo": "Vídeo mostra momento em que armazém desaba na Rússia após ataque de drones ucranianos Um vídeo mostra o momento exato em que um armazém desaba em Kotovsk, na região de Tambov, na Rússia - cerca de 475 quilômetros ao sudeste de Moscou. O local foi um dos alvos de um ataque massivo de drones ucranianos contra centros logísticos e outras instalações russas durante a madrugada deste sábado (18).",
-              "link": "https://g1.globo.com/mundo/noticia/2026/07/18/video-mostra-armazem-desabando-na-russia-apos-ataque-de-drones-ucranianos.ghtml",
+              "titulo": "Projeto promove formação em cerâmica para mulheres quilombolas e marisqueiras",
+              "resumo": "Participante do projeto Somos Divas na Luz do Candeeiro, Landina Maria, do Quilombo de Maria Joaquina, produz diversas peças em cerâmica Prolagos A Prolagos e a Casa Museu Carlos Scliar deram início a mais uma edição do projeto Somos Divas na Luz do Candeeiro, iniciativa voltada ao fortalecimento do protagonismo feminino por meio da valorização da cultura e do saber ancestral.",
+              "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/07/19/projeto-promove-formacao-em-ceramica-para-mulheres-quilombolas-e-marisqueiras.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Após liberação judicial, 28 ônibus voltam a circular no transporte coletivo de Rio Branco",
-              "resumo": "Neste sábado (18), 43 ônibus estão em circulação pela capital acreana Vinte e oito dos 50 ônibus liberados pela Justiça após apreensão no fim de junho voltaram a operar no transporte coletivo de Rio Branco na tarde dessa sexta-feira (17). Os demais veículos ainda devem passar por vistoria antes de serem incorporados à frota da capital. Com o reforço, a quantidade de ônibus em circulação nos dias úteis passou de 39 para 67 veículos.",
-              "link": "https://g1.globo.com/ac/acre/noticia/2026/07/18/apos-liberacao-judicial-onibus-voltam-a-circular-no-transporte-coletivo-de-rio-branco.ghtml",
+              "titulo": "Prolagos avança com obras da rede de água no Manoel Corrêa, em Cabo Frio",
+              "resumo": "Intervenções no bairro Manoel Corrêa vão ampliar o acesso à água tratada para mais de 5 mil moradores Prolagos As obras de implantação da rede de abastecimento de água no bairro Manoel Corrêa, em Cabo Frio, seguem avançando. A Prolagos está executando cerca de 4,4 quilômetros de rede de distribuição para levar água tratada para mais de 5 mil pessoas.",
+              "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/07/19/prolagos-avanca-com-obras-da-rede-de-agua-no-manoel-correa-em-cabo-frio.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Praia Grande apreende mais de 300 bicicletas elétricas e ciclomotores irregulares",
-              "resumo": "Setran PG segue com ações de fiscalização com bicicletas elétricas, autopropelidos e ciclomotores. Divulgação/Prefeitura de Praia Grande. A Prefeitura de Praia Grande, no litoral de São Paulo, apreendeu 313 bicicletas elétricas, ciclomotores e equipamentos de mobilidade individual autopropelidos entre janeiro e junho deste ano. As ações de fiscalização foram realizadas pela Secretaria de Trânsito (Setran).",
-              "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/18/praia-grande-apreende-mais-de-300-bicicletas-eletricas-e-ciclomotores-irregulares.ghtml",
+              "titulo": "Da indicação no Orçamento ao dinheiro na conta: veja as fases de execução de uma emenda parlamentar",
+              "resumo": "O Orçamento da União de 2026 tem cerca de R$61 bilhões para serem executados conforme indicação de deputados e senadores por meio das chamadas emendas parlamentares. 🔎As emendas parlamentares são um montante do Orçamento reservado para serem executados conforme a indicação dos congressistas.",
+              "link": "https://g1.globo.com/politica/noticia/2026/07/19/da-indicacao-no-orcamento-ao-dinheiro-na-conta-veja-as-fases-de-execucao-de-uma-emenda-parlamentar.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -134,9 +160,16 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Por que estrangeiros estão comprando tantos imóveis no Brasil",
-              "resumo": "Por que estrangeiros estão comprando tantos imóveis no Brasil Adobe Stock O Brasil \"estar na moda\" já tem reflexos no mercado imobiliário do país. Regiões como a Zona Sul do Rio de Janeiro e o litoral de Santa Catarina registram têm registrado um aumento robusto na busca de imóveis por estrangeiros nos últimos anos.",
-              "link": "https://g1.globo.com/economia/noticia/2026/07/18/por-que-estrangeiros-estao-comprando-tantos-imoveis-no-brasil.ghtml",
+              "titulo": "Quanto ganha o campeão da Copa do Mundo 2026? Veja premiação",
+              "resumo": "Espanha e Argentina se enfrentarão na grande final da Copa do Mundo de 2026. Reuters Neste domingo acontece a grande final da Copa do Mundo de 2026 entre Espanha e Argentina. Para além do prestígio de atingir o degrau mais alto do futebol mundial e entrar para a história, espanhóis e argentinos também estarão disputando uma premiação milionária.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/19/quanto-ganha-o-campeao-da-copa-do-mundo-2026.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "EUA condicionaram redução de tarifaço a concessões para empresas americanas; veja setores cobiçados",
+              "resumo": "Tarifaço de Trump recoloca em debate a Lei da Reciprocidade Econômica O governo brasileiro ouviu de autoridades dos Estados Unidos que os setores de bens industriais, químico, aeroespacial e automotivo deveriam ter tarifas zeradas para as empresas americanas para que o governo de Donald Trump pudesse considerar ao menos reduzir o novo tarifaço contra o Brasil.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/19/eua-condicionaram-reducao-de-tarifaco-a-concessoes-para-empresas-americanas-veja-setores-cobicados.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -146,37 +179,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Atrasos em ordens e confusão adiaram resposta da Venezuela a terremotos",
-              "resumo": "Incerteza sobre quem era responsável pela coordenação da crise e falta de equipamentos adequados atrasaram esforços das Forças Armadas, segundo fontes",
-              "link": "https://www.cnnbrasil.com.br/internacional/atrasos-em-ordens-e-confusao-adiaram-resposta-da-venezuela-a-terremotos/",
+              "titulo": "EUA encerram oitava noite consecutiva de ataques ao Irã",
+              "resumo": "Comando Central norte-americano afirmou que ofensiva atingiu instalações militares iranianas de vigilância costeira e defesa aérea",
+              "link": "https://www.cnnbrasil.com.br/internacional/eua-encerram-oitava-noite-consecutiva-de-ataques-ao-ira/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Corpo de cozinheira desaparecida no litoral de SP é encontrado no RJ",
-              "resumo": "Berenice Ramos de Aguiar havia desaparecido no dia 30 de junho deste ano, em Ubatuba (SP); ex-patroa da vítima é suspeito e foi presa no início deste mês",
-              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corpo-de-cozinheira-desaparecida-no-litoral-de-sp-e-encontrado-no-rj/",
+              "titulo": "Veja todas as imagens do ensaio entre Lionel Messi e Lamine Yamal",
+              "resumo": "Ensaio beneficente de 2007 reuniu Lionel Messi e um bebê chamado Lamine Yamal; relembre todas as imagens do encontro",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todas-as-imagens-do-ensaio-entre-lionel-messi-e-lamine-yamal/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Emmy 2026: mudança em transmissão causa revolta em sindicatos",
-              "resumo": "Presidente da Academia explicou que shows musicais e esquetes de humor podem trazer frescor para a transmissão",
-              "link": "https://www.cnnbrasil.com.br/pop/tv/emmy-2026-mudanca-em-transmissao-causa-revolta-em-sindicatos/",
+              "titulo": "Mísseis russos atingem Kiev, deixando um morto, dizem autoridades",
+              "resumo": "Outras nove ficaram feridas, enquanto incêndios se alastravam pela cidade",
+              "link": "https://www.cnnbrasil.com.br/internacional/misseis-russos-atingem-kiev-deixando-um-morto-dizem-autoridades/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Loreto brinca com personagem de “Quem Ama Cuida”: “Não está disponível”",
-              "resumo": "Ator interpreta Iuri, que faz o segurança de Pilar, na novela das 9",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/loreto-brinca-com-personagem-de-quem-ama-cuida-nao-esta-disponivel/",
+              "titulo": "Irmãos Tate são presos a pedido do Reino Unido por estupro e tráfico sexual",
+              "resumo": "Agentes federais dos EUA prenderam influenciadores em Miami, a pedido do Reino Unido, após investigação sobre crimes sexuais denunciados por sete vítimas, segundo Serviço de Procuradoria da Coroa Britânica",
+              "link": "https://www.cnnbrasil.com.br/internacional/irmaos-tate-sao-presos-nos-eua-acusados-de-estupro-e-trafico-sexual/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "França x Inglaterra: veja as escalações e onde assistir ao 3º lugar da Copa",
-              "resumo": "Equipes se enfrentam neste sábado (18), às 18h (de Brasília), no Hard Rock Stadium",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/franca-x-inglaterra-veja-as-escalacoes-e-onde-assistir-ao-3o-lugar-da-copa/",
+              "titulo": "Presidente do México irá à final da Copa do Mundo a convite de Trump",
+              "resumo": "Final entre Argentina e Espanha é realizada em Nova Jersey neste domingo (19)",
+              "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-mexico-ira-a-final-da-copa-do-mundo-a-convite-de-trump/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -186,23 +219,37 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Seleção masculina perde e pode dar adeus à Liga das Nações de vôlei",
-              "resumo": "O momento da seleção masculina de vôlei é o pior possível na Liga das Nações. A derrota por 3 sets a 0 para a Polônia, atual campeã, com parciais de 25/22, 28/26 e 25/19, na noite desta sexta-feira (17), em Chicago, nos Estados Unidos, deixou o Brasil a um passo de ser eliminado na primeira fase da competição, o que seria inédito em oito edições.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/selecao-masculina-perde-e-pode-dar-adeus-liga-das-nacoes-de-volei",
+              "titulo": "Inglaterra leva 3ª lugar e Mbappé vira maior artilheiro das Copas",
+              "resumo": "O penúltimo jogo da Copa do Mundo foi daqueles inacreditáveis. Dez gols - um deles histórico e inúmeras oportunidades. Uma goleada que virou pandemônio. O duelo em Miami (Estados Unidos) proporcionou entretenimento, principalmente na etapa final.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/inglaterra-leva-3a-lugar-e-mbappe-vira-maior-artilheiro-das-copas",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Cerrado vence e força 3º jogo contra Sampaio por vaga na final da LBF",
-              "resumo": "A definição do segundo finalista da edição 2026 da Liga de Basquete Feminino (LBF) ficou para o terceiro e último jogo do confronto entre Cerrado BRB e Sampaio Corrêa. Neste sábado (18), a equipe do Distrito Federal superou a Bolívia Querida - dona da melhor campanha geral da temporada - por 73 a 62, no Ginásio Costa Rodrigues, em São Luís. A partida foi transmitida ao vivo pela TV Brasil.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/cerrado-vence-e-forca-3o-jogo-contra-sampaio-por-vaga-na-final-da-lbf",
+              "titulo": "Jogo no Irã há 10 anos faz campeão mundial ter entrada vetada nos EUA",
+              "resumo": "O ex-lateral Joan Capdevila, campeão mundial pela Espanha em 2010, revelou que teve a entrada vetada nos Estados Unidos. Ele pretendia acompanhar, ao lado dos filhos, a final da Copa do Mundo, neste domingo (19), em Nova Jersey, a partir das 16h (horário de Brasília), entre a seleção de seu país e a Argentina.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogo-no-ira-ha-10-anos-faz-campeao-mundial-ter-entrada-vetada-nos-eua",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Confusão no Maracanã e \"freguesia\" gaúcha marcam noite de Brasileirão",
-              "resumo": "A reta final da Copa do Mundo coincide com o retorno do Campeonato Brasileiro. A noite de sexta-feira (17) foi movimentada por dois jogos da 19ª rodada, a última do primeiro turno da competição, e um atrasado da quarta rodada. No Maracanã, Fluminense e Red Bull Bragantino empataram por 1 a 1 em jogo que teve muita confusão no fim, três expulsões no total e gol com quase 60 minutos de segundo tempo.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/confusao-no-maracana-e-freguesia-gaucha-marcam-noite-de-brasileirao",
+              "titulo": "Trabalhadores informais fazem novo ato contra programa Tolerância Zero",
+              "resumo": "Camelôs, vendedores ambulantes e trabalhadores informais voltaram a se reunir neste sábado (19), em frente ao Hotel Fasano, em Ipanema, para mais um protesto contra o programa Tolerância Zero, da Prefeitura do Rio de Janeiro, que intensificou a fiscalização do comércio ambulante na orla da zona sul.",
+              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/trabalhadores-informais-fazem-novo-ato-contra-programa-tolerancia-zero",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "TV Brasil: Cena Musical apresenta show do cantor pernambucano Almério",
+              "resumo": "O cantor e compositor pernambucano Almério é o destaque da edição inédita do programa Cena Musical que a TV Brasil exibe neste sábado (18). O artista interpreta o repertório do álbum Nesse Exato Momento com obras autorais e grandes sucessos na performance exclusiva para a emissora pública. A atração vai ao ar de sábado para domingo (19), à meia-noite. A produção contempla composições do próprio artista como Antes de Você Chegar e Quero Você.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/tv-brasil-cena-musical-apresenta-show-do-cantor-pernambucano-almerio",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Trilha na Rocinha mostra Mata Atlântica e recuperação florestal no Rio",
+              "resumo": "Em uma caminhada de cerca de 20 minutos, visitantes podem percorrer um trecho da Mata Atlântica preservada, conhecer parte da história da recuperação ambiental da Floresta da Tijuca e descobrir uma paisagem que contrasta com a imagem mais conhecida da Rocinha.",
+              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/trilha-na-rocinha-mostra-mata-atlantica-e-recuperacao-florestal-no-rio",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -217,16 +264,9 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Senador Luiz Henrique da Silveira (PMDB-SC) morre aos 75 anos - Consultor Jurídico",
-              "resumo": "Senador Luiz Henrique da Silveira (PMDB-SC) morre aos 75 anos Consultor Jurídico",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXJYZVQ3dkdzTHBKMHhINEg5NEhvd2FfYTBvamhqTGNZUjlLdFVJS1g5Z2hEUkVHYzhWZlA1WklfdVVZSmdNb3FLbWhOQkM2R0IwV0dETnZqOFZCcXBJSE5xY2FLZlJjS090Z2NlN2tycFdCUnpoTFhYZ0pWcG1uRXZnUXdFZ3pMNE5mRkNwZkc3UnZkdEk5SHlyYw?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Morre o senador catarinense Luiz Henrique da Silveira - O GLOBO",
-              "resumo": "Morre o senador catarinense Luiz Henrique da Silveira O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUZTWWlCRGtkTXN6WGxaeU5STlkwTVhBdG5rZXFjQ3d5S1FMR21yQlZuV1cxYXdUMkx4Y2tmWDUtSmhHa3U1SmRQQXZOS0VIRFdSeEJrcVBfcjhVVTdsVXZkNEhnc0ZxdG5fcHl5bzY4MXBLX0ZoOEF2RFhsMDRxV0J5RjlTVlpOSWZWRWtFZ0hnOTlic2NINTRB0gGoAUFVX3lxTE94Z21NTnM2OVgyNExSZEJ0dWJIN2EzVUhOTURscjg4T05QWjJVbE5GZEtncmc3V0hKTHRySmdVV1RqTjBmN1RXSjl0YS1vWGRWMm9SdnNoWlYwRjFDN0FvY3JNeXZUZ0pZS1pHT0J0d0Rpc3RiVTkxcnFoZ0MtZmVnVk96ODhoTXh3QUhTbUNITTRPTjdfd09XY0RQQUlNcE4xaV8xY3hXeQ?oc=5",
+              "titulo": "Michelle e Carlos Bolsonaro divergem sobre vaga ao Senado de Santa Catarina em 2026 - O GLOBO",
+              "resumo": "Michelle e Carlos Bolsonaro divergem sobre vaga ao Senado de Santa Catarina em 2026 O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeldDTk43Q1F2eFlCeThNUU9zSHFieWprVWtrVVVuQWRmZlh0cEMtU2N4T2ZKakl3Ukl1ZTVTZ0VaVFZXb1JyVnlJOUpnN20wSUhOTXZoOVpDT0dteTlRc3RfUmo1cnJmTTNlTHJTMmw2Qmkybm0yMTU4YlZWVVpRYU5pdVdZTVo2c1hTWjBrLXVGM2N1Y0N2OGU2SUlIQTFtbmtXSmhtNUtCejJnSzNwdUVwVVB0dnpJNGY3UlpsLUF6M2dYMnFIX1J1ODNFN1lUSjNDcW9nMnVqd9IB6AFBVV95cUxNbkJYTWtnUjZfVEFhZkhjVEFuUEo2REtzbEVET2ZsT3RMWlBnSWpwek5CRVR3NlhDdlgyZHhWdUFwNm9LNjBNNzRYbXdXSTlCYWxYVGMtNkVSLUJPcnJaS2FIa2hEYXNHNmdaaHFFdWZwekIwODZpbGpld2xlRU9zYkxIUHRMWFpMV0JfTl9kcVEzT3dOQWZ1Z3NPanR5bUVBZ1VMRHBrZUIwVVk4TmQ1NzAwS0gxaWVvSzR6cXhxNkdYRWQ3czV2dFZzTWxGcmtmLVVFRWprZzhZSVQ0Njl2aDA2Y3daQUZ2?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -236,23 +276,16 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos - Valor Econômico",
-              "resumo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos Valor Econômico",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ3BMYUh5Y2t6VS1Hd3cwSUtBeXFWOFdzck5CWG54M2JnbldCSjFfYXBUeXotdDh1d0FqYUd3TXBvOFlfY2p5eV9BZEg5eTBzQm84VWt0ZkFiT0I4cnlqLUhXUzRWV0FUUjd5Qko0VUZQLVM0S1hRSTkwYjdvUXVldlh3bUU2TktSaVBILTVwRlFvYXc3QWw3THRqSjlJUzFUQ2ZPdkNMX1FudVNkclAzWFZZVEFRbnhDclgyQVpwTUEtQWZBcFpTbzhmNEE1cXFSblB5LWdzQjBVY3ItcGNYZXQyMV9CeF9IcDByZFJOZ2tqc0FPc1lsNW0wQVJBYzNn0gGPAkFVX3lxTFBTTklES0VjcGRYRWo4Z1JUT0w4V0ZnOWoybVNmOVQyRmNSZjBGSFlhanZtZElkVmktbVcwYm5xa3NGanNJOXJkdVZ1WG9rdWtGYWVtUFVtaDM3TjA4MmtWWHNHLUs0elVfdl9rQmVvNTdiYUprUFRmQkxybzZERUNNQThSVjBRMU5QNnVGUnEzc3g2MXNQQ3VibVI1MWk4UUlMUkpyZm5Fb3lYeUJidzlqY2lkMk5kZzhnOGpQbXFRZ3hkR0J1TVJ0QTI5ZnBjZDBqNl81R2xoLXNDSE1MT3pMeHhCLTIyZDdhMzZSQXZOcl9jektfYTlYVXVWenlUZENfTHlwZ3JJU0kzRzBtZGs?oc=5",
+              "titulo": "Congresso aprova aumento para servidores do Senado e da Câmara e abre brecha para pagamentos acima do teto - G1",
+              "resumo": "Congresso aprova aumento para servidores do Senado e da Câmara e abre brecha para pagamentos acima do teto G1",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG9QUkhvU1k0VG8wN0FrU1UybnljdGxhSndmSkNNN0ZWWTEtZXpFaHVQVXRFS1NmR0IwbkdGNUhkTjN2YlFsYy0xUzhoaThxZ1Flcy10Wl9vd3E2cHZuOTF2U0xzc2JfalpNeWFJVHJwWVZSQmZIWFZEUkVkQ1JvNWxKbFVOUVFaZWw1dXF4VGpWLXZRU3NtU2NxUzNSd00yQ0lPenYxQlJPRy00R21XdkpjWWlSREY5VjZ1TE9NMjlQRzcxY3Bv0gHWAUFVX3lxTE1DV3NyQ0tqRWNOM3JHRXIweXVwcEx2NllpeWJ2TDJPbzA3dmVyWnpYeV9sR3dtQ0hzMG9ROGpDTThla1UzdEdfQTZadzhCWXQybGJNYkhLVnFUSEE3OTdhdXVfRFQzaUtCZDVndTdvMVJuZENOWkltQWVsZHZGRkE2SV9mUFpodE1HT3N0MEtuOG13ekpUVkRtdXFKMjl0dUVZcDktR2drZ2JBT25xUUNaM0FVYXFWVnZDWmtLVno4Smw1YjB1NEk5RmtpMU9MZ1o5LTNSbWc?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "Alcolumbre promulga PL da Dosimetria, que reduz pena de Bolsonaro - UOL Notícias",
-              "resumo": "Alcolumbre promulga PL da Dosimetria, que reduz pena de Bolsonaro UOL Notícias",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ3dBWHZiMjVBOFpxRDE1Nl9qdkJnLVhUQ2otSTJuTHdEamVxbmlJNjByaGgyQ2hIUzdMSWYwTDk2ODF1VkJ0VUEwLWczQ0dDWlh0aEdFWWlVWFpiSjNCMHM1N19ZeHR3UWo4WkxhZXk2a2dFWlJIZWFiZWxlSkp6dkVFVlRFS2cxa1FVTGVlN2MtaU5zam1iY1JYSk9zX2xtdVdqNzFnUzJEYzEwa28xS0psUTBGbkJKeTRNaGhzRnBkWXlIUW5vbFVLN1pDdE0?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Nordestinos e nortistas dominam articulação política no Congresso - Poder360",
-              "resumo": "Nordestinos e nortistas dominam articulação política no Congresso Poder360",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEwzN2Q4WDd1dm5RQ01NQzRCUWx4RDdsZXJyS1Ixa3lnLS1FU295SkFhOUlJZVFEOWdYSjU4XzFrOU1iLVpxNkdUcklzdG5jWFhJWGRvdGRIR1RuUXpOZWxCNF9tNU42NjZmclZyaXdDTTNJVFlLbG04M213X0xwcjEwVnhOb2dfclU2dTFHVnYxMWhGVmFORlhxck84bWxDVTlJdGZmZElzSzZERG1qSl9mMA?oc=5",
+              "titulo": "Congresso sem poder vira símbolo do fim da democracia no Brasil - Gazeta do Povo",
+              "resumo": "Congresso sem poder vira símbolo do fim da democracia no Brasil Gazeta do Povo",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXEwT3VVMlVBd0xZVnNNLUwyME5MUlB1RW5LaUQ5X1BQbE9OQzVzbE9iOXhxTFdxTGJhNmZJWHYwYk5CZmhqSm1NTWlXZk5Md251Tm0zdmRYc0VNTElSUXpsQ21nRi1KOGNXakFYLVpKWGQ2YnN3U3RQdmExUUFEZ2RlZzZvZTlMS21ka0xGWjRtclp0eXpfYkJRWFh2RTlxSGVaZ3lsRWtCdTlZNVBiTzFlNTVDdF94?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -267,39 +300,212 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Ídolo da Inglaterra detona disputa de terceiro lugar da Copa do Mundo: \"Ridícula e sem sentido\"",
-              "resumo": "Rodrigo Coutinho analisa disputa do terceiro lugar entre França e Inglaterra Ídolo inglês, o ex-atacante e atual comentarista Alan Shearer não poupou críticas à disputa do terceiro lugar da Copa do Mundo. Em entrevista ao jornal The Daily Mail, o ex-jogador e capitão da seleção inglesa chamou a partida de \"ridícula\" e \"sem sentido\". + Recorde de artilheiro, WO e média de gols alta...",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/18/idolo-da-inglaterra-detona-disputa-de-terceiro-lugar-da-copa-do-mundo-ridicula-e-sem-sentido.ghtml",
+              "titulo": "Gol relâmpago, viradas e recordes: conheça sete curiosidades sobre as finais de Copa do Mundo",
+              "resumo": "Lionel Messi quebra um recorde de 68 anos e pode quebrar mais um na final da Copa A final entre Espanha e Argentina, neste domingo, às 16h (de Brasília), encerra a Copa do Mundo e promete acrescentar novos capítulos à história das decisões do torneio. Às vésperas da partida, o ge destaca, a partir de dados da Fifa, números e fatos curiosos que marcaram finais anteriores e ajudam a dimensionar a grandeza da finalíssima de 2026.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/19/gol-relampago-viradas-e-recordes-conheca-sete-curiosidades-sobre-as-finais-de-copa-do-mundo.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "River-PI antecipa apresentação do elenco e início da pré-temporada para o Piauiense Série B 2026",
-              "resumo": "Conheça três curiosidades da Série B do Piauiense 2026 O River-PI antecipou a sua apresentação para a disputa do Campeonato Piauiense Série B 2026. Anteriormente, o início dos trabalhos estava previsto para o dia 10 de agosto, no entanto, a diretoria do clube resolveu adiantar a pré-temporada para o dia 3 de agosto. Nesta temporada, o Galo vai buscar o retorno à elite estadual após o rebaixamento em 2025.",
-              "link": "https://ge.globo.com/pi/futebol/times/river-pi/noticia/2026/07/18/river-pi-antecipa-apresentacao-do-elenco-e-inicio-da-pre-temporada-para-o-piauiense-serie-b-2026.ghtml",
+              "titulo": "Especialista na chuva, Verstappen relembra aulas aos 4 anos: “Quase atropelava meu pai”",
+              "resumo": "Ir bem na chuva é talento natural? Verstappen e Norris comentam lições da infância A possibilidade de chuva sempre existe no GP da Bélgica, que será disputado neste domingo no circuito de Spa-Francorchamps. Considerado um dos principais especialistas na pista molhada, Max Verstappen explica que sua técnica para pilotar em condições tão adversas começou ainda quando criança no kart.",
+              "link": "https://ge.globo.com/motor/formula-1/noticia/2026/07/19/especialista-na-chuva-verstappen-relembra-aulas-aos-4-anos-quase-atropelava-meu-pai.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "SSA FC reverte vantagem do Barreiras e garante vaga inédita na elite do Campeonato Baiano",
-              "resumo": "Caçula do futebol baiano, Feira FC mira sucesso no campo e nas redes sociais O futebol baiano já conheceu o primeiro clube a subir da segunda divisão para disputar a elite do Campeonato Baiano 2027. Na tarde deste sábado, o SSA FC derrotou o Barreiras por 3 a 1, na Arena Cajuzeiro, e garantiu o acesso depois de perder o jogo de ida, fora de casa, por 2 a 1. O clube de Salvador vai disputar de forma inédita a Primeira Divisão.",
-              "link": "https://ge.globo.com/ba/futebol/campeonato-baiano/noticia/2026/07/18/ssa-fc-reverte-vantagem-do-barreiras-e-garante-vaga-inedita-na-elite-do-campeonato-baiano.ghtml",
+              "titulo": "WAGs da Espanha: conheça as namoradas e esposas dos jogadores",
+              "resumo": "Veja análise de Rodrigo Coutinho sobre a final da Copa do Mundo entre Argentina e Espanha A Espanha está na final da Copa do Mundo de 2026 e vai enfrentar a Argentina na grande decisão deste domingo. Nas arquibancadas, misturadas com os torcedores estarão as WAGs espanholas. As esposas e namoradas dos jogadores da seleção da Espanha são figuras conhecidas no país e nas redes sociais.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/19/wags-da-espanha-conheca-as-namoradas-e-esposas-dos-jogadores.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Campeonato Piauiense Série B 2026: veja os jogadores anunciados pelo Picos",
-              "resumo": "Picos anuncia volante Ninho para o Piauiense Série B 2026 O Picos segue no mercado em busca de montar o seu elenco para o Campeonato Piauiense Série B 2026. Até o momento, o Zangão confirmou a contratação de 14 atletas: três goleiros, um lateral, um zagueiro, quatro meias e cinco atacantes. O clube, que será comandado pelo técnico Givanildo Sales, vai buscar retornar à elite do futebol local após dois anos.",
-              "link": "https://ge.globo.com/pi/futebol/noticia/2026/07/18/campeonato-piauiense-serie-b-2026-veja-os-jogadores-anunciados-pelo-picos.ghtml",
+              "titulo": "UFC: em duelo de ex-campeões, Du Plessis bate Usman de forma dominante",
+              "resumo": "Melhores momentos Bare Knuckle 91 Dricus Du Plessis, ex-campeão dos médios (até 84,4kg), recebeu o ex-campeão meio-médio (até 77,8kg) Kamaru Usman com uma atuação dominante para vencer na decisão unânime dos juízes (49-46, 50-45 e 49-46). O sul-africano, número 2 do ranking, voltou a lutar quase um ano depois de perder o cinturão para Khamzat Chimaev - que a essa altura já está de novo com Sean Strickland.",
+              "link": "https://ge.globo.com/combate/noticia/2026/07/19/ufc-em-duelo-de-ex-campeoes-du-plessis-bate-usman-de-forma-dominante.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Aymorés vence Boa Esporte e larga na frente nas quartas de final do Módulo 2",
-              "resumo": "O Aymorés deu um passo importante rumo á classificação para as semifinais do Módulo 2 do Campeonato Mineiro. A equipe recebeu o Boa Esporte no Estádio Paulo Paschoalino, em Ubá, e fez o dever de casa. A equipe bateu o adversário por 2 a 0 e abriu vantagem nas quartas de final do torneio. Os gols saíram ainda no primeiro tempo.",
-              "link": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/mineiro-modulo-2/noticia/2026/07/18/aymores-vence-boa-esporte-e-larga-na-frente-nas-quartas-de-final-do-modulo-2.ghtml",
+              "titulo": "Bulgária vence EUA e elimina o Brasil da VNL; seleção fica fora da fase final pela 1ª vez",
+              "resumo": "O Brasil está fora da fase final da Liga das Nações Masculina de Voleibol (VNL) pela primeira vez. Precisando de uma grande combinação de resultados, a seleção brasileira, atual 9ª colocada, não tem mais chances de terminar a fase preliminar no grupo das sete classificadas, mesmo com um jogo a cumprir. Isto aconteceu porque a Bulgária venceu os Estados Unidos por 3 a 1 na noite deste sábado, em Chicago, pela penúltima rodada.",
+              "link": "https://ge.globo.com/volei/noticia/2026/07/19/bulgaria-vence-os-eua-e-deixa-o-brasil-fora-da-fase-final-da-liga-das-nacoes-pela-1a-vez.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Entretenimento",
+      "fontes": [
+        {
+          "nome": "Famosos e Celebridades",
+          "noticias": [
+            {
+              "titulo": "Harry Styles estreia turnê no Brasil e reúne famosos em noite de estreia no MorumBIS - InMagazine",
+              "resumo": "Harry Styles estreia turnê no Brasil e reúne famosos em noite de estreia no MorumBIS InMagazine",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EQWZEOUxnNG9jWHEtMnZZQmNQWm9ucG1zcFVBbzBzSkpXblpqWWFxdXZiRE5qY0FrTWJ0MXRveXp3blZDOFdfNkd0YWw4Y3p5RXRYMEIzQU0zT1RvUks5MnBuaG9teHZZMk43Z3BVRHV0WkRKdFY40gF8QVVfeXFMT1VRNFFxTVdoR0dTSENXeEVJSTFKNFJmTFVPN0M1OXdleVA2VUU4ai1fV3hiV3JyWnNwTWVfRy1Nd05wM2l2WWJNbVo3X2lRYUdQMjU3d050UkVoc0xzVThfcC1VYzNZLU16QU4xcXZBWEt5cDEzU3RvZE13OA?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Veja os famosos que acompanharam de perto a Copa do Mundo - band.com.br",
+              "resumo": "Veja os famosos que acompanharam de perto a Copa do Mundo band.com.br",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWNxUWthcXFCM3F0djhFZDVWREpvZXEwR183d2lpWVVIVDFLeGNUZXA3eWMwVGdXU24xblE1YlhHWU1ZSndFUkJxZzdmb29kaDNxaU4tMmEycG91RVBjSEt1dHZBM0hHVHFQdW50MDZwZDlaV0ttZDdMWWgxSHdWS0ZNNEh3MWNVN243UEdaN2x2QmlocmJVZk9yc25CZl9Wa3c4MnRJcEItWVptMHc?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Famosos chegam para show de Shakira em Copacabana; veja fotos - CNN Brasil",
+              "resumo": "Famosos chegam para show de Shakira em Copacabana; veja fotos CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFpnMlhkcGZmUktCM0VweTAtOFlEMlN6cGl5cEw5NFNETW1YOG5ud3dlNm40S0I3cHZkQmhkR2d5Rm4zbXZhdmQwWjZjQVJGMGJFNXpwWVNING92T1BlNENGeTZZSzZfSE8zbE5HTTY4bDdGMGF5cXFGeDRLSGlPV1h1ZE4tY3lDZER4Z3JJRlBHVGRGYVVBNnlR?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Artista viraliza após quadro \"prever\" resultado do Brasil na Copa - Metrópoles",
+              "resumo": "Artista viraliza após quadro \"prever\" resultado do Brasil na Copa Metrópoles",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOal9CNWZPdW1sZm1SZ2pJajFucDQ2aVpfeXBMOWlmLUthNkp3aHJaUDU3Q3gxVWFEaG9iZlJPREY1QjJpck5YWVZhbnljMkpLQlByWXNiQk5fV3NzUk15YnRudmdaRXNubE1WSHhyYmlORzdLalNCRWZNbVpqajY3eFY0NWhNX2d3Z0p4Z3JFTzllT0VHdXRNd0NJUQ?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "TV e Novelas",
+          "noticias": [
+            {
+              "titulo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho - AdoroCinema",
+              "resumo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho AdoroCinema",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUDczUXdwWEtaNDBYalg4YlFnaWZpMXNHOXFtSW9EYVpWN1Bad052YXdPX1BZRXFSc0MyTldZdWVURmVLQVhtR2NrWm85TTdvOWRhR3JpV2ZkR0d0WG1seUN2b1JYbTB0cDdfY1hXd3diQlJyLWJERmV3?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Globo vai reprisar 'Além do Tempo' pela primeira vez na TV aberta - UOL",
+              "resumo": "Globo vai reprisar 'Além do Tempo' pela primeira vez na TV aberta UOL",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnpmenVVeTZvNFhjQk9BRDBfd3lQWmFBRU45UWFmYmdDUnpJS1pnY1lVekVUZnJRNEdRVnpiaUdmN1pyTEpiYzBfVzdRZjlCLU02d0I5WTF6Z0cycG5QOHJHS0w4UGhXWG5HRnVCVF9uM1JLaXJ1dUUtT0hSUE5WcTJnQWN5VGFDWXl0MEk1V051LTJRZlNSSzZtSy1RckVVdF9IaEpQVzQ5WVI2TVZuaGRLNm9ST2wtZHBEcVRHd1BrYk92c1J30gHMAUFVX3lxTE5CczRneC0tQ3Zod1pDX3BrYmMwZ2x5TlBLUENib0tnS1hEb3hjV2VBWWthdDZLU292S1Bwc193QXJEVGpEdzVMRWhZSTFkUmM3NUJRYV90RnN3WF9YLXRiRVZyd3FuTF9nVU5hWnpXTmRaY05UTXJhU2x2SnBmNnVKRmIwcmsyYXIxWkpmeWIxRlZHZGVWWFJvLUZLQ2Jlb28yT3pfN3FLSU9ZZklYajJuWUJGaU9OZEJmSnMxdHVNR0Z3allUSnprODNMbg?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Globo muda horários e faz dobradinha de \"Terra Nostra\" e \"Rainha da Sucata\" - CNN Brasil",
+              "resumo": "Globo muda horários e faz dobradinha de \"Terra Nostra\" e \"Rainha da Sucata\" CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXVDYW5xdmFrUFJhWHVGS2tXQWxrcWZNTnZENVE0VUV5cnlzbVZqV1RZZUhwdEdDbjhTUVF3SzdJNVhnQmFTSnZrMURTOW1iY2J5ZzI2cnU3ZTdWSk5fWlhHLWtwak9mVWl5XzJoVVNsS190SzNYMXZJWThPSzdWQWlobzJoWVVLOTVDdU9OcHQxdVVNQzB0eUZQbFZLMFVpZVhkN19xQWJEX2RX?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Mulheres negras alcançam 16% dos papéis em novelas da Globo, aponta estudo - Alma Preta Jornalismo",
+              "resumo": "Mulheres negras alcançam 16% dos papéis em novelas da Globo, aponta estudo Alma Preta Jornalismo",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmdjX3JpODB5NEJRUGd4MHBvVnpObTJHdXZrMlZoenpIOGROVHI2MGplZ1ZMZGxlRmpQWUJMSTBhcEdwOUc3YmZKZERQby1GSlhjQWI5UjFHR1l5RmVOSGxXUEprVG5yUFp3akxiVGZmQW9jd2xqSzAtN25jenZoSDZhUURldHY1QzBHRFJPYVdmSnRwXzhfbnNIelpONVptcHhSVzFwQXhDRmtGWHpncGI0cw?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Música",
+          "noticias": [
+            {
+              "titulo": "Ana Morais, filha de Gloria Pires, estreia nova fase musical em show no Lollapalooza - papelpop",
+              "resumo": "Ana Morais, filha de Gloria Pires, estreia nova fase musical em show no Lollapalooza papelpop",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnc5Wld5b0NELXcwTkw5d3ZYRENwRXRIbEF3UkZMWk5yX3JFMGt3c01LZUJpaGt4em1IUlA5NEFtMnU3SDEzMUlBVktSUkpoRXhfdHY3UWNiSFdnNnNfVndmY2dDd2NpOS1wU0pNUWMxcGhEN3NNZTBJQ09PMFkxRjRUaUJTQ0xsWUZtVFdqTF9JN3dBUVdlYWw3VzBGZnVrODBJQ1pJQ1kzQmFxVXFER1BKR1ViQWp6Snc?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Shawn Mendes faz bom show, mas deixa Lollapalooza sem muitas novidades - Rolling Stone Brasil",
+              "resumo": "Shawn Mendes faz bom show, mas deixa Lollapalooza sem muitas novidades Rolling Stone Brasil",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NSlN3VlFjUnJMUGhQaHl0QTY5bkRVNnlXekNTTUVBekl5b241LS0zdWtEWElac3JKdFI2SjRvSHIzWWxnTHNNblJ2Y0RuM0U5Qmp1TFNpN043bGczeFA0U2JVSnVOb3A1ZnVLak5R?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música - Gazeta Brazilian News",
+              "resumo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música Gazeta Brazilian News",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEE2SHBSRzRNTHJGem02ekhDVlo0RTFJdDFFZ05PcHVvTl94WTFxSXhlQnhKaGVzZUtsdXRrRS1mellpMktwZjZ4NWt5bmh2YTdSRHdEZk55Vl92bnRwTWJ3UGIxMUNwdjNGYUw4OWx2dGNvSExMN2tBWVp5d2labHE2Q0hxanpMUFlBa0hsN2VqOUU?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Curiosidades",
+      "fontes": [
+        {
+          "nome": "Ciência e Tecnologia",
+          "noticias": [
+            {
+              "titulo": "Nova espécie de Anaconda é descoberta na Amazônia durante filmagem com Will Smith - Rádio Itatiaia",
+              "resumo": "Nova espécie de Anaconda é descoberta na Amazônia durante filmagem com Will Smith Rádio Itatiaia",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEtBN3dsSVFIcXRkZC1lMUhYbEJDNjVjbUt4MDlpNHVxUWNjUVlQNmlmUXVhYThuRXpyNkt6Qmw4NkRENC16aGplR1pvaEN0OUF2X2ZJdkVDQ0tlTHRQdHZmMGZ3akNBUjQ1TG5JUXQ5cWVGTU9XeFRzSU9hbnV1R3BIUWJIWWhCVjhCM2RFT1kzeVl3V3RXX1d2OWt3ZEJvTVVKYUIxR0NSMGJCa1dFWUJMVjcwQlV6bmJWU2dIdXF6SGEyTUlNeG92QQ?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Descoberta leva cientistas a entender se houve vida em Vênus - CNN Brasil",
+              "resumo": "Descoberta leva cientistas a entender se houve vida em Vênus CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtIa2d5SWMzTWRGbnhQdmNJTm1zR2NCSENMRjdxWkRtcXlNTzRuR3B0czhzZkNxQUh6cXJpMEM3OGFpcDNoRUNlVTNFV3BQSTdVY2hncjl4NHVvRkF1X0lCWlpRLTBvV2l6VTNRdlgyc29LNGlkd0FXSTFMb2ltVWw5U05IVVNocjM1d1ZmQWxfb1BiMmpzX0VHdnQ3UDhmYlNR?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Saúde e Bem-estar",
+          "noticias": [
+            {
+              "titulo": "Alimentação transforma saúde e bem-estar dos pets, diz pesquisa - R7",
+              "resumo": "Alimentação transforma saúde e bem-estar dos pets, diz pesquisa R7",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQzYWRkYWRVWnF6QTJETW5HV0IyUDVrTmJlZjRSdTFISmNjamNUVk9mVFlWM1NQcFdJMHlPSlBrcHZNTG5xX0s5ZjRZbHkxdVJzRkhFWW9ZMEI3NDBybERTTTlNWUs4RmVHWmtMdG9NZDRMLVRXM2ROZkxaS2trZzJESGNqWFhKUnl0TkZiRURDUXk5d2plbEJSTlI4YjZRSnFMZmJ5a1NvQmJwVHc?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Curiosidades Gerais",
+          "noticias": [
+            {
+              "titulo": "Cães, gatos e… cabras! Animal surpreende cientistas com ‘dom’ inusitado - Olhar Digital",
+              "resumo": "Cães, gatos e… cabras! Animal surpreende cientistas com ‘dom’ inusitado Olhar Digital",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTEthZ19jN3FyeXlqU1hVZmtCNUYzVDFGSGVjX2ZycTczOElWTUZ2SXBnQXZROEI3NDlVeDR2b29YZzBjRjVFR05EOFpFSWhxYlNNSENUY1FDOW9ReUlZUTk5OEk4b2JwUFR1WUtMcktPMU9HZk1mSjdNRjU0MzJVR3RLVzhuUUlRek5ERGF6MzRaQnZxRHMyU21tcWNpUUgxWmM1a25hSUhFdVg2akZRclg4S054RGNVRmpTZkxhbTU?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Este inseto surpreende cientistas ao usar um sentido inusitado para sobreviver - Olhar Digital",
+              "resumo": "Este inseto surpreende cientistas ao usar um sentido inusitado para sobreviver Olhar Digital",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHpRejU0WFVpdWlNLXVPODRuWjJEV1FTZnNQODJQNGwyQTd2R293SlkyWGo0c2Z3U1k5TldLTzhsbTUzNEl6RlVRU0I2WlJfTHQ5dEg0NXZVR2ZYZ2FjU1NWd1hSamdhdElRMXkxTGE0ZWl1TkVpc0ZNQXQ2ZEFHbmlJRzZrd01GQl9rZVZpcFgzWGVtLXhsUzNBLTAyQkV4SzQzZzlFc3hrbmNkQkN5eHpDajVHX0tWVTcyTnJGVWlVOEVJZTJmaXBKZzAyMDdp?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Julio Rocha surpreende esposa com presente inusitado: “propriedade da Karol” - Portal Leo Dias",
+              "resumo": "Julio Rocha surpreende esposa com presente inusitado: “propriedade da Karol” Portal Leo Dias",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmJ4VUFLT0k5TURwTlYyZ0tyU0NsYnQyR0w0TkpRQ21FV3d1a1ZzUzMzU0tTZ3JTM19vOFlwM3dxMWJ6cnpvak1xTHVURlFNeVI5VWZ3U0x0TUZteXFMOHoxdWlBd2NrUDNJd2U3VkhrcGxDNU1taHdTdTRtREhKM2ozdU9oX2FTUFUxZkJGUjdRd1NqaERVa0RDYlE4Rnd6OVJSNXZPM2VEb0nSAbABQVVfeXFMT2xULXVfaWlVSm5DU0l0V3ZHWDlyY0VIMUhneEsybmUwR19ucTNmQUNRdTFBcDRzeWpBc2RRRlJ3dUJIMmFaOXN3UkdERkIwamFBa3VhSGdSLTRldGU4U09pa3pyOW8yamotRzlBZEJvUzBDMldvc05mNVlUSTBaSENXakN0MnBrYkh1V1BfcG9tamJDSGdTRlUybTV1aVQ1bjF5VGJad2FxTHFXRTZ5ODg?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Esses 15 fatos curiosos mostram o quanto o mundo é surpreendente - Estado de Minas",
+              "resumo": "Esses 15 fatos curiosos mostram o quanto o mundo é surpreendente Estado de Minas",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlo5ZUJFUUdSVS1uLUc2S2NRV05TU2ZCSFAwQVJkYzM3akNoZkVzd0kzaHRhWUNHOTQ5ZmRKbHFyMUgwZzRJRU5WbThzSTEzT1hIZUtjb0x5dlgwd044WEVSc0ZEeUdMbVdPTmZOTU5jdXNYNmtOMzluOWpidmVkMk1MbVlYNjBpRmc5dVk3bWpCejVGWV9MTlBJc09KanRzN3p3Uldtam0?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Conheça Boquete: a cidade que surpreende brasileiros além do nome curioso - Portal de Prefeitura",
+              "resumo": "Conheça Boquete: a cidade que surpreende brasileiros além do nome curioso Portal de Prefeitura",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2tka0hGNXZDS1RQMldKckYtdXNLaHJ1Y3ZUbENMUlozM2w1S2QzdnZ5RjJELWdfUWNvZ2syVVJfOEx2QW45ZzNnYm9UWGQ2VTN1UDVxZl9nOUp2U2NMem5vRENlUExyOGhlVjhlR21qd1hSM01LNm93WGhPYmhGMjhETGNnY29DWmRucDJuTnV5UlExdUQwU3U5TkFHbE9Uc1FYZVhlaDFPVjRJVDVOVW04TmNUbW1OeW9z?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
             }
           ]
         }
