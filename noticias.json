@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-07-19T17:47:05.083636",
-  "data": "19/07/2026",
-  "hora": "17h47",
-  "total": 55,
+  "gerado_em": "2026-07-20T01:32:59.941368",
+  "data": "20/07/2026",
+  "hora": "01h32",
+  "total": 53,
   "editorias": [
     {
       "nome": "Local",
@@ -11,16 +11,23 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Juventus resolve no primeiro tempo, vence Fluminense e deixa o Z-2 da Série B",
-              "resumo": "O Juventus conquistou uma vitória fundamental na luta contra o rebaixamento ao derrotar o Fluminense por 3 a 0 na […] The post Juventus resolve no primeiro tempo, vence Fluminense e deixa o Z-2 da Série B appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/esporte/juventus-resolve-no-primeiro-tempo-vence-fluminense-e-deixa-o-z-2-da-serie-b",
+              "titulo": "Saiba quanto cada seleção recebeu de premiação da Copa do Mundo 2026",
+              "resumo": "A conquista da Copa do Mundo de 2026 também garantiu uma premiação milionária à Espanha. Campeã após vencer a Argentina […] The post Saiba quanto cada seleção recebeu de premiação da Copa do Mundo 2026 appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/saiba-quanto-cada-selecao-recebeu-de-premiacao-da-copa-do-mundo-2026",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Novas regras dos EUA reduzem prazo de permanência para estudantes, intercambistas e jornalistas",
-              "resumo": "Os Estados Unidos anunciaram mudanças nas regras de permanência para estrangeiros que entram no país com vistos de estudante, intercâmbio […] The post Novas regras dos EUA reduzem prazo de permanência para estudantes, intercambistas e jornalistas appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/novas-regras-dos-eua-reduzem-prazo-de-permanencia-para-estudantes-intercambistas-e-jornalistas",
+              "titulo": "Copa do Mundo: veja a lista de campeões após título da Espanha",
+              "resumo": "A conquista da Copa do Mundo de 2026 colocou a Espanha entre as seleções mais vitoriosas da história do futebol. […] The post Copa do Mundo: veja a lista de campeões após título da Espanha appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/copa-do-mundo-veja-a-lista-de-campeoes-apos-titulo-da-espanha",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Espanha bate Argentina na prorrogação e é bicampeã mundial",
+              "resumo": "A Copa do Mundo de 2026 é da Espanha. Neste domingo (19), a seleção europeia derrotou a Argentina por 1 […] The post Espanha bate Argentina na prorrogação e é bicampeã mundial appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/espanha-bate-argentina-na-prorrogacao-e-e-bicampea-mundial",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -35,30 +42,23 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "Trabalhador é soterrado em vala de 2 metros e colegas cavam por conta própria para salvá-lo em SC",
-              "resumo": "Homem é soterrado ao trabalhar dentro de vala em Curitibanos (SC) Corpo de Bombeiros/ Divulgação Um homem de 26 anos foi totalmente soterrado após um barranco deslizar enquanto ele trabalhava dentro de uma vala de cerca de dois metros de profundidade em Curitibanos, no Meio-Oeste de Santa Catarina.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/19/trabalhador-soterrado-vala-2-metros-colegas-cavam-sc.ghtml",
+              "titulo": "Com início das convenções, veja quando partidos de SC devem confirmar candidatos ao governo",
+              "resumo": "Pré-candidatos ao governo de Santa Catarina em ordem alfabética Reprodução Começa nesta segunda-feira (20) e segue até 5 de agosto o prazo para realização das convenções partidárias, encontros em que os partidos oficializam seus candidatos e formalizam coligações para as eleições deste ano. Em Santa Catarina, pelo menos oito partidos que anunciaram pré-candidatos ao governo do estado.",
+              "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/07/20/inicio-convencoes-datas-candidatos-ao-governo-santa-catarina.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "Homens são presos suspeitos de matar ex-policial e jogar corpo em rio de SC",
-              "resumo": "Dário Cesar Vessel Cardoso, encontrado morto em Taió em 3 de julho Reprodução/NSC/Polícia Civil Dois homens foram presos na manhã deste domingo (12), suspeitos de matar e jogar o corpo do ex-policial militar Dário Cesar Vessel Cardoso, de 58 anos, no Rio Itajaí do Oeste, em Taió, no Vale do Itajaí. A vítima havia desaparecido em 29 de junho e foi encontrada no dia 3 de julho.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/12/presos-suspeitos-matar-ex-policial-jogar-corpo-rio-sc.ghtml",
+              "titulo": "Carro é esmagado por caminhão e jovens morrem após batida frontal na BR-163 em SC",
+              "resumo": "Carro foi esmagado por caminhão após colisão frontal em São José do Cedro (SC) Corpo de Bombeiros/ Divulgação Duas mulheres morreram após o carro onde estavam bater de frente com um caminhão na BR-163 em São José do Cedro, no Oeste de Santa Catarina, na manhã deste domingo (19). As vítimas eram Sabrina Cardoso Silveira, de 24 anos, e Indiamara Kremer, de 26 anos, segundo funerárias da região.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/19/jovens-morrem-carro-esmagado-caminhao-batida-frontal-br-163-sc.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "Apostas de SC batem na trave, acertam 5 números e levam R$ 42 mil em prêmio da Mega-Sena",
-              "resumo": "Cidade de Dionísio Cerqueira, em Santa Catarina, onde aposta foi vencedora Prefeitura de Dionísio Cerqueira/Divulgação Duas apostas de Santa Catarina bateram na trave e acertaram cinco números do sorteio da Mega-Sena na noite de sábado (11). Os apostadores são de Concórdia e Dionísio Cerqueira e levaram, cada um, R$42.373,42. Como ninguém acertou os seis números, o prêmio principal acumulou em R$ 25 milhões.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/12/mega-sena-sc-apostas-batem-trave-acertam-numeros-premio.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "Comediante é agredida com cadeirada durante show em Florianópolis; VÍDEO",
-              "resumo": "Comediante é agredida com cadeirada durante show em Florianópolis; VÍDEO A comediante Fernanda Arantes relatou nas redes sociais ter sido vítima de uma agressão durante uma apresentação em Florianópolis, na noite de sexta-feira (10). Segundo ela, uma espectadora se levantou durante o show, fez xingamentos contra ela e arremessou uma cadeira no palco. Um boletim de ocorrência sobre o caso foi registrado.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/12/comediante-agredida-cadeirada-show-florianopolis-video.ghtml",
+              "titulo": "Sol e mínima de 0°C: SC terá semana de tempo estável, frio e geada",
+              "resumo": "Geada em São Joaquim, na Serra de Santa Catarina Mycchel Hudsonn Legnaghi/São Joaquim Online Santa Catarina inicia a semana sob influência de uma massa de ar seco e frio, que traz tempo estável, temperaturas baixas, com mínimas entre 0°C e 2°C, além de chance de geada. A previsão é da Defesa Civil estadual. Por conta das condições, o Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo de Declínio de Temperatura no estado.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/13/sol-e-minima-de-0c-sc-tera-semana-de-tempo-estavel-frio-e-geada.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -68,37 +68,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Rio Grande do Sul mantém cidades em alerta após ventos de quase 100 km/h e granizo no final de semana",
-              "resumo": "Ao menos dez pessoas estão desalojadas e mais de 20 municípios reportaram problemas estruturais. Segundo boletim, rios variam dentro da margem de normalidade. O post Rio Grande do Sul mantém cidades em alerta após ventos de quase 100 km/h e granizo no final de semana apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/rio-grande-do-sul-granizo-vento-alerta-defesa-civil/",
+              "titulo": "Roda-gigante de Balneário Camboriú se ilumina com as cores da Espanha após título da Copa do Mundo",
+              "resumo": "Cartão-postal de Balneário Camboriú homenageou a seleção campeã logo após a vitória sobre a Argentina na final da Copa do Mundo de 2026 O post Roda-gigante de Balneário Camboriú se ilumina com as cores da Espanha após título da Copa do Mundo apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/turismo/roda-gigante-de-bc-homenageia-a-espanha-apos-conquista-da-copa-do-mundo/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Ronaldinho Gaúcho e Ronaldo dirigem carro de Madonna e ‘rolê aleatório’ na Copa do Mundo surpreende internautas",
-              "resumo": "Craques históricos da Seleção Brasileira apareceram de surpresa durante o show do intervalo da final O post Ronaldinho Gaúcho e Ronaldo dirigem carro de Madonna e ‘rolê aleatório’ na Copa do Mundo surpreende internautas apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/ronaldinho-gaucho-e-ronaldo-dirigem-carro-madonna-role-aleatorio-copa-do-mundo-surpreende-internautas/",
+              "titulo": "Após dias de calor no inverno, frente fria muda o tempo em SC com chuva intensa e risco de alagamentos",
+              "resumo": "Alerta indica chuva persistente, temporais isolados e aumento do risco de alagamentos em todas as regiões catarinenses a partir de terça-feira (21) O post Após dias de calor no inverno, frente fria muda o tempo em SC com chuva intensa e risco de alagamentos apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/frente-fria-muda-o-tempo-em-sc-com-chuva-intensa-e-risco-de-alagamentos/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Motociclista de 36 anos morre após perder o controle da BMW e colidir com placa de sinalização na BR-282 em SC",
-              "resumo": "Adriano Jorge Rohenkohl, era morador de Maravilha e morreu após sair da pista e bater em uma placa de sinalização na BR-282, em São Miguel do Oeste, no Extremo-Oeste de SC O post Motociclista de 36 anos morre após perder o controle da BMW e colidir com placa de sinalização na BR-282 em SC apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/transito/motociclista-de-36-anos-morre-apos-perder-o-controle-da-bmw-na-br-282-em-sc/",
+              "titulo": "Yamal e Messi interagem após foto histórica e derrota da Argentina na final da Copa; assista",
+              "resumo": "Atacante da Espanha comemorou título histórico em disputa particular com um dos maiores jogadores da história O post Yamal e Messi interagem após foto histórica e derrota da Argentina na final da Copa; assista apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/yamal-e-messi-interagem-apos-foto-historica-derrota-argentina-final-copa/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Prédio desaba em Governador Valadares e deixa três feridos; cadeirante estaria entre socorridos",
-              "resumo": "Os bombeiros realizam buscas nos escombros devido à possibilidade de haver outras pessoas soterradas no local. O post Prédio desaba em Governador Valadares e deixa três feridos; cadeirante estaria entre socorridos apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/predio-desaba-governador-valadares-minas-gerais/",
+              "titulo": "Confusão após final da Copa do Mundo termina com spray de pimenta e balas de borracha em SC",
+              "resumo": "Oito pessoas ficaram feridas após garrafas serem arremessadas durante tumulto após a final da Copa do Mundo, na Avenida Central de Balneário Camboriú O post Confusão após final da Copa do Mundo termina com spray de pimenta e balas de borracha em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/confusao-apos-final-da-copa-do-mundo-termina-com-spray-de-pimenta-e-balas-de-borracha-em-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Espanha x Argentina: a final entre dois países unidos pela história e pelo futebol",
-              "resumo": "Espanha x Argentina decidem a Copa do Mundo de 2026 em um confronto marcado por independência, imigração, identidade cultural e mais de um século de intercâmbio futebolístico. O post Espanha x Argentina: a final entre dois países unidos pela história e pelo futebol apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/espanha-x-argentina-a-final-entre-dois-paises-unidos-pela-historia-e-pelo-futebol/",
+              "titulo": "Constrangimento? Trump entrega troféu da Copa e permanece no palco em consagração da Espanha; assista",
+              "resumo": "Presidente dos Estados Unidos não quis deixar o local antes de Rodri levantar a taça O post Constrangimento? Trump entrega troféu da Copa e permanece no palco em consagração da Espanha; assista apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/constrangimento-trump-palco-consagracao-espanha-copa/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -113,38 +113,71 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Inscrições para projeto que oferta mudança de CNH e capacitação gratuitas em SE são prorrogadas",
-              "resumo": "Carteira Nacional de Habilitação arquivo g1 As inscrições para o Projeto Mais Motorista Pessoa Física 2026, que oferta gratuitamente a mudança de categoria da Carteira Nacional de Habilitação (CNH) para as categorias C, D ou E e capacitação profissional para atuação no setor de transporte, foram prorrogadas até a próxima terça-feira (21).",
-              "link": "https://g1.globo.com/se/sergipe/noticia/2026/07/19/inscricoes-para-projeto-que-oferta-mudanca-de-cnh-e-capacitacao-gratuitas-em-se-sao-prorrogadas.ghtml",
+              "titulo": "Namoro com a IA e a economia da intimidade - O Assunto #1764",
+              "resumo": "Na última semana, a China implementou uma regulamentação rigorosa que proíbe os \"namorados virtuais\" de inteligência artificial, sob a justificativa de combater a dependência emocional e o vício.",
+              "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/20/namoro-com-a-ia-e-a-economia-da-intimidade-o-assunto-1764.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mutirão oferece serviços jurídicos, emissão de RG e vacinação em quatro pontos de Belém",
-              "resumo": "Tribunal de Justiça do Pará, em Belém TJPA Começa nesta segunda-feira (20) a ação Concilia Belém, que vai oferecer gratuitamente serviços jurídicos, sociais e de cidadania em diferentes pontos da capital paraense. Promovida pelo Tribunal de Justiça do Pará (TJPA), a programação segue até quinta-feira (23), sempre das 8h às 16h.",
-              "link": "https://g1.globo.com/pa/para/noticia/2026/07/19/mutirao-oferece-servicos-juridicos-emissao-de-rg-e-vacinacao-em-quatro-pontos-de-belem.ghtml",
+              "titulo": "Inés García parabeniza namorado Lamine Yamal pelo título da Espanha na Copa",
+              "resumo": "Namorada de Lamine Yamal comemora título da Espanha. Reprodução / Redes Sociais A influenciadora Inés García Santos, namorada de Lamine Yamal, parabenizou o namorado pelo título da Espanha na Copa do Mundo 2026. \"Você conseguiu. Parabéns meu amor, você é campeão do mundo\", publicou a influenciadora nas redes sociais no domingo (19). A foto divulgada por Inés mostra ela e o namorado, Yamal com a taça.",
+              "link": "https://g1.globo.com/pop-arte/noticia/2026/07/20/ines-garcia-parabeniza-namorado-lamine-yamal-pelo-titulo-da-espanha-na-copa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Castanha impulsiona renda de famílias e fortalece economia sustentável em Amaturá, no Amazonas",
-              "resumo": "Amazônia Agro de domingo, 19 de julho de 2026 A produção de castanha-da-amazônia tem garantido renda para dezenas de famílias e fortalecido a economia sustentável no município de Amaturá, no extremo oeste do Amazonas. A atividade reúne extrativismo, beneficiamento e comercialização do produto, que é vendido dentro e fora do estado e se tornou uma das principais fontes de sustento da população local.",
-              "link": "https://g1.globo.com/am/amazonas/amazonia-agro/noticia/2026/07/19/castanha-impulsiona-renda-de-familias-e-fortalece-economia-sustentavel-em-amatura-no-amazonas.ghtml",
+              "titulo": "Polo de Cultura Maguinho oferece atividades gratuitas à população",
+              "resumo": "População de Macaé reunida para fazer atividade física no Polo de Cultura Maguinho Acervo Polo de Cultura Maguito O Polo de Cultura Carlos Magno Abreu Ferreira (Maguinho), localizado em Glicério, disponibiliza diversas atividades esportivas e culturais gratuitas para a população. Atualmente, o espaço oferece aulas de violão, ginástica e treinamento funcional.",
+              "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/07/20/polo-de-cultura-maguinho-oferece-atividades-gratuitas-a-populacao.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "FOTOS: Imagens mostram destruição causada por desabamento de prédio em Governador Valadares",
-              "resumo": "Veja imagens do prédio que desmoronou em Governador Valadares Polícia Militar/Divulgação Um prédio de três andares desabou parcialmente na manhã deste domingo (19), no bairro Jardim Pérola, em Governador Valadares, e deixou três pessoas feridas. As imagens registradas no local mostram a destruição provocada pelo desabamento e o trabalho das equipes de resgate.",
-              "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/19/fotos-imagens-mostram-destruicao-causada-por-desabamento-de-predio-em-governador-valadares.ghtml",
+              "titulo": "Projeto Choro na Rua apresenta show gratuito do Grupo Musical Bico da Coruja",
+              "resumo": "Evento gratuito de música acontece no Centro e traz grandes clássicos da MPB Ana Chaffin – Comunicação Com o objetivo de valorizar a música instrumental brasileira e incentivar a ocupação cultural dos espaços públicos, a Secretaria de Cultura promove, no dia 22 de julho, mais uma edição do projeto Choro na Rua. O evento gratuito acontece no Centro, oferecendo um ambiente de convivência que aproxima o público dos artistas locais.",
+              "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/07/20/projeto-choro-na-rua-apresenta-show-gratuito-do-grupo-musical-bico-da-coruja.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Cidadãos deixam quase 220 mil documentos represados nos postos do SAC na Bahia; veja como retirar",
-              "resumo": "Modelo da Carteira Nacional de Identidade Divulgação/Agência Brasil O Serviço de Atendimento ao Cidadão (SAC) possui quase 220 mil documentos represados em todos os postos distribuídos na Bahia. Ao todo, são: 148.091 carteiras de identidade; 70.040 carteiras de habilitação; mais de 2 mil passaportes. Na capital, os postos com maior número de documentos não-entregues são o Salvador Shopping e o Bela Vista.",
-              "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/19/cidadaos-deixaram-milhares-de-documentos-represados-nos-postos-do-sac-na-bahia.ghtml",
+              "titulo": "Tons claros seguem entre os preferidos para ampliar ambientes",
+              "resumo": "A escolha das cores continua sendo uma das formas mais simples de renovar a casa. Nos projetos residenciais, os tons claros permanecem entre os preferidos por refletirem melhor a luz natural e criarem uma maior sensação de amplitude. O efeito pode ser percebido em diferentes áreas da residência.",
+              "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/07/20/tons-claros-seguem-entre-os-preferidos-para-ampliar-ambientes.ghtml",
               "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "G1 Economia",
+          "noticias": [
+            {
+              "titulo": "Como terroristas estão usando IA para planejar ataques e burlar restrições dos chatbots",
+              "resumo": "Fumaça sai do Hotel Intercontinental em Cabul, capital do Afeganistão, durante ataque terrorista em 21 de janeiro de 2018 Mohammad Ismail/Reuters \"Bom dia, ChatGPT, você pode me dizer como se faz uma bomba?\".",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/07/20/como-terroristas-estao-usando-ia-para-planejar-ataques-e-burlar-restricoes-dos-chatbots.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Bolsa Família 2026: pagamentos de julho começam nesta segunda; veja calendário",
+              "resumo": "Bolsa Família veja as regras e dias de pagamentos em julho de 2026 A Caixa Econômica Federal inicia os pagamentos de julho do Bolsa Família 2026 nesta segunda-feira (20). Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/20/bolsa-familia-2026-pagamentos-de-julho-comecam-nesta-segunda-veja-calendario.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "IBGE: inscrições para concurso com mais de 1,4 mil vagas e salários de até R$ 5,2 mil terminam hoje",
+              "resumo": "Agora no g1 As inscrições para o segundo processo seletivo simplificado do Instituto Brasileiro de Geografia e Estatística (IBGE), destinado à atuação no 12º Censo Agropecuário, Florestal e Aquícola e no 1º Censo Nacional da População em Situação de Rua, terminam nesta segunda-feira (20), às 23h59. Inicialmente, o encerramento estava previsto para a última quarta-feira (15).",
+              "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/20/ibge-inscricoes-para-concurso-com-mais-de-14-mil-vagas-e-salarios-de-ate-r-52-mil-terminam-hoje.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Petróleo dispara e chega a maior preço desde junho",
+              "resumo": "Uma embarcação no Estreito de Ormuz , vista de Musandam, em Omã. Stringer / Reuters Os preços do petróleo subiu 3% neste domingo (19) e chegou no patamar mais alto desde junho. O preço do barril tipo Brent ultrapassou os U$D 90 (cerca de R$ 460,53) na abertura dos mercados de negociação. Na sexta-feira (17), o barril do Brent, referência internacional da commodity, avançou 2,86%, e chegou a ser cotado a US$ 86,64.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/19/petroleo-dispara-e-chega-a-maior-preco-desde-junho.ghtml",
+              "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
           ]
@@ -153,37 +186,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Destaque da Argentina se machuca e é substituído na final da Copa do Mundo",
-              "resumo": "Zagueiro deixa gramado ainda no primeiro tempo em duelo decisivo por tetracampeonato da seleção ou bi da Espanha",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/destaque-da-argentina-se-machuca-e-e-substituido-na-final-da-copa-do-mundo/",
+              "titulo": "Scaloni afirma que permanece na Argentina até dezembro: “A ideia é relaxar”",
+              "resumo": "Treinador da seleção sul-americana falou após a derrota para a Espanha na final da Copa do Mundo",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/scaloni-afirma-que-permanece-na-argentina-ate-dezembro-a-ideia-e-relaxar/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Todos os vencedores da Luva de Ouro da Copa do Mundo; veja a lista completa",
-              "resumo": "Prêmio reconhece o melhor goleiro de cada Mundial e já foi conquistado por lendas como Buffon, Casillas, Neuer e Courtois",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/todos-os-vencedores-da-luva-de-ouro-da-copa-do-mundo-veja-a-lista-completa/",
+              "titulo": "Preços do petróleo voltam a subir com novos ataques entre EUA e Irã",
+              "resumo": "Tráfego no Estreito de Ormuz, por onde passa 20% do fornecimento mundial da commodity, vem diminuindo após retomada das tensões",
+              "link": "https://www.cnnbrasil.com.br/economia/mercado/precos-do-petroleo-voltam-a-subir-com-novos-ataques-entre-eua-e-ira/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Tempo de intervalo da final da Copa do Mundo extrapola regras da Fifa",
-              "resumo": "Jogo ficou paralisado por 27 minutos por conta de shows",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tempo-de-intervalo-da-final-da-copa-do-mundo-extrapola-regras-da-fifa/",
+              "titulo": "Rubio: EUA continuam abertos à diplomacia com Irã",
+              "resumo": "Questionado sobre o que aconteceria se esforços diplomáticos falhassem, secretário de Estado respondeu: \"Não acho que seria bom para o Irã. Quero dizer, a economia do Irã está em frangalhos\"",
+              "link": "https://www.cnnbrasil.com.br/internacional/rubio-eua-continuam-abertos-a-diplomacia-com-ira/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Shows de Justin Bieber e Madonna em final da Copa geram reações nas redes",
-              "resumo": "Shakira e BTS também se apresentaram no primeiro show de intervalo da história dos Mundiais",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/shows-de-justin-bieber-e-madonna-em-final-da-copa-geram-reacoes-nas-redes/",
+              "titulo": "Gabinete de Netanyahu responde Mamdani sobre prisão: “TPI é fachada”",
+              "resumo": "Em entrevista divulgada no sábado (18), prefeito de Nova York relatou que sua equipe está discutindo possibilidade de prender primeiro-ministro de Israel durante viagem para Assembleia Geral da ONU",
+              "link": "https://www.cnnbrasil.com.br/internacional/gabinete-de-netanyahu-responde-mamdani-sobre-prisao-tpi-e-fachada/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Copa do Mundo: saiba quanto vale o troféu dado à seleção vencedora",
-              "resumo": "Feito em ouro 18 quilates, símbolo máximo do futebol mundial é erguido pelo vencedor da final entre Argentina e Espanha, mas permanece sob os cuidados da Fifa",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-saiba-quanto-vale-o-trofeu-dado-a-selecao-vencedora/",
+              "titulo": "Lionel Messi termina Copa de 2026 com “tri-vice” na final; entenda",
+              "resumo": "Além do vice-campeonato com a Argentina, camisa 10 ficou atrás de Mbappé na artilharia e de Rodri na eleição de melhor jogador do Mundial",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/lionel-messi-termina-copa-de-2026-com-tri-vice-na-final-entenda/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -193,37 +226,16 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Inédito: Brasil cai na 1ª fase da Liga das Nações de vôlei masculino",
-              "resumo": "A seleção masculina de vôlei está fora da fase final da Liga das Nações pela primeira vez desde a criação do torneio, em 2018. Neste domingo (19), em Chicago (Estados Unidos), o Brasil superou a China por 3 sets a 0, parciais de 25/16, 25/20 e 25/21. O triunfo, porém, foi insuficiente para classificar o time comandado por Bernardinho.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/inedito-brasil-cai-na-1a-fase-da-liga-das-nacoes-de-volei-masculino",
+              "titulo": "Espanha domina Argentina, vence na prorrogação e leva o bi da Copa",
+              "resumo": "Foram 16 anos de espera até que uma nova e talentosa geração recolocasse a Espanha no topo do futebol. Muitos dos ídolos da conquista de 2010, na África do Sul, estiveram em Nova Jersey neste domingo (19).",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-domina-argentina-vence-na-prorrogacao-e-leva-o-bi-da-copa",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Projeto mobiliza bibliotecas no combate à violência de gênero",
-              "resumo": "Entender as bibliotecas como um espaço para além do acesso à informação, mas também como um lugar de conscientização e desenvolvimento do pensamento crítico, é o que levou a pesquisadora Luciane Cavalcante a criar o projeto Medeia.Info. Uma iniciativa de mediação cultural em bibliotecas, focada no enfrentamento a violência de gênero.",
-              "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/projeto-mobiliza-bibliotecas-no-combate-violencia-de-genero",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Após veto, campeão mundial é liberado e viaja para ver final da Copa",
-              "resumo": "Após ter a entrada nos Estados Unidos inicialmente vetada para acompanhar a decisão da Copa do Mundo entre Espanha e Argentina, o ex-lateral Joan Capdevila, campeão mundial pela Fúria - apelido da seleção espanhola - em 2010, conseguiu a liberação para viajar.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/apos-veto-campeao-mundial-e-liberado-e-viaja-para-ver-final-da-copa",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Tempo seco intensifica risco de queimadas no interior paulista",
-              "resumo": "A Defesa Civil do estado de São Paulo divulgou alerta para risco elevado de incêndios e queimadas nas regiões central, oeste e leste do estado. Segundo os dados divulgados, toda área a partir de Piracicaba está em alerta entre hoje (19) e quarta-feira (21), com a região norte, entre Barretos e Araçatuba, em situação de risco extremo no dia 21.",
-              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/tempo-seco-intensifica-risco-de-queimadas-no-interior-paulista",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Redes de educação devem enviar dados sobre equidade ao MEC até quarta",
-              "resumo": "Termina na próxima quarta-feira (22), o prazo para que as redes estaduais e municipais de ensino enviem as informações do Diagnóstico Equidade 2026, com informações sobre o avanço na implementação da Lei nº 10.639/2003. A partir dela, se tornou obrigatório o ensino da história e da cultura afro-brasileira, africana e indígena nas escolas. Segundo o Ministério da Educação (MEC), até o momento, 96% dos questionários já foram enviados.",
-              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/redes-de-educacao-devem-enviar-dados-de-equidade-ao-mec-ate-quarta",
+              "titulo": "Regulamentação de \"carro voador\" avança com regras sobre ruído",
+              "resumo": "Os critérios técnicos para testes e parâmetros de ruído em vôo do Eve 100, modelo de \"carro voador\" em desenvolvimento pela Eve/Embraer, estão em consulta pública até o próximo dia 8, pelo setor de programas de certificação da Agência Nacional de Aviação CIvil (ANAC).",
+              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/regulamentacao-de-carro-voador-avanca-com-regras-sobre-ruido",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -238,16 +250,9 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "'Seguimos unidos' x 'terá que deixar o partido': entenda a briga na chapa de Carlos Bolsonaro em Santa Catarina - O GLOBO",
-              "resumo": "'Seguimos unidos' x 'terá que deixar o partido': entenda a briga na chapa de Carlos Bolsonaro em Santa Catarina O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUFZkdkQ5dlBrOU0wVzhldlgwR2xxVGllUjR0SGtaYXV1Z2FFVGV3UFhsQTVvOVd3MGJxUFdLbmRsXzJfdkpGYTNGR3I1WUc2VFBnUkFSV3JQRjRWanUxNFBTbEdaWGQ1YVNCd19ic0UzSEFqbWt4aC1pVWlRWDBIVXRpcHkwS0tCaUpkVjhreUJFN1NHM1phSWtFTVh5SU5wNHJlZE5kTzFTN2VYY1RBNm1iVC1nRHUtUkd0WVBZZHN2anhkMS05VVlEbHBMRmZyWEg5cE56Ui1Way1zeWxGNmtBMnhmUXo5aHk1MXJZWVFYbFpEZGxiTdIBhwJBVV95cUxQZU45bWZva0FaUTFkMWJFUTI4VkxUZHhzVVpNVVVKd19iWGdLUDdUNHh0VHRqYUhDZFpZb0VYTGQ5d1d4VWQ2QXJfaTJxQ3k5c2V2UVl5YjFiLTJoOWpjQ2dRay1LRDMxS0RaQjdTRk11elRqdklxMHJhQ1pQUTBtblRkOUdNd3FZX2dHV0hJLVloYV9SSktJeGdTa1JpekhCT2JuTU1ZUXoyZ2VOVWVuOXNKYzltYzd0ZzZISXpSYV9IMk1SRUVwb1NsdXR4VWt3Z1dwMERqQ2tJa2w0X3o3SjQ1N3hFNDR0Sk8wRXZnVF93QldET0hmX0k2eG9PcWo4RU1DQlhvTQ?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Casildo Maldaner, ex-governador de SC e fundador do MDB, morre vítima de câncer - CNN Brasil",
-              "resumo": "Casildo Maldaner, ex-governador de SC e fundador do MDB, morre vítima de câncer CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUtpcW01UlFWZGVDajEwWDlTSTVDNUJYeGVNbWJyVzFlR2FqWWtLOXFEZGxqbnZOdE1ZSWlNd2tESW03aTdEbzBYclA5NW8xU1hNa3hfWlV3Y1RVaWRpMlhvZXY0WGlTN3U4RWdPb28zQ2J2c0hzMW5tN3hFUjZEWE5RazhfczJEenVCTm96Mi1rNFp6c0d0S2U2MWg1TXlQaGpwN2lVSmxGNzZySG9BbmVkb2ZGMnM?oc=5",
+              "titulo": "Políticos de SC participam de caminhada de Nikolas Ferreira no DF; veja quais são - ND Mais",
+              "resumo": "Políticos de SC participam de caminhada de Nikolas Ferreira no DF; veja quais são ND Mais",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLW8zYmN4LXdDUVF5ekdYaEdoWVNkbERmY0hDdThNYThhUW5TNVFReGtZRzF1MjUyNUtrdEJ6b1lmRVJ5UkFqbWRCZFBnQTVlNFA1dURtaHl2Uk5XeTZZZy1rTlJBQUJWaTBLTTZyYWdFc19FaWVmXzNwOE5EWGNkVDZHMm4tMzBwSDM3bElZU0kxaDlwVUx0R0dkV0s4WHV3UHNMaWJLeHU3WUROcWpHb0JB?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -257,37 +262,23 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Após operação contra Bolsonaro, oposição pede reação do Congresso para conter STF - JOTA Info",
-              "resumo": "Após operação contra Bolsonaro, oposição pede reação do Congresso para conter STF JOTA Info",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVZLUmR5aE5PNVZDalVuRXk1MmJBWlRuUEhJcnBhNkk4NlAwVm9OVjA0b01JblVjRjI3bHVBQ2gyRHdobENYaE9yNUYyTHI5d0wzRzFlcFZ1OU5qSktoMEZYNVQ2Y1JJUDA2d2FNc2hKZkdCTHhIODBtVGpYVS1hTlR0QlJCRDNVX2kyOHV0QlM2blFORW1vOXg0MGNSbFJBZE1uS2Q5REZIR3V1T1Ita1RZTnU?oc=5",
+              "titulo": "Lula diz que presidentes da Câmara e do Senado ‘não terão problema’ com o Executivo - Sul 21",
+              "resumo": "Lula diz que presidentes da Câmara e do Senado ‘não terão problema’ com o Executivo Sul 21",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnp2MVBMRlVlbGFycUVmTHhMdmFuNExXb2o1c1BTcUUxVkp4Yl8tRFlnQ3RLQzdpTEdEb3NCWVFuVE9wUlBfQjN5eTlaaXpHaW9LZUxNWEtXT0pZTTVXUDhoQmc1T29TVlBtWjZPZGZEeHBIQ2FNS3J6NGJsZFdzV05CZkJIdmdPaTY3em1Idy1IRTB2eFF6WTZkVnlYOUxvZGJrTDcxUVZWLURETEdiMGYzQ2h6U0RrTmFJUF9NdnpoLWtJanFrbA?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "Casas da Política: residência do Senado tem atalho para casa da Câmara, mordomo que ‘tudo vê e nada conta’ e tradição para visitas; conheça os detalhes - O GLOBO",
-              "resumo": "Casas da Política: residência do Senado tem atalho para casa da Câmara, mordomo que ‘tudo vê e nada conta’ e tradição para visitas; conheça os detalhes O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOS05SaEZwSmhEQnBPc1gtQVJhVU5RNnQ4VGx6NlpYUTNFUVZGODMyVDRmTFpvM214ZFZ2ZVNvVnhxTkotQXc3STdLSWpHcFh3SjJub0RPNmRsYVFDWUp4ZlduTTlBLUhWQy1fU0FyS2syMWx2UzJQN056S3FSY0szdFh2N2FwaFNoWTlxeTVsbzBSekh6SjBfQ1pscnhiS0s3MjAzNnlvQkowNzkyYnRGR081bmhQQmtQQ3JLLWZTQjE3cElfa2V5U25qOTVRbXBkd2pIbVRUVFB5R0xvQk4xS0d5SEc1OVFPSjcxbXoyaW9XZnlwYzB6cW1HTHc3Mkl5ajBKOURaVEVhbVhwY2FGY1VLZDR4WTRKNnNVa21nQm_SAa8CQVVfeXFMT3NuSExpb1JyU3RFeThtZFVMT1N4Mmthb3ktLTU3Nk03Wmdxa055aHp1UlZRMlU1WkRMbTJEV2tKcGRnamRRM3hrRkZMS0ZHTHd6dDZNOERhSW9iempiMlhub0hNaDVGWXJWT0xsVlMydjlVUVdTdlZsd2xraGh6clRDVXo3aUM4YVFDQzFNODlXMkthWnhMYkhDMG9iUzZoTnlZeDd1Vk9PajlxdjQzb1hieGplTF9EVDU2UlNKc0Q4dVVMeTJ3ajBVRmIxMXNRUHVoMndiSndfSzRYMU1KWGE1aHBEaXZQdFc2VDVGRVBnMUVYb1p2LXNFZFI1VmVVNS1LMXVCOWc3NjVwWDdLZjBKcGtWcDhMSF9TN2VsTzR3SldEWm5BTDFUV3NLWUww?oc=5",
+              "titulo": "Veja como fica a nova formação do Senado Federal - CNN Brasil",
+              "resumo": "Veja como fica a nova formação do Senado Federal CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0pOTFo2SDVUWnNFcWh3SnBKbzU4MnZFMDVfaTNPa251YTJKUGtHWVhQRXNUUnhpSkxMQnA0eDlVYy1wWHFiWmxBZ1RVaVpYeGV0dEVqZHBIT3dJZGRBRldJSkNYQmo4VndHSUJjVXZDZFEtNUZ6RVhXTnBMcFREaTdRejl1Yno4UVNfZ29hMExKMUhNZTNKOGZEdzViQnM?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "Quem são os favoritos para a presidência da Câmara e do Senado? - CNN Brasil",
-              "resumo": "Quem são os favoritos para a presidência da Câmara e do Senado? CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWpkYURVTnllTXZTR0puYlBoaDFzQ2I1Mnc5ckN3Z0FNWEdHOWNweDQ3MmZ3UUJZZzFrdW5PbHc5WXpsRXRtRnRrVUl0SDZiWFhxdU9scVJhbVh0NkpKV2pSNXJiMzdVOVhfeTZhLXFFTy1pajBGWEhaWmx1Z1pSSGFGWnJ6NHNVRW12V2x6clY2MV8xSVFCRWJNcTJGVERSVXZV?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Alcolumbre e Motta recebem apoio de autoridades após vitória expressiva - CNN Brasil",
-              "resumo": "Alcolumbre e Motta recebem apoio de autoridades após vitória expressiva CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkh4RU1HVWhUODVBQkladmFPT2d5M1FWTjRNTjE4UGJ1el9KZ3ZoX1lNRU0zcl8wMUdVOXRqTENkSWFRTi1YLVNMNDl1c3ZQckdQTjE4dUxZcTF3TkUyNnNuUThBQ2NSbF9VZENxWTVtOVU5dWtzZXo5d1pyeDdLc1RpdDBoQjZoZktkd043NGpENmNRN3ZhdmxKMDlpY1BMa1llYXFma1FVdHNkOUJV?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "CCJ do Senado aprova fim da reeleição para presidente, prefeitos e governadores - G1",
-              "resumo": "CCJ do Senado aprova fim da reeleição para presidente, prefeitos e governadores G1",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcnVJU3ViVUtLWFRNeXo3dW56b19VeHZ0dV9RSlR0UXpxU01hMFJCeG55ekRzQUZOZ0FsTWVyOGNOODkyaHNzaHZGZmV1N05Ba0hYSVA0anVwUV9nM01TeXp3M2h3Qmh5NnlQWDVyZXpOTFI2cnhpMWRLQjdPUUtiZVZ5RU9tN2RaU0huMDk4TXdUWWPSAaIBQVVfeXFMTUszZXRldlBkWEpPSXgxdE9PRkNQd3RPZ2tmdW84X3RreUYwal9OZVpoUlg2T2Y1WGpXM2tBT3ZPMUZpX2ZlSnFZRkwtb0pNZmYxamZyZlhnWHlWRlNOWHNMVWF2eDA5a3ZMR2N2NmRiVDQ1OXhUaGI3WHVpYzl5c1Y4VDgxcGdqeDk3SEJ6VVVIUXRmY2kwcEk4TUVlRzBOemNR?oc=5",
+              "titulo": "Como o pai do ex-presidente Collor matou um colega senador no Congresso - O GLOBO",
+              "resumo": "Como o pai do ex-presidente Collor matou um colega senador no Congresso O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWstem9oZDN1R3pOSzV6bmI0TWF3VUFSc2dBc0V2c0FXWG1sVG1KNXV4MDJsd0pPZTNHMklIcHF1MDBCZEFxZ0lMYkpFY0NMZ3dCS2V2MWxpY0VCRUF5YVQySlFRdEQ0WE1taGJtTllDSWhpb1RxRnZEcFJablFsLWkxOWpHNUFOOXgyVkhmWllNRFQyNFVodWxVTW40NXMzQkptSXc5eFAtUWJyaXhRR1dlOElTbVFwRmNsOVNxLTN0UE80ZU84cUxpaEl6c2lGTGfSAeABQVVfeXFMTklQQUJyMHRDRGRVdHkzazdvTXdjTXlMMldoakRkVnFqV3JILUZyRC03UlZkREZ6am5zUzktS3FqOUl5dHhNNVYtckxoTlB3MEZnSDRXelk5WWgzTzBvempsT1JHUGx6Z3A5R2pWZ1J3RzE0VDA4TWJMMnVDT05UUW5HU2ItMFhEdEJLZzRVZEROVDMxWGFWeGx0VkZSY2oyaHBXbUQ5S0RGY3BYUG1xWWdCU2xQRlRydDBycWVjZjlNSXZPTE42aXJQekpqcm5yYXM1NlhiYVhhdnljajlfV00?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -302,37 +293,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Barboza, do Palmeiras, assiste à final da Copa do Mundo em bar na Mooca",
-              "resumo": "Alexander Barboza, do Palmeiras, acompanha jogo da Argentina; veja Alexander Barboza já está explorando a cidade de São Paulo. O reforço do Palmeiras foi flagrado pela equipe da ge tv enquanto acompanhava a final da Copa do Mundo entre Argentina e Espanha em um bar na Mooca, bairro da capital paulista.",
-              "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/07/19/barboza-do-palmeiras-assiste-a-final-da-copa-do-mundo-em-bar-na-mooca.ghtml",
+              "titulo": "Haaland fica \"cronicamente online\" e responde fãs em onda de comentários",
+              "resumo": "Haaland aprova meme com Vini Jr. Após disputar a Copa do Mundo, Haaland encontrou uma nova forma de chamar atenção dos fãs durante as férias. O atacante da Noruega e do Manchester City tem aparecido com frequência nos comentários de vídeos publicados no Instagram e virou assunto nas redes sociais pela quantidade de interações com torcedores de diferentes partes do mundo.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/haaland-fica-cronicamente-online-e-responde-fas-em-onda-de-comentarios.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Capixaba Série B: CTE/Colatina e GEL marcam no fim e empatam pelo Grupo Centro-Norte",
-              "resumo": "CTE/Colatina x GEL, pela Série B do Campeonato Capixaba 2026 Renan Oliveira GEL e CTE/Colatina empataram por 1 a 1, na tarde deste domingo, no estádio Justiniano de Melo e Silva, em Colatina, pela segunda rodada do Grupo Centro-Norte do Campeonato Capixaba Série B 2026. Os dois gols saíram nos minutos finais da partida, com Rômulo abrindo o placar para o time de Serra e Gustavo garantindo o empate da equipe colatinense. Veja mais notícias no ge.",
-              "link": "https://ge.globo.com/es/futebol/capixaba-serie-b/noticia/2026/07/19/capixaba-serie-b-ctecolatina-e-gel-marcam-no-fim-e-empatam-pelo-grupo-centro-norte.ghtml",
+              "titulo": "Choro e adeus? Como Messi foi anulado em possível último jogo por Copa do Mundo",
+              "resumo": "Messi chora após receber medalha de vice-campeão Assim que o árbitro Slavko Vincic apitou o fim da partida, Messi parou onde estava, perto da área da Espanha, colocou as mãos na cintura e quase não reagiu mais. Enquanto uma confusão se formava no meio de campo, o camisa 10 permaneceu ali cercado por uma câmera até que Baena, um rival, fosse cumprimentá-lo.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/choro-e-adeus-como-messi-foi-anulado-em-possivel-ultimo-jogo-por-copa-do-mundo.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Vocalista do The Cure critica Show do Intervalo na final da Copa do Mundo: \"Ideia idiota\"",
-              "resumo": "Atores da série Ted Lasso \"escalam\" Justin Bieber para show na final da Copa do Mundo O vocalista da banda The Cure, Robert Smith, criticou a adoção do show do intervalo na final da Copa do Mundo de 2026, disputada entre Espanha e Argentina, neste domingo (19), em Nova York, Estados Unidos. A Fifa implementou a apresentação musical inspirada no formato do Super Bowl, da NFL.",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/19/vocalista-do-the-cure-critica-show-de-intervalo-na-final-da-copa-do-mundo-ideia-idiota.ghtml",
+              "titulo": "Torcedores lotam ruas de Madri e fazem festa pelo título da Espanha na Copa; veja fotos",
+              "resumo": "Espanha 1 x 0 Argentina | Melhores momentos | Final | Copa do Mundo 2026 A conquista da Copa do Mundo levou milhares de torcedores às ruas de Madri na noite deste domingo. Logo após a vitória por 1 a 0 sobre a Argentina, na final disputada nos Estados Unidos, a tradicional Plaza de Cibeles se transformou no principal ponto de encontro da festa da torcida espanhola.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/torcedores-lotam-ruas-de-madri-e-fazem-festa-pelo-titulo-da-espanha-na-copa-veja-fotos.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Argentina fica sem finalizar no primeiro tempo de um jogo de Copa pela primeira vez",
-              "resumo": "Espanha x Argentina - Melhores Momentos do 1º Tempo Os 45 minutos iniciais da Argentina contra a Espanha, na final da Copa do Mundo, foram de pouca ação ofensiva. A seleção ficou sem finalizar em um primeiro tempo de jogo de Mundial pela primeira vez sem 1966, quando essas estatísticas passaram a ser medidas pela \"Opta\".",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/19/argentina-fica-sem-finalizar-no-primeiro-tempo-de-um-jogo-de-copa-pela-primeira-vez.ghtml",
+              "titulo": "Jornais espanhóis exaltam estilo de jogo da Espanha após título: \"Era para salvar o futebol\"",
+              "resumo": "Espanha 1 x 0 Argentina | Melhores momentos | Final | Copa do Mundo 2026 A conquista da Espanha sobre a Argentina na final da Copa do Mundo repercutiu com tom de celebração na imprensa do país. Os jornais As e Marca, dois dos principais veículos esportivos da Espanha, publicaram nesta segunda-feira editoriais defendendo o estilo de jogo da seleção campeã e exaltando o título conquistado nos Estados Unidos.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/jornais-espanhois-exaltam-estilo-de-jogo-da-espanha-apos-titulo-era-para-salvar-o-futebol.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Com Ronaldos, Madonna, Bieber e Shakira, intervalo da final da Copa dura 27 minutos; veja reações",
-              "resumo": "Madona se apresenta na final da Copa com participação de Ronaldo e Ronaldinho Além de apresentações antes do apito inicial, a decisão da Copa do Mundo dos Estados Unidos, Canadá e México contou com um evento inédito: um show do intervalo. Nas redes sociais, as participações de Ronaldinho Gaúcho e Ronaldo Fenômeno pilotando um veículo em que transportavam a cantora Madonna foram destacadas.",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/19/show-do-intervalo-inedito-reune-ronaldos-madonna-bieber-e-shakira-veja-reacoes.ghtml",
+              "titulo": "Golden State Warriors vence Memphis Grizzlies e conquista título da NBA Summer League",
+              "resumo": "O Golden State Warriors é o campeão da NBA Summer League 2026. Na noite deste domingo, a equipe venceu o Memphis Grizzlies por 94 a 90, em Las Vegas, e conquistou o segundo título de sua história no torneio de pré-temporada da NBA. O destaque da decisão foi o ala Yaxel Lendeborg, eleito o MVP da final após anotar 21 pontos e 10 rebotes.",
+              "link": "https://ge.globo.com/basquete/nba/noticia/2026/07/20/golden-state-warriors-vence-memphis-grizzlies-e-conquista-titulo-da-nba-summer-league.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -347,23 +338,16 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Confira famosas internacionais que torcem para o Brasil na Copa do Mundo - CNN Brasil",
-              "resumo": "Confira famosas internacionais que torcem para o Brasil na Copa do Mundo CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUlmNWhvbU5wdjdfaTNWTG1jWm82TUVmRGFjcHktMU9mbVlNcW9fZUd0d1lpRTRGTnUxN3hUeFd0UkVscE1UbEFFMUhxSnlqM0NCNUpMN2FpUzBXazByODNVVHhGOHZVUU1jUnZNYWhxT3hidUNOR0xVeWRDX0c3cHlGNE5VNUJ3d1FPbzdlajBIRTgxekhVUEY2NkZxUmpiTmFZdHp2dW51dzRZMXRHdjJ4Vk9qVWt2?oc=5",
+              "titulo": "Casais famosos combinam looks para torcer pelo Brasil; veja as fotos - Globo",
+              "resumo": "Casais famosos combinam looks para torcer pelo Brasil; veja as fotos Globo",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSThUQ0s3TWlBRFd1TTBKNTVQMTVyTVZnc3RyUnBMUXFmLWpqVWxFXzl4ZmsyQV9UNFlfUGgtSkJuZVFjb21TM2I4OUphOEEtQ280bEFNR1ZvV2ZFLXc1VHRMRkRPUXZMRHA0TVh4M2tGSTFWRzVTWFgtQWNrWDZCeHJJOE45Sl9wMVlmenlaRTRDSkQ2YkFhRDVuQmlxNjFtUms3ei0wYXg1dFVpeFdBN0FzVEJ3QlV3YTJIQ2lkRHJ4bFFyNDRUYVlXWFhoZE5EOE1Qc2130gHkAUFVX3lxTE5FY3FEeXFhUi11OUNXcVFFZ3BLdTlPaldHaU03bnlBYjZTRWltbnlSYzdmeTV4VEdZekM0VXhYSVB3MmJwZEpmTklqeU9rOTNmbmhQdnNvMDJEa0RhSVR0Y0ZwYUdKNldINmVYYWpZUmFIeWgzMTVhTUNmM3FqYmFKNzZOUGd3OGZKcnVKcmlOU3Boak1VUUM3bG1mUnJHNjFsUkh4WDkybUZ2VllnTTFzRFJTUU92SGstMVJsUDNfUk5JSFBMY19nRzV6cDNrYlBOdlZSTzdVUlNMRWExSWVqdkxaeQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "IZA mostra look para assistir Brasil x Noruega e ganha elogios de famosos: 'Entregou' - Globo",
-              "resumo": "IZA mostra look para assistir Brasil x Noruega e ganha elogios de famosos: 'Entregou' Globo",
-              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUlhVekE5dTdfZExNNEVMYWhVRlR1UGEwRjA4NHZ6U2llNTJ3MnpxUXp6MUVjcndGd2d1OUtBRlFjM2t3NHNaM3lLX1p3dU5HTm9GLXRlRUFRd2dLOU5SalBINmxta1hmTFd4TVdkYjY3X1lCa0NtNFZwbVljRlFMZEhSbDliM0N6aHZReW43bjNQZGQtQ3lJM1RVTnRacExiQWhMb3hzZHhoeTN6bFNURFgtV0N5Mmplblowb0x1NzhoRVdTRklfUEVJeE1taC11YWxWZkt5NXh3VjVnclAzeW1IUjJLakVzdUdzTEJRZ9IB_gFBVV95cUxOZVdiSlJQQy05THpSd1drT3hKZGR3NzBLSkcyTEhkTU9NSkNJaTJuYlZnM3VuWkVseU1rTDRxeDAxREVhdjFxZno1S2NVSkV6dDVId0tKSGVfaUJtOWZEVlpXb0VCTEY5V2ZEYkdIa1BaUWZXRy02V0ZNMm90bzZzWU4xOU5faV9aUEpYdi1GMTlBSUd4X2N3MmJFQzlyNDdnZ3RRakVsTjJGTnhKTGNkSWR5VTRLbVpfTGs3ZjZzSGlzMnVpNHVnbEFWN2k5QUhBa2MwX2NjSUxmdjZxeThBX2h6cUd0Q012enZ2VG1lN1gtUS0tNUk5SElVRzhVQQ?oc=5",
-              "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Nem celebridades salvam, e MasterChef vira receita indigesta para a Band - Notícias da TV",
-              "resumo": "Nem celebridades salvam, e MasterChef vira receita indigesta para a Band Notícias da TV",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX0NuTk14WnpseTY3TkdjU3Jrazl1cl83UGpac3Z6aXdyRUJ2TjFoM3J2c193UnpOWkdiTzUyczROZmVnUXpBVVJuTUpSc2ZtSDRqU0JtaW9yRFlMR2IzTnJNOXJpenZPemVLVml3YzVKUWEyemJPbDFRUVlOamRmN0dvcWdYZzN1UURXSDJXaVVVOUhFZ2RaaGRqLUpuNHNjYU5TYkdGNkNITm5NY0p2dmlQdEt5UEphaFJSSFoxdGhMcUhTZ2lFTFZOUdIB2gFBVV95cUxPMURyR0FpOEJSaXFNNDJMUlNYYnpLdHdQMnItSmc5b295ajlBWENvOW90dnVKdURSWEdLVFdsbGpTbHRRWDJ3ZXdlRmhyTDVxWGZLSnhTRmhfWDlVeUJfcU5sajJmTTlxWm1pVUpVX3BfMXh2WUR2TmtsMXJIWFNMTHJ4YnMzMHhMb0NvVFgwWWRzb2p2Z05vWHpnYkRKX0pTbzlrSFh2NDVYcHk2ZGIzYjNuOU1EdkZVZnZmQ2ZTdXdDck1lVFhDbnRqb2xrdUJuWjM3X0ZMUXB2UQ?oc=5",
+              "titulo": "\"MasterChef Celebridades\": veja quem disputa a final - CNN Brasil",
+              "resumo": "\"MasterChef Celebridades\": veja quem disputa a final CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVdKMm5VX2cwWDRLazNNYjRIdy0tRTFrYUdSX1dwSjktNFZCUzU0amxMR2tMWDRDY1RsWEN2dnZJOVViWUVSNmR2QTNiODdGd3YyZmxzWUR0RXdXOThrNjdkcmczcm9IT0Y5U3lVdTB6RFBzUmUzMDNfMzZhWThSQzlPTi1iSDN3UHFfa2tnc0YyVnlpOC1iUg?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
@@ -373,17 +357,43 @@
           "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Globo se decepciona com repercussão de 'Coração Acelerado' nas redes sociais - UOL",
-              "resumo": "Globo se decepciona com repercussão de 'Coração Acelerado' nas redes sociais UOL",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaUpzMi1DUTdhQWVTcFRvWkFOZ3dkYk1qd25xUGJ3N3I0TERaRmxBWnJuQThWaGZHT3ZiYUxPelczenA4OWR1NEdDZlF2alBGNEZjM3BqR0NwNjRnWHJkdlVUd0xkWHgwUEV1TjJUSV9FaVRRaW9lb182eUtOazBqMFVaUWdHWEFaQnNYUHo1LUlvcER1a3hRTVZlRmRadkdTRkpJRXdZbWhrQU5EcVFJZG0yMDJoTnJaU1VRUUJRTVRWLV9yWDd5WExtNF9TX2t6Nld1RlR30gHbAUFVX3lxTE5pUFRIRXlMbGZqcE5aRzBBTEhTM0NBbkpLRDkxUTFxRVMydkg1bEFqaTdqQVB6VmRfLXhTbkxNVGVGTEk3U2dZNnN2WnZFRXRfUFctUHNtRGNnRUhubEtPWGFiV3ZLNHR1SzFHbHRMT1o2MFphVTFlN3NOdHNZTy1NYm5Idk96Q3BsUjY5bkJOel92bTFuaFBsYkZfRFFIalZPbV9TOG1rYkFMUE9ZRUhXd3lIZ3BXTkVMbGIyRDdvRXJ1blZNY0F6dklpbU1TZExmdktuVFF1ZGt5MA?oc=5",
+              "titulo": "Com BBB 26 e 'Três Graças', Globo bate recorde de engajamento nas redes sociais - UOL",
+              "resumo": "Com BBB 26 e 'Três Graças', Globo bate recorde de engajamento nas redes sociais UOL",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWF2cGdhUjNxeEdmblptaVk0WFo2RzdWQl95eEgwRE85WTZPUTEyUWVnczZlbWQ1OGJ0dTRrZE1wSkJtcWh6R180M0JybDFvLWRqMURZYVdqOWVsd3ZxUFFVMWJUUTYzaTh6SWRmbzdvOXNqdk9wZHd4V0NaVDE3VklUNjZVTzFYSk9JQXFjeGpCNTVINGU5R0tzWlNyZkVvUTVGc2VfdEx3ZjNYSU01dUNvSkxoQmtYTlRrVkhCUFZUZGFPQXhvNUR3YXJsVmg5LUw2WENtMFXSAd4BQVVfeXFMUHFjdHNUSWZUWkZ4eG4xREcxMnNnY0dSRFdrVlhLa3lZMENFVmVMSWF4NnAzUGlKdUhzLWVPLWY0NzlsOWNOck54eUtZb2x2SXNBUkp4b3l3RGU2UmFYSk4xeHlsdGtXSUhubkhNbzYwVlFlNTRfc1VkbEU2RXpSbW1vamw4MzVZZTVXVGtXcHc4TFFWNzZQQ0F6T241STVGR2FVdjkxNmljcDRIWk5mZmpVYUY2RVZxSDZvUG52b0ZMbnptd01DT1hWTU40SkNiVlk3aDlBUS1sNnFvWnJ3?oc=5",
               "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Resumo Salve Jorge: capítulos de 29/06 a 04/07/2026 - Portal iG",
-              "resumo": "Resumo Salve Jorge: capítulos de 29/06 a 04/07/2026 Portal iG",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMUDY4QndXLVR4XzZPZWpoOVBzMHdJck10X3VhdTZ6aW9SNXRMTmdQUWlpLW92MVhyWTNiOVR2R0FlaWFHWExJNm1MdEJfanhkbjBnMFNveVhWVGhYMkdlVUJ6ZEM?oc=5",
+              "titulo": "Globo muda programação e altera horários do BBB 26 e de Três Graças - Metrópoles",
+              "resumo": "Globo muda programação e altera horários do BBB 26 e de Três Graças Metrópoles",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmstQ3VKWG5CSmhPdzYxMWNtd2VDS2VSYXo2UFQ1cldjeTRtalN5eV9Xa0czQnJOS0ZLbUlpelp4MFdxZFlSUXJXakxabE5SckFtOWxsVFpLN3Z1YlJvRWxSZnpNZGFXcmZtZWRPdGJGUThiWlV4TDlmUy0tclNuWURUQUJVOUlNRUpfbHZRd3FTczVUc0s4RVFGX1Z0YVF3a256anpCVVBBQU5aTmVnY0FPb0ppU1BhWlRF?oc=5",
               "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Há quase 30 anos, esta jovem sorridente dava seus primeiros passos na TV: Hoje, interpreta uma das personagens mais cruéis das novelas - AdoroCinema",
+              "resumo": "Há quase 30 anos, esta jovem sorridente dava seus primeiros passos na TV: Hoje, interpreta uma das personagens mais cruéis das novelas AdoroCinema",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOVY1aUpkeVdVb21rWmZiTzBNOUJLeVNfS2YxbUtnWk9MT3k5YVlkVGVpZm5RdENhbk9SOWdFdUdpblJ0US03NkZaRi1jYXFPQkpLMXJ6LU1XSUcwVDZaVl9PNll4M29tX0twZ00wT1ZYTVFSZFNoekpR?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Cinema e Filmes",
+          "noticias": [
+            {
+              "titulo": "Quais filmes a Marvel lança em 2026? Veja estreias confirmadas nos cinemas - viva.com.br",
+              "resumo": "Quais filmes a Marvel lança em 2026? Veja estreias confirmadas nos cinemas viva.com.br",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS1pOcXoyWkNvVC1ZQUpCSXJlaDRZRkstNnUtV2xmc0ZlR0JDUW9HREdnMGR5Z0hGVjlydXo2Rms4RFRsSVNuNWtuRjh0c29MV2R4WEwydm0yZDlkbEVFTmt4U2RIV0pNekRWSFpoN3BVa3REN1ZyWF9DU2NXMWkzU0ktbVZYblNiNk1OWElSRFNUR2JINTVGR0NKajBpZ08xZTJzemN6dW9oTG5Ecks1enQ0MjM?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Filme-concerto de Billie Eilish, dirigido por James Cameron, estreia nos cinemas - Rolling Stone Brasil",
+              "resumo": "Filme-concerto de Billie Eilish, dirigido por James Cameron, estreia nos cinemas Rolling Stone Brasil",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnE0blhWTld5aVJRdTkwTXB3NXNfeGVZUm13SUtiSkRTR1JmOF9fOHNnYjZBTGh6X2xyNHI4bHl5Uk5tOS1WVm5xdVNNY2IteTh3YkN5X3h2MW5heGNZZkZDNldoVUJONlJmYlhxeUgybWtjSGl1SUZOemk1c3hDOEdQdV8yYjZEY0RMM1RmUmUxdG95Wm92endKeXgwNnhaQVNrb0c4U3dGUEhPZVJPUm9fWkQ?oc=5",
+              "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
             }
           ]
@@ -392,23 +402,16 @@
           "nome": "Música",
           "noticias": [
             {
-              "titulo": "Sedenta de vida e sonho, Juliana Linhares reina como grande artista do Brasil no show 'Até cansar o cansaço' - G1",
-              "resumo": "Sedenta de vida e sonho, Juliana Linhares reina como grande artista do Brasil no show 'Até cansar o cansaço' G1",
-              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTl9GaHZQVDN0RUxFc3JZLTZHWWNFd3lONWhOcDV1OFhsVnNMZGlTYmJtT1ZHc3NJTkpHR3VoNkVHYUVUa0tJRHZ4blVpOU42ZjVVcEJIOTJtdzMyVV8tRlZYaWJlRDNjSGdyNmFoaU1HTzN6UGdPLUVuYWJYR2c1TTFwdGg3WWNfb2Nfc092V2syX3NYaGUzcWJPX3RhNnJ5WElwOG1Mb2xxX0ZUX1U0UF9UYzRnZTRhZVhWS0JUcGdCXzV2SlJUQ3NNMERCM2k4aHJVVkJUdktKVVk1cUlPeXNyUlY0em1GS25KaFNZMFQxOHpVYVNHeHh6MTFMWjFFRGtlT0xtVWR1bkQ2bzhBbDB2TlVCUdIBpAJBVV95cUxPRUVUNHBMSkNTTFdkY29ZS2hoYWp4b21wS3JLZlh4YzJsZVRtU3pwd1hxQWV0WGhvekZzdEVZSnc5a3BLY0dNVEVaZmFmc2c2dEF2eFlHY1pZNE9pbkxKQUNrQlpmd08xLUxuSU81R0ZPbkhlbnNUcWdKa2EzdlFKcFNXOGpURG1xVmxMdXJYMGY4YW5LVk14aEYtNVJfYjN2VHJmNVZMMmVrMmdVZ3l1WXR2bU8wM0JBLVZJay1HS0lSbkh5ZWxNdEpDRlNIZUxEME9sZXVkcHhZY1VLeWJld3pPNFFBcXZwUGlUd1kxZUJBU1ktVzBXdG9FNm5pQ3BSNFlPc0VvTy1EREJEdG1uckRnQzh0T0ZzeDhjRkFySXRGUGVW?oc=5",
+              "titulo": "Quarta Musical estreia com show de Sanducka em BH - Culturadoria",
+              "resumo": "Quarta Musical estreia com show de Sanducka em BH Culturadoria",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ycGRUQzd0SEhRLURXcmtTckRkODFscU1Na3dzSXBJTEJsV19CTnVtc3hZYnRfTmxsWGw3Um5udGZIc2hfcnJ0U0VhbXNDREl2enZDYXRXc091QkplazRVc2FkbjNyN1E?oc=5",
               "fonte": "Música",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Clarissa apresenta show de lançamento do álbum “Para-Raio” na Casa Natura Musical - virgula.me",
-              "resumo": "Clarissa apresenta show de lançamento do álbum “Para-Raio” na Casa Natura Musical virgula.me",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVMzcGEwSjQyY2xrYUN5cGZDYjJHeEVDVkxBaTlySW1OMExOQkFSTHhSMlBoWm1ISWpCS09QOWwtU2RfV0ltMnZCY2F6Rk01Q0JnZkk2RjVRYTRxR0hNOUFEa3BGMm5MVW9MYUFRM3k4aVVLWEJqTmVKYmdqSklqbVpSRFViSHQwWW9iX2hyOEo5MnJMS0w2YzNfQjlPbmhjVV96aDZXdGI2UQ?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" - GZH",
-              "resumo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" GZH",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNGg0VGx0VkVmNnQ2ejBZd3E3YS00ZVl1Y015TDdjMU5tak9RMjI4cWk1Q1dtVThwQ2pCNVFsY1JmUEVWWGdrVXBnTUdXNTdsX3RuU3lISE1MbUZSWjN4ODQ1ai1RRU0zVmVWS2FlNUdLbWxlLWE2aE4wa21hWWRiSkVkZEl2OWpkY1MtVDhBeF9pT1RWZ0lTMWlySmU1d3VyTlIxSXk3ODMxajA4b2h2VnZaZS05NXUtcExNblJQa2w4NGJfTVpvWTBYSU9HOURPZXJCMWlFSEVWZXpnbmNBYmV5QzhRbUx2YVdaTjZ6N2xNRFFYSS1aWmpqUjBRdEN5YUxJRERR?oc=5",
+              "titulo": "Nova promessa da música pernambucana, Joner faz show de estreia na próxima sexta-feira (6) - Fique Sabendo PE",
+              "resumo": "Nova promessa da música pernambucana, Joner faz show de estreia na próxima sexta-feira (6) Fique Sabendo PE",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1V6N2plcm13YzF5QU1FNTNaLXF1YU12UHdOdEVJQ1o0TU13X1FIb2RiX0VWbkNhQ1ZWTGNQOHJiZWJ2aE1fYy0xWHMwQlhER3p1ZnQ2bjh6VExLc1c1Yi1jU0tSeklzU2JBUnVUeERCNjc2WDlaRkxoQ0R2TVdpSDZ5WUF1TDVoRHdTejZXRTRDX0xpcUE0WDhqekNIT3cyOGQtX1dVTktfZV8xcTdpeERES3R3dw?oc=5",
               "fonte": "Música",
               "editoria": "Entretenimento"
             }
@@ -423,57 +426,31 @@
           "nome": "Ciência e Tecnologia",
           "noticias": [
             {
-              "titulo": "Avanço em problema global: Cientistas brasileiros anunciam descoberta de sementes que podem remover microplástico da água potável - conheça a capacidade das sementes de moringa - CPG Click Petróleo e Gás",
-              "resumo": "Avanço em problema global: Cientistas brasileiros anunciam descoberta de sementes que podem remover microplástico da água potável - conheça a capacidade das sementes de moringa CPG Click Petróleo e Gás",
-              "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQVi05bDNuQ2h5VVE4c1ZNbHVzOVFaMWFBMGdkVU1rY29TcjIwSl9SekxnWUNudlZYM21xck1pa3Joc0R1YnpmbFFpcEh0RWpuYW9HZmdESTJfMW54MklkeEJIQjVQc1NRalRwTmp1dGNwMzI1c0I4TENwWG5Jb0RCQkRwMVM0WktLa3NwelNaR25mSzF0ZnJSWms0SVMtYXpMRmZPbXNrbmJ5Q1JoNjJSVURhNFUtanFxWGZ6b09obzVmM1RHdU5NSXp3WFpXMmFCdjdzX1lsSUhLRl9tdUFfbV9SWTlBYVM4ZnhYc2FxeUhxbjRtdXhGc2hQVEpWc3ljMmIyNjY3emVXbGNFNzRrYWFobENJY1BNX3BBVE9JanNHLXZ6Mk05V2JvVkxKbHhzbVJjRUE5c0RYZw?oc=5",
+              "titulo": "Tecnologias astronômicas são essenciais para descoberta e estudo de exoplanetas - Jornal da USP",
+              "resumo": "Tecnologias astronômicas são essenciais para descoberta e estudo de exoplanetas Jornal da USP",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSk5JWjZGd3I5QW1KbU9NbGNyMUtqdzhvMzA1YXZzaXpNVFVPWVItSllObWl1ZS1vcG8xbEdocmRSZHBrbVpIVWEzLVlHYWJiRkV6Wm1kQ3ZLQ3VleDJZcklpOWhSV28xbDM5UjQxM2hVekZyeVBFcUJUeFdyaHYxTjNwTTVmUEpjOWJsNU85VHQ0QzdCYmJCQ0JGTGN0Z3FrOWZzcVJjMUpXRVJITHJPMU5R?oc=5",
               "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Relembre os destaques da ciência em 2025, segundo a revista Science - CNN Brasil",
-              "resumo": "Relembre os destaques da ciência em 2025, segundo a revista Science CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUJsd1Y2ZHRnUzg2VHcxTVd2clY2bWVHQlVSTHp5UFRhQlRhMXJiODZ2Y1dqZzVWV1VsdFRFTkVnRnBGYm81bzVFd3oxWFFsdTJaZWJTbG5oRXZYc1dJNHpRalpFd1VhczhZcjBEemZ4R2lEOUVoeUhxdGFrU1dFemNwaXpudy1fMzUyS1F6NUdPdmhWZU43cU9waVliYThBOE85bXRjaVRCdkU?oc=5",
+              "titulo": "Vida extraterrestre: por que cientistas dizem que estamos perto de descoberta fora da Terra - BBC",
+              "resumo": "Vida extraterrestre: por que cientistas dizem que estamos perto de descoberta fora da Terra BBC",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Wb1plM1BZcHBZbDNWVThrM3ROMkpaYkRQSVk5UnVNSWItQXhjcEwtWEZaR0d1SDZGa3Bac0VqUW9fZDN3bG1Cc0ZoYTVLMDNQNWdCWUhSMDM2WkdjeG9lXzdn0gFnQVVfeXFMTXktS0FOeGgyR2k3T2tEQmxqMHhRNjBUNXBNYjBDS0piUkxJU1FKTmJCdHBSUzlGVmNPMWRfX2F3dFQwTi1nU0h1MV9fQVVuMVNUbDJ2a19FS3I2dlozUlp2dHh0ZGZ0SQ?oc=5",
               "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Descoberta de asteroides rende medalha ao Núcleo de Pesquisa Aeroespacial da UFG - Jornal UFG",
-              "resumo": "Descoberta de asteroides rende medalha ao Núcleo de Pesquisa Aeroespacial da UFG Jornal UFG",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcU9rcXNnNWo2X1J0MTU4bjlxY0VBSE9RT1VFWU8teUwydEtUdGNEZWlHQW1OdVJOMDJKX2cwc3BXaXY3eWlyWDdfdVItdjZNZHpna21QRG00NmNBR3MtS0tJd0tlNDEyZVp3bVZBMU44WTVmamE5NlV2N2V6YnlfME51UGFzSFg5MnBwMnVyM1N3WUNfQ3hUdTlubTh5S0tYN2xwQThWWnJwYXpyRFZxMg?oc=5",
+              "titulo": "Nobel de Química 2020 vai para Emmanuelle Charpentier e Jennifer Doudna pelo desenvolvimento do Crispr, método de edição do genoma - G1",
+              "resumo": "Nobel de Química 2020 vai para Emmanuelle Charpentier e Jennifer Doudna pelo desenvolvimento do Crispr, método de edição do genoma G1",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakR6WXhaa0kzNmI4QXZmOTNzYXd3bWJMTl9KVF9HN0lqRlpWemZDbG04OEFkZ3l4S3RuNUZ6ZkYwY25NaWpvMkM4N0dMbGJlTlItYjN2NW1ob3Q1ZnNFSTczXzduQVRCMnZPdldMM1ZoQnRuc1d3bDdBSWlLSG1abllzeUo5ZE96UkVieENIMHNqUEdueEQ1UURpUjVydTV4VG1jdEJnYnRLcnpfR014QnQwckY0VHpzUkEwR1RScVhhRjMzV2JjRGp1Y2FIb2d2?oc=5",
               "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Pesquisadores coreanos criam tecnologia que reverte células cancerígenas em células normais - Época Negócios",
-              "resumo": "Pesquisadores coreanos criam tecnologia que reverte células cancerígenas em células normais Época Negócios",
-              "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOanpDTW9Qd2p5OG1ndENwcnB6S25pLVJOQ0JtczBJWE5DQVBjakc5azFabXJjbnNVQngxOFVJNGpQNkkycHB6bFpOcWQ3WXIxOHFkc18tcmJRWmdUcjJYenlNUG1pZVFIN0Q4bTVJcmdDMDJLbGlMRlBvTlBzSEw1SnRudTJtaEVuMTI0QWIyYUpzZkhydTh0TnV4cTJoV1p2c0RPTWtRWjYzYUxNZVRsbG5BSVg3bjNTNVNSQlhSVXctenRZNW9Icy1xMnZNU0ZqMFVnajlrUnNBblBhZ25fTEVCcU9ScnNDN0VGbUl4V0NVZE3SAYICQVVfeXFMTk9FUDhpMFJQWjhuUXJVNnZEeGJtTlNiTXVUM1lpeEU1Wlc2d0wzNXJWTU9hclBJcU1yemVwa0w0YjFxeWhTRktvczVhMkVUV0tlQVNNdVgxX3daNnBhWVJNQXFfY0lfeS1XSU5vQTc4MWxRYW9Sc09Ra21uMzAtQzJRRzVmU1JxSGpmWVlramtOYzVaSjBhNDhhcGU0MnZ6UWhYV3Y3c1hZNzZQN0YwcVduTXhYVjh5M254bEpsN1d0TzJxbzk5ck5WTzRhUm9haHJGX21yWlJ0TXlGN1dUeDNuaE9RVmhyMnhrMkhPaFBYelN2TjNMMjBGTktTYno1Q0xR?oc=5",
+              "titulo": "Descoberta revolucionária: cientistas detectam campo elétrico ambipolar essencial para a Terra - afnoticias.com.br",
+              "resumo": "Descoberta revolucionária: cientistas detectam campo elétrico ambipolar essencial para a Terra afnoticias.com.br",
+              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXowdXIwUEdQLXhIM3QyTzZUSUtzUzBKaHFYY2NNalUyTmJDaVdJQklHckE5OVlKN0MwSVdudVNjckZ5YXdUdWdJbU80VjFNdVFfWlVBZ2RxdFBna0NKTEZKY3B4Zk4taEhpRVFkdl92d3FEMlR1dDlFRm9PSnpQY2tSWWpJVUMyWEpnVFd0Skh1RFVhM0doUm9USFVKMDVDcXVXdHlmenpRYWtldXdPZ1pCRnRFT2hfSFBPVUZyXzhWamVqX01MNloyODNxS0U5YndSMldYcmhKbXJyd1BqblZB?oc=5",
               "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "A nova bateria de tecnologia brasileira criada por cientistas da USP capaz de suportar altas densidades de energia - Revista Fórum",
-              "resumo": "A nova bateria de tecnologia brasileira criada por cientistas da USP capaz de suportar altas densidades de energia Revista Fórum",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQVV1WWxBZFZHTTVlN3NjQ01qYWlSNVdSZDZpQzc2WGhXLVFzWmx1VGdGYjhSRVZnbjYxblRjUnhYVVFQVHJjaE1yMXpjcUtTWVJOZ2lFOU03X000OF9icmRkREoxLTRnR3FEMlpHUTU1SzBFSGZoZlZidUVOWm9zWU5Nby02VFNMVk1BMGJDWUxsWVJBYVdKdHh5M3hzMXVPaTFtZk5iRkN0VzJzRWp5NVRwU3lkZEoteEI1VUNiS1ZRRzBveGpmSzFjaTdQb1d3S28tdmxib0NCSkI3cHRlUXFOdGl0c1FhQnc?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
-          "nome": "Saúde e Bem-estar",
-          "noticias": [
-            {
-              "titulo": "Anunciados os vencedores do Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar 2025 - Agência FAPESP",
-              "resumo": "Anunciados os vencedores do Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar 2025 Agência FAPESP",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWE5TakpKUlZ0ZmQ1dDdoUGNiX29VMUh6UldKXzJLT3VTdmZqeEtianVuanQ3cmhvMC1QeTFYYUVlX2xWTHhVOWVveTV2QzY0OHNkMlF2YzRuUy1Samo5Ul9GbVoweFN4Yjltb3pSMlM5ODFCSmRtNjIyeEx6Vl84TzhfcjI3T3I1WXdEaFVWa2d0eWhIaGlCaHBFUjR1azJVVHJwaVV3VmRORUZyUV9Kb1lVZnR3UHZlUUhDME0xRzBGZU9RaW5URU5DTQ?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Manter conexões sociais traz sensação felicidade coletiva, segundo pesquisa - Catraca Livre",
-              "resumo": "Manter conexões sociais traz sensação felicidade coletiva, segundo pesquisa Catraca Livre",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1JQWHlSNGF2dkhzRUNjWXRSRDlMTzBhM0FJbFpYVVQydWVxalBIbE0yZjNZb0djYmJndG95N01IbUNrWjJacFQ0NzlYX3FPejBuUzRxWEZxMW1uYWx3YkNacUxqazhKMEpfb0Q2NmdmcWhOMmpqZFdveTRfdnJ2SVhHN2Rub1R2Mkx3Si0tbG9iZ1VpZDMwRWplWnNkaVJBWldfNmNVZkRrTks0T1NuWWFWajRKZjJES01v?oc=5",
-              "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             }
           ]
@@ -482,16 +459,30 @@
           "nome": "Curiosidades Gerais",
           "noticias": [
             {
-              "titulo": "A cidade mais azul do mundo: o surpreendente motivo que faz Chefchaouen, no Marrocos, ganhar este apelido inusitado - CPG Click Petróleo e Gás",
-              "resumo": "A cidade mais azul do mundo: o surpreendente motivo que faz Chefchaouen, no Marrocos, ganhar este apelido inusitado CPG Click Petróleo e Gás",
-              "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcjhJT3ZhT1NDVTcybUFZYXJYZDhZSFAtbjJfME5kVTljZFdRNEgxeGhQbWJ2T1hrS2Rnc1JJYWNhdHdEYS1VODVHRlRDMVhiaWRlZ0I2V2hJeEcwV21qSTM3TEIyNzQ4b09qdXRzazFQcWxLM1hodFd5aVlKNENVTDc1VWFLdy14YUZrQnNzWXczR0dTSnNWSjl4WTVMRUZZVl92NjBTZ0dZTUM3aTFfdS1YU1Q3UlpCaHJKVFFLNkxfY1ZBUENZOEN3Z0JIdWJKQXRNeTF1b0d5WTUybzJvX1lJSWVQWU0?oc=5",
+              "titulo": "Equipe do WorldTour com uniforme inusitado na Liège-Bastogne-Liège, time mudará completamente suas cores - Giro do ciclismo",
+              "resumo": "Equipe do WorldTour com uniforme inusitado na Liège-Bastogne-Liège, time mudará completamente suas cores Giro do ciclismo",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRDdXX2xSSURxNkpMRlhtb3FIX0p1Ulk5X2NObDFCbGFaeXJqaFRoTVdnS3Q2eGpLdEVqdmdBZWdSTGZHTzUzRjFUTGVXZzUzYnRGbW5OZUdaVFhTcHJyYks0RnIyRGVWbzUyenl0RzdRbW0xZjJWS1UyWm5jS3ViODBJV2REV0J0X3VBOUpYcVFiVWtUZG5xdWxpbTFyMXVoYUFXMkhMLWtVX0diZjMtOGhaQ0N1TTRxQV9JN0ZQV3NPUEgzekFjVlR3dDFtVy1nNFdZbEF6Rkxpdm9UTHNLOWtCcG8?oc=5",
               "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Grávida, Ranya surpreende Jade com desejo inusitado, se abala com resposta e faz ameaça: “Contar para o Said” - Observatório da TV",
-              "resumo": "Grávida, Ranya surpreende Jade com desejo inusitado, se abala com resposta e faz ameaça: “Contar para o Said” Observatório da TV",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGtMdHF1eU01eTVwYXVJUEVxWEItVm5jUmFWZnBvNzJpczI3VzRiMk1lWTdCYndtcGpHZzhXTC1BVTlNUlEzdVhadEcyLS1kczk1UTdCU2dxRnhmSnhXd2VnM0xXTktDOVNVeGlmOEk4S1RNY1FxbkpvUnpaY1BScFU1X1VqTWQ3eTN4T19rQldfNG9Wc1J2ZWVkQjlPNXBQQV91dmFnR0UyT0ZQUU9NQ0ZXWjUzNkdvTV85UXFhWjgtby0yMmNNc05KZHVFN1hSZGw4U1ZHN1MwYmpaU3MwRlRyZW90YW1XMnc?oc=5",
+              "titulo": "Haaland surpreende os torcedores com um presente inusitado após a Copa do Mundo - Goal.com",
+              "resumo": "Haaland surpreende os torcedores com um presente inusitado após a Copa do Mundo Goal.com",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdG5ITkVQYmhRYmZwTDBHNXhiakNfRHpSSU9aeHluRHpDd1ZiTGVtdFNZQ2NOOGJySk5NR1JxbXRyclI0WVRLODR0RjI5Z09qbGlpV3FLQ3h5SEY2SnJqdGkxZVc5ZXlXa3RUTUl4a2pIdnpFVU1KUVo0OTAwZEl1OUNrZW03WVl2eHp3ZUw4c2tQaUpvLXVHM1FZWlJabzdYbHVEZlpsQU5NOV9ZYW1yRzBtNktncHNjR3BONHJNdkFXWmNGV0xWUmxTVEVvdVBWaTYw?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Fabiana Karla surpreende ao revelar apelido inusitado no sexo - Metrópoles",
+              "resumo": "Fabiana Karla surpreende ao revelar apelido inusitado no sexo Metrópoles",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHp1emprTklNSFJSanNNU0lrVlpzTGRxU3BJM2ZyZXNJNk5EbEZNN2NsTU5BMXhsN2dGYzVPQ1RJUFh4Z3RtajBseXRFTUZMNE9FXzMyd1RYQTRuekh3QWtmdGloUlI5aHJiTVdfNW5QTmNibnFNUDVqSS1xdWZ3Q0xkcnJqNlJGRmc0NVM4ZDZXa3ViU1N0MVRFWFBYZG9QRm9z?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "A areia que faz barulho: o fenômeno curioso que surpreende turistas no Ceará - acordacidade.com.br",
+              "resumo": "A areia que faz barulho: o fenômeno curioso que surpreende turistas no Ceará acordacidade.com.br",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1BCV2dvNmNQNS1Ick00aWlHMmNLTFN0OU5BMUhhVEVZQXp6emNhUDNKM1VqZXBMR0tJaGFEeEhvendmVlJCNTVua3ZtWmVFdTBuSFBlX3RJVmtCQ3lJdW93dF9aMFZDNHZGcmYyb1FSRHdGaTBIQnBBOEpKUUJ4VE12cmtTR0xWaDRCVXphR09LWHBQbzRSNkR2ZDdYRlNjZzZKMmR2cnU5ZGpwTVZ6UHlR?oc=5",
               "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
