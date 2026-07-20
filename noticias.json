@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-07-20T07:51:15.002959",
+  "gerado_em": "2026-07-20T09:59:02.293396",
   "data": "20/07/2026",
-  "hora": "07h51",
-  "total": 32,
+  "hora": "09h59",
+  "total": 51,
   "editorias": [
     {
       "nome": "Local",
@@ -11,10 +11,71 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Desistir é perder",
-              "resumo": "Convivemos com o futuro e não nos damos conta, falo do futuro em relação aos dias passados. Sim, porque este […] The post Desistir é perder appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/colunistas/desistir-e-perder",
+              "titulo": "Concurso da Agricultura de SC abre 20 vagas com salário de R$ 11,5 mil para qualquer graduação",
+              "resumo": "A Secretaria de Estado da Agricultura e Pecuária de Santa Catarina (Sape/SC) publicou um novo edital de concurso público com […] The post Concurso da Agricultura de SC abre 20 vagas com salário de R$ 11,5 mil para qualquer graduação appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/concurso1-da-agricultura-de-sc-abre-20-vagas-com-salario-de-r-115-mil-para-qualquer-graduacao",
               "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Obras de Hassis são apresentadas pela primeira vez no Museu Histórico de SC em Florianópolis",
+              "resumo": "A segunda exposição que integra o projeto Hassis 100 Anos será aberta no sábado, dia 25 de julho, no Museu […] The post Obras de Hassis são apresentadas pela primeira vez no Museu Histórico de SC em Florianópolis appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/entretenimento/obras-de-hassis-sao-apresentadas-pela-primeira-vez-no-museu-historico-de-sc-em-florianopolis",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Terças Sonoras recebe Gui Natel e Jade Dejá em Florianópolis",
+              "resumo": "A temporada 2026 do Terças Sonoras segue apresentando diferentes expressões da música autoral brasileira com o espetáculo “Pela Raiz”, protagonizado […] The post Terças Sonoras recebe Gui Natel e Jade Dejá em Florianópolis appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/entretenimento/tercas-sonoras-recebe-gui-natel-e-jade-deja-em-florianopolis",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Duas jovens morrem em grave acidente entre carro e caminhão na BR-163, em São José do Cedro",
+              "resumo": "Duas mulheres, de 24 e 26 anos, perderam a vida em um grave acidente registrado na manhã de domingo (19), […] The post Duas jovens morrem em grave acidente entre carro e caminhão na BR-163, em São José do Cedro appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/duas-jovens-morrem-em-grave-acidente-entre-carro-e-caminhao-na-br-163-em-sao-jose-do-cedro",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Motorista é preso por embriaguez após acidente em Jaraguá do Sul",
+              "resumo": "A Polícia Militar atendeu, às 21h30 de domingo (19), uma ocorrência de sinistro de trânsito com danos materiais no bairro […] The post Motorista é preso por embriaguez após acidente em Jaraguá do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/motorista-e-preso-por-embriaguez-apos-acidente-em-jaragua-do-sul",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        },
+        {
+          "nome": "RBN Portal",
+          "noticias": [
+            {
+              "titulo": "Homem é preso após agredir criança de 10 anos e ameaçar ex-companheira em Jaraguá do Sul",
+              "resumo": "Um homem de 31 anos foi preso na noite desta segunda-feira (20), no bairro Vieira, em Jaraguá do Sul, após uma ocorrência de violência doméstica que também envolveu agressão contra uma criança e ameaças de morte. Durante a ação, a Polícia Militar ainda constatou que havia um mandado de prisão em aberto contra o suspeito. Segundo a PM, o homem havia saído de Itapema para visitar a filha.",
+              "link": "https://portal.rbnfm.com.br/homem-e-preso-apos-agredir-crianca-de-10-anos-e-ameacar-ex-companheira-em-jaragua-do-sul/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Jaraguá do Sul inicia a semana com mais de 1,5 mil vagas de emprego abertas",
+              "resumo": "Quem está em busca de uma oportunidade no mercado de trabalho encontra boas opções em Jaraguá do Sul. O Sine do município começou a semana com 1.505 vagas de emprego disponíveis, distribuídas entre os setores da indústria, comércio, serviços e outras áreas. O comércio concentra a maior parte das oportunidades, com 40,93% das vagas.",
+              "link": "https://portal.rbnfm.com.br/jaragua-do-sul-inicia-a-semana-com-mais-de-15-mil-vagas-de-emprego-abertas/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Frente fria aumenta risco de temporais em Jaraguá do Sul e região a partir de terça-feira",
+              "resumo": "A semana começa com mudança nas condições do tempo em Santa Catarina. A partir desta terça-feira (21), uma frente fria semi-estacionária avança pelo Estado e provoca chuva, temporais isolados e risco de ocorrências em diversas regiões, incluindo Jaraguá do Sul e o Norte catarinense.",
+              "link": "https://portal.rbnfm.com.br/frente-fria-aumenta-risco-de-temporais-em-jaragua-do-sul-e-regiao-a-partir-de-terca-feira/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Espanha faz história e conquista o título da Copa do Mundo de 2026",
+              "resumo": "A Espanha entrou definitivamente para a história do futebol mundial. A seleção espanhola venceu a Argentina na decisão da Copa do Mundo de 2026 e conquistou seu segundo título entre os homens, tornando-se o primeiro país a reunir, ao mesmo tempo, os títulos mundiais masculino e feminino. A final colocou frente a frente duas das melhores campanhas da competição. De um lado, a Argentina buscava o tetracampeonato.",
+              "link": "https://portal.rbnfm.com.br/espanha-faz-historia-e-conquista-o-titulo-da-copa-do-mundo-de-2026/",
+              "fonte": "RBN Portal",
               "editoria": "Local"
             }
           ]
@@ -28,16 +89,16 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "Derrota da Argentina na final da Copa gera tumultos e deixa feridos em Balneário Camboriú; VÍDEO",
-              "resumo": "Derrota da Argentina na final da Copa gera tumultos e deixa feridos em Balneário Camboriú - Marcos Brollo/Imagens cedidas Torcedores argentinos se envolveram em tumultos e confrontos em Balneário Camboriú após a derrota para a Espanha na final da Copa do Mundo, na noite de domingo (19). Oito pessoas ficaram feridas, segundo a Guarda Municipal da cidade localizada no Litoral Norte.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/20/derrota-argentina-tumultos-feridos-balneario-camboriu.ghtml",
+              "titulo": "Caminhonete invade e destrói parte de casa em SC após motorista sofrer mal súbito e perder controle",
+              "resumo": "Caminhonete invade casa em Joaçaba Uma casa em Joaçaba, maior cidade do Meio-Oeste de Santa Catarina, foi parcialmente destruída na tarde de sábado (18) depois que uma caminhonete invadiu o imóvel. O motorista do veículo, de 54 anos, sofreu mal súbito, perdeu o controle da direção e colidiu contra a estrutura de madeira da residência. No momento do acidente, não havia moradores no local.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/20/caminhonete-invade-destroi-casa-motorista-mal-subito-joacaba-sc.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "'Eu vi que ele não estava bem': motorista explica por que abraçou desconhecido após batida em carro; cena viralizou",
-              "resumo": "Um abraço depois da batida: a história por trás da imagem que comoveu o país Um acidente de trânsito que poderia terminar em discussão ganhou um desfecho inesperado e emocionou milhares de pessoas nas redes sociais. Depois de bater na traseira de outro veículo, um motorista foi recebido com um abraço pelo condutor do carro atingido, em vez de reclamações ou agressões.",
-              "link": "https://g1.globo.com/fantastico/noticia/2026/07/20/eu-vi-que-ele-nao-estava-bem-motorista-explica-por-que-abracou-desconhecido-apos-batida-em-carro.ghtml",
+              "titulo": "Ministério das Relações Exteriores acompanha caso de influenciadora morta em Dubai",
+              "resumo": "Brasileira morre ao cair do 27° andar de prédio em Dubai O Ministério das Relações Exteriores acompanha o caso da morte da modelo e influenciadora de 26 anos Kauana Bilhar após cair de um prédio em Dubai. O órgão também presta apoio à família da jovem por meio da Embaixada do Brasil em Abu Dhabi. Segundo a família, a jovem caiu da sacada do quarto em que morava, no 27º andar de um edifício, na terça-feira (7).",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/13/influenciadora-morta-dubai-ministerio-relacoes-exteriores-acompanha-caso.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -47,37 +108,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Discussão de trânsito termina com homem morto dentro de carro em SC; vítima foi baleada oito vezes",
-              "resumo": "Homem morto em Correia Pinto foi vítima de disparos de arma de fogo; mãe também foi agredida e precisou de atendimento médico O post Discussão de trânsito termina com homem morto dentro de carro em SC; vítima foi baleada oito vezes apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/homem-morto-em-correia-pinto-foi-baleado-oito-vezes-em-sc/",
+              "titulo": "Pacote de R$ 120: Cristian Cravinhos entra para o OnlyFans e vende conteúdo adulto após sair da cadeia",
+              "resumo": "Condenado pelo assassinato dos pais de Suzane von Richthofen, Cristian Cravinhos afirma que busca uma nova fonte de renda após conseguir o regime aberto O post Pacote de R$ 120: Cristian Cravinhos entra para o OnlyFans e vende conteúdo adulto após sair da cadeia apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/famosos/cristian-cravinhos-entra-para-o-onlyfans/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "100 frases de Dia do Amigo para enviar no WhatsApp e demostrar carinho sem cair no clichê",
-              "resumo": "De mensagens curtas a declarações sinceras, confira frases para homenagear amigos de diferentes estilos no Dia do Amigo O post 100 frases de Dia do Amigo para enviar no WhatsApp e demostrar carinho sem cair no clichê apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/internet/100-frases-de-dia-do-amigo-para-enviar-no-whatsapp-e-demostrar-carinho-sem-cair-no-cliche/",
+              "titulo": "Torcedor argentino é espancado com socos e chutes ao tentar defender a namorada em Balneário Camboriú",
+              "resumo": "Imagens registraram parte da confusão; vítima recebeu atendimento médico e foi levada à UPA das Nações O post Torcedor argentino é espancado com socos e chutes ao tentar defender a namorada em Balneário Camboriú apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/torcedor-argentino-e-espancado-com-socos-e-chutes-ao-tentar-defender-a-namorada-em-balneario-camboriu/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "A ‘Ilha do Silício’: como Florianópolis criou um ecossistema bilionário sem precisar de chaminés",
-              "resumo": "A Capital Nacional das Startups reúne a maior densidade de empresas inovadoras do país, Florianópolis movimenta R$ 12,8 bilhões por ano e faz da tecnologia um dos principais motores da economia O post A ‘Ilha do Silício’: como Florianópolis criou um ecossistema bilionário sem precisar de chaminés apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/negocios/florianopolis-ilha-do-silicio-tecnologia-startups/",
+              "titulo": "Novo medicamento contra linfoma agressivo é aprovado pela Anvisa no Brasil",
+              "resumo": "A decisão foi publicada nesta segunda-feira (20) no DOU (Diário Oficial da União) O post Novo medicamento contra linfoma agressivo é aprovado pela Anvisa no Brasil apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/saude/novo-medicamento-contra-linfoma-agressivo-e-aprovado-pela-anvisa-no-brasil/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Quanto tempo falta para a Teka sair da recuperação judicial? Entenda",
-              "resumo": "CEO Rogério Marques explica ao ND+ os próximos passos legais até a Teka encerrar a recuperação judicial no ano em que completa 100 anos. O post Quanto tempo falta para a Teka sair da recuperação judicial? Entenda apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/negocios/quanto-tempo-falta-para-a-teka-sair-da-recuperacao-judicial-entenda/",
+              "titulo": "Duas vezes maior que o Cristo Redentor, monumento de Jesus com 86 metros se torna a maior estátua da América do Sul",
+              "resumo": "Projeto em El Peñol terá elevador, mirante, shopping, teleférico e resort de luxo, incluindo a maior estátua da América do Sul; estrutura supera em mais do dobro a altura do Cristo Redentor. O post Duas vezes maior que o Cristo Redentor, monumento de Jesus com 86 metros se torna a maior estátua da América do Sul apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/arquitetura-e-decoracao/maior-estatua-america-do-sul-cristo-86-metros-colombia/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Quem está com quem? Veja os apoios de peso de Flávio e Lula na corrida ao Planalto",
-              "resumo": "Declaração de Sergio Moro a favor de Flávio Bolsonaro movimenta a corrida presidencial, enquanto Lula tenta preservar a base aliada e ampliar os palanques estaduais para as eleições de 2026 O post Quem está com quem? Veja os apoios de peso de Flávio e Lula na corrida ao Planalto apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/quem-apoia-flavio-e-lula-nas-eleicoes-de-2026/",
+              "titulo": "Em meio ao calor de 29°C, ventos de até 100 km/h e chuvas intensas colocam SC em estado de alerta",
+              "resumo": "Após período de calor no estado, a chegada de uma frente fria deve provocar ventos intensos, temporais isolados e queda nas temperaturas em diversas regiões. O post Em meio ao calor de 29°C, ventos de até 100 km/h e chuvas intensas colocam SC em estado de alerta apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/previsao-do-tempo-ventos-de-ate-100-km-h-e-chuvas-intensas-colocam-sc-em-alerta/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -92,37 +153,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Interno de clínica de reabilitação é preso suspeito de matar outro paciente a facadas em Taubaté, SP",
-              "resumo": "Delegacia Seccional da Polícia Civil de Taubaté (SP) Laurene Santos/TV Vanguarda Um homem de 50 anos foi preso em flagrante suspeito de matar outro interno, de 38 anos, a facadas em uma clínica de reabilitação em Taubaté, na noite deste domingo (19). O crime aconteceu por volta das 21h, no bairro Una.",
-              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/20/interno-de-clinica-de-reabilitacao-e-preso-suspeito-de-matar-outro-paciente-a-facadas-em-taubate-sp.ghtml",
+              "titulo": "Feira de Santana inicia campanha de vacinação antirrábica neste sábado; confira os bairros atendidos",
+              "resumo": "Feira de Santana inicia campanha antirrábica em bairros no sábado (25) Abraão Melo | Arquivo A campanha de vacinação antirrábica para cães e gatos em Feira de Santana, segunda maior cidade da Bahia, terá início no próximo sábado (25). A ação é promovida pela Secretaria Municipal de Saúde (SMS) e contará com mobilizações aos sábados, além da oferta regular da vacina na Unidade de Vigilância de Zoonoses (UVZ) e de ações itinerantes nos bairros.",
+              "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/20/vacinacao-antirrabica-bahia.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Polícia retoma buscas por comerciante que desapareceu ao sair de bar em Carapicuíba; principal hipótese é que ele tenha sido morto após roubo",
-              "resumo": "Marcelo Magalhães de Almeida, de 31 anos, foi visto pela última vez na noite de quinta-feira (16). Carro blindado da vítima foi abandonado por um desconhecido, que fugiu correndo. Reprodução/TV Globo A Polícia retomou nesta segunda-feira (20) as buscas pelo comerciante Marcelo Magalhães de Almeida, de 31 anos, desaparecido desde a noite de quinta-feira (16), em Carapicuíba, na Grande São Paulo.",
-              "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/20/policia-retoma-buscas-por-comerciante-que-desapareceu-ao-sair-de-bar-em-carapicuiba-principal-hipotese-e-que-ele-tenha-sido-morto-apos-roubo.ghtml",
+              "titulo": "Polícia acredita que amizade entre professora e namorado de suspeita de envenenamento por mercúrio pode ter motivado crime: 'Possível tentativa de homicídio', diz delegado",
+              "resumo": "Saiba o que diz a polícia sobre investigação de envenenamento de artesã com mercúrio no Recife A artesã que denunciou ter sido envenenada com mercúrio pela própria aluna num curso de artes no Hospital Universitário Oswaldo Cruz, no Recife, pode ter sido alvo de ciúmes por conta da amizade que tinha com o namorado da suspeita do crime.",
+              "link": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/07/20/policia-acredita-que-amizade-entre-professora-e-namorado-de-suspeita-de-envenenamento-por-mercurio-pode-ter-motivado-crime-possivel-tentativa-de-homicidio-diz-delegado.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Jovem é morto a tiros no bairro Pedra Linda em Petrolina",
-              "resumo": "IML Petrolina Emerson Rocha / g1 Petrolina Um jovem de 22 anos morreu na tarde de domingo (19) após ser baleado na Rua 9, no bairro Pedra Linda, em Petrolina, no Sertão de Pernambuco. De acordo com a 25ª Delegacia de Homicídios, a vítima foi atingida por disparos de arma de fogo enquanto estava em via pública.",
-              "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/20/jovem-e-morto-a-tiros-no-bairro-pedra-linda-em-petrolina.ghtml",
+              "titulo": "Trump tenta transformar celebração espanhola em momento de protagonismo político",
+              "resumo": "O presidente dos EUA, Donald Trump, parado ao lado da comemoração da Espanha REUTERS/Mike Segar A cena constrangedora se repetiu: em busca de um lugar na foto — e na história — da Copa do Mundo de 2026, o presidente dos Estados Unidos, Donald Trump, se recusou a deixar o pódio onde a seleção espanhola estava prestes a erguer a taça de campeã, tal como fez com o Chelsea na final do Mundial de Clubes, no ano passado.",
+              "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/20/trump-tenta-transformar-celebracao-espanhola-em-momento-de-protagonismo-politico.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Como João Câmara se reconstruiu após o maior terremoto da história do RN",
-              "resumo": "Praça da Igreja Matriz, em João Câmara Bruno Vital/g1 Maria de Lourdes Vital ainda lembra o valor do patrimônio que a família deixou para trás quando saiu de João Câmara \"com medo dos abalos\". Duas casas, um ponto comercial e um terreno foram vendidos por apenas 12 cruzeiros. \"O povo trocava casa até por rapadura. Só queria era sair de lá\", recorda.",
-              "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/20/como-joao-camara-se-reconstruiu-apos-o-maior-terremoto-da-historia-do-rn.ghtml",
+              "titulo": "Agentes do ICE usarão câmeras corporais durante abordagens de veículos",
+              "resumo": "Na sequência de vários tiroteios fatais envolvendo agentes da Agência de Imigração e Alfândega dos EUA (ICE), ela exigirá que seus agentes gravem as abordagens de veículos com pelo menos uma câmera corporal, afirmou no domingo Tom Homan, responsável pela política de fronteiras do governo Trump.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/07/20/agentes-do-ice-usarao-cameras-corporais-durante-abordagens-de-veiculos.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-              "resumo": "Assista ao Bom Dia Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
-              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-bom-dia-vanguarda-ao-vivo-no-g1.ghtml",
+              "titulo": "Homem é preso após agressão e ofensas racistas durante briga por linha de pipa em Paulínia",
+              "resumo": "Homem é preso em flagrante por agressão e racismo durante briga em Paulínia Nilsão Live Paulínia Um homem foi preso em flagrante por agressão e racismo, na tarde de domingo (19), após uma briga na Praça São José II, em Paulínia (SP). Segundo a prefeitura, a confusão começou após linhas de pipas se enroscarem. No momento da discussão, ele proferiu ofensas racistas e agrediu outro homem, que reagiu.",
+              "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/20/homem-e-preso-apos-agressao-e-ofensas-racistas-durante-briga-por-linha-de-pipa-em-paulinia.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -132,9 +193,37 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Petróleo atinge maior preço desde junho após novos ataques entre EUA e Irã",
-              "resumo": "Uma embarcação no Estreito de Ormuz , vista de Musandam, em Omã. Stringer / Reuters Os preços do petróleo avançaram neste domingo (19), impulsionados pelas tensões no mercado internacional. Na abertura das negociações, o barril do tipo Brent chegou a ultrapassar os US$ 90 (cerca de R$ 460,53), alcançando o maior patamar desde junho.",
-              "link": "https://g1.globo.com/economia/noticia/2026/07/19/petroleo-dispara-e-chega-a-maior-preco-desde-junho.ghtml",
+              "titulo": "'Trump tentará punir Brasil por esse sucesso', diz Nobel de economia sobre ação do governo americano contra Pix",
+              "resumo": "Por que o PIX virou pretexto dos EUA no tarifaço O economista Paul Krugman, vencedor do Prêmio Nobel de Economia de 2008, criticou a investigação aberta pelo governo dos Estados Unidos contra o Pix e afirmou que a ofensiva representa uma tentativa de punir o Brasil pelo sucesso do sistema brasileiro de pagamentos instantâneos.",
+              "link": "https://g1.globo.com/economia/noticia/2026/07/20/trump-tentara-punir-brasil-por-esse-sucesso-diz-nobel-de-economia-sobre-acao-do-governo-americano-contra-pix.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Samsung corta empregos nos EUA e oferece realocação antes da mudança da sede",
+              "resumo": "Loja da Samsung em Seul, na Coreia do Sul Reuters/Kim Hong-Ji A Samsung reduziu o quadro de funcionários em suas operações nos Estados Unidos nas áreas de telas, celulares e outros produtos eletrônicos de consumo, afetando principalmente trabalhadores em Nova Jersey e no Texas, de acordo com documentos e duas pessoas a par do assunto.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/samsung-corta-empregos-nos-eua-e-oferece-realocacao-antes-da-mudanca-da-sede.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Homens tendem a usar ofertas de emprego para conseguir aumentos salariais mais do que mulheres, mostra estudo",
+              "resumo": "Um homem trabalha na impressão de jornal em Madri, na Espanha, em 20 de julho de 2026.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/homens-tendem-a-usar-ofertas-de-emprego-aumentos-salariais-estudo.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "UE multa AliExpress em R$ 3,2 bilhões por venda de produtos ilegais",
+              "resumo": "Logo do AliExpress em uma loja da plataforma em Granada, na Espanha, em julho de 2024 Jon Nazca/Reuters/Arquivo A União Europeia impôs, nesta segunda-feira (20), uma multa de 550 milhões de euros (3,2 bilhões de reais) à plataforma chinesa de comércio online AliExpress, subsidiária do gigante Alibaba, por permitir a venda de produtos ilegais no bloco, como brinquedos proibidos e roupas falsificadas.",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/07/20/ue-multa-aliexpress-por-venda-de-produtos-ilegais.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "China compra mais soja do Brasil enquanto reduz importações dos EUA",
+              "resumo": "Quais produtos brasileiros mais exportados aos EUA pagarão a tarifa de 25% A China ampliou as compras de soja brasileira e reduziu as importações do produto vindo dos Estados Unidos em junho, reforçando uma tendência observada desde o início da guerra comercial entre as duas maiores economias do mundo.",
+              "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/china-compra-mais-soja-do-brasil-enquanto-reduz-importacoes-dos-eua.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -144,37 +233,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "São Luís terá uma semana marcada por chuvas contínuas",
-              "resumo": "As temperaturas mínimas ficam entre 25°C e 26°C, e as máximas entre 28°C e 30°C na capital maranhense",
-              "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ma/sao-luis-tera-uma-semana-marcada-por-chuvas-continuas/",
+              "titulo": "União-PP de SP formaliza apoio a Flávio Bolsonaro",
+              "resumo": "Convenção estadual da federação ocorrerá nesta segunda-feira, na Assembleia Legislativa do Estado de São Paulo",
+              "link": "https://www.cnnbrasil.com.br/eleicoes/uniao-pp-de-sp-formaliza-apoio-a-flavio-bolsonaro/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Florianópolis tem semana com variação climática; veja previsão",
-              "resumo": "Cidade terá início de semana ensolarado e sequência de chuvas a partir de quarta-feira",
-              "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/florianopolis-tem-semana-com-variacao-climatica-veja-previsao/",
+              "titulo": "Paraná Pesquisas: Celina lidera cenários de 1º turno pelo governo do DF",
+              "resumo": "Pesquisa entrevistou 1.500 pessoas, entre os dias 17 e 19 de julho; margem de erro é de 2,6 pontos percentuais, para mais ou para menos",
+              "link": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-celina-lidera-cenarios-de-1o-turno-pelo-governo-do-df/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Keir Starmer faz discurso de despedida como premiê do Reino Unido",
-              "resumo": "Primeiro-ministro deixa cargo nesta segunda-feira (20)",
-              "link": "https://www.cnnbrasil.com.br/internacional/keir-starmer-faz-discurso-de-despedida-como-premie-do-reino-unido/",
+              "titulo": "Homem é preso escondido embaixo de caminhão após agredir ex-mulher em festa",
+              "resumo": "Suspeito de 40 anos foi detido em Cáceres (MT) após perseguir ex-companheira em evento",
+              "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/homem-e-preso-escondido-embaixo-de-caminhao-apos-agredir-ex-mulher-em-festa/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Bolsas da Europa tentam recuperação de olho com EUA-Irã no radar",
-              "resumo": "Mercados seguem expectativa de negociações para conter hostilidades no Oriente Médio",
-              "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-tentam-recuperacao-de-olho-com-eua-ira-no-radar/",
+              "titulo": "Grávida, Anne Hathaway reflete sobre lançar 5 filmes em 1 ano: “Surreal”",
+              "resumo": "Atriz de \"A Odisseia\" estará em mais produções das telonas neste ano",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/gravida-anne-hathaway-reflete-sobre-lancar-5-filmes-em-1-ano-surreal/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Embraer assina carta de intenções para fornecer até 30 “carros voadores”",
-              "resumo": "Acordo com a Moov inclui a colaboração entre as empresas na avaliação de oportunidades para a mobilidade avançada em Cabo Verde e na Europa, com foco na ampliação das opções de turismo regional no arquipélago africano",
-              "link": "https://www.cnnbrasil.com.br/economia/negocios/embraer-assina-carta-de-intencoes-para-fornecer-ate-30-carros-voadores/",
+              "titulo": "Dólar recua a R$ 5,10 com conflito no Oriente Médio no radar",
+              "resumo": "Movimento acompanha a queda dos preços do petróleo, com expectativas de negociações entre os Estados Unidos e o Irã",
+              "link": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-20-julho-2026/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -184,16 +273,30 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Mbappé confirma artilharia da Copa do Mundo e repete marca de 56 anos",
-              "resumo": "O atacante Kylian Mbappé terminou a Copa do Mundo de 2026 como artilheiro. O francês marcou dez gols e se beneficiou de Lionel Messi, principal concorrente, que passou em branco na final desse domingo (19), em Nova Jersey (Estados Unidos), na vitória da Espanha por 1 a 0. O argentino finalizou a competição com oito bolas na rede. O feito do camisa 10 dos Bleus (azuis, na tradução do francês, apelido da seleção) foi histórico por duas razões.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/mbappe-confirma-artilharia-da-copa-do-mundo-e-repete-marca-de-56-anos",
+              "titulo": "EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz",
+              "resumo": "As forças americanas atacaram o Irã pelo nono dia consecutivo nesta segunda-feira (20), em meio a crescentes preocupações com o tráfego marítimo pelo Estreito de Ormuz, depois que o Irã informou que dois petroleiros haviam explodido.",
+              "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/eua-mantem-ataques-ira-diz-que-petroleiros-explodiram-em-ormuz",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Barulho de barco e de turistas afeta comunicação de peixes, diz estudo",
-              "resumo": "O ruído de motores de embarcações, como lanchas e motos aquáticas, e de banhistas afeta a comunicação sonora entre os peixes, o que pode causar impactos negativos na alimentação, reprodução e defesa de território de várias espécies. A poluição sonora encobre os sons emitidos pelos peixes e representa risco para a saúde de recifes de corais.",
-              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/barulho-de-barco-e-de-turistas-afeta-comunicacao-de-peixes-diz-estudo",
+              "titulo": "Chuva: governo reconhece situação de emergência em municípios do RS",
+              "resumo": "Sete municípios do Rio Grande do Sul tiveram situação de emergência decretada após as chuvas intensas que atingiram a região. A medida está publicada no Diário Oficial da União. A portaria da Secretaria Nacional de Proteção e Defesa Civil cita os municípios de São Sepé, Erval Seco, Liberato Salzano, Coronel Bicaco, Cerro Grande, Novo Tiradentes e Seberi. Notícias relacionadas:Tempestades e granizo continuam no Rio Grande do Sul.",
+              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/chuva-governo-reconhece-situacao-de-emergencia-em-municipios-do-rs",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Pesquisa mostra que brasileiro projeta futuro da Seleção sem Neymar",
+              "resumo": "Um novo ciclo de Copa do Mundo tem início nesta segunda-feira (20). Na contagem regressiva, são 1.419 dias até o próximo Mundial. Após a pior campanha desde 1990, com eliminação nas oitavas de final para a Noruega, o torcedor brasileiro se questiona sobre a jornada rumo a 2030. Entre as várias interrogações, uma diz respeito a continuidade ou não de Neymar com a Amarelinha.",
+              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/pesquisa-mostra-que-brasileiro-projeta-futuro-da-selecao-sem-neymar",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Beneficiários com NIS de final 1 recebem Bolsa Família de julho",
+              "resumo": "A Caixa Econômica Federal começa a pagar a parcela de julho do Bolsa Família. Recebem nesta segunda-feira (20) os beneficiários com Número de Inscrição Social (NIS) de final 1. Os beneficiários de 175 municípios de seis estados receberão o crédito nesta segunda, independentemente do número final do NIS.",
+              "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-1-recebem-bolsa-familia-de-julho",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -208,10 +311,36 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Relator da Lei da Dosimetria rebate Flávio Bolsonaro e nega acordo com STF - CBN",
-              "resumo": "Relator da Lei da Dosimetria rebate Flávio Bolsonaro e nega acordo com STF CBN",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFdCazh1WnlCOWp2aUtsNkhZSWUtcGdfU2ZyeWRGQjhMbHZYR2xyT1ppX0dka3gtdVZXelZNNnF2YkpNVWhvdHpMTVN5aU1FUHhoQkpDUWZJLVlpUTdabXZlajRSSVdJbXVQY0ozLUxteXZYdGFRVFRHWmR2VTZzcU5aT1hZY2RMV3lTb21KMDlfS3VzWld1SGwyMkRTUUFNTFVwUlE2SWJJMjNDT1oxV0FIbkRpRWtrNGhtdzY0VUZjS3pjWGN0UnNR0gHYAUFVX3lxTE1NWkhIQ2s0TmVyNmVvWkFmWmVoejRRYmNzYVJyeVB0U0RZOXBnZTVVYlM0VXRZN2g2aHhEMGg1cWJXY0dTa1prOEMxZVNUcmdGbTZWQXJJdHRPaUtXUWxGNS1ibTQydThXM2N4dFRNSUxJUmZzTzdWRFRrejV3d3Z0OUozdVFHcDRvWi14cVlQNGVZYV9kc3ZoOFdDeHRrSXd4SVdCVC1zRzM2Nk5zY29hU3hudnU0cDRlemNVU0hzaFZNQ295aVYxMjY3QkpPRHA5QTFpX3oybA?oc=5",
+              "titulo": "Antídio candidato ao Senado provoca fato novo na eleição de SC - Blog do Prisco",
+              "resumo": "Antídio candidato ao Senado provoca fato novo na eleição de SC Blog do Prisco",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVhiSkpCWm5fV3ZqVldrUTVZNHJMSUJVNURfU010V3VMRnJZVnZqSVh4RnZwMFhVdmxoQWRPcGlBajlzb2NUbmlkbTU1WWVVQUlucGpuQUd0OUtCMmhBeTdJUlI4MW5nUGc3MXNodExpdlhzRm03enMxdnJMU2stSHNtN3o5Z2R6RVdlbkcxdC1qOFFwNzZYQk1LZ9IBoAFBVV95cUxObkJjVkNSbUhHWGo3Z1Vtc1ZRZE5VcnJRTnFSSGV3WDVRYUdBeDViZ3dNSEphQlhYRWRrczNSVC1LczJWMktNczVPTTdvaHNTSHVqZVE2SnM4c3BuXzcwY1F4eEVkYk5xVmtqd0hYaS1lM2lDSUxmaWhiMlNhOFEzRnZ1NGRBR2tCUThvMzFFLW5DbWlDSEkycGVQd2xHQ01m?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Renan Bolsonaro anuncia pré-candidatura a deputado federal - SBT News",
+              "resumo": "Renan Bolsonaro anuncia pré-candidatura a deputado federal SBT News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbEVPR1dkV2ZEdjRaVUxMdjVOOUVIMjZEeXpNdXU3U1NBQkJLUjVLZndRNFFzdjR6VVFaOEZTTUVQOVV6eWstcDM3bkFYWWFNZlNsN1REU1JwZ3k0ZlJ2S2cwOHBnUjM1dVFJcnI3UW9oRThSR3pxNUd1ZTBDSjMxSjFFcm9md0NoekZieEEzOXlvOUtqLWdDWkluTUxfRXJHZUU5Vw?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Saiba quantos deputados serão eleitos em Santa Catarina - 4oito",
+              "resumo": "Saiba quantos deputados serão eleitos em Santa Catarina 4oito",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpKU2RoWHlPOVdpeVpkWjA3X01iSS1kLUhjS1ZrNWpNa2dXNGI4ZHlxek1pOVp2RWdKcWtSMDBPdEl3TzlfVWxnZUtMZk5BZ3hIeHRjcFBKaWdyX3hIU09JUmMtWnU1dHhzdFp6bDdYOVBXNGUxVFR5QXhaTEx3bTFDb2NYRUpPTVM5eG9HTU02SWxUelN3QW1R?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            }
+          ]
+        },
+        {
+          "nome": "Política Brasil — Congresso e Presidente",
+          "noticias": [
+            {
+              "titulo": "Oposição libera plenário do Senado após duas noites de ocupação - CNN Brasil",
+              "resumo": "Oposição libera plenário do Senado após duas noites de ocupação CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUFQV1owUkRqTEZxOU04bXY4c1Y1MEFOOGRlMlpMMWsyNHd0Ym40VmI0QjFZMmxwWldMSV85QkNrWHdJMmR0Y01kRWM1RDlMNU9EeFlhLUxOTDlLS1Y2Y2Jqb0o3ZXlkMTctQXpGay00TlZoM3p1NTVUanRkd1ByU1V5WDV0aVREd2FPc0xZTmRvRTdNU1VzUXNKTmV4SGtxUno4Vw?oc=5",
+              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -225,37 +354,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Praia Clube vence Jaraguá de virada e acaba com jejum na Liga Nacional de Futsal",
-              "resumo": "O Praia Clube reencontrou o caminho das vitórias na Liga Nacional de Futsal. A equipe bateu o Jaraguá de virada por 3 a 2 na noite de sábado no Ginásio G3 em Uberlândia e deixou a briga na parte alta da tabela ainda mais embolada. Ruan abriu o placar para os catarinenses lgo aos dois minutos do primeiro tempo. Guilherme e Murilo, aos 13 e 14 minutos da primeira etapa, viraram para o Praia. Rafinha ampliou, logo após a volta do intervalo.",
-              "link": "https://ge.globo.com/mg/triangulo-mineiro/futsal/noticia/2026/07/20/praia-clube-vence-jaragua-de-virada-e-acaba-com-jejum-na-liga-nacional-de-futsal.ghtml",
+              "titulo": "Vini Mateus fica no top 4 do Musclecontest Brazil e mira próxima competição",
+              "resumo": "Ramon Dino faz guest posing e leva público ao delírio em Curitiba Vini Mateus ficou na quarta posição da categoria Men’s Physique durante o Musclecontest Brazil 2026. A colocação garantiu boas pontuações no ranking mundial para a classificação ao Mr. Olympia, considerado a “Copa do Mundo” do fisiculturismo.",
+              "link": "https://ge.globo.com/ap/noticia/2026/07/20/vini-mateus-fica-no-top-4-do-musclecontest-brazil-e-mira-proxima-competicao.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Jogadoras de tênis vão precisar passar por teste de gênero para jogar na WTA",
-              "resumo": "Presidente do COI, Kirsty Coventry, anuncia teste que bane mulheres trans de competições O Comitê Olímpico Internacional anunciou nesta quinta-feira uma nova política de teste de gênero para determinar a elegibilidade de atletas olímpicas à categoria feminina. Cada atleta poderá fazer o teste que determina a presença do gene SRY apenas uma vez na vida.",
-              "link": "https://ge.globo.com/tenis/noticia/2026/07/20/jogadoras-de-tenis-vao-precisar-passar-por-teste-de-genero-para-jogar-na-wta.ghtml",
+              "titulo": "São José encara o São Caetano em estreia na Copa Paulista",
+              "resumo": "A Copa Paulista começa para o São José nesta segunda-feira, 20. Às 15h, os joseenses enfrentam o São Caetano, no estádio Anacleto Campanella, pela primeira rodada do Grupo 4. O São José chega para a competição com um elenco reformulado e sob novo comando. O técnico Wilson Júnior assumiu a direção do time no lugar de Jorge Castilho, que deixou o clube no início da preparação para Copa Paulista para comandar o Água Santa.",
+              "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/sao-jose-sp/noticia/2026/07/20/sao-jose-encara-o-sao-caetano-em-estreia-na-copa-paulista.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Guarani abre nova janela em busca de reforços pontuais para reta final da Série C",
-              "resumo": "Inter de Limeira assume liderança provisória da Série C; Guarani cai para 5º lugar O Guarani segue atento ao mercado de transferências, mas sem abrir mão da cautela financeira. Em meio ao processo de redução da folha salarial e equilíbrio das contas, a diretoria trabalha para aproveitar oportunidades que se encaixem no orçamento do clube durante a janela aberta nesta segunda-feira.",
-              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/07/20/guarani-abre-nova-janela-em-busca-de-reforcos-pontuais-para-reta-final-da-serie-c.ghtml",
+              "titulo": "Espanha chega a Madri com taça da Copa e terá dia de festa pelas ruas da cidade",
+              "resumo": "Espanha 1 x 0 Argentina | Melhores momentos | Final | Copa do Mundo 2026 O avião que levou a Espanha de Nova York para Madri pousou às 9h30 (Brasília) desta segunda-feira na capital espanhola com a taça da Copa do Mundo. Depois da conquista do bicampeonato mundial, os jogadores e integrantes da comissão técnica terão uma programação de comemorações ao longo de todo o dia na capital espanhola.",
+              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/espanha-chega-em-madri-com-taca-da-copa-e-tera-dia-de-festa-pelas-ruas-da-cidade.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Ponte Preta repete cenário do início do ano e abre janela com transfer ban",
-              "resumo": "Melhores momentos de Ponte Preta 1 x 2 Goiás, pela 18ª rodada da Série B A Ponte Preta iniciou nesta segunda-feira mais uma janela de transferências impedida de registrar jogadores. Assim como aconteceu no início da temporada, a Macaca convive com transfer bans ativos na Fifa e na Câmara Nacional de Resolução de Disputas (CNRD), da CBF, e depende da quitação de pendências financeiras para regularizar os reforços.",
-              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/07/20/ponte-preta-repete-cenario-do-inicio-do-ano-e-abre-janela-com-transfer-ban.ghtml",
+              "titulo": "Ceará acerta rescisão de contrato com atacante Matheusinho",
+              "resumo": "Chamada do Ceará com Giovanna Borges O Ceará anunciou a rescisão de contrato com o atacante Matheusinho, que pertence ao Santa Clara, de Portugal. O clube europeu foi quem fez o pedido após receber proposta de outro time interessado no jogador. O Alvinegro tinha prioridade na negociação, mas não igualou a oferta. 📲 Tudo sobre o Ceará direto no seu WhatsApp.",
+              "link": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2026/07/20/ceara-acerta-rescisao-de-contrato-com-atacante-matheusinho.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Cucurella atende pedido de campeão em 2010 e repete superstição antes da final; entenda",
-              "resumo": "Espanha 1 x 0 Argentina | Melhores momentos | Final | Copa do Mundo 2026 Cucurella carregou um amuleto especial na decisão da Copa do Mundo de 2026. Antes da vitória da Espanha sobre a Argentina, o lateral-esquerdo atendeu a um pedido de Joan Capdevila, titular da seleção campeã mundial em 2010, e repetiu um ritual que atravessou gerações: enterrou uma moeda no gramado antes do apito inicial. O gesto só veio a público após a conquista.",
-              "link": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/20/cucurella-atende-pedido-de-campeao-em-2010-e-repete-supersticao-antes-da-final-entenda.ghtml",
+              "titulo": "João Fonseca cai uma posição no ranking, mas se mantém no top-30 da ATP",
+              "resumo": "\"Eu amo representar meu país, amo representar essa nação maravilhosa\" declara João Fonseca João Fonseca caiu uma posição no ranking da ATP, mas se manteve no top-30. Na atualização desta segunda-feira, o número 1 do Brasil passou de 27º para 28º do mundo. O top-10 não teve alterações na semana posterior a Wimbledon: o italiano Jannik Sinner lidera, seguido do alemão Alexander Zverev e do espanhol Carlos Alcaraz.",
+              "link": "https://ge.globo.com/tenis/noticia/2026/07/20/joao-fonseca-cai-uma-posicao-no-ranking-mas-se-mantem-no-top-30-da-atp.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -267,13 +396,51 @@
       "nome": "Entretenimento",
       "fontes": [
         {
+          "nome": "Famosos e Celebridades",
+          "noticias": [
+            {
+              "titulo": "Famosos lamentam eliminação do Brasil na Copa após derrota para Noruega - UOL",
+              "resumo": "Famosos lamentam eliminação do Brasil na Copa após derrota para Noruega UOL",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmhvVzU1ODRTY1N4X0x0YjdBVVFHblE4M3Fjd1FuOE5yQTNZbkNVbnJfeGc2dWhFSmdvSW5aejdZY1o3UGxSWjkxSVljQlJsNlNqZ3JlSFlzclBSMDNCSkhzTFFYQU44ZkljSFpyRmdPUG44dTNvWDYwZ2Rfc1UyS3lER25Sd19BdGVCNnRnUlNVOWV1N0ZkS21zVTgycTcxVmFwNjU4WTlRNDdGV0FXYTNzdkxVR1QySnBwT3lnYlAyeTJK?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Veja os looks dos famosos para duelo entre Brasil e Noruega - Terra",
+              "resumo": "Veja os looks dos famosos para duelo entre Brasil e Noruega Terra",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQzlmVkFlVXBidnA5V3M5TnppR21KMlZwYk9lWGdmbjNOY1hkVVZxSG1YQjJGOHBPS0VEYzY3TlYxc3R6cGZIWmxYcVA4UlRRLTNPRGYyYkstTFlmSHh1cDRZYkRuM09pbW5xa0F1RkxJTGdPT0pHdlJFRXJOZFhKcGdyR29WT1FvT2JlZzZPQ0R5Z1VHdEV2YzV4SnFJTFZUbnVRMDBwbzJySmV2NTBvcDB1SjE3b1NJck15andiWTBKR2wtZ2lGa3J2UnFMaUlhc0RsRUxQS2ZhZjNiN0VjRllWODlvMmNSeG1IcEdB?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Preta Gil, Papa Francisco e mais: relembre famosos que morreram em 2025 - CARAS Brasil",
+              "resumo": "Preta Gil, Papa Francisco e mais: relembre famosos que morreram em 2025 CARAS Brasil",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3hRWDl0T2tUNEFNSy1ZaHJpM3gtTDZod0FaMVM0VmZZYVh6bE9CR0lkSHZGWnNqdlI0dkJ5a282NXRlSDY0YXdkSFhldHFuMnkyazlLbndIcmVfWnA0X19DT1VDaF9wZzBySjVqSkpOQmE3c2l6ZzgwWkpaM0NUTTNjOVVjSHVLWHNab0ZMSkJQOFoyTUdBSUdRaWVBUVRKRXJhRE9QckR2LUo0?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
           "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Conheça trama e elenco da nova novela das 19h da TV Globo, 'Por Você' - O Dia",
-              "resumo": "Conheça trama e elenco da nova novela das 19h da TV Globo, 'Por Você' O Dia",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGYwM29VNE1xSmdOMUlLRFlUbVgzaFUzRzlWWWU0VWcyNjVteW5VLV9PTGVOcmgyVkFBeXVOeE5jTmxkUGU3Rzd5b3FBN09Yd2tCVnlhR1B6b1JFQTRpRXVPNWlVUW0xZVhUT2czbGdzNjBWYWhnTGI2em56bWtjSTlOZUsxT3g3NEk2aWlpd2tUUHoxTUdqU0tXdFZMSHdZVHJjQjFaYXUxVEx4aF9ZcWZNMTBfRDRBdWNPVDZqM1dzbmdtZjdfa9IBzgFBVV95cUxOenhHUExDZnNSdl9BeVU0Wi1rSXVLck9ZLW91Z0hzZDNGTTNObmtRZk1kQnNEbE96bjlMVmdmek12bXBmbHlhMlpXMHhjOVJJUTlkc1JGdll6NUpiZ3haWnlHNy1iYnRmV2x5X1E0N0Joa0pzVE9wVmhZdE1nM2g1T1dsTjhTdmowLXhscVVkSWFIV0dtMG15dXFFQk1wQUpuX256SzJJY29veUpqeHcwM0sxdnpxUEVXVlRlT3JFNlRHaHl6cHRDNW9aVC1EUQ?oc=5",
+              "titulo": "Globo pode substituir Terra Nostra por novela turca - NaTelinha",
+              "resumo": "Globo pode substituir Terra Nostra por novela turca NaTelinha",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWgxd0JnOG1sQlA0V3BLejhSSlNaRGRfNHc5QWZ3OU42eklDZkdjUURGUTBrSkpMR3diVUhBYVphSS01b2c3bGVFU25BdkdhZ3VXaTlsR0F2dTluNVlHUUtOY2FYU1VMdWRuTUFEd3FIaU5pcHpsRFVYemJsNm5nX0FQaGV2TnljcElRcmRiNklQTXJXSDdUdWcwemJaZXNQQWstRElPS29OQms4RFlDVWJHcmdLMkY1TG0yVFlZZVl4NDQtbWfSAcsBQVVfeXFMTUZucV8tTWI4MV9oYy1NQ1RYeXN0LUNkT3gteHB3WlRQeDlSQzhNSXI5b2FSQ1JRaHp0MlM2cHg2QVFlYmJseFZ2R2tuTkhZNXBncFZSdWdYY0JQMnUyN0hkNG9FTUk3RE92d0lmVGFmZlBFbHRuN1lOa2E5UHNsc2hnM0JDbThPLUtRd0thb0doT0U2S3JRa2NQcUFrZ2ExMDZRVDFtQUtCZTJVNDI4LXVORTdSNl9rTHcteEFoWjVRQmZOS0FwN3pGUDQ?oc=5",
               "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Cinema e Filmes",
+          "noticias": [
+            {
+              "titulo": "‘Backrooms’, novo terror da A24, ganha teaser trailer, cartaz e data de estreia no Brasil - Ingresso.com",
+              "resumo": "‘Backrooms’, novo terror da A24, ganha teaser trailer, cartaz e data de estreia no Brasil Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGFMYnQwNy1FWXVuU0pwTDk4Skl3T3o1TmJjdmZ1ekZsNHZfR0ZaV1RmdWIxcFdmOF9GS3JDUVM5MkF2UlFKOTcyWmRJcTdFRnViZE02ZkFOTFNyRkVZZnJ2ZzRXZ0JmVFBnc3dGeDJoWFpIYTM3QmFnYkNtS0JERjZFOW1scW9QQVJZWFhvTnVlMW9BRUE?oc=5",
+              "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
             }
           ]
@@ -282,16 +449,9 @@
           "nome": "Música",
           "noticias": [
             {
-              "titulo": "Raidol estreia novo EP com show especial na Casa Apoena - DOL",
-              "resumo": "Raidol estreia novo EP com show especial na Casa Apoena DOL",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnZsUG43NDZDUkNGQnVBWUV3WGY2U29tNTVhbXdseTVZaVRHRWU1NWZoZDZCV0llbHUwZE9hSWFlVlBDa1A2TTJ3TGxtbXJOYy1fVjEwX2VXSE5OWFdqaC1ncUF0MjdiTWRmVmRBRTZQR0ExNGJYWTVtMnQyX1ZmYmMxUEQxX2F6TGFmZklDR212UDNvS1Y2NklWb09ZSHNJazladWhn0gGuAUFVX3lxTE9sQlNfMFJfT2R6cjk4VnZvNG9pbXNUVjNnNGxweVE2bGk2MW92OXdjS1Q0b2JSa2Q5cExxRjkzMGltcFhuUURSSmNReDlranhKVGxLa01zVHRzUEFlM1F5N09MdkF4bTFCQmpEalppYm51MmtVdEJ5VkFLWE4tMENPWGpnbnp2aExHSGprRDBrN1lXZ1BlbEFHLUNIVTN2Q3pmUHRDaUlsM0hxUkR1dw?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Taty Pink realiza o show de lançamento do DVD 'Minha Cara' | Música | O Liberal - O Liberal",
-              "resumo": "Taty Pink realiza o show de lançamento do DVD 'Minha Cara' | Música | O Liberal O Liberal",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkpLVXBKVG5DWXM4REpQZHhCbVJqUy1HSS1VQ2hHbGo4NUFpekVSdlRhekh6cGthNjA2X1ZJQkRmeThOVjhEYXB2bGN3N2tmenlNU1lwTjZnc0NVYS1ZQzlUTjkzMk0ydjk5ZDhjUWFnM1FEZlotMkdrNzlHdlV1YWlOSGYwMTlqUHpyYnBidGVxV2k4MGJReUxTWm9FUDMxbTRyOE1iNGnSAa4BQVVfeXFMUG50SnR2OXFqbmN5SHZDX0xiV2ZpdkJ3bGNYOUZsM3FyNGZCRWxXcFZFRmVoMW1yVW9GdER6ZWlidmNGSTlxX3VvcVM5aHh5UlVETDNrdmZQN2N0YTRlR3VvNjJFMmU5Z0ktXzdnck14a3pWR29jUkw4czlyY3hTcnl3OWVDbU5TekYtYWd6c2wyaWN2T0Z2TEo0SEQtVW05NUVjVHRKaVFhWnFHUUVn?oc=5",
+              "titulo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal - O Liberal",
+              "resumo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal O Liberal",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVW00TFhiWEhMYWFuc2lISW5ZRHlvRG5mWDhlS18zbk5NT25EaE1HdFNEdW9YRHd5b2ZoZVVwRE0tMVhXQXI1SGxzUFg2eDVXUDE5VE5YbmNXSkUzRUZXX2gzLW4wNDlzVVBkOHhKRk9ldlV1bDRVSnZIY2JsME4xT2lJOXVsSVJKZTVoT2wzajlTQWVvRVBRY0JGYno1T1d3MWNlRHJwRzViUkp3b3dsLUdGaEFqR1Z6TXNaQlhiTXdzcW15NGR3REZ30gHPAUFVX3lxTFBwRzJUdG1MbW1iTDNfc1pfb2xpa3N3MWlYa0tWU2ktRTJfU1h4OHF4b3pyWGt5UUw3VmluWUxkTkJOb2h0R2hIRWxWclJMVEg0R3VwY2VaQWlQcVRzYVhXOXd2ZGpHXzFWYTdhTFRzWm9NQzloRG42a0hnYUR0UzQtdUttSFZrVUx2elUyWlZkVXJjSllYSDBzeEpRS3hISTNYQnV3WDFIdDFJbWJjSldkeE1uX3hjdUVHaVNhVmE5RHYyOG5ZeDlESVdKSnpfcw?oc=5",
               "fonte": "Música",
               "editoria": "Entretenimento"
             }
@@ -303,24 +463,12 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Ciência e Tecnologia",
-          "noticias": [
-            {
-              "titulo": "Naufrágio de navio português do século XVI ajuda a descobrir mais sobre antigo comércio de marfim - Jornal do Brasil",
-              "resumo": "Naufrágio de navio português do século XVI ajuda a descobrir mais sobre antigo comércio de marfim Jornal do Brasil",
-              "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmxrWXhGVmxsckpzbFBOaldSdEw3MUE1OHIteHdWcW14MmZkMzBCTV92OUxjS192YVM5N1ptVFlfWXhXMU40dnd5eFhMSnZvLXdRWFplOXN0YXlqRnVCcDBoNU1xci13b0hxWFdybXNiSEk0N0Q5ek5PS0hrWVJROHVYRVJQbk9icHJkSDdvZzh6X2Z5TlAzYVM4bzBiM3hiSmRNQ2dhd29EYk9icUJoTEtpUlNpeVp6UDVBUktDdmdkRlhFUEtDOVluWFh1MFQxMGVua3JHaFdITzR3QnlTOTBOSm1udTN6WXQ5REtTQUN0Z28?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
           "nome": "Saúde e Bem-estar",
           "noticias": [
             {
-              "titulo": "Uso prolongado de remédios para dormir pode afetar bem-estar de idosos - Veja Saúde",
-              "resumo": "Uso prolongado de remédios para dormir pode afetar bem-estar de idosos Veja Saúde",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2tsaEloZ0Q5UlVWV29WVHdoZzA2ZGR3SzlSby1LMTduNlBIVm9CdFBZdkN6cFhHeXIzNWdtMm5jNU5CUEVEZkdwWFA2LUw5cE9nUlNsbWVHZ2tNYWJmekw4SUV5cTBfcEpnSXVVUzcyRWJ1VTNZdVJ6am1XY1d0Wkdyc2REdmwxSU9PWWhYMl80cjh5M0lXNkUyV3ZBR2VVdl9xZGNNMDlMYkU?oc=5",
+              "titulo": "IPT inaugura núcleo para impulsionar inovação em saúde e bem-estar - Medicina S/A",
+              "resumo": "IPT inaugura núcleo para impulsionar inovação em saúde e bem-estar Medicina S/A",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VY1pmZXRPWFdXSjN3R2d5ckhvY044YTM4bTN0Tnptbnk4QXQ5WFlGVk9fVnhZMUsxOVNDVTN5eDAyLVZ6YWVUYjZfd2NmVFE?oc=5",
               "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             }
