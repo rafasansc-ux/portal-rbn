@@ -1,9 +1,26 @@
 {
-  "gerado_em": "2026-08-09T05:40:21.234972",
+  "gerado_em": "2026-08-09T08:18:09.083203",
   "data": "09/08/2026",
-  "hora": "05h40",
-  "total": 35,
+  "hora": "08h18",
+  "total": 49,
   "editorias": [
+    {
+      "nome": "Local",
+      "fontes": [
+        {
+          "nome": "OCP News",
+          "noticias": [
+            {
+              "titulo": "TSE cria conselho para combater desinformação e uso indevido de IA nas eleições de 2026",
+              "resumo": "O Tribunal Superior Eleitoral (TSE) criou nesta sexta-feira (7) o Conselho Consultivo sobre Integridade Informacional, grupo que terá a função […] The post TSE cria conselho para combater desinformação e uso indevido de IA nas eleições de 2026 appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/tse-cria-conselho-para-combater-desinformacao-e-uso-indevido-de-ia-nas-eleicoes-de-2026",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        }
+      ]
+    },
     {
       "nome": "Estado",
       "fontes": [
@@ -11,37 +28,30 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "Pai abre mão de 75% do salário para estudar fonoaudiologia e ajudar filho autista a desenvolver a fala: 'Sou muito mais feliz'",
-              "resumo": "Pai abre mão de 75% do salário para estudar fonoaudiologia e ajudar filho autista O nascimento do Joaquim foi descrito pelo pai Anderson da Cruz como o momento mais lindo da vida dele. No entanto, não imaginava na época que a chegada do primeiro filho transformaria não apenas a rotina familiar, mas toda a trajetória profissional e seu senso de propósito.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/09/pai-abre-mao-de-75-por-cento-do-salario-para-estudar-fonoaudiologia-e-ajudar-filho-autista.ghtml",
+              "titulo": "VÍDEO: robô garçom 'contratado' por padaria de SC viraliza por falar com clientes e até cantar parabéns",
+              "resumo": "Robô garçom em SC? Padaria adota tecnologia no atendimento e atrai clientes O que parecia ser cena de ficção ou de um futuro não tão distante está mais perto da realidade em Santa Catarina: uma padaria de São José, na Grande Florianópolis, chamou a atenção nas redes por “contratar” um robô para atender os clientes e servir os pedidos.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/09/robo-garcom-padaria-fala-com-clientes-cantar-parabens.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "Juiz indígena é afastado de tribunal e diz ser vítima de perseguição; entidade pede apuração do CNJ",
-              "resumo": "Juiz indígena afastado de tribunal diz ser vítima de perseguição A Articulação dos Povos Indígenas do Brasil (Apib) pediu ao Conselho Nacional de Justiça (CNJ) que investigue o afastamento do juiz indígena Yves Luan Carvalho Guachala, de 37 anos, do Tribunal de Justiça de Santa Catarina.",
-              "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/09/juiz-indigena-e-afastado-de-tribunal-e-diz-ser-vitima-de-perseguicao-entidade-pede-apuracao-do-cnj.ghtml",
+              "titulo": "'Parecia urso de pelúcia': porquinha resgatada de chiqueiro 'adota' golden retriever e cena ganha as redes",
+              "resumo": "'Parecia urso de pelúcia': porquinha resgatada de chiqueiro em SC 'adota' Golden Um vídeo gravado em Jaguaruna, no Sul de Santa Catarina, viralizou nas redes sociais por mostrar uma cadela da raça Golder Retriever dormindo abraçada com uma porquinha. Até o sábado (1º), o registro acumulava mais de mais de 2,5 milhões de visualizações e quase 500 mil curtidas.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/02/urso-de-pelucia-porquinha-adota-golden-retriever.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "VÍDEOS: NSC Notícias de sábado, 8 de agosto de 2026",
-              "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-              "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/08/08/videos-nsc-noticias-de-sabado-8-de-agosto-de-2026.ghtml",
+              "titulo": "Discussão por causa de osso dado a cachorro termina com tutor do animal morto em Blumenau",
+              "resumo": "Homem, que ainda não foi identificado, não resistiu aos ferimentos e morreu em Blumenau PMSC/Divulgação Uma discussão provocada por um osso dado a um cachorro terminou com o tutor do cão esfaqueado e morto na noite de sexta-feira (31), em Blumenau, no Vale do Itajaí. O suspeito, de 62 anos, foi localizado pela Polícia Militar (PM) em cima de uma árvore e preso instantes após o crime.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/01/discussao-osso-dado-a-cachorro-tutor-morto-blumenau.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             },
             {
-              "titulo": "Convenção do PL em SC tem pedido de voto de Flávio Bolsonaro; lei eleitoral prevê propaganda somente a partir de 16 de agosto",
-              "resumo": "Convenção do PL em SC tem pedido de voto de Flávio Bolsonaro O senador e pré-candidato do PL à presidência da República, Flávio Bolsonaro, pediu votos para sua candidatura durante discurso na convenção do partido em Santa Catarina na tarde deste sábado (1º). A legislação eleitoral estabelece que a propaganda eleitoral somente é permitida após o início oficial da campanha, em 16 de agosto.",
-              "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/01/convencao-pl-sc-pedido-voto-flavio-bolsonaro-lei-eleitoral-preve-propaganda-somente-a-partir-de-16-de-agosto.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "Filho ouve gritos, luta com agressor e salva a mãe de tentativa de feminicídio em SC",
-              "resumo": "Tentativa de feminicídio em Guarujá do Sul, no Oeste Um jovem, de 18 anos, impediu o assassinato da mãe na manhã deste sábado (1º) em Guarujá do Sul, no extremo-oeste de Santa Catarina, após ouvi-la pedindo por socorro. O filho lutou contra o ex-companheiro da vítima que estava armado e fazia ameaças. O agressor, de 36 anos, tirou a própria vida após o caso.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/01/filho-luta-com-agressor-salva-mae-tentativa-feminicidio.ghtml",
+              "titulo": "Com Flávio Bolsonaro, PL lança Jorginho Mello ao governo em SC e exibe vídeo com voz semelhante à de Jair Bolsonaro",
+              "resumo": "Flávio Bolsonaro ao lado de Jorginho Mello (PL), candidato à reeleição por SC Ricardo Trida/Divulgação O Partido Liberal (PL) confirmou a candidatura de Jorginho Mello ao governo de Santa Catarina. A decisão foi tomada durante convenção realizada neste sábado (1°) em uma arena de shows na Grande Florianópolis. O evento contou com a presença de Flávio Bolsonaro, candidato do partido à presidência da República.",
+              "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/01/pl-lanca-jorginho-mello-como-candidato-ao-governo-de-santa-catarina.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -51,37 +61,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "‘Socorro, eles acabaram com tudo’: macacos invadem casa em cidade de SC e deixam rastro de destruição",
-              "resumo": "Moradora de São Francisco do Sul registrou em vídeo o interior da residência após a invasão; animais mexeram em alimentos, danificaram a geladeira, telhado, forro e até a instalação elétrica O post ‘Socorro, eles acabaram com tudo’: macacos invadem casa em cidade de SC e deixam rastro de destruição apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/animais/macacos-invadem-casa-sc-destruicao-sao-francisco-do-sul/",
+              "titulo": "Presidente do SBT fala sobre Ratinho após polêmica com cantor e revela decisão com apresentador",
+              "resumo": "Daniela Beyruti se manifestou após comentários do apresentador sobre o visual do cantor Tiago Piquilo gerarem repercussão; executiva reforçou acolhimento da emissora e anunciou conversa direta O post Presidente do SBT fala sobre Ratinho após polêmica com cantor e revela decisão com apresentador apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/famosos/presidente-do-sbt-fala-sobre-ratinho-apos-polemica-com-cantor-e-revela-decisao/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Gigante do requeijão, Catupiry compra operação brasileira da maior fabricante de muçarela do mundo e CADE aprova negócio",
-              "resumo": "Catupiry assina acordo para adquirir a Lactojara Laticínios, braço brasileiro da Leprino Foods, visando ampliar portfólio, fortalecer a produção e expandir sua distribuição no mercado nacional O post Gigante do requeijão, Catupiry compra operação brasileira da maior fabricante de muçarela do mundo e CADE aprova negócio apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/catupiry-compra-operacoes-leprino-foods-brasil/",
+              "titulo": "Cinco presidentes, cinco filhos: a curiosa coincidência que une Lula, Bolsonaro, Temer, Collor e Getúlio",
+              "resumo": "Getúlio, Collor, Temer. Bolsonaro e Lula: 5 presidentes que tiveram 5 filhos comemoram o dia dos pais com muitos fora da política O post Cinco presidentes, cinco filhos: a curiosa coincidência que une Lula, Bolsonaro, Temer, Collor e Getúlio apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/pais-cinco-presidentes-tiveram-cinco-filhos-no-brasil/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Defesa Civil atualiza balanço e contabiliza 2.362 desalojados no RS após ciclone bomba; 117 cidades registram danos",
-              "resumo": "O boletim também registra uma morte associada ao temporal. A vítima sofreu um acidente na rodovia RS-124, em Montenegro O post Defesa Civil atualiza balanço e contabiliza 2.362 desalojados no RS após ciclone bomba; 117 cidades registram danos apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/defesa-civil-2-362-desalojados-rs-ciclone-bomba/",
+              "titulo": "Dia dos Pais: os países onde o poder passou de pai para filho — e o que aconteceu depois",
+              "resumo": "Do filho de Khamenei ao Kim Jong Un, de Keiko Fujimori a Bashar al-Assad: quando o poder é herdado, os filhos raramente repetem os pais — e isso muda o mundo O post Dia dos Pais: os países onde o poder passou de pai para filho — e o que aconteceu depois apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/mundo/dia-dos-pais-os-paises-onde-o-poder-passou-de-pai-para-filho-e-o-que-aconteceu-depois/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Brasileiros podem passar a ser considerados idosos aos 50 anos com novo projeto de lei em análise no Senado",
-              "resumo": "O projeto estabelece que a classificação dependerá de uma avaliação individual, realizada com base em critérios médicos, psicológicos e sociais O post Brasileiros podem passar a ser considerados idosos aos 50 anos com novo projeto de lei em análise no Senado apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/idosos-50-anos-projeto-de-lei-senado/",
+              "titulo": "Empresa de referência nacional vence licitação de R$ 7,8 milhões e assume portal fiscal de Florianópolis",
+              "resumo": "A Betha Sistemas LTDA é a empresa que vai ficar à frente da plataforma de gestão tributária que engloba emissão de NFe, suporte técnico e pode ser mantida por até dez anos O post Empresa de referência nacional vence licitação de R$ 7,8 milhões e assume portal fiscal de Florianópolis apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tecnologia/florianopolis-troca-sistema-nota-fiscal-tributos-betha/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Figueirense arranca empate nos minutos finais diante da Ferroviária, mas segue fora do G-8",
-              "resumo": "Figueirense joga mal, mas consegue buscar o empate em 2 a 2 com a Ferroviária nos minutos finais O post Figueirense arranca empate nos minutos finais diante da Ferroviária, mas segue fora do G-8 apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/figueirense-arranca-empate-nos-minutos-finais-diante-da-ferroviaria-mas-segue-fora-do-g-8/",
+              "titulo": "No Dia dos Pais, professor supera 4 anos de espera, faz adoção solo de 3 irmãos, mas desabafa: ‘Chegaram sem saber ler’",
+              "resumo": "Professor supera 4 anos de preparação, adota três irmãos sozinho em SP e revela superação escolar da família O post No Dia dos Pais, professor supera 4 anos de espera, faz adoção solo de 3 irmãos, mas desabafa: ‘Chegaram sem saber ler’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/dia-dos-pais-professor-adocao-solo-tres-irmaos/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -96,37 +106,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Ataques russos deixam 2 mortos e dezenas de feridos na Ucrânia, diz Zelensky",
-              "resumo": "Equipes de resgate trabalham no local de prédios residenciais danificados durante um ataque russo com mísseis e drones, em meio à guerra na Ucrânia, em Odesa, Ucrânia, em 9 de agosto de 2026. REUTERS/Nina Liashonok Uma série de ataques russos atingiu diferentes regiões da Ucrânia e deixou ao menos duas pessoas mortas e dezenas de feridos, segundo o presidente ucraniano, Volodymyr Zelensky, em uma publicação no X neste domingo (9).",
-              "link": "https://g1.globo.com/mundo/noticia/2026/08/09/ataques-russos-deixam-mortos-e-feridos-na-ucrania-diz-zelensky.ghtml",
+              "titulo": "VÍDEOS: Jornal do Campo - TO de domingo, 9 de agosto de 2026",
+              "resumo": "Confira todos os vídeos do Jornal do Campo deste domingo.",
+              "link": "https://g1.globo.com/to/tocantins/edicao/2026/08/09/videos-jornal-do-campo-to-de-domingo-9-de-agosto-de-2026.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Viajar no meio da semana pode render até 20% de economia em Atibaia",
-              "resumo": "Quem costuma viajar apenas aos finais de semana pode estar deixando passar uma oportunidade de economizar e aproveitar uma experiência mais tranquila. Em Atibaia, no interior de São Paulo, um resort lançou uma campanha voltada às hospedagens de segunda a quinta-feira, oferecendo 20% de desconto em novas reservas realizadas durante os meses de agosto e setembro.",
-              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/atibaia-e-regiao-convention-e-visitors-bureau/turismo-atibaia-e-regiao/noticia/2026/08/09/viajar-no-meio-da-semana-pode-render-ate-20percent-de-economia-em-atibaia.ghtml",
+              "titulo": "Aprenda a preparar canja com legumes prática e nutritiva",
+              "resumo": "Aprenda a preparar canja prática e nutritiva com legumes Sabe aqueles ingredientes que ficam esquecidos na gaveta da geladeira? Em vez de irem para o lixo, eles podem se transformar em uma refeição quentinha e cheia de sabor. Foi assim que Vó Eloí, de Colombo, na Região Metropolitana de Curitiba (RMC), ensinou uma receita simples de canja com arroz e legumes, ideal para aproveitar o que já está em casa e aquecer os dias frios de inverno.",
+              "link": "https://g1.globo.com/pr/parana/noticia/2026/08/09/aprenda-a-preparar-canja-com-legumes.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "De pai para filha: cirurgião inspira a filha, e os dois passam a operar corações juntos em SP",
-              "resumo": "Enoch Brandão Meira, de 85 anos, acompanhou de perto a formação e a carreira de Daniela Barros de Souza Meira, de 51 anos Divulgação/Iamspe Cirurgião cardiovascular há 50 anos no Instituto de Assistência Médica ao Servidor Público Estadual (Iamspe) de São Paulo, Enoch Brandão Meira, de 85 anos, inspirou a filha Daniela Barros de Souza Meira, de 51, a seguir a mesma profissão.",
-              "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/09/de-pai-para-filha-cirurgiao-inspira-a-filha-e-os-dois-passam-a-operar-coracoes-juntos-em-sp.ghtml",
+              "titulo": "Filha do ator George Otto celebra carreira do pai e fala como o 'conheceu' por meio de suas obras: 'Continua presente'",
+              "resumo": "Filha de George Otto celebra pai e fala como o 'conheceu' por meio de suas obras O modo de falar, o sorriso, os trejeitos, o som da risada, até o caminhar e o olhar. Esses são alguns dos detalhes que podem ser esquecidos de entes queridos que se foram, mesmo que involuntariamente. Ainda mais quando há pouca ou nenhuma lembrança deles em vida.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/09/filha-do-ator-george-otto-celebra-carreira-do-pai-e-fala-como-o-conheceu-por-meio-de-suas-obras-continua-presente.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Câmeras com IA prometem prever crimes antes que aconteçam, mas acendem alerta sobre privacidade",
-              "resumo": "Sistemas de câmeras usam inteligência artificial e prometem se antecipar a crimes Câmeras de monitoramento estão entre as soluções mais comuns para tentar desencorajar a ação de criminosos. Agora, em vez de apenas gravar o que acontece no local, esses equipamentos também são usados para prever roubos e outras ocorrências. 🔎 O chamado policiamento preditivo tenta identificar situações fora do padrão antes que elas resultem em delitos.",
-              "link": "https://g1.globo.com/tecnologia/noticia/2026/08/09/cameras-com-ia-prometem-prever-crimes-antes-que-acontecam-mas-acendem-alerta-sobre-privacidade.ghtml",
+              "titulo": "Juntos há mais de 10 anos, pai relembra como foi criar sozinho o filho após adoção no interior de SP: ‘Amor é uma construção diária’",
+              "resumo": "Ruyter Luciano Silva ao lado do filho José Augusto; família é de Presidente Prudente (SP) José Augusto/Arquivo pessoal O significado de família vai muito além de ter o mesmo DNA, e a adoção responsável exemplifica bem isso. Juntos há mais de 10 anos, o servidor público Ruyter Luciano Silva, de 50 anos, relembra como foi criar sozinho o filho José Augusto após a adoção do jovem, em Presidente Prudente (SP).",
+              "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/09/juntos-ha-mais-de-10-anos-pai-relembra-como-foi-criar-sozinho-o-filho-apos-adocao-no-interior-de-sp-amor-e-uma-construcao-diaria.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mais lojas, mais problemas? Entenda por que supermercados já não apostam tanto em lojas físicas",
-              "resumo": "Loja do Pão De Açúcar (GPA) no Rio de Janeiro. MAURO PIMENTEL/AFP Quem vai às compras com frequência nos supermercados, talvez já tenha percebido algumas mudanças nos últimos anos. A principal é que aquela loja que fazia parte da rotina pode ter mudado de nome ou fechado as portas. Foi o que aconteceu com diversas unidades do Extra.",
-              "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/09/mais-lojas-mais-problemas-entenda-por-que-supermercados-ja-nao-apostam-tanto-em-lojas-fisicas.ghtml",
+              "titulo": "Após diagnóstico de câncer na boca, eletricista transforma sucata em esculturas de metal no interior de SP: 'Trabalhar a mente'",
+              "resumo": "Luiz Carlos Gonzaga, morador de Campos de Holambra, em Paranapanema (SP), tem usado a experiência com solda para fabricar esculturas em metal Arquivo Pessoal Sem poder trabalhar por causa do tratamento contra um câncer na boca, um morador de Paranapanema (SP) encontrou na criatividade uma forma de complementar a renda e ocupar a mente.",
+              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/09/apos-diagnostico-de-cancer-na-boca-eletricista-transforma-sucata-em-esculturas-de-metal-no-interior-de-sp-trabalhar-a-mente.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -136,30 +146,30 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
-              "resumo": "Nos últimos anos, país registrou um forte avanço da geração solar distribuída, gerando desequilíbrio entre oferta e demanda de energia, dizem especialistas Getty Images via BBC Quase 25 anos depois do apagão por excesso de demanda que em 2001 obrigou consumidores de 16 Estados e do Distrito Federal a desligar eletrodomésticos, e prefeituras a reduzirem a iluminação pública, o Brasil enfrenta um drama de sinal inverso.",
-              "link": "https://g1.globo.com/economia/noticia/2026/08/09/por-que-sistema-eletrico-brasileiro-enfrenta-risco-por-excesso-de-geracao-de-energia.ghtml",
+              "titulo": "Receita Nosso Campo: aprenda a fazer um bolo de milho",
+              "resumo": "Saiba como fazer um delicioso bolo de milho Reprodução / TV TEM O Nosso Campo deste domingo (9) ensina a preparar um delicioso bolo de milho.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/receita-nosso-campo-aprenda-a-fazer-um-bolo-de-milho.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Menos vacas, mais leite: como genética e bem-estar mais que dobraram a produção em 24 anos",
-              "resumo": "Número de vacas leiteiras cai em 13 anos, mas Brasil bate recorde na produção Durante a 21ª Megaleite, realizada em junho, em Belo Horizonte (MG), a vaca Jornada Montross FIV LPN bateu o recorde mundial de produção de leite em um único dia: foram 112,65 kg. Até então, o título pertencia a Fernanda Forbes IS Olhos D´Água, com 111,947 kg de leite em um dia. Ao longo dos três dias de competição, Jornada produziu 337,95 kg de leite.",
-              "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/09/menos-vacas-mais-leite-como-genetica-e-bem-estar-mais-que-dobraram-a-producao-em-24-anos.ghtml",
+              "titulo": "Parceria com escola italiana busca aprimorar produção de vinhos em Jundiaí",
+              "resumo": "Jundiaí tem produção anual de cerca de 40 mil toneladas de uva Reprodução / TV TEM Especialistas da tradicional Escola de Enologia de Conegliano, a mais antiga da Itália, estão em Jundiaí (SP) para ajudar produtores locais a aprimorar a qualidade do vinho durante a preparação para a safra de inverno.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/parceria-com-escola-italiana-busca-aprimorar-producao-de-vinhos-em-jundiai.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Por que a Alemanha quer mudar os 'minijobs', emprego parcial isento de imposto",
-              "resumo": "A iraniana Anahita Abdollahi concilia o mestrado na Universidade de Colônia com um minijob em uma biblioteca, experiência que, segundo ela, ajudou na adaptação ao mercado de trabalho alemão e na prática do idioma. Dasha Thyssen/DW Quando inicia seu turno na biblioteca de física da Universidade de Colônia, a iraniana Anahita Abdollahi, de 26 anos, começa conferindo os e-mails para se atualizar sobre os pedidos dos usuários.",
-              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/09/por-que-a-alemanha-quer-mudar-os-minijobs-emprego-parcial-isento-de-imposto.ghtml",
+              "titulo": "Família Roncoleta mantém tradição agrícola há cinco gerações em Getulina",
+              "resumo": "O jovem Lucas Roncoleta, de 15 anos, aprende com o pai, Sérgio, os valores e práticas da agricultura Reprodução / TV TEM Em Getulina, interior de São Paulo, a família Roncoleta soma cinco gerações dedicadas ao campo. Hoje, o jovem Lucas Roncoleta, de 15 anos, aprende com o pai, Sérgio, os valores e práticas da agricultura. A fazenda pertence à família desde o bisavô de Sérgio. O trabalho atravessou décadas e agora ganha continuidade com Lucas.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/familia-roncoleta-mantem-tradicao-agricola-ha-cinco-geracoes-em-getulina.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Taxa das blusinhas: se medida provisória não for aprovada, taxação volta em setembro",
-              "resumo": "Polêmica, a \"taxa das blusinhas\" era reprovada por grande parte dos consumidores brasileiros Nonato Sousa/ SupCom ALE-RR A chamada \"taxa das blusinhas\" – cobrança de imposto de importação, de 20%, sobre as compras com valor abaixo de US$ 50 – retornará em setembro se a medida provisória sobre o assunto não for votada.",
-              "link": "https://g1.globo.com/economia/noticia/2026/08/09/taxa-das-blusinhas-se-medida-provisoria-nao-for-aprovada-taxacao-volta-no-comeco-de-setembro.ghtml",
+              "titulo": "Expo Rio Preto atrai 50 mil visitantes na primeira semana",
+              "resumo": "Expo Rio Preto atrai 50 mil visitantes na primeira semana Reprodução / TV TEM A 63ª Expo Rio Preto, considerada a maior feira do agronegócio de São Paulo em número de animais, recebeu 50 mil visitantes na primeira semana. O evento acontece até 16 de agosto e reúne mais de mil bovinos e equinos. A programação inclui atividades voltadas à bacia leiteira e o tradicional Torneio Leiteiro, que segue até o fim da feira.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/expo-rio-preto-atrai-50-mil-visitantes-na-primeira-semana.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -169,38 +179,50 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Se vencer Ben Shelton, João Fonseca pode ter outras revanches em Montreal",
-              "resumo": "Tenista brasileiro deve esbarrar com carrascos se quiser alcançar a decisão do torneio canadense",
-              "link": "https://www.cnnbrasil.com.br/esportes/tenis/se-vencer-ben-shelton-joao-fonseca-pode-ter-outras-revanches-em-montreal/",
+              "titulo": "Corinthians visita RB Bragantino para voltar a vencer no Brasileiro",
+              "resumo": "Confronto pela 22ª rodada do Campeonato Brasileiro ocorre em Bragança Paulista, às 18h30",
+              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-visita-rb-bragantino-para-voltar-a-vencer-no-brasileiro/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "IA do Google prevê ciclones com um dia a mais de antecedência",
-              "resumo": "Cada hora de antecedência aumenta o tempo para preparar populações e infraestrutura",
-              "link": "https://www.cnnbrasil.com.br/tecnologia/ia-do-google-preve-ciclones-com-um-dia-a-mais-de-antecedencia/",
+              "titulo": "Deputadas se mobilizam contra férias escolares na Copa Feminina de 2027",
+              "resumo": "Legislação prevê que férias escolares coincidam com período da competição; período longo de interrupção de aulas é criticado por parlamentares",
+              "link": "https://www.cnnbrasil.com.br/politica/congresso-se-mobiliza-contra-ferias-escolares-durante-copa-feminina-no-pais/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Corrida no polo sul da Lua: entenda agora o plano chinês",
-              "resumo": "Ações chinesas no espaço aceleram planos americanos para um posto avançado lunar e reacendem a rivalidade pelo controle do cosmos",
-              "link": "https://www.cnnbrasil.com.br/ciencia/corrida-no-polo-sul-da-lua-entenda-agora-o-plano-chines/",
+              "titulo": "Veja as mudanças que Trump fez em Washington no segundo mandato",
+              "resumo": "Planos incluem novo salão de bailes na Casa Branca, um arco de 76 metros e reformas, gerando críticas sobre finanças e preservação.",
+              "link": "https://www.cnnbrasil.com.br/internacional/veja-as-mudancas-que-trump-fez-em-washington-no-segundo-mandato/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Investidores de 60 anos ou mais crescem 358% na B3 nos últimos dez anos",
-              "resumo": "Especialistas atribuem maior educação financeira e aumento no custo de vida para idosos como fatores relevantes de salto de 4,57 vezes desde 2016",
-              "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investidores-de-60-anos-ou-mais-crescem-358-na-b3-nos-ultimos-dez-anos/",
+              "titulo": "Igor Rickli conta como paternidade o transformou: “Filhos ampliam a escuta”",
+              "resumo": "À CNN Brasil, o ator abre o jogo sobre a nova configuração familiar o aprendizado diário de educar pelo exemplo",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/igor-rickli-conta-como-paternidade-o-transformou-filhos-ampliam-a-escuta/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Antimicrobianos viram desafio para pecuária brasileira",
-              "resumo": "Exigência da União Europeia coloca controle de medicamentos e novas tecnologias no centro da competitividade do setor",
-              "link": "https://www.cnnbrasil.com.br/agro/antimicrobianos-viram-desafio-para-pecuaria-brasileira/",
+              "titulo": "Após ciclone-bomba, frente fria baixa temperaturas e traz temporais ao país",
+              "resumo": "Domingo (9) pode registrar geada e marcas próximas a 0°C no Rio Grande do Sul, alerta de perigo para temporais no Paraná e declínio de temperatura em São Paulo",
+              "link": "https://www.cnnbrasil.com.br/nacional/brasil/apos-ciclone-bomba-frente-fria-baixa-temperaturas-e-traz-temporais-ao-pais/",
               "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "Agência Brasil",
+          "noticias": [
+            {
+              "titulo": "Rádio Nacional homenageia Dia Internacional dos Povos Indígenas",
+              "resumo": "Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa Natureza Viva, que a Rádio Nacional leva ao ar neste domingo (9), às 9h, presta uma homenagem às raízes e à espiritualidade dos povos originários da Amazônia.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas",
+              "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
           ]
@@ -214,23 +236,16 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Carlos Bolsonaro anuncia renúncia ao mandato de vereador no Rio para disputar vaga ao Senado por SC - Estadão",
-              "resumo": "Carlos Bolsonaro anuncia renúncia ao mandato de vereador no Rio para disputar vaga ao Senado por SC Estadão",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTZmVXRjOTBpbDdaWFV6aUwyaTU5SUJwN1Z2OV9zREw0WnlQMGIzbXNnZjloRG1PNkxKdDJtaVVDWG1rVE5JamJpVnRCMnJ3UmFfTVhlMlZzSHBEZzBmcmtWTlZtSlZSc3lVdUN5SEpTZkVCdEFRck4tWUVOMm1HRHN4WXBVZGFqcnJoNHNsVVI0TEhVS0NqTHQwUEVSQ1UzMkVMY3FnQkxGVlVERUhvLVplTnZ3QU1LYzNr0gHAAUFVX3lxTE0tZHhSQngzV1A3TWZ2UldOYkEydHE5TUpMYkYtWVo1UDY4RDZDQWdkTTFSUktvT1JpMEJmRU9Dc3QtZHlNRU9pN0ZxR25qRkhPR3ZxM3JvZXZXUHRlN2duUWY1dDlKdldfbFgtWXEyOWRPd082S2RMaGNseVRUTTQ4RVIzckZIVHJjaGU3NHlqS2NqU3F5QnBWek9hSkJ3c2Jyd1RzY3hyaDI3enEtQWRrSklYTTB1TE02a2wxaUM2dQ?oc=5",
+              "titulo": "Pais que abriram caminhos: os filhos que seguiram a ‘herança’ política há mais de 100 anos em SC - ND Mais",
+              "resumo": "Pais que abriram caminhos: os filhos que seguiram a ‘herança’ política há mais de 100 anos em SC ND Mais",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG9lSmo1MUtfbnVrWndGU1ZxTmlhWk9yWUhBcGFwNVpMVnVxWk4zd2Z3eGdoOWlUS2FHajJ5TDlYaGI4YVo0ZVZnZmZZdndHdkVKc05Ha2dWZXRid291T1p0Vnh5Smt4ckJldEVKUW5EdFJLdzdHUWJocUR1WXRlU2tid2Fqc1JyUnpVelB4UDFxeld2M3RodnFqRHkwdzB0?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             },
             {
-              "titulo": "Quem são os pré-candidatos ao Senado por SC nas Eleições 2026 - NSC Total",
-              "resumo": "Quem são os pré-candidatos ao Senado por SC nas Eleições 2026 NSC Total",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVZTU9lUHBaQmZFYTRpa29jUmNZenhPdEZSTEY1MzFIeXJBNDkxTHVpS1hDUWdJN3lHRWxSc0VuZ2hpY0w2R1NrR1otWi1JUUpKOFV2a1BveFdQRlBwVElNTlpxQ3ZicDlzc0VHT0dtcDBqS0QwSjRDZE5FY0liZw?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Morre o senador catarinense Luiz Henrique da Silveira - O GLOBO",
-              "resumo": "Morre o senador catarinense Luiz Henrique da Silveira O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUZTWWlCRGtkTXN6WGxaeU5STlkwTVhBdG5rZXFjQ3d5S1FMR21yQlZuV1cxYXdUMkx4Y2tmWDUtSmhHa3U1SmRQQXZOS0VIRFdSeEJrcVBfcjhVVTdsVXZkNEhnc0ZxdG5fcHl5bzY4MXBLX0ZoOEF2RFhsMDRxV0J5RjlTVlpOSWZWRWtFZ0hnOTlic2NINTRB0gGoAUFVX3lxTE94Z21NTnM2OVgyNExSZEJ0dWJIN2EzVUhOTURscjg4T05QWjJVbE5GZEtncmc3V0hKTHRySmdVV1RqTjBmN1RXSjl0YS1vWGRWMm9SdnNoWlYwRjFDN0FvY3JNeXZUZ0pZS1pHT0J0d0Rpc3RiVTkxcnFoZ0MtZmVnVk96ODhoTXh3QUhTbUNITTRPTjdfd09XY0RQQUlNcE4xaV8xY3hXeQ?oc=5",
+              "titulo": "Michelle e Carlos Bolsonaro divergem sobre vaga ao Senado de Santa Catarina em 2026 - O GLOBO",
+              "resumo": "Michelle e Carlos Bolsonaro divergem sobre vaga ao Senado de Santa Catarina em 2026 O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeldDTk43Q1F2eFlCeThNUU9zSHFieWprVWtrVVVuQWRmZlh0cEMtU2N4T2ZKakl3Ukl1ZTVTZ0VaVFZXb1JyVnlJOUpnN20wSUhOTXZoOVpDT0dteTlRc3RfUmo1cnJmTTNlTHJTMmw2Qmkybm0yMTU4YlZWVVpRYU5pdVdZTVo2c1hTWjBrLXVGM2N1Y0N2OGU2SUlIQTFtbmtXSmhtNUtCejJnSzNwdUVwVVB0dnpJNGY3UlpsLUF6M2dYMnFIX1J1ODNFN1lUSjNDcW9nMnVqd9IB6AFBVV95cUxNbkJYTWtnUjZfVEFhZkhjVEFuUEo2REtzbEVET2ZsT3RMWlBnSWpwek5CRVR3NlhDdlgyZHhWdUFwNm9LNjBNNzRYbXdXSTlCYWxYVGMtNkVSLUJPcnJaS2FIa2hEYXNHNmdaaHFFdWZwekIwODZpbGpld2xlRU9zYkxIUHRMWFpMV0JfTl9kcVEzT3dOQWZ1Z3NPanR5bUVBZ1VMRHBrZUIwVVk4TmQ1NzAwS0gxaWVvSzR6cXhxNkdYRWQ3czV2dFZzTWxGcmtmLVVFRWprZzhZSVQ0Njl2aDA2Y3daQUZ2?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -240,9 +255,9 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos - Valor Econômico",
-              "resumo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos Valor Econômico",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ3BMYUh5Y2t6VS1Hd3cwSUtBeXFWOFdzck5CWG54M2JnbldCSjFfYXBUeXotdDh1d0FqYUd3TXBvOFlfY2p5eV9BZEg5eTBzQm84VWt0ZkFiT0I4cnlqLUhXUzRWV0FUUjd5Qko0VUZQLVM0S1hRSTkwYjdvUXVldlh3bUU2TktSaVBILTVwRlFvYXc3QWw3THRqSjlJUzFUQ2ZPdkNMX1FudVNkclAzWFZZVEFRbnhDclgyQVpwTUEtQWZBcFpTbzhmNEE1cXFSblB5LWdzQjBVY3ItcGNYZXQyMV9CeF9IcDByZFJOZ2tqc0FPc1lsNW0wQVJBYzNn0gGPAkFVX3lxTFBTTklES0VjcGRYRWo4Z1JUT0w4V0ZnOWoybVNmOVQyRmNSZjBGSFlhanZtZElkVmktbVcwYm5xa3NGanNJOXJkdVZ1WG9rdWtGYWVtUFVtaDM3TjA4MmtWWHNHLUs0elVfdl9rQmVvNTdiYUprUFRmQkxybzZERUNNQThSVjBRMU5QNnVGUnEzc3g2MXNQQ3VibVI1MWk4UUlMUkpyZm5Fb3lYeUJidzlqY2lkMk5kZzhnOGpQbXFRZ3hkR0J1TVJ0QTI5ZnBjZDBqNl81R2xoLXNDSE1MT3pMeHhCLTIyZDdhMzZSQXZOcl9jektfYTlYVXVWenlUZENfTHlwZ3JJU0kzRzBtZGs?oc=5",
+              "titulo": "Veja passo a passo da aprovação dos supersalários a servidores no Congresso - CNN Brasil",
+              "resumo": "Veja passo a passo da aprovação dos supersalários a servidores no Congresso CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUG5lZWZQSVV1V3IzSW9nYXFUMDJSOEIxOWQyYVlqcTZjckVsRy1oczVuT1ZjeU9kTk5OenZzbkhPNG9TM3M5ZVVMbmYxTWphMUoxZEhBVXJvZFdON0JLQkI1VUpPbFlfamEySm1UbkwzYkxMai1jOUptMFBFVEx0Q2dBbjVFUzJacHhGUmFzS0JhVjVibC1CMkZ6cmZkSE9Lc21HWTBnT09naEg0YmV0bWNVVXI?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -257,37 +272,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Análise: vitória do Grêmio sobre o São Paulo tem roteiro de cinema para Pavon",
-              "resumo": "Grêmio 2 x 1 São Paulo | Melhores momentos | 22ª rodada | Brasileirão 2026 O Herói Improvável - Parte 2. O roteiro está pronto, ao menos para um curta-metragem. Nem o mais eufórico gremista acreditaria em duas vitórias na mesma semana graças a dois gols de falta do outrora criticado Pavon.",
-              "link": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/08/09/analise-vitoria-do-gremio-sobre-o-sao-paulo-tem-roteiro-de-cinema-para-pavon.ghtml",
+              "titulo": "Pai herói: Hamilton, Verstappen e Bortoleto lembram sacrifícios da família para chegar à F1",
+              "resumo": "Rodrigo França revela lembranças de Hamilton e Verstappen sobre apoio dos pais rumo à F1 Como um esporte amplamente globalizado, o Dia dos Pais na F1 é celebrado em datas diferentes dependendo da nacionalidade dos pilotos. Enquanto o brasileiro Gabriel Bortoleto comemora a data no segundo domingo de agosto, a maioria do grid celebra no terceiro domingo de junho, caso de países como Inglaterra, França e Países Baixos.",
+              "link": "https://ge.globo.com/motor/formula-1/noticia/2026/08/09/pai-heroi-hamilton-verstappen-e-bortoleto-lembram-sacrificios-da-familia-para-chegar-a-f1.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "River Plate chega a cinco derrotas seguidas, e Coudet admite risco: \"Se os resultados não vierem...\"",
-              "resumo": "Três dos cinco gols de Thiago Almada pela seleção argentina foram no Monumental! 🔙 A vitória sobre o Flamengo na disputa pela contratação do meia Thiago Almada elevou a autoestima do torcedor do River Plate. Mas a alegria, por enquanto, é apenas fora de campo. Com a bola rolando, o gigante de Buenos Aires voltou a decepcionar neste sábado.",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-argentino/noticia/2026/08/09/river-plate-chega-a-cinco-derrotas-seguidas-e-coudet-admite-risco-se-os-resultados-nao-vierem.ghtml",
+              "titulo": "De pai para filho: paixão pelo gol aproxima torcedores de goleiro do Botafogo-PB",
+              "resumo": "Pai e filho goleiros dividem a paixão pelo Botafogo-PB A paixão pelo futebol pode atravessar gerações e, em alguns casos, até aproximar pais e filhos dentro de campo. Para Matheus Montenegro, de nove anos, o sonho de ser jogador começou a ganhar forma justamente na posição que também marcou a trajetória do pai, Gustavo Souza.",
+              "link": "https://ge.globo.com/pb/futebol/times/botafogo-pb/noticia/2026/08/09/de-pai-para-filho-paixao-pelo-gol-aproxima-torcedores-de-goleiro-do-botafogo-pb.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Dia dos Pais: veja as maiores \"paternidades\" em vigor entre rivais do futebol brasileiro",
-              "resumo": "Dia dos Pais: veja as maiores \"paternidades\" em vigor entre rivais do futebol brasileiro No futebol brasileiro, a expressão \"paternidade\" costuma ser usada de forma bem-humorada para definir uma ampla vantagem de um clube sobre um rival. Neste Dia dos Pais, um levantamento do Gato Mestre, do ge, mostra quem mais faz jus ao apelido de \"pai\" do oponente atualmente.",
-              "link": "https://ge.globo.com/pe/futebol/noticia/2026/08/09/dia-dos-pais-veja-as-maiores-paternidades-em-vigor-entre-rivais-do-futebol-brasileiro.ghtml",
+              "titulo": "Pista de atletismo do CT Paralímpico inicia reforma para se tornar a mais moderna do país",
+              "resumo": "O Comitê Paralímpico Brasileiro (CPB) começa nesta segunda-feira (10) a reforma completa da pista de atletismo do Centro de Treinamento Paralímpico Brasileiro, em São Paulo. A obra faz parte do processo contínuo de modernização do complexo esportivo e tem como objetivo renovar o revestimento da pista, cuja validade atual se encerra no final do ano que vem.",
+              "link": "https://ge.globo.com/atletismo/noticia/2026/08/09/pista-de-atletismo-do-ct-paralimpico-inicia-reforma-para-se-tornar-a-mais-moderna-do-pais.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Franca x Osasco no Paulista de basquete: veja horário e onde assistir",
-              "resumo": "“Novo” Franca vence Bauru na estreia do Campeonato Paulista O Sesi Franca Basquete enfrenta o Osasco neste domingo, dia dos pais, às 18h, pela segunda rodada da primeira fase do Campeonato Paulista de Basquete. O palco do duelo será o ginásio Pedrocão, em Franca (SP), A equipe comandada por Helinho Garcia venceu o Bauru na estreia da temporada jogando no Pedrocão, por 61 a 51.",
-              "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/basquete/noticia/2026/08/09/franca-x-osasco-no-paulista-de-basquete-veja-horario-e-onde-assistir.ghtml",
+              "titulo": "Zagueiro sai do banco, faz gol 30 segundos depois e dedica ao pai na Série B; veja o vídeo",
+              "resumo": "Badaró sai do banco e marca pelo Botafogo-SP em 30 segundos na Série B O zagueiro Badaró, de 21 anos, viveu um momento mágico na noite de sábado na vitória do Botafogo-SP por 2 a 1 contra o América-MG, em casa, pela Série B. Ele saiu do banco para abrir o caminho da virada do time em Ribeirão Preto (SP) no segundo tempo.",
+              "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/noticia/2026/08/09/zagueiro-sai-do-banco-faz-gol-30-segundos-depois-e-dedica-ao-pai-na-serie-b-veja-o-video.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "De pai para filho: veja os personagens da Série A que fazem do futebol um assunto de família",
-              "resumo": "Jairzinho e Jair Ventura falam da diferença entre o sinal analógico e digital na TV A paixão pelo futebol não é um gene transmitido no sangue, mas muitas vezes é, sim, hereditário. No Dia dos Pais, o ge lista treinadores e jogadores da Série A que passaram o amor pelo esporte a seus filhos ou tiveram inspiração nos seus pais para construir carreiras dentro e no entorno das quatro linhas.",
-              "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/08/09/de-pai-para-filho-veja-os-personagens-da-serie-a-que-fazem-do-futebol-um-assunto-de-familia.ghtml",
+              "titulo": "Vivaz chega ao Mato Grosso do Sul para disputar Taça Brasil de Futsal Sub-20",
+              "resumo": "Representante de Roraima na Taça Brasil de Futsal Sub-20, o Vivaz desembarcou em Mato Grosso do Sul para disputar a Elite desta competição nacional. A estreia da equipe será na terça-feira (11), em Campo Grande (MS). Comandada pelo técnico Osmar Junior, delegação do Vivaz durante viagem para Mato Grosso do Sul Divulgação/Vivaz EC Além do Vivaz, outros nove clubes participam da Taça Brasil de Futsal Sub-20.",
+              "link": "https://ge.globo.com/rr/futsal/noticia/2026/08/09/vivaz-chega-ao-mato-grosso-do-sul-para-disputar-taca-brasil-de-futsal-sub-20.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -302,9 +317,23 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Dwayne Johnson, Shawn Mendes, Shakira... Confira os artistas gringos que amam o Brasil e merecem um CPF - Estrelando",
-              "resumo": "Dwayne Johnson, Shawn Mendes, Shakira... Confira os artistas gringos que amam o Brasil e merecem um CPF Estrelando",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDljcGNmMDNkR1ZkMjVGSHlqY1BpS1d0RkU4SGdUaEhDaGVaakFrd01OU2JlVi1SWHl6WU5rczZCcFdmNThZa3MyZEZPNmlYMUJIWHBNcTdKYzlKWDM3NnhmV1dsSUZ5cThvZXZ5ajA0SnlhVzJYVlFlWXdHVFFlS2lsc2FoNTdrLXVENlNKajBRM21LZkstZG55SnpoNTZfZ2xjN3VDMjc2U1JsQ2VzVnNRdEg2cTA2eHc?oc=5",
+              "titulo": "Famosos chegam para show de Shakira em Copacabana; veja fotos - CNN Brasil",
+              "resumo": "Famosos chegam para show de Shakira em Copacabana; veja fotos CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFpnMlhkcGZmUktCM0VweTAtOFlEMlN6cGl5cEw5NFNETW1YOG5ud3dlNm40S0I3cHZkQmhkR2d5Rm4zbXZhdmQwWjZjQVJGMGJFNXpwWVNING92T1BlNENGeTZZSzZfSE8zbE5HTTY4bDdGMGF5cXFGeDRLSGlPV1h1ZE4tY3lDZER4Z3JJRlBHVGRGYVVBNnlR?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Famosos nas urnas: o balanço de 2024 e as apostas das celebridades para 2026 - O Imparcial",
+              "resumo": "Famosos nas urnas: o balanço de 2024 e as apostas das celebridades para 2026 O Imparcial",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEFrRER0dDB4YUJzcl9HeTdsZEptNFBsUTF3anNCaTlnbWR5VEFvanlCQnJ0dW42ejA5VmNUeUU4R2xxUlZaY0xhSnhzeDFZeTlmVGRCYnVSdmJHd2dzZHllTGxKWDdJLVBGZHA4OVIySTBEVmU3LXBOelAwVExCdDF0WExMdUsyTXpTc3BVVnpxbjdLem9RZktIZzVQSE9EN0JTQ25ieUhpVk9TMjNJQ2ZGS3pWUS03WVR3?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Famosos na virada: veja os destinos de Réveillon de Virginia, Thaila Ayala, Maisa e outras celebridades - francesnews.com.br",
+              "resumo": "Famosos na virada: veja os destinos de Réveillon de Virginia, Thaila Ayala, Maisa e outras celebridades francesnews.com.br",
+              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT0gzRFRGcDk3cWdFT2N0RC1EQXFLQUdTRy16LUFDX083OGpuWk1LQ2NwRXBYOE95SXZONXZudDZyaVl5NGV4Qk0xeDVCQ0xkOTVybW9SZl9YRDV5dFVpRWlQak5vdnd1V0s5VUhQblJTN2lRZURNVXltVkptVlJnR09DeUxQdklITVlCbk44Z3ZwWGZVM1I0T1J3OF9KVVBGbEdQWUgxNXZTZjNiSnl2RFVockJpS2dZMVVRTjFucHJOT25fZldoY2ppanUwN1dOa2RLTmVKWHhyQ05WUW5BM01B?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
@@ -314,11 +343,120 @@
           "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Renata Sorrah assina contrato para próxima novela das sete e volta à Globo após três anos - UOL",
-              "resumo": "Renata Sorrah assina contrato para próxima novela das sete e volta à Globo após três anos UOL",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcEp5ZzlCYUFFUmFXcGx2UHNoWnc3YmpUVHVVZjJnYjNZV0hIQzJyWHpsZXNCMm1fRlpQdmhhc0U2XzBhdGRLMWMtcExsUU1NUzBHaEZNUFNiSXhOQTR6X28zMmtnU1E1d3dJSnRxeVJTWXp0UkFmeVRFWGxpMUtlM25Nb3NDZm1CcFlHTEdzUU9FVVExSXE2MERKY3h3cFlXbkNvb01hRXZfbU0wa21sNUsyR1Z0dUV2YUROaVZOcXFNRUlLTF9lN2lNR0Ixb3paS2k3d0RvTGpvTnhXWUZ4NXRfNVdOOHlmeXfSAe8BQVVfeXFMTVFnTTdLOGxoTjVHUTR0ODBIbzJMdG1Xdmw5ckM4dHpGYmVKUW9LWFVlcE5PTjBIYzRDMFRvOUFlQ0htVVExcXFob2lRNS1nNlVYUnJRRnY3M0ZLekJJNDB6c0hfdDZjSlhDaWlocU5WeEtNNDY0OFJWUU9iemJSMjBRMlVJUGFpM0I2d1l2WGlJbEtwT0hjTzRaLXh6WFhjLUo0U2wycWY4dndTM25ydUI5cTJTWF9mdkw0SXhLY0k0VW9EcFpNMkIwZ29JUlhhc3Y4QmlxNUNBc2pOOGRjdmR0MlllbWs3TEQ5RUhER0U?oc=5",
+              "titulo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho - AdoroCinema",
+              "resumo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho AdoroCinema",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUDczUXdwWEtaNDBYalg4YlFnaWZpMXNHOXFtSW9EYVpWN1Bad052YXdPX1BZRXFSc0MyTldZdWVURmVLQVhtR2NrWm85TTdvOWRhR3JpV2ZkR0d0WG1seUN2b1JYbTB0cDdfY1hXd3diQlJyLWJERmV3?oc=5",
               "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Globo vai reprisar 'Além do Tempo' pela primeira vez na TV aberta - UOL",
+              "resumo": "Globo vai reprisar 'Além do Tempo' pela primeira vez na TV aberta UOL",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnpmenVVeTZvNFhjQk9BRDBfd3lQWmFBRU45UWFmYmdDUnpJS1pnY1lVekVUZnJRNEdRVnpiaUdmN1pyTEpiYzBfVzdRZjlCLU02d0I5WTF6Z0cycG5QOHJHS0w4UGhXWG5HRnVCVF9uM1JLaXJ1dUUtT0hSUE5WcTJnQWN5VGFDWXl0MEk1V051LTJRZlNSSzZtSy1RckVVdF9IaEpQVzQ5WVI2TVZuaGRLNm9ST2wtZHBEcVRHd1BrYk92c1J30gHMAUFVX3lxTE5CczRneC0tQ3Zod1pDX3BrYmMwZ2x5TlBLUENib0tnS1hEb3hjV2VBWWthdDZLU292S1Bwc193QXJEVGpEdzVMRWhZSTFkUmM3NUJRYV90RnN3WF9YLXRiRVZyd3FuTF9nVU5hWnpXTmRaY05UTXJhU2x2SnBmNnVKRmIwcmsyYXIxWkpmeWIxRlZHZGVWWFJvLUZLQ2Jlb28yT3pfN3FLSU9ZZklYajJuWUJGaU9OZEJmSnMxdHVNR0Z3allUSnprODNMbg?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Globo muda horários e faz dobradinha de \"Terra Nostra\" e \"Rainha da Sucata\" - CNN Brasil",
+              "resumo": "Globo muda horários e faz dobradinha de \"Terra Nostra\" e \"Rainha da Sucata\" CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXVDYW5xdmFrUFJhWHVGS2tXQWxrcWZNTnZENVE0VUV5cnlzbVZqV1RZZUhwdEdDbjhTUVF3SzdJNVhnQmFTSnZrMURTOW1iY2J5ZzI2cnU3ZTdWSk5fWlhHLWtwak9mVWl5XzJoVVNsS190SzNYMXZJWThPSzdWQWlobzJoWVVLOTVDdU9OcHQxdVVNQzB0eUZQbFZLMFVpZVhkN19xQWJEX2RX?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Cinema e Filmes",
+          "noticias": [
+            {
+              "titulo": "Sobrinho de Michael Jackson envia recado especial ao Brasil antes de estreia de cinebiografia - Estadão",
+              "resumo": "Sobrinho de Michael Jackson envia recado especial ao Brasil antes de estreia de cinebiografia Estadão",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeDlzZWJuNk9XU1J6ZlQzdmV3STZXNklhRU1qdF9pZ1lhXzVKeTlOTm54SkZZZmlkaEVTN09FMWNQUVE0UXlhWmhhN3p1NnRJYzFVR2ZuNldsRDZfdW0tcTZxcVpQTnVvci11NkEwQzV3ZmhUY3M2dV84dUlNMjlSekQ0eTZ1RkJybWh1Z0ExaHFHeUFCMzNXOXJJS3ZEODh0ZzRWc255QjBac3RlQm9uYjVoRkFBeXMwQXpTaFAtU3dsNUFqd20wSlpfaWxxc3BGeTRvem5iUmtVZ9IB3wFBVV95cUxOTldfMV83QXRaTFBtQ0xVNTBqVWxQVE53ZWNudldkT0djZUl4Nk9KdlZCRmF5NkhMWmM5c2tkVnNjM2gtTmlHNjdraXl1OVBTSTBhZ0swYl9qTXJXa0ZxaVQ1RzdSZTg1TmtTbWgwQm02X3B3SDlJR1p0VG5oSTlFb2pXa2RTR2IzRkZiUVZxeUtOVDN6Z2YyT0RWdmZ1ZzZkbXZQMHhNQUdNRmpfS0s3NGFZZ1BDR0hCZzNDSjRRanBvdEFvc0FFNGhFZmpjTnJmTWJXWDBrX0V0cnpTUS1j?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Música",
+          "noticias": [
+            {
+              "titulo": "Tyler, The Creator disponibiliza show de lançamento do álbum “Call Me If You Get Lost” - virgula.me",
+              "resumo": "Tyler, The Creator disponibiliza show de lançamento do álbum “Call Me If You Get Lost” virgula.me",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnJ0OTY3OWVkZm5XUGoxak1jTHRWVWx4V0UwY3dBWEpvZ3AwTm5vRGpRalJkQUpzblBQdURLQ0ZhNlZiWmpMMzdvZXN2UEl0VG1hYzNWdkZwb1JveXhHWng3cUpLWjNFcFdsa2Q0YVZBOWs4Tk40aEZPOEZIcG14dnhKNjZacWE2ZjVraXVpM0ZPVlVIa0ZZWTVTZFR0Q2FLUjZ3RWF0ZWQ1NHRnQlBR?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música - Gazeta Brazilian News",
+              "resumo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música Gazeta Brazilian News",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEE2SHBSRzRNTHJGem02ekhDVlo0RTFJdDFFZ05PcHVvTl94WTFxSXhlQnhKaGVzZUtsdXRrRS1mellpMktwZjZ4NWt5bmh2YTdSRHdEZk55Vl92bnRwTWJ3UGIxMUNwdjNGYUw4OWx2dGNvSExMN2tBWVp5d2labHE2Q0hxanpMUFlBa0hsN2VqOUU?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Curiosidades",
+      "fontes": [
+        {
+          "nome": "Ciência e Tecnologia",
+          "noticias": [
+            {
+              "titulo": "IA da OpenAI resolve problema matemático que atravessou décadas, surpreende especialistas e levanta uma pergunta assustadora: as máquinas já começaram a fazer descobertas científicas sozinhas? - CPG Click Petróleo e Gás",
+              "resumo": "IA da OpenAI resolve problema matemático que atravessou décadas, surpreende especialistas e levanta uma pergunta assustadora: as máquinas já começaram a fazer descobertas científicas sozinhas? CPG Click Petróleo e Gás",
+              "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUENVQUl1UkFxOGRhMjlqLVR2SE00MzI2enR3THRvTl9NX1Rrak93RmVVamJwQURLemZQZ2d3MW96eDM3R0FaZ1hEckZfRmw3cVkwTE1iZFZUYXpnMG16MzdoVzVPZFpaZWpMMVowaHh5eHhRbmI2TzZLR2NqMHl2dW9BbzQtdFdTMGpDM0lMd2xPOHY2YkQ1V29TbGtTZUNGRjhpdkpUSHhjc05yc3JjUGxJQzFKTjItZkJZT1FPRkszTDItUEd5ZVdvTkdzLUNjU2ZHdTBSVTdtbktodTFKUUMyTk11NVZ1cXdiWEt2aGJLcVpVdFVVd0tkSUZqVUlhNHlHck14SzRtc25odDVoSTduRUM3cmh2cVRzSWtjb2s4bE11SkV3eWtlc20wM1QtYkx6bEM4dkhfWms0X0d0LVRYQTRhdjg?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Descoberta leva cientistas a entender se houve vida em Vênus - CNN Brasil",
+              "resumo": "Descoberta leva cientistas a entender se houve vida em Vênus CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtIa2d5SWMzTWRGbnhQdmNJTm1zR2NCSENMRjdxWkRtcXlNTzRuR3B0czhzZkNxQUh6cXJpMEM3OGFpcDNoRUNlVTNFV3BQSTdVY2hncjl4NHVvRkF1X0lCWlpRLTBvV2l6VTNRdlgyc29LNGlkd0FXSTFMb2ltVWw5U05IVVNocjM1d1ZmQWxfb1BiMmpzX0VHdnQ3UDhmYlNR?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Curiosidades Gerais",
+          "noticias": [
+            {
+              "titulo": "Musa do OnlyFans diz que ama tomar leite quentinho - Observatório dos Famosos",
+              "resumo": "Musa do OnlyFans diz que ama tomar leite quentinho Observatório dos Famosos",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnM3WVU1WVdUaVY3aDd3LUNWUllwSGdjTW1UbllOa3Y4VmowUUZackVJeXgzcnVsTm5KclhpODl3eXRrNEJBZ2JHbUgyb1ptaEtON0VaaGxXZEFKRlpwWG81aks1S3pmVGVuTk02RTRsQjY1Y2gyTWdSTHJpbEpSODdEVlpKbU4tQmYycXM0S0RmUGpiRVJKT0VKTE5neDBqcjJOM2ZYcVFEdmxGbEtsNFpxS3hkcGhW?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Este inseto surpreende cientistas ao usar um sentido inusitado para sobreviver - olhardigital.com.br",
+              "resumo": "Este inseto surpreende cientistas ao usar um sentido inusitado para sobreviver olhardigital.com.br",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHpRejU0WFVpdWlNLXVPODRuWjJEV1FTZnNQODJQNGwyQTd2R293SlkyWGo0c2Z3U1k5TldLTzhsbTUzNEl6RlVRU0I2WlJfTHQ5dEg0NXZVR2ZYZ2FjU1NWd1hSamdhdElRMXkxTGE0ZWl1TkVpc0ZNQXQ2ZEFHbmlJRzZrd01GQl9rZVZpcFgzWGVtLXhsUzNBLTAyQkV4SzQzZzlFc3hrbmNkQkN5eHpDajVHX0tWVTcyTnJGVWlVOEVJZTJmaXBKZzAyMDdp?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Julio Rocha surpreende esposa com presente inusitado: “propriedade da Karol” - Portal Leo Dias",
+              "resumo": "Julio Rocha surpreende esposa com presente inusitado: “propriedade da Karol” Portal Leo Dias",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmJ4VUFLT0k5TURwTlYyZ0tyU0NsYnQyR0w0TkpRQ21FV3d1a1ZzUzMzU0tTZ3JTM19vOFlwM3dxMWJ6cnpvak1xTHVURlFNeVI5VWZ3U0x0TUZteXFMOHoxdWlBd2NrUDNJd2U3VkhrcGxDNU1taHdTdTRtREhKM2ozdU9oX2FTUFUxZkJGUjdRd1NqaERVa0RDYlE4Rnd6OVJSNXZPM2VEb0nSAbABQVVfeXFMT2xULXVfaWlVSm5DU0l0V3ZHWDlyY0VIMUhneEsybmUwR19ucTNmQUNRdTFBcDRzeWpBc2RRRlJ3dUJIMmFaOXN3UkdERkIwamFBa3VhSGdSLTRldGU4U09pa3pyOW8yamotRzlBZEJvUzBDMldvc05mNVlUSTBaSENXakN0MnBrYkh1V1BfcG9tamJDSGdTRlUybTV1aVQ1bjF5VGJad2FxTHFXRTZ5ODg?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Sensacional! Estas ilustrações geniais ocultam surpresas inesperadas - Estadão",
+              "resumo": "Sensacional! Estas ilustrações geniais ocultam surpresas inesperadas Estadão",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjFoVmphcE1yRk4weEFRTEZKLUVya3djMmxZZkJ4U0twUTF1UGdRUUxZdTNvUlM0UmVTaThCUzN2WS0wQ0FZQXpDMTg4a1dpVnRzcGs3ZnNvRWQwSU9CMEl5bXZ6ODNwNGt6R3BfTzdpRVZ5RnVnUTVoS3NxdG1KYzl3LTZmeF9ENkxPQXlCYkNnZGpjZVAxTzNXeUNpaEJBMWFDcmNoUkV2ajlLQ3ZRUmJpOUYtaDVJN0l6aWRlLU0?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Conheça Boquete: a cidade que surpreende brasileiros além do nome curioso - Portal de Prefeitura",
+              "resumo": "Conheça Boquete: a cidade que surpreende brasileiros além do nome curioso Portal de Prefeitura",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2tka0hGNXZDS1RQMldKckYtdXNLaHJ1Y3ZUbENMUlozM2w1S2QzdnZ5RjJELWdfUWNvZ2syVVJfOEx2QW45ZzNnYm9UWGQ2VTN1UDVxZl9nOUp2U2NMem5vRENlUExyOGhlVjhlR21qd1hSM01LNm93WGhPYmhGMjhETGNnY29DWmRucDJuTnV5UlExdUQwU3U5TkFHbE9Uc1FYZVhlaDFPVjRJVDVOVW04TmNUbW1OeW9z?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
             }
           ]
         }
