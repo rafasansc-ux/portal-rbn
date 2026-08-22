@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-22T08:10:04.106360",
+  "gerado_em": "2026-08-22T11:22:34.630125",
   "data": "22/08/2026",
-  "hora": "08h10",
-  "total": 45,
+  "hora": "11h22",
+  "total": 40,
   "editorias": [
     {
       "nome": "Local",
@@ -11,38 +11,64 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Chocolates da Nugali passam a integrar serviço de bordo dos voos da Azul",
-              "resumo": "A Nugali Chocolates, de Pomerode, acaba de ampliar a presença da marca no mercado internacional ao firmar uma parceria com […] The post Chocolates da Nugali passam a integrar serviço de bordo dos voos da Azul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/colunistas/chocolates-da-nugali-passam-a-integrar-servico-de-bordo-dos-voos-da-azul",
+              "titulo": "Jaraguá Futsal faz promoção e oferece ingresso gratuito para jogo do Estadual",
+              "resumo": "O jogo contra o Lages na próxima sexta-feira (28), às 19h30, na Arena, pelo Campeonato Catarinense, será o único do […] The post Jaraguá Futsal faz promoção e oferece ingresso gratuito para jogo do Estadual appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/jaragua-futsal-faz-promocao-e-oferece-ingresso-gratuito-para-jogo-do-estadual",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Frio marca as manhãs do fim de semana na região",
-              "resumo": "O fim de semana será marcado por manhãs frias e temperaturas amenas durante as tardes. No sábado (22), os termômetros […] The post Frio marca as manhãs do fim de semana na região appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/frio-marca-as-manhas-do-fim-de-semana-na-regiao",
+              "titulo": "Chave A tem briga embolada por vagas no Torneio de Inverno de Futsal de Corupá",
+              "resumo": "Na noite de sexta-feira (21), dois jogos encerraram a sétima rodada do 3º Torneio de Inverno Banana Ouro de Futsal […] The post Chave A tem briga embolada por vagas no Torneio de Inverno de Futsal de Corupá appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/chave-a-tem-briga-embolada-por-vagas-no-torneio-de-inverno-de-futsal-de-corupa",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Por dentro e por fora",
-              "resumo": "Se sabedoria, sinônimo de conhecimentos elevados, fosse salvação, os chamados intelectuais seriam todos felizes… Só acumular conhecimentos não nos vai […] The post Por dentro e por fora appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/colunistas/por-dentro-e-por-fora",
+              "titulo": "Som alto termina com prisão e apreensão de aparelho em Schroeder",
+              "resumo": "A Polícia Militar atendeu uma ocorrência de perturbação do sossego na madrugada deste sábado (22), na Rua Palmiro Gneipel, no […] The post Som alto termina com prisão e apreensão de aparelho em Schroeder appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/som-alto-termina-com-prisao-e-apreensao-de-aparelho-em-schroeder",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Vitória na Justiça Eleitoral",
-              "resumo": "O candidato do chamado Campo Democrático, a aliança dos partidos de esquerda, Gelson Merisio (PSB), usou as redes sociais para […] The post Vitória na Justiça Eleitoral appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/colunistas/vitoria-na-justica-eleitoral",
+              "titulo": "Da tradição à projeção global",
+              "resumo": "Jaraguá do Sul se consolidou ao longo das últimas décadas como um dos principais polos industriais de Santa Catarina e […] The post Da tradição à projeção global appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/colunistas/da-tradicao-a-projecao-global",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Fiscalização eleitoral cabe à Justiça, reforça Prefeitura de Jaraguá do Sul",
-              "resumo": "Com a campanha eleitoral de 2026 oficialmente nas ruas desde 16 de agosto, a Prefeitura de Jaraguá do Sul passou […] The post Fiscalização eleitoral cabe à Justiça, reforça Prefeitura de Jaraguá do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/colunistas/fiscalizacao-eleitoral-cabe-a-justica-reforca-prefeitura-de-jaragua-do-sul",
+              "titulo": "Senado e Governo: uma via de mão dupla em SC!",
+              "resumo": "Estamos completando a primeira semana da campanha eleitoral e nos preparando para entrar na segunda. O que esses primeiros sete […] The post Senado e Governo: uma via de mão dupla em SC! appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/colunistas/senado-e-governo-uma-via-de-mao-dupla-em-sc",
               "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        },
+        {
+          "nome": "RBN Portal",
+          "noticias": [
+            {
+              "titulo": "TSE disponibiliza sistema para denunciar desinformação durante as eleições",
+              "resumo": "Com o avanço da campanha eleitoral, o Tribunal Superior Eleitoral (TSE) disponibiliza uma ferramenta para que eleitores possam comunicar possíveis casos de desinformação relacionados às eleições. O Sistema de Alertas de Desinformação Eleitoral (SIADE) recebe relatos sobre conteúdos falsos, montagens, ataques e outras situações que possam comprometer a integridade do processo eleitoral.",
+              "link": "https://portal.rbnfm.com.br/tse-disponibiliza-sistema-para-denunciar-desinformacao-durante-as-eleicoes/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Prefeitura de Jaraguá do Sul orienta população sobre denúncias de propaganda eleitoral irregular",
+              "resumo": "A Prefeitura de Jaraguá do Sul está orientando os eleitores sobre os canais corretos para denunciar possíveis irregularidades na propaganda eleitoral durante as eleições de 2026. Segundo o Município, denúncias relacionadas especificamente à propaganda de candidatos devem ser encaminhadas à Justiça Eleitoral, e não à fiscalização municipal.",
+              "link": "https://portal.rbnfm.com.br/prefeitura-de-jaragua-do-sul-orienta-populacao-sobre-denuncias-de-propaganda-eleitoral-irregular/",
+              "fonte": "RBN Portal",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "FIESC defende urgência em diálogo entre Brasil e EUA para proteger indústria catarinense",
+              "resumo": "A Federação das Indústrias do Estado de Santa Catarina (FIESC) avaliou como positiva a retomada do diálogo direto entre o presidente Luiz Inácio Lula da Silva e o presidente dos Estados Unidos, Donald Trump. Para a entidade, a aproximação entre os dois governos pode abrir espaço para avanços nas negociações comerciais, mas exige rapidez diante dos impactos provocados pelas sobretaxas norte-americanas.",
+              "link": "https://portal.rbnfm.com.br/fiesc-defende-urgencia-em-dialogo-entre-brasil-e-eua-para-proteger-industria-catarinense/",
+              "fonte": "RBN Portal",
               "editoria": "Local"
             }
           ]
@@ -53,52 +79,40 @@
       "nome": "Estado",
       "fontes": [
         {
-          "nome": "G1 SC",
-          "noticias": [
-            {
-              "titulo": "Como é a Praia da Sepultura, paraíso que teve acesso restringido por portão particular e virou alvo judicial em SC",
-              "resumo": "Justiça manda prefeitura de local paradisíaco retirar portão que restringe acesso à Famosa pela água calma, cristalina e ideal para o mergulho, a Praia da Sepultura é um dos espaços mais procurados de Bombinhas, município no Litoral Norte de Santa Catarina que recebe mais de 2 milhões de visitantes no verão. O local foi alvo de uma decisão judicial após a instalação de um portão particular na rua que dá acesso à orla.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/22/conheca-praia-da-sepultura-paraiso-acesso-restringido-portao-particular-bombinhas.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            }
-          ]
-        },
-        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Dia D de vacinação: Padilha rebate movimento contra obrigatoriedade em SC e cita ‘maior surto de sarampo em 35 anos’ nos EUA",
-              "resumo": "Médico infectologista, o ministro usa como exemplo a própria filha de 11 anos e alerta: Brasil já registrou 38 casos importados de sarampo neste ano O post Dia D de vacinação: Padilha rebate movimento contra obrigatoriedade em SC e cita ‘maior surto de sarampo em 35 anos’ nos EUA apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/saude/dia-d-de-vacinacao-padilha-rebate-movimento-contra-obrigatoriedade-em-sc-e-cita-maior-surto-de-sarampo-em-35-anos-nos-eua/",
+              "titulo": "Mulher vai ao hospital achando que está com pedra nos rins e se surpreende quando a bolsa rompe no carro, começando o trabalho de parto sem saber que estava grávida",
+              "resumo": "A descoberta inesperada aconteceu durante o trajeto até a unidade de saúde, onde Cierra Bellamy, de 33 anos, conheceu a filha Ariah poucas horas depois de sentir as primeiras dores O post Mulher vai ao hospital achando que está com pedra nos rins e se surpreende quando a bolsa rompe no carro, começando o trabalho de parto sem saber que estava grávida apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/mulher-ganha-bebe-sem-saber-que-estava-gravida/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "A cultura açoriana que define a identidade manezinha em Florianópolis ganha novo capítulo em casarão de 1915",
-              "resumo": "Preservada na arquitetura e nos costumes da capital, a herança do arquipélago português será celebrada com a inauguração da nova sede da Casa dos Açores neste sábado (22), em Santo Antônio de Lisboa O post A cultura açoriana que define a identidade manezinha em Florianópolis ganha novo capítulo em casarão de 1915 apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/infraestrutura/cultura-acoriana-florianopolis-casa-dos-acores-santo-antonio-de-lisboa/",
+              "titulo": "Casal de idosos morto pelo ex-companheiro de uma das vítimas em SC é identificado; suspeito fugiu e ainda não foi encontrado",
+              "resumo": "Neide Pavan Vieira, de 68 anos e Afonso Becker, de 70 anos, foram mortos a tiros dentro de uma casa em Criciúma, no Sul de SC, na madrugada deste sábado (22) O post Casal de idosos morto pelo ex-companheiro de uma das vítimas em SC é identificado; suspeito fugiu e ainda não foi encontrado apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/casal-de-idosos-morto-pelo-ex-companheiro-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Professora vendia certificados falsos para candidatos de concurso público em SC",
-              "resumo": "Esquema fornecia documentos fraudulentos para pontuação na prova de títulos em seleção pública de Itajaí; TJSC manteve a condenação da ré O post Professora vendia certificados falsos para candidatos de concurso público em SC apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/justica/professora-condenada-vender-certificados-falsos-concurso-sc/",
+              "titulo": "Até quando vai o leilão da Casas Bahia com até 68% de desconto? Lotes têm lances a partir de R$ 246 em eletrodomésticos, eletrônicos e informática",
+              "resumo": "Para participar, o interessado precisa solicitar a habilitação com pelo menos 1 hora de antecedência; entenda O post Até quando vai o leilão da Casas Bahia com até 68% de desconto? Lotes têm lances a partir de R$ 246 em eletrodomésticos, eletrônicos e informática apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/economia/ate-quando-vai-o-leilao-da-casas-bahia-com-ate-68-de-desconto/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Acidente na infância afastou homem do campo e o levou a criar império de supermercados que o transformaram em um dos empresários mais bem sucedidos de SC",
-              "resumo": "Zefiro Giassi, fundador do Grupo Giassi, perdeu a visão do olho esquerdo aos três anos de idade e acidente o transformou em um dos empresários mais bem sucedidos de SC O post Acidente na infância afastou homem do campo e o levou a criar império de supermercados que o transformaram em um dos empresários mais bem sucedidos de SC apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/homem-se-tornou-um-dos-empresarios-mais-bem-sucedidos-de-sc-apos-acidente/",
+              "titulo": "Noiva descobre leucemia um mês antes do casamento e emociona a todos ao entrar na cerimônia sem peruca, realizando a festa dos sonhos anos depois, após ser curada da doença",
+              "resumo": "A doença interrompeu os preparativos da celebração, mas o casal decidiu oficializar a união durante o tratamento e manteve o plano de reunir familiares e amigos em uma grande festa O post Noiva descobre leucemia um mês antes do casamento e emociona a todos ao entrar na cerimônia sem peruca, realizando a festa dos sonhos anos depois, após ser curada da doença apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/noiva-descobre-leucemia-um-mes-antes-do-casamento/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "‘Entre o retrocesso e a aventura’: Eduardo Leite defende Ronaldo Caiado para a Presidência em 2026",
-              "resumo": "Em entrevista ao Grupo ND em Criciúma, governador gaúcho avaliou o cenário eleitoral, falou de pontos comuns entre seu Estado e Santa Catarina e comentou os desafios que enfrentou em seus dois mandato O post ‘Entre o retrocesso e a aventura’: Eduardo Leite defende Ronaldo Caiado para a Presidência em 2026 apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/entre-o-retrocesso-e-a-aventura-eduardo-leite-defende-ronaldo-caiado-para-a-presidencia-em-2026/",
+              "titulo": "Irã autoriza petroleiros iraquianos a passar pelo Estreito de Ormuz em meio a tensão com os EUA",
+              "resumo": "Bagdá fez diversos pedidos até que a autorização especial fosse concedida pelo governo iraniano, afirmou a IRNA O post Irã autoriza petroleiros iraquianos a passar pelo Estreito de Ormuz em meio a tensão com os EUA apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/mundo/ira-petroleiros-iraquianos-estreito-de-ormuz-tensao-eua/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -113,37 +127,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Morro do Diabo: lendas, emboscada indígena e até aparições fazem parte da história de parque no interior de SP",
-              "resumo": "Morro do Diabo: lendas atraem visitantes para área de Mata Atlântica O topo do Morro do Diabo não reserva apenas uma vista privilegiada para os quase 34 mil hectares de Mata Atlântica que o cercam. No ponto mais alto da elevação, lendas permanecem vivas e ajudam a atrair visitantes curiosos sobre os mistérios que rondam a região.",
-              "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/22/morro-do-diabo-lendas-emboscada-indigena-e-ate-aparicoes-fazem-parte-da-historia-de-parque-no-interior-de-sp.ghtml",
+              "titulo": "Vendedor acha que assalto é  brincadeira, entrega celular e mesmo assim é baleado na Serra",
+              "resumo": "Um vendedor de 21 anos foi baleado durante um assalto na tarde desta sexta-feira (21), no bairro Vista da Serra II, na Serra, na Grande Vitória. Segundo a Polícia Militar, ele havia acabado de sair do trabalho e voltava para casa quando foi abordado por dois homens em uma moto. De acordo com moradores, os suspeitos pararam perto de uma casa e pediram o celular do jovem. Mesmo depois de entregar o aparelho, a vítima foi baleada.",
+              "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/22/vendedor-acha-que-assalto-e-brincadeira-entrega-celular-e-mesmo-assim-e-baleado-na-serra.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Eleições 2026: Menos da metade das candidaturas registradas no AC são de mulheres",
-              "resumo": "g1 em 1 minuto - AC: Conheça a página do g1 AC para as Eleições de 2026 No Acre, apenas 36,6% das candidaturas registradas nas Eleições 2026 são de mulheres, um total de 141 nomes. Já os homens aparecem com 244 nomes, o que soma 63,4%. Os dados, que totalizam 385 candidatos, estão disponíveis na base oficial do Tribunal Superior Eleitoral (TSE).",
-              "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-menos-da-metade-das-candidaturas-registradas-no-ac-sao-de-mulheres.ghtml",
+              "titulo": "Capotamento deixa 7 pessoas feridas no Sertão da PB; crianças estão entre as vítimas",
+              "resumo": "Hospital Regional de Cajazeiras, no Sertão da Paraíba Coren-PB Um capotamento deixou ao menos sete feridos, na manhã deste sábado (22), no trecho da BR-230 localizado na entrada da cidade de Cajazeiras, no Sertão paraibano. Segundo as primeiras informações, todos os feridos estavam em um único carro e foram socorridos com vida.",
+              "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/22/capotamento-deixa-pessoas-feridas-no-sertao-da-pb-criancas-estao-entre-as-vitimas.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Cubanos e brasileiros jogam beisebol e promovem troca cultural no interior de SP: 'Quase o meu país', diz organizador",
-              "resumo": "VÍDEO ⚾ De origem norte-americana, o beisebol se popularizou em Cuba na década de 1860 ao ser levado por estudantes que retornavam dos Estados Unidos e por marinheiros americanos. O esporte, disputado por duas equipes de nove jogadores com tacos, bola e luvas, caiu no gosto popular e levou à criação da Liga Cubana profissional em 1878.",
-              "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/22/cubanos-e-brasileiros-jogam-beisebol-e-promovem-troca-cultural-no-interior-de-sp-quase-o-meu-pais-diz-organizador.ghtml",
+              "titulo": "Entenda por que o lobo-guará ajuda a alimentar lenda do lobisomem no Brasil",
+              "resumo": "Lobo-guará e lobisomem Flavia Tasso / Anderson Aurélio Dal Gallo Uma das lendas mais conhecidas do folclore brasileiro é a do lobisomem, criatura metade lobo e metade humana, que aparece em noites de lua cheia. O mito, que atravessa gerações, pode guardar semelhanças com um animal que existe na vida real: o lobo-guará.",
+              "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/22/entenda-por-que-o-lobo-guara-ajuda-a-alimentar-lenda-do-lobisomem-no-brasil.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Dia do Folclore: e se a Cobra Grande acordar? Veja lendas que marcam gerações em Itapetininga",
-              "resumo": "Raimundão, Dama de Branco e Cobra Grande: lendas atravessam gerações em Itapetininga (SP) Jaime Rafael/TV TEM Histórias como as da Mula sem Cabeça, do Saci-Pererê e do Curupira são conhecidas em todo o país. Transmitidas de geração em geração, essas narrativas ajudam a preservar costumes, crenças e tradições que atravessam o tempo. Neste sábado (22), é celebrado o Dia do Folclore, data que valoriza essas manifestações da cultura popular.",
-              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/22/dia-do-folclore-e-se-a-cobra-grande-acordar-veja-lendas-que-marcam-geracoes-em-itapetininga.ghtml",
+              "titulo": "Cursos presenciais e online do Cetam oferecem 16 mil vagas gratuitas para interior do AM; saiba como se inscrever",
+              "resumo": "Cetam abre 16 mil vagas em cursos gratuitos no interior do Amazonas Foto: Divulgação/Cetam O Centro de Educação Tecnológica do Amazonas (Cetam) abriu 16 mil vagas em cursos de qualificação para municípios do interior. As inscrições começam nesta segunda-feira (24), às 7h, e vão até 27 de agosto. O cadastro deve ser feito pelo site do órgão.",
+              "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/08/22/cursos-presenciais-e-online-do-cetam-oferecem-16-mil-vagas-gratuitas-para-interior-do-am-saiba-como-se-inscrever.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "'Casar que é bom ninguém quer': quem foi Alzira, a 'noiva' de Sorocaba que virou personagem folclórica",
-              "resumo": "A história de Alzira, a noiva que andava pelo centro de Sorocaba As lendas urbanas que compõem o folclore brasileiro estão sempre rodeadas de alguns elementos mágicos, surreais ou sobrenaturais. As criaturas são criação da nossa criatividade e dos saberes dos nossos antepassados. O folclore como conhecemos é isso; as lendas como imaginamos são essas. No entanto, há um pouco da realidade nestas histórias.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/22/casar-que-e-bom-ninguem-quer-quem-foi-alzira-a-noiva-de-sorocaba-que-virou-personagem-folclorica.ghtml",
+              "titulo": "Zolani Tete, ex-campeão mundial de boxe, é morto a tiros na África do Sul",
+              "resumo": "Pugilista sul-africano Zolani Tete morre aos 38 anos Reprodução/Instagram O pugilista Zolani Tete, bicampeão mundial de boxe, foi morto a tiros fora de sua casa na África do Sul nesta sexta-feira (21). As autoridades ainda não identificaram a motivação do crime. Segundo a polícia, dois homens encapuzados desceram de um carro e atiraram contra o lutador quando ele chegava em casa. Ele morreu no local.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/08/22/zolani-tete-ex-campeao-mundial-de-boxe-e-morto-a-tiros-na-africa-do-sul.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -153,38 +167,78 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Cruzeiro pode atrapalhar vida do “algoz” Flamengo no Brasileirão",
-              "resumo": "Equipes se enfrentam neste sábado (22), às 20h30, pela 24ª rodada",
-              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-pode-atrapalhar-vida-do-algoz-flamengo-no-brasileirao/",
+              "titulo": "Mercado de títulos passa por semana difícil com disparada em taxas; entenda",
+              "resumo": "Tesouro dos EUA realizou intervenção incomum na quarta-feira (19), quando anunciou \"pelo menos dobrar\" o volume de títulos públicos antigos de longo prazo que recompra regularmente dos investidores",
+              "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-de-titulos-passa-por-semana-dificil-com-disparada-em-taxas-entenda/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Rodrigo Santoro faz 51 anos: confira cinco destaques da carreira do ator",
-              "resumo": "Ator celebra novo ano de vida em meio a uma rotina agitada de trabalhos",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/rodrigo-santoro-faz-51-anos-confira-cinco-destaques-da-carreira-do-ator/",
+              "titulo": "Brasil teve mais de mil suspeitas da doença Creutzfeldt-Jakob em 16 anos",
+              "resumo": "DCJ é uma desordem cerebral rara, de caráter neurodegenerativo e fatal; 90% das pessoas morrem em um ano",
+              "link": "https://www.cnnbrasil.com.br/saude/brasil-teve-mais-de-mil-suspeitas-da-doenca-creutzfeldt-jakob-em-16-anos/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Telas não são as grandes vilãs: um novo olhar sobre a miopia",
-              "resumo": "Estudo sugere que, além de problema óptico, a miopia é também déficit sensoriomotor e que ler com pouca luz pode ser mais prejudicial do que as telas",
-              "link": "https://www.cnnbrasil.com.br/saude/telas-nao-sao-as-grandes-vilas-um-novo-olhar-sobre-a-miopia/",
+              "titulo": "Vice do Corinthians reage a nova música de Memphis: “Contratado para jogar”",
+              "resumo": "Armando Mendonça disse que o atacante será \"cobrado\" para jogar",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/vice-do-corinthians-reage-a-nova-musica-de-memphis-contratado-para-jogar/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Como a relação entre Coreia do Sul e EUA mudou no governo Trump",
-              "resumo": "Presidente americano começou a exigir mais investimento na aliança por parte de Seul",
-              "link": "https://www.cnnbrasil.com.br/internacional/como-a-relacao-entre-coreia-do-sul-e-eua-mudou-no-governo-trump/",
+              "titulo": "Polícia procura quinto suspeito por morte de ciclista em Copacabana",
+              "resumo": "Quatro homens foram presos pelo crime; polícia tenta identificar outro envolvido que aparece chutando a cabeça da vítima",
+              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-procura-quinto-suspeito-por-morte-de-ciclista-em-copacabana/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "IA: Brasil não está no grande tema de investimentos, diz especialista",
-              "resumo": "Gustavo Spinola, estrategista-chefe da Sincra, aponta, ao CNN Prime Time, que saída de capital estrangeiro da bolsa brasileira se agrava com avanço dos investimentos em inteligência artificial",
-              "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ia-brasil-nao-esta-no-grande-tema-de-investimentos-diz-especialista/",
+              "titulo": "Hull City surpreende e vence Manchester United na estreia da Premier League",
+              "resumo": "Recém-promovido, time da casa domina e derrota equipe de Michael Carrick por 2 a 0",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/hull-city-surpreende-e-vence-manchester-united-na-estreia-da-premier-league/",
               "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "Agência Brasil",
+          "noticias": [
+            {
+              "titulo": "Fim de semana terá tempo seco no Centro-Oeste e frio intenso no Sul",
+              "resumo": "Neste sábado (22) e domingo (23), a previsão do tempo no país será marcada pelos contrastes térmicos, de acordo com boletim divulgado pelo Instituto Nacional de Metereologia (Inmet). Enquanto o Centro-Oeste e parte do Norte e Nordeste enfrentarão altas temperaturas e baixa umidade do ar, no Sul e Sudeste o frio aparece e há possibilidade de geadas e nevoeiros.",
+              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fim-de-semana-tera-tempo-seco-no-centro-oeste-e-frio-intenso-no-sul",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Focus Cia de Dança representa o Brasil em festival na China",
+              "resumo": "O Brasil será representado no Living Dance Festival, na China, pela Focus Cia de Dança, que embarca neste sábado (22) para o país asiático. Cerca de 20 pessoas, entre bailarinos, diretores e técnicos, integram a equipe que pisará em território chinês pela primeira vez, para uma turnê de 13 dias.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/focus-cia-de-danca-representa-o-brasil-em-festival-na-china",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
+              "resumo": "Flamengo e Atlético-MG abrem neste sábado (22) a decisiva 17ª rodada do Campeonato Brasileiro Feminino Série A1, e a TV Brasil exibe todos os detalhes da partida. A emissora abre sua jornada esportiva a partir das 17h40 com as informações do confronto, que acontece às 18h, no Estádio Luso-Brasileiro, na Ilha do Governador, Rio de Janeiro. Notícias relacionadas:Maracanã será palco de abertura da Copa Feminina de Futebol de 2027.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Veja a agenda dos candidatos à Presidência neste fim de semana",
+              "resumo": "A agenda dos candidatos à Presidência da República neste fim de semana inclui atos de campanha, caminhadas, panfletagens, lançamentos de candidaturas e encontros com apoiadores. Também estão previstas entrevistas à imprensa, participação em debates e eventos políticos, gravação de conteúdos e reuniões com equipes e coordenações de campanha.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "\"Cabeças Cortadas\", de Glauber Rocha, ganhará versão restaurada em 4k",
+              "resumo": "“Cabeças Cortadas é um filme que está entre o teatro e a poesia\", explicou Glauber Rocha sobre a obra, uma produção hispano-brasileira rodada em 1970, na Catalunha, no norte da Espanha. Com uma metáfora sobre a decadência das ditaduras tanto na América Latina quanto na Península Ibérica, o longa-metragem ganhará versão 4k em 2027, 45 anos depois da morte do artista, graças a uma restauração realizada pela indústria do cinema espanhol.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada",
+              "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
           ]
@@ -198,29 +252,10 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "MDB confirma Antídio Lunelli ao Senado em aliança com Esperidião Amin em Santa Catarina - Gazeta do Povo",
-              "resumo": "MDB confirma Antídio Lunelli ao Senado em aliança com Esperidião Amin em Santa Catarina Gazeta do Povo",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXh3R3p5czJ1dHhIQ05Gd0RKS3E4SEh1Q0lfMTlmRXNLRV9pdlo3UDhTRmZreEliMXRkMmV4NXZGOVVzd1ZlTEJRTkhZdzBzTUhjRmhpNlgwZXkwUjRfbHdpY2dac2VxVU5od1lyZjB4NkYwd0N0SDVwU0lxcVh6OHNNNktmeFQ4ZkhLVHI1ZlRVU2RBVy1SN0tlUnhodXZORTBJcWZyTzdDdmRwd0UzQTl2MGNJOW93M3Q5d0s4TExISllz?oc=5",
+              "titulo": "Um discípulo de Ulysses Guimarães tenta vencer Renan - O GLOBO",
+              "resumo": "Um discípulo de Ulysses Guimarães tenta vencer Renan O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWS00U3NrbDBVZVdMalBpOUdnVkZTMWVuNlRzTGlWdVRLZGZPTmxhSW9vUTd0Q29Lc1AtN0wzZ3RUbEFuT1hxNEV3ZnV4ZGgyMjh0XzI2aFdJYTBRMEJWc0ZPMjBrUl96bUVBZ0t2YmVsb2dsVVM0ZjROWGp0SHYwclN3T0k2VTRSRHdhdmFpMHprM0J3ajBYY3VJONIBqgFBVV95cUxNcjR6d3dNSldMZmVpN1NXSmYtbGtpT05vUXBiOWl3ZGJSRXRwOG5VelMtZGlLV3JITmRMYUQ4TG5xcHNGQXQtOEtlUTBBUF90M3diXzJzQXZoWGtBanpYMUdJb0lqSjRqa3lNNExkd1ZkTjFtM2lWclo2UUhGWWVWMkNlR1VpUUxWVEpMeDVxSmlTYXZJZ1ozeEUtU0ZuZUVOU0hYMzZza2tfdw?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            }
-          ]
-        },
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Alcolumbre diz que ocupação das Mesas do Senado e da Câmara é ação arbitrária e pede bom senso - G1",
-              "resumo": "Alcolumbre diz que ocupação das Mesas do Senado e da Câmara é ação arbitrária e pede bom senso G1",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQzdKQ2JIYlh0OGxYbVVUQmlfYnE1NTEycUNfU2ZrbHpwRE03dGwxVV9mWE95TTdLRTYtcjd5ek4tR0NYRUZBV1hpWW5ST2w3ZF9vNXhyNXdKV2YwNnBqVW96aXMtR1BUMzgzLVhOOGw4ZFc1eGxDek9GVWx4dVNPZHc5anZRSHVjRi15WDJ0TTlTYmFlVm0wNXdqRDdSQndoT01kMWJKNXhaX1FWUjV6YzZGeHdMbWVIZHVEVkhLcW54MDNGYkJsMV9ac09LenZLVDBOR3pxN2pKVjJXVGJnbXhLZjVBbFZj0gH3AUFVX3lxTE1jMGlaX0Fvd0h1Q2JHMm95SUllVW02RGJWUmZGUFRGSGVuRXZrODZNZC0tUVB3UE1LVUNZdnNmVUYzLU9qNWJJdTdubmIxNXA0VHI5Ml9wYmhjYldxblBJY2JJN1hEYXVrellYM2xQZTlzNGowZzY2eFhHeVVEa3Rtb2VfcllaZlVac1BDYm9lNzZpdU5ySXBqZGJua1EwVzQ4N0F4MXZqV0RVX0JJUlkxNW5sN3A3dm1sdW5KcUhWRzAtbUQySHc5M00zSlBvQVhWX0dRdUJCc3ZPdkRYOE9qYXhNSE10QXNoWHQ3OUpXNkxIY2UyOEU?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Quem são os favoritos para a presidência da Câmara e do Senado? - CNN Brasil",
-              "resumo": "Quem são os favoritos para a presidência da Câmara e do Senado? CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWpkYURVTnllTXZTR0puYlBoaDFzQ2I1Mnc5ckN3Z0FNWEdHOWNweDQ3MmZ3UUJZZzFrdW5PbHc5WXpsRXRtRnRrVUl0SDZiWFhxdU9scVJhbVh0NkpKV2pSNXJiMzdVOVhfeTZhLXFFTy1pajBGWEhaWmx1Z1pSSGFGWnJ6NHNVRW12V2x6clY2MV8xSVFCRWJNcTJGVERSVXZV?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -234,37 +269,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Walter será apresentado oficialmente pelo Cruzeiro-PB em evento neste sábado; veja detalhes",
-              "resumo": "Walter desembarca na Paraíba Após desembarcar na Paraíba na última quinta-feira (20), o atacante Walter será apresentado oficialmente pelo Cruzeiro-PB neste sábado (22), às 20h, em uma casa de festas em Itaporanga. O evento contará com a presença de membros da diretoria e da comissão técnica e será o primeiro contato dos torcedores com o elenco para a disputa da 2ª divisão do Campeonato Paraibano 2026.",
-              "link": "https://ge.globo.com/pb/futebol/times/cruzeiro-pb/noticia/2026/08/22/walter-sera-apresentado-oficialmente-pelo-cruzeiro-pb-em-evento-neste-sabado-veja-detalhes.ghtml",
+              "titulo": "Capitão da Seleção Sub-20 revela olhos de Ancelotti para base e pedido: \"Alegria e personalidade\"",
+              "resumo": "Volante Danilo Barbosa é apresentado no Grêmio O lateral-esquerdo Pedro Gabriel revelou que o técnico Carlo Ancelotti passou algumas missões para Paulo Victor, técnico do sub-20 do Brasil. Capitão nos amistosos contra a Bolívia, o jogador do Grêmio afirmou em entrevista ao ge que o pedido é por resgatar a alegria para jogar e ter personalidade.",
+              "link": "https://ge.globo.com/rs/futebol/noticia/2026/08/22/capitao-da-selecao-sub-20-revela-olhos-de-ancelotti-para-base-e-pedido-alegria-e-personalidade.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Como ordem da rodada do Brasileirão pode ditar dinâmica do Palmeiras na semana",
-              "resumo": "Palmeiras fica um dia mais no Paraguai e Abel é homenageado Com a vaga nas quartas de final da Conmebol Libertadores garantida, o Palmeiras vira a chave e volta as atenções para o Campeonato Brasileiro. A 24ª rodada, que será disputada no fim de semana, terá dinâmica diferente para o time.",
-              "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/22/como-ordem-da-rodada-do-brasileirao-pode-ditar-dinamica-do-palmeiras-na-semana.ghtml",
+              "titulo": "Escalação: Fortaleza tem duas baixas e dúvida no ataque contra o Criciúma",
+              "resumo": "Ataque do Fortaleza vive momento de baixa na Série B O Fortaleza finalizou na manhã deste sábado (22) toda preparação para enfrentar o Criciúma, pela 24ª rodada da Série B. Autuori tem desfalques certos na defesa e no meio-campo para o confronto no estádio Heriberto Hulse. O setor ofensivo é onde tem mais disputa interna por espaço na equipe. 📲 Receba notícias do Fortaleza direto no seu WhatsApp.",
+              "link": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2026/08/22/escalacao-fortaleza-tem-duas-baixas-e-duvida-no-ataque-contra-o-criciuma.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Em dez jogos no São Paulo, Dorival Júnior ainda não conseguiu repetir a equipe; veja as escalações",
-              "resumo": "São Paulo vai tentar quebrar jejum no Brasileiro contra a Chapecoense O técnico Dorival Júnior completou dez jogos no comando do São Paulo na vitória sobre o Bolívar, na terça-feira, sem nunca ter conseguido repetir uma escalação. Desde que chegou, o treinador jamais conseguiu colocar em campo o mesmo grupo de 11 titulares. As explicações vão de saídas a lesões.",
-              "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/08/22/em-dez-jogos-no-sao-paulo-dorival-junior-ainda-nao-conseguiu-repetir-a-equipe-veja-as-escalacoes.ghtml",
+              "titulo": "Nacional de Patos anuncia contratação do lateral-esquerdo Hugo Léo para a Copa Paraíba",
+              "resumo": "O Nacional de Patos anunciou, na última sexta-feira (21), a contratação do lateral-esquerdo Hugo Léo, de 29 anos, para a disputa da Copa Paraíba, competição que retorna ao calendário em 2026, após 14 anos, valendo vaga na Copa do Brasil de 2027. O jogador, que acumula passagens por Sampaio Corrêa, Operário-MS, Maranhão e Anápolis, é o sexto reforço anunciado pelo clube.",
+              "link": "https://ge.globo.com/pb/futebol/times/nacional-de-patos/noticia/2026/08/22/nacional-de-patos-anuncia-contratacao-lateral-esquerdo-hugo-leo-copa-paraiba.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Nery cita pouco tempo de trabalho e valoriza vitória do Suzano na estreia do Paulista de vôlei",
-              "resumo": "Suzano bate Guarulhos e estreia com vitória no Paulista de vôlei A vitória do Suzano sobre o Guarulhos na estreia do Campeonato Paulista masculino de vôlei de 2026, na última quinta-feira, foi muito valorizada pelo técnico Nery Tambeiro por dois motivos: o pouco tempo de preparação e a ampla renovação do elenco.",
-              "link": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/volei/noticia/2026/08/22/nery-cita-pouco-tempo-de-trabalho-e-valoriza-vitoria-do-suzano-na-estreia-do-paulista-de-volei.ghtml",
+              "titulo": "Caruaru City, Cabense e mais: veja times que ficaram fora do novo Campeonato Pernambucano",
+              "resumo": "Apesar de ser um dos maiores da história, o Campeonato Pernambucano 2026/2027 não terá a presença de algumas equipes conhecidas no estado. O ge preparou uma lista com o cenário atual de cada clube e os possíveis motivos para não participar da competição.",
+              "link": "https://ge.globo.com/pe/caruaru-regiao/futebol/campeonato-pernambucano/noticia/2026/08/22/caruaru-city-cabense-e-mais-veja-times-que-ficaram-fora-do-novo-campeonato-pernambucano.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Em busca do mata-mata inédito no Brasileiro, Fluminense conta com Sochor diante da Ferroviária",
-              "resumo": "Ferroviária x Fluminense: Flu joga pela vaga diante da invicta Ferroviária O Fluminense chega à última rodada da primeira fase do Brasileirão Feminino perto de garantir um feito inédito: a vaga para o mata-mata da competição. No limite da zona de classificação, as Guerreiras do Fluzão precisam vencer a Ferroviária, invicta na Fonte Luminosa, para não depender de outros resultados.",
-              "link": "https://ge.globo.com/gato-mestre/noticia/2026/08/22/em-busca-do-mata-mata-inedito-no-brasileiro-fluminense-conta-com-sochor-diante-da-ferroviaria.ghtml",
+              "titulo": "GP da Holanda: siga a classificação em Zandvoort",
+              "resumo": "GP da Holanda: siga a classificação em Zandvoort F1 retorna das férias neste fim de semana. Após vitória de Russell na corrida sprint, pilotos definem o grid de largada da prova de domingo",
+              "link": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-da-holanda-a-12-etapa-da-f1-em-2026.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -279,69 +314,38 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Retiro dos Artistas: Os atores famosos que moram na instituição acolhedora - CARAS Brasil",
-              "resumo": "Retiro dos Artistas: Os atores famosos que moram na instituição acolhedora CARAS Brasil",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk9qZTNybE90bUlmS01ERzNrd0pXbzd6T2tnelZiU0NQX0RTRmI3eExFenh4R3BUbTFGZWNYSEIwQjlab1FRVnlmU0JrRF96d0RBWkMzdEc4cV9fNDRVT2pVUm1wNkdPWUNkOUNjck5ZN1dURFE5aEZsRWU0T0IxU1RiRUotYjMzMngtX2d4M21NTjhaVlR3VzBQbjE1Wk5mbHFYenZud3ZlWGtXUW9uYlBR?oc=5",
+              "titulo": "Os destinos de lua de mel favoritos das celebridades brasileiras - Correio Braziliense",
+              "resumo": "Os destinos de lua de mel favoritos das celebridades brasileiras Correio Braziliense",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSy1ZZ0duZVFqUllhWklSbG5NVXpJZDd6TDc3emVjWldtUFZvS2VQMVhEclRxREcyUTc3U202dFc4Y19keFZlR0VTT2V3SHpIZkY4YzkyRFFnOUlQcy16RHZnQTBzdkg0MGY1cXRUWHhvb0xSNEVNUnpJMXl1dHdTNGJCUU5sSWxDaDNSUWljQTAxa2RMWmdxQVJnOGd0VVZSb09WVUpqa09VRVRLTnlKMWpIQzl6Q3JwUTN3RndkSTBzOER6aXJsSGF4cFhzRU0yTzlwcmVB0gHbAUFVX3lxTE40cmNMczZDS3ktVVpUUGM3Z256b05sblFiU3hlU3E2Y3ljc0Y1dnJLUG5BR3hjNXQ2NU94cy1OcHNScE9YclQzcUJzc1N0NE56a0Y2Y0hVWmVULU5KMnQ5d2dTR2Nia05WZmhxUlYxZkkyZVZ6Znc4WlFSa0hBOGRhTS1ZeWJhTzBTU2VmYkFJaWw3TGtGYnZyQWpyMy14RnROek52UVp6M3Z5WGdCQnhoS2ZSOTB0Y3Y1dWdWd3Zka19oVW9YajZkdERnVUdMWV92amVYQUVtZ2V3Zw?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Veja famosos brasileiros citados nos arquivos Epstein - CNN Brasil",
-              "resumo": "Veja famosos brasileiros citados nos arquivos Epstein CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0sweVpRdmFLbW5BRllwaktuMzh2a2hlclNSb1pqNlpETWp2WWtYdEJRaElta0RvblFkQUVJWGlnMDh0bGcyZ3JCNHNkYmZlSS1nVTRnTUU0YjdmZ1ZRWWYzZ19WZS11Q1lsbzkzVnhUUy1FcW1mZVhaekVxM3lkUXk2X3JZZW1QVXJBSjVuV2U?oc=5",
+              "titulo": "Famosos marcam presença no primeiro dia de Lollapalooza 2026 - O Dia",
+              "resumo": "Famosos marcam presença no primeiro dia de Lollapalooza 2026 O Dia",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWZpbkFteExtZml6YllJei1zZzc0dXJuNkp4TC05d21nRXkzZnFhN1FjVEV1SzJ4cEQ3b1RFdWZqYmFseU82NmJ4TVUxTEtPOGdiMFBKcnRXVmNObDB2WkRZV1lWQUlVck50bjlZaWlXcEd4eEd4UF9RZ0d6a1N2U3FpcE4zMl9LWVNJUUxKMHNjbkdyZ2M2N1A3dnNNRGt4QlNWOHI5Q0JaTi1kN3lUblh5TjdFa09HbFhWR0VEbFNnWEQ50gHKAUFVX3lxTFBZLWlLMmVqTmJjb2szdWhaZS01WmtnUWFSV3ZiN3F4bWNzWjZPQU90QTVHM1J1TEROUkdxSjFMekxUcm1iUWhMN2tmQUFYbGpPejQ5aXk3Z2Fsc1lVUDU5SlhSWlhxS1NXUVpWT0hkX2o2RVhkemE5bXVjRjJjR2dPYWMtTHNET2ZaTi04ajZYZ2RqTm01NjVqek9jUkcxb1l3VEV0RDM1UmNUTXRvZUVtRVlKbnN6RFprQ1ZtSFJDNWtBam9rd2Zia1E?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Os Top Artistas, Músicas, Álbuns, Podcasts e Audiolivros de 2025 - Spotify",
-              "resumo": "Os Top Artistas, Músicas, Álbuns, Podcasts e Audiolivros de 2025 Spotify",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOai14aEVQNU9KdXlWa2hSRG5JaHBZMVAwQXJDVThGYk9QTW9JYXE5aUt5aTdpWEduRXE0U2VKdDhDOHVuX1JXN01Mb2ExcS1FdnNqUjM1aWIxZWFEdFJORjJvUXdQSHN4cGJYdzlLZTRkZnZBZ1VRSTZUZEY3WWxITUVqWVdOX0pqcm1YTE9pcXZ6YndKWU9ucWdYWnY1VWxxeE1aVFRR?oc=5",
+              "titulo": "Looks das famosas para o Lollapalooza 2026: 2º dia de evento tem muita fenda, transparência e recortes; veja +20 fotos de Camila Queiroz, Sasha Meneghel e mais! - purepeople.com.br",
+              "resumo": "Looks das famosas para o Lollapalooza 2026: 2º dia de evento tem muita fenda, transparência e recortes; veja +20 fotos de Camila Queiroz, Sasha Meneghel e mais! purepeople.com.br",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON1NjbmNaRS1qcTlySndXVzB0V3pPc2tfaXdENDcwR2d2M3FaZEQxeGh4TEpTX0dZek45OGlWNnU3UGkxSEdsdjdPVnQwWndxZnFRV1RVd3dXUm1oWEFMWTZPQktHZTh5LS0yLVdNclZ3eUVaMEFnZnBLcm9XNGQ2SllYMi1TU1FBNEF6NE9xbGtEcG05UkI5TU42YkU5Sm14bnhXNHhHQ1FPRVpISkhiQmlGM195bXNlSFY2dGpqblNOdGltaFpobXI3elJHc0gzN3ltLVhzeDhJYnptWUR1bUY3UWozcHZIWkQwMzVHeTRCRzlTVGJaVXZBd9IBgAJBVV95cUxNQ2ZQckl5TUMzQnZBUTgyM1gwODlZM25fNDlMQ2FMU0lwSFJOWTJSNmg5dTJIZWZuU0xBX2J0MGV1UTV2bF93OTE0SWo5OGdYREJWbW4zUnh1cXMyY3c0VHFRcV9kRUtTa3pheGktNHFrcUxjaW5VV3VXVG93clZiZXNHLURYR1VCUzVPQWN1bmc2alV0MTdJSmRILTdNck5CQTBFM3lXOHliRExGM1Vzd21uYk5ybC14Skk5MWUzdXgtbzB6WmZWYmdVY01sbVdGQzRhODM2NUNyV2pva21TRlRQMHcwR3V3cmRCTmcwenhrSmNoTlJCQmk0ZEJfMEdV?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Cinema e Filmes",
-          "noticias": [
+            },
             {
-              "titulo": "‘Homem-Aranha 4’ vai lançar tecnologia inédita para ampliar imersão nos cinemas; saiba mais - Ingresso.com",
-              "resumo": "‘Homem-Aranha 4’ vai lançar tecnologia inédita para ampliar imersão nos cinemas; saiba mais Ingresso.com",
-              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZVNDdzh1b3VSX1R3MUZWZFpkZTktOW03RVJqenVuZXVNaExsR2JGXzRyaF9CaE92NkRCNWIzb0ZCNTQyRWFKOE5EcTlJTHRzY09FRUJTX0x0d3huVzhvNUVrdC1Sd2lENENsU002Uk40UXZGRFBOVnlBbjUybDVTZy13LXZkUm9nWkdOdEI1MGloWF9wWldpYVplTm5mU2hPZXJJVzhjTklSczlIMFNFVl90ZG9McnZwYkg1bnptRTlBQm1zMGY2MnZ4MERmMnEz?oc=5",
-              "fonte": "Cinema e Filmes",
+              "titulo": "Trancoso volta ao radar dos famosos: após Shawn retornar ao Brasil, astro de Young Royals, Edvin Ryding surge no destino queridinho das celebridades - Diário Tocantinense",
+              "resumo": "Trancoso volta ao radar dos famosos: após Shawn retornar ao Brasil, astro de Young Royals, Edvin Ryding surge no destino queridinho das celebridades Diário Tocantinense",
+              "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxON0JYNF9oNzYwbkRrT0JmRGtyMHpONjA3ZnE5TVZIdnhSS0pEb2lpemU0Mm1sXy00eXhFdmNobVUtSEMzbi1XTTI0ZHJFVjBYSW5tWkNCOGpPYmZyOXJjdUpVTzdlcVhlb2FwNDFTa2VQTXhFLVpoN05SdlVaekpyV05fLWFOLTVfdzN5RmMtOWJkWloyQW1oeV9IR0NCQ0FCRFljcERVdEh0LVI1MnYzWjU5Y01Xam9OSm16cThwR3dvbU9xclVlNllSaVQ4RDdwX1BCa3d5MFE2X3JQU2hUMHdFLWdDMzFQWWIyRE5kY0syOHdtUDRVZVI1Z2MwYmdQSXFabjFPNzQ5Q3A0dml6SWx6LUt6SjFqZnYw?oc=5",
+              "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Animação produzida em Caruaru estreia no Festival Internacional de Cinema de Xangai, na China - Brasil de Fato",
-              "resumo": "Animação produzida em Caruaru estreia no Festival Internacional de Cinema de Xangai, na China Brasil de Fato",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGhkNEY0WHRjT0I3NWY0Qm5IYmp6UW8yMF9jQmNENEdOczJiWlN3Vi1OazhUdWxFSzExMnRpcy0zUXZRUFE0QnZWM1JKR0piZ256NmNvWVVjSjgtQ1FMZ0NIazFzLWRMS2REa01EMENsQ2FvY05PbXRZTW4wWHBwS1VOcU9rc1ZGaWFSa0kydDQzWXk5bjJ4YmlET0xENkQ3d1M5OXotcEhXVVU3WGgxQmJaMHgtTzVOZFYydUFVZEZiQlBxTGI3LS0zRy1vUnlENmc?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Live-action sobre He-Man estreia no Brasil em junho; trailer resgata história do príncipe Adam - Guia Folha",
-              "resumo": "Live-action sobre He-Man estreia no Brasil em junho; trailer resgata história do príncipe Adam Guia Folha",
-              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkZiWGdnUkRGTFpwUEo3cU56RGJ2NzNWUkdwR2RCaFdRTTRKcTFzQXhNNlRhcEN4b3dYVlU3Y25FN05xalhRa3BIMGg1OEF6blc3Y1pPYXB2UGV1WlJvbTVkenE2bzEzWWFCT0NBdmd1RmdVUENwS3BpaHpNcjZha2RLNW5YVnZJeVk2YUxBdXRqRUNuYl9PZExOMFRfR2tlSk5uZWZkX2xQQXVWS3FJdmxoaWVQTjIwVGk3V2Y2M1E1NjBmcVJNTjQ0X3FseUJERmdDbk44ZFZWbExw?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Música",
-          "noticias": [
-            {
-              "titulo": "Ceará Music confirma retorno em 2023 e show de lançamento em 2022 - Portal Radar",
-              "resumo": "Ceará Music confirma retorno em 2023 e show de lançamento em 2022 Portal Radar",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnNBVWpnUVNmZ2NCdW51THBNaFJvTF9vejNLUmlHUURvcVlPb2tpZUphb0ZHOHNBOTB1WEJSblZwdkg5a0RJdVNWWHoxbUpLNFY0a2JfbURiTm9JWktMRWVIMHR2VnJHRW96Z2pHc09VV1VBaTQ0aWUtdWs1SXJyUWg3N19YbzVySlhGalMxTGw5TlJRMkpVMdIBoAFBVV95cUxOOGVEcG0zNTRHSVh5ZE43d25US19OUzJiLWVTbUV4NzdacWhSanljQWhGMUxyRk1MSXYxVGhqMWljel9peUpxRTJSOUlCRXpkdlItenRRMU8zQVYxSVY1SExnc1hwWnkwZklqaDlNRm1KeDhidFJwWW5FdlVlMWNhZWJ1M3FpdkF3R0JoY21BNXBsY3lscXhONU56YmhjYnZ1?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Show reúne músicos no lançamento do CD póstumo de Leandro Dias | Música | O Liberal - O Liberal",
-              "resumo": "Show reúne músicos no lançamento do CD póstumo de Leandro Dias | Música | O Liberal O Liberal",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFBBNWRpRG1kblg1dUgtbUNSUWJoLWU0T3JsMndjdU16LVpkWFhPNWI4djBzMUNZYlJOd2hJXzRWMnVidDZNcVFmWVFkbjdTNlFoNkVpOFl3b0JHSmNPZ1VFaHpIUHZlWTk3TGJoS1JIVW0xaFdXckRZLV9pd01IdnplX0toOTVveUhrakMwNkxtM0hxNVBFUFM2TTZDMEFjWlBFTWswYldfQUMxMGhoY3p3OFVFcFU3LXRvS1ZYcHAwX3gwM3ZmQ0RWRdIB0AFBVV95cUxNRTBMZVlyOXFfcG1Id3JzcjRYbWxWMGEyQ1g1X2NKSFlVbWNLUGZ2UnZKUW1UWEEzaE0xdGxrdDZkYkM2R2ppNVV0MG80OENLdFBwa1Nrb0dfbnlWc0JISzN1b0lDcW1nVHlXbTdmcWljM2owV2FtbWlwVEtHRmdCanRTSEtJcUJIUHc0Sk5QenFYR3BraWJkUkU1VXp3YWpERGg0WkMzLV9OVkNxQ25CeTYxdDBqckRTSHJOd240WDdXS3M1Y3VzMVRzSmd2Z05S?oc=5",
-              "fonte": "Música",
+              "titulo": "Lollapalooza libera line-up por dia: veja quando cada artista se apresenta - CNN Brasil",
+              "resumo": "Lollapalooza libera line-up por dia: veja quando cada artista se apresenta CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem81a20tc3YzUXpOVTYzWkxCNTduTWh1SnV5Y2s2WUtDc3BQYzZxai1mMTRkb3QwR3dYcms0ZG1DOEJjS05KQ2Q5MEFKSkFZZmtfQk43bFRpaXpFekZwaGt2eE9ZQmN5MkNaRGlCMVpEQUd0MFVfQmRoM3RzajFJVF9pOHM1ZUNlQkVpcXBhbUtuakZzb3FTR2p4aHNrRzc2MGVGeU5GMGU0VzlEckY4dUNZbHQ?oc=5",
+              "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
           ]
@@ -352,71 +356,12 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Ciência e Tecnologia",
-          "noticias": [
-            {
-              "titulo": "As principais descobertas da ciência em 2020 (sem contar a Covid-19) - CNN Brasil",
-              "resumo": "As principais descobertas da ciência em 2020 (sem contar a Covid-19) CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmdrTlNBV0c0c0RscjlvVDNVVUlBQ29UODhydTFQOFBSX0NpX21tZnhMTWJzUGNJVzRzdzRaTVQ1T0FBVlRiUm9lcmg1N3pMLXh6bG1xQWcwV1BLdWZENEZwbmpOQ0dDU1E5ZXEzM2g0OUUxS0NaSEFyOEU0MHR1bkVWaEJYRzFEbXZwUUNMTy1fU0NIUVduYk1DcmtSUWZiSC1HYWtlblh2U0U?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Nova região do cérebro humano é descoberta por cientistas - Segredos do Mundo",
-              "resumo": "Nova região do cérebro humano é descoberta por cientistas Segredos do Mundo",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0UzUEh0SWlJTDBKZm1CVUpGeW92OU5fNk1uS3BHSEZiNFpoT1NuU2RjRHZQTl8xUUI2dmNrRjNneEEtWHJabkQxUER6dnkzSUZ0TTJ6SzhveDZXblRqaWhsSTFsbkc2M0xla2pVY3FvUC03Y1dKYlM4R1ZsM21MYWJxZXhMcm5YOUJyU2Fvc1VPYnM?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
-          "nome": "Saúde e Bem-estar",
-          "noticias": [
-            {
-              "titulo": "Uso prolongado de remédios para dormir pode afetar bem-estar de idosos - Globo",
-              "resumo": "Uso prolongado de remédios para dormir pode afetar bem-estar de idosos Globo",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlB1elY5OFdaT0Q1WHQwOFd3bmtvQ0ZkSHJmTUIyZHpRTTd0ekNGSVYzZ1lRenlqSWpzQmVQZi1lNVBXT2tqeWZTRi1RbXdYQ1lsTnBsblR2czA3Rnp3WDR2M2hmMHU2VWhwVHZobXAyUG1sSHRiU3NqcGIwTHdodHpsUHNYVnI4THk0dDBueVBFV3NDLUo1b3ZQSndxNmVJSnhTeFlQTXNteUhEV21yUVVHUTZLMjlJUEhNTkh1MFNjSlVRUU1MOXlRTdIB2gFBVV95cUxQTy0tSXNQV2FsT0RTcWFBZmRqWWtZTS04VFBXWHF3cWdCcFpWS1lJZnlLWnBMV3ZNTHhZNTlyeXFUVTZIWEhzQmxEdEo1RVktbVF0Y3A5ZDNsV2JhUUdldkd1b002ZHEzT2JBZThrb2s3M3M5UkhqU1BVdWxCQW9PQVRpSnE1UWVKNUhBelpBajFHeFZaRDdBOUtuRjUxRFBYT2hLR0Z3cTBReHdfMGVDSWtFMkdFVGRBQll2cUtpNzh6RlQ1eGduUlJxVm5TczloLUwtSXNZVkQzQQ?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "ADPEP+ Saúde: campanha promove bem-estar de defensores públicos - diariodopara.com.br",
-              "resumo": "ADPEP+ Saúde: campanha promove bem-estar de defensores públicos diariodopara.com.br",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWRsTDNMWElvUjZGa3RqVTJrOEppTzNMYVNVNUl5dHB1NERRQWZOMEkzc2R2OGhPN3dMRFVQdTJoV0NDMDZnaVlwQmZKT3RMb18zUG0ycVRjUVdtYTZJNUxMY0RLSzFJbWZla0phV09rOGdkeUlUWmt2WXJ5Y243RmJHMUVlcGttanlkYnp4V1pXdmJuM1MwSTk3UDNlbG1HbHpWQWVSQ05Eb0I1VTVOall2cC1yUHFUcXFYeg?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
           "nome": "Curiosidades Gerais",
           "noticias": [
             {
-              "titulo": "Xuxa Meneghel surpreende ao revelar manias inusitadas: \"Nunca, em nenhuma hipótese\" - NaTelinha",
-              "resumo": "Xuxa Meneghel surpreende ao revelar manias inusitadas: \"Nunca, em nenhuma hipótese\" NaTelinha",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUZoNU0zQnBqQkdMZFlPUFVIaU51c0pMVUZoZXU3U0NuU21kYjhfN2JCWUlDcFU2djY2YThHdmZJUTR2V2owMjZ4NkdvcTZ0SUFjTE5oNFhOeXV2bVRpY09OeFlzSFdjamgyTmdETS1nRUU5V2dDcFV3cHViYzdCd1B2czNrc2dUbjR5SktacmIzOVFoQW5FcDVweGZuT25tNzNka1Q5NXp4VjNpU0hZVG9xa3RyaFhlNUZhM2x0V0JzenZfUVRfeW4tZE9uQUlyc1NWeNIB2gFBVV95cUxOTmM1NzJuYng3S1JvMWE0RjZ2aFdabHhFWVR0T2FzWjI1S2V1dmNWZ2wwWDYxaDNWX2Vnck1zUS1DcEJrbEdwc1NJWUFuZHNzeHJHNEVRZElXOHhkS3RMSkFBSEl1b1VtTnVXcGxqMHZheHdmcjhRLVYzVGhBN1JoMVhzZHliWVpsZUdka2Nra3ZKdmpyUVhFMFpqRlRsSDJ2MFVCQVNEMFJuMnZ2OUNhWDUwRWFUQ1dPRTlVbEkwOGczYnlPYVpvQmVfREs5dVo5eklQV084NGxudw?oc=5",
-              "fonte": "Curiosidades Gerais",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Holandesa conquista o ouro com atuação surpreendente e viraliza por motivo inusitado - Terra",
-              "resumo": "Holandesa conquista o ouro com atuação surpreendente e viraliza por motivo inusitado Terra",
-              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPazZFbWtnOG5CYjJqc2pLa3VBU280SGRocTFiRGtibEp2SXp5WklGTXB6NHhHMW9lbmQ2RkEwc2Z4QklDYnVfbDZxak8wVjVKREtCU0Q5YVVEUWhiT01vWUcxOVNabTRNWkxaZ1h1QzZZbUc3Y2tHNV84SWt3cU0zSjN2UGhEaVROVjBSa2FMaVdhMkdRd1NxbUYxa201YVExMnR1LUYtLWc4VjhZNmxYZzJEdHE5QS1DRXhXRUo0Nko2ZVJ1czdnYVZEdlpva25weDdqdHItTC1UUEcwVGNSSVd3cDEwb09QbUEzS0RwcnA0Z1JHQUhzc25IZElhRF8xRWlGSTdQeWMzc0Nm?oc=5",
-              "fonte": "Curiosidades Gerais",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Elymar Santos surpreende o público com live em lugar inusitado; saiba qual - Notícias da TV",
-              "resumo": "Elymar Santos surpreende o público com live em lugar inusitado; saiba qual Notícias da TV",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVdiTTVxMHJUYThPWV9pYlBqVnMtaFktbkxjVVlneTMwNkh6MHgyeFdkRGdRMURRVlV3NU9jdnN3eHh6UWUxdDRpOHVVUEQ1bXFxSXpwUTFKLTFJOVZzRjV6d1pQREUzWGRNUmhqSmhKbjJhRmlrYmdxVVVjY21jNnlCcW40dDVrRWdDeENyMVQwN2Q4RnpuS01QNHE1UG1iN2VnTnlPeG9IbzIwRlJFZDJlZlE5R29IMm9CcjZyRDViMnFFVm5qVHBUYi0?oc=5",
-              "fonte": "Curiosidades Gerais",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Internacional surpreende com vaga inusitada para mascote e exige até inglês e Pacote Office - Agência GBC",
-              "resumo": "Internacional surpreende com vaga inusitada para mascote e exige até inglês e Pacote Office Agência GBC",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzJlcXVkTEgxYlhibVlIakZhWDgyM0FwSVRDSExJSmczaEdhQm43alo5ZllYazc1ZVltUWl3SkZ4T01XNlVWbi1EOTQxRUdFQlBHak5DbkFqOTFDdTdZdGgzem44emxkZ0RkT0lva0UxamtmNnJaTGNXbWhTNjVtbkVrR2RsZzV6QXFUVXdPaGVtN1NjeURhTWd0ZjJFY3ZraFhWZkg4eERxWmM5cVh3QUVOX0p3T1ZDbWI1cEFwSGtQcTNt?oc=5",
+              "titulo": "Equipe do WorldTour com uniforme inusitado na Liège-Bastogne-Liège, time mudará completamente suas cores - Giro do ciclismo",
+              "resumo": "Equipe do WorldTour com uniforme inusitado na Liège-Bastogne-Liège, time mudará completamente suas cores Giro do ciclismo",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRDdXX2xSSURxNkpMRlhtb3FIX0p1Ulk5X2NObDFCbGFaeXJqaFRoTVdnS3Q2eGpLdEVqdmdBZWdSTGZHTzUzRjFUTGVXZzUzYnRGbW5OZUdaVFhTcHJyYks0RnIyRGVWbzUyenl0RzdRbW0xZjJWS1UyWm5jS3ViODBJV2REV0J0X3VBOUpYcVFiVWtUZG5xdWxpbTFyMXVoYUFXMkhMLWtVX0diZjMtOGhaQ0N1TTRxQV9JN0ZQV3NPUEgzekFjVlR3dDFtVy1nNFdZbEF6Rkxpdm9UTHNLOWtCcG8?oc=5",
               "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
