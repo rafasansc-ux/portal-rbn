@@ -1,9 +1,54 @@
 {
-  "gerado_em": "2026-08-23T08:10:13.043055",
+  "gerado_em": "2026-08-23T11:24:31.666313",
   "data": "23/08/2026",
-  "hora": "08h10",
-  "total": 34,
+  "hora": "11h24",
+  "total": 40,
   "editorias": [
+    {
+      "nome": "Local",
+      "fontes": [
+        {
+          "nome": "OCP News",
+          "noticias": [
+            {
+              "titulo": "Santa Catarina cria plano para proteger animais de produção diante dos riscos do Super El Niño",
+              "resumo": "Santa Catarina criou um novo Plano de Contingência para enfrentar possíveis impactos do fenômeno climático conhecido como Super El Niño, […] The post Santa Catarina cria plano para proteger animais de produção diante dos riscos do Super El Niño appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/santa-catarina-cria-plano-para-proteger-animais-de-producao-diante-dos-riscos-do-super-el-nino",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Com hat-trick de reforço, João Pessoa abre vantagem nas quartas do Estadual de Futebol Amador",
+              "resumo": "O João Pessoa deu um passo importante em busca da classificação à semifinal do Campeonato Catarinense de Futebol Amador. Em […] The post Com hat-trick de reforço, João Pessoa abre vantagem nas quartas do Estadual de Futebol Amador appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/com-hat-trick-de-reforco-joao-pessoa-abre-vantagem-nas-quartas-do-estadual-de-futebol-amador",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Morre Manoel Dias, fundador do PDT e ex-ministro do Trabalho, aos 88 anos",
+              "resumo": "Morreu na noite deste sábado (22), em Florianópolis, Manoel Dias, conhecido como Maneca, aos 88 anos. A informação foi divulgada […] The post Morre Manoel Dias, fundador do PDT e ex-ministro do Trabalho, aos 88 anos appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/morre-manoel-dias-fundador-do-pdt-e-ex-ministro-do-trabalho-aos-88-anos",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Usuários relatam instabilidade no Pix e falhas em aplicativos de bancos neste domingo",
+              "resumo": "Usuários relataram dificuldades para realizar transferências via Pix na manhã deste domingo (23). A plataforma Downdetector, que monitora reclamações sobre […] The post Usuários relatam instabilidade no Pix e falhas em aplicativos de bancos neste domingo appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/usuarios-relatam-instabilidade-no-pix-e-falhas-em-aplicativos-de-bancos-neste-domingo",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo",
+              "resumo": "A Mega-Sena sorteia neste domingo (23) prêmio estimado em R$ 58 milhões. As seis dezenas do concurso 3.048 serão sorteadas […] The post Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        }
+      ]
+    },
     {
       "nome": "Estado",
       "fontes": [
@@ -11,9 +56,9 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "VÍDEOS: NSC Notícias de quinta-feira, 20 de agosto de 2026",
-              "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-              "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/08/20/videos-nsc-noticias-de-quinta-feira-20-de-agosto-de-2026.ghtml",
+              "titulo": "Morre Manoel Dias, ex-ministro do Trabalho e um dos fundadores do PDT, aos 88 anos",
+              "resumo": "Ex-deputado Manoel Dias, em Sessão Especial na Alesc, em 2019 Rodolfo Espínola/Alesc/Divulgação Manoel Dias, um dos fundadores do PDT e ex-ministro do Trabalho e Emprego, morreu no sábado (22), aos 88 anos, em Florianópolis. O político, ex-deputado estadual por Santa Catarina, estava internado após agravamento do seu quadro de saúde em decorrência de um acidente vascular cerebral (AVC) sofrido em 2025. A causa da morte não foi divulgada.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/23/morre-manoel-dias-ex-ministro-do-trabalho-e-um-dos-fundadores-do-pdt-aos-88-anos.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -23,37 +68,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Mudança no mapa da construção libera torres de até 150 metros nos bairros de Balneário Camboriú e amplia arrecadação na ‘Dubai brasileira’",
-              "resumo": "Liberação de torres de até 150 metros fora da orla e do centro redistribui o crescimento imobiliário para os bairros do município O post Mudança no mapa da construção libera torres de até 150 metros nos bairros de Balneário Camboriú e amplia arrecadação na ‘Dubai brasileira’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/infraestrutura/mudanca-libera-torres-150-metros-balneario-camboriu/",
+              "titulo": "Confira o resultado da Timemania 2432 de hoje, domingo (23/8)",
+              "resumo": "Concurso 2432 da Timemania sorteia R$ 9,5 milhões; verifique se você foi um dos ganhadores O post Confira o resultado da Timemania 2432 de hoje, domingo (23/8) apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/loterias/confira-o-resultado-da-timemania-2432-de-hoje-domingo-23-8/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Por que motoqueiros não podem trafegar na Ponte Hercílio Luz? Entenda os riscos do piso de grade de aço em Florianópolis",
-              "resumo": "Estrutura de grelha metálica reduz a aderência dos pneus e pode causar lesões graves e amputações em quedas; PMRv monitora acessos por câmeras e infração gera multa O post Por que motoqueiros não podem trafegar na Ponte Hercílio Luz? Entenda os riscos do piso de grade de aço em Florianópolis apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/transito/por-que-motoqueiros-nao-podem-trafegar-na-ponte-hercilio-luz-entenda-riscos-do-piso-de-grade-em-florianopolis/",
+              "titulo": "Resultado da Lotofácil 3769: veja os números sorteados hoje (23/8)",
+              "resumo": "Descubra se você garantiu o prêmio de R$ 5 milhões no concurso 3769 da Lotofácil de hoje! O post Resultado da Lotofácil 3769: veja os números sorteados hoje (23/8) apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/loterias/resultado-da-lotofacil-3769-veja-os-numeros-sorteados-hoje-23-8/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Criciúma x Fortaleza: onde assistir, horário e detalhes sobre a partida válida pela Série B",
-              "resumo": "Criciúma recebe o Fortaleza buscando se manter na liderança da Série B do Campeonato Brasileiro O post Criciúma x Fortaleza: onde assistir, horário e detalhes sobre a partida válida pela Série B apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/criciuma-x-fortaleza-onde-assistir-horario-e-detalhes-sobre-a-partida-valida-pela-serie-b/",
+              "titulo": "Morre aos 74 anos comandante do Barco Pirata e figura conhecida por gerações na pesca de SC: ‘O mar perdeu um grande marinheiro’",
+              "resumo": "Joaquim Francisco Rosa, de 74 anos, era conhecido pela experiência na pesca e por comandar o famoso Barco Pirata de Balneário Camboriú, no Litoral Catarinense O post Morre aos 74 anos comandante do Barco Pirata e figura conhecida por gerações na pesca de SC: ‘O mar perdeu um grande marinheiro’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/turismo/comandante-do-barco-pirata-de-balneario-camboriu-morre-aos-74-anos/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Fórum de João Dória reúne empresários num hotel de luxo em Copacabana",
-              "resumo": "Empresário Delton Batista representa Santa Catarina e Rio Grande do Sul na 25ª edição do Fórum Empresarial Lide O post Fórum de João Dória reúne empresários num hotel de luxo em Copacabana apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/negocios/forum-de-joao-doria-reune-empresarios-num-hotel-de-luxo-em-copacabana/",
+              "titulo": "Haaland surge com cabelo raspado e amigos reagem: ‘Perdeu uma aposta?’",
+              "resumo": "Jogador destacou que decisão de mudar o visual vem diante da nova temporada do City, na Premier League O post Haaland surge com cabelo raspado e amigos reagem: ‘Perdeu uma aposta?’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/famosos/haaland-surge-com-cabelo-raspado-e-amigos-reagem-perdeu-uma-aposta/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Praia de 50 metros de comprimento em SC encanta turistas com mar calmo e cenário paradisíaco",
-              "resumo": "Pequena faixa de areia em formato de ferradura fica a menos de 1 km do Centro Histórico de Garopaba, no Sul de SC, e reúne natureza, história e tranquilidade O post Praia de 50 metros de comprimento em SC encanta turistas com mar calmo e cenário paradisíaco apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/turismo/praia-de-50-metros-de-comprimento-encanta-turistas/",
+              "titulo": "Petrobras pode valer R$ 811 bilhões até o fim do ano após descoberta no Amapá",
+              "resumo": "Petrobras pode ganhar até R$ 179 bilhões em valor de mercado com avanço da exploração no Amapá O post Petrobras pode valer R$ 811 bilhões até o fim do ano após descoberta no Amapá apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/economia/petrobras-pode-valer-r-811-bilhoes-ate-o-fim-do-ano-apos-descoberta-no-amapa/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -68,37 +113,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Inscrições para concurso da Prefeitura de Conceição, PB, com salários de até R$ 7 mil terminam neste domingo (23)",
-              "resumo": "Investigação apontou ausência de detectores de metais e fotos de cadernos de prova em redes sociais Reprodução/Freepick As inscrições para o concurso da prefeitura de Conceição, no Sertão da Paraíba, com 129 vagas se encerram neste domingo (23). As oportunidades são de níveis básico, médio, técnico e superior e estão distribuídas em diferentes áreas da administração municipal. Os salários oferecidos chegam a R$ 7 mil.",
-              "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/23/inscricoes-para-concurso-da-prefeitura-de-conceicao-pb-com-salarios-de-ate-r-7-mil-terminam-neste-domingo-23.ghtml",
+              "titulo": "Resultados das Loterias Caixa",
+              "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+              "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Aprenda a receita do curau tradicional",
-              "resumo": "Aprenda a receita do curau tradicional A família Guilherme, formada por “apaixonados por milho”, compartilha com o Caminhos do Campo a receita do tradicional curau de milho verde. Confira: ✅ Siga o canal do g1 PR no WhatsApp Ingredientes 5 espigas de milho bem maduras, cortadas; 800 ml de leite; Açúcar a gosto; 1 pitada de sal. Curau de milho. Caminhos do Campo Modo de preparo Bata o milho, cortado, com leite no liquidificador.",
-              "link": "https://g1.globo.com/pr/parana/caminhos-do-campo/receitas-paranaenses/noticia/2026/08/23/aprenda-a-receita-do-curau-tradicional.ghtml",
+              "titulo": "Bombeiro ferido em desabamento durante combate a incêndio tem perna amputada em SP",
+              "resumo": "Policial de folga e bombeiro ficam feridos após parte de laje desabar em incêndio O bombeiro de 45 anos que ficou gravemente ferido após o desabamento de parte de uma laje durante o combate a um incêndio, em Votuporanga (SP), teve uma perna amputada no final da tarde de sexta-feira (22).",
+              "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/23/bombeiro-ferido-em-desabamento-durante-combate-a-incendio-tem-perna-amputada-em-sp.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Da informação ao apoio emocional: doulas ganham espaço e têm profissão regulamentada por lei",
-              "resumo": "Doulas ganham registro profissional e têm autorização para acompanhar partos em hospitais As doulas são profissionais que oferecem apoio às gestantes antes, durante e depois do parto. O trabalho vai além do suporte emocional e também envolve orientações informativas e medidas de conforto ao longo de todo o processo. A partir da Lei nº 15.",
-              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/23/da-informacao-ao-apoio-emocional-doulas-ganham-espaco-e-tem-profissao-regulamentada-por-lei.ghtml",
+              "titulo": "Seguidores de Lito Sousa fazem campanha nas redes sociais para incluí-lo em estudo clínico com medicamento experimental",
+              "resumo": "Campanha nas redes sociais para a inclusão do influencer Lito Sousa em um estudo clínico Reprodução/Instagram Seguidores do influenciador Lito Sousa deram início a uma mobilização nas redes sociais para a inclusão do piloto em um estudo experimental com o medicamento ION717, da farmacêutica Ionis Pharmaceuticals. Lito foi diagnosticado com a doença Creutzfeldt-Jakob (DCJ), uma condição neurológica rara, grave e de rápida progressão.",
+              "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/23/seguidores-de-lito-sousa-fazem-campanha-nas-redes-sociais-para-inclui-lo-em-estudo-clinico-com-medicamento-experimental.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "‘Não se Cale’: escolas recebem ações de combate à violência contra a mulher no interior de SP",
-              "resumo": "Violência contra mulher: como pedir ajuda Agosto é o mês de prevenção e combate à violência contra as mulheres. A campanha Agosto Lilás reforça as medidas de segurança e as formas de denunciar as violências que atingem meninas e mulheres. Em 2026, a campanha reforça ainda os 20 anos da Lei Maria da Penha, que foi um marco no país no combate à violência doméstica.",
-              "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/23/nao-se-cale-escolas-recebem-acoes-de-combate-a-violencia-contra-a-mulher-no-interior-de-sp.ghtml",
+              "titulo": "Inscrições para a 7ª Mostra de Dança de Tatuí estão abertas; saiba como se inscrever",
+              "resumo": "Evento não possui caráter competitivo Divulgação/Prefeitura de Tatuí Tatuí (SP) abriu as inscrições para a 7ª Mostra de Dança da cidade. O evento, que faz parte do calendário do bicentenário do município, acontece nos dias 11 e 12 de setembro, no Teatro Procópio Ferreira. O encontro é exclusivamente artístico e não possui competição, com o objetivo de promover o intercâmbio entre academias, escolas, grupos e dançarinos independentes.",
+              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/23/inscricoes-para-a-7a-mostra-de-danca-de-tatui-estao-abertas-saiba-como-se-inscrever.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "De frango inteiro a ‘bomba’: prato com até meio quilo de recheio vira aposta de amigos no interior de SP",
-              "resumo": "Bomba de frango: amigos se unem para comprar marca com prato inovador Um frango inteiro, desossado, recheado com até meio quilo, amarrado e assado lentamente: o resultado é uma espécie de “bomba” que ganhou diferentes sabores e virou negócio para dois amigos que decidiram trocar a área administrativa pelo ramo da alimentação em São José do Rio Preto (SP). Denise Tremura, de 49 anos, e Luciano Marcelo, de 52, assumiram a marca em junho deste ano.",
-              "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/23/de-frango-inteiro-a-bomba-prato-com-ate-meio-quilo-de-recheio-vira-aposta-de-amigos-no-interior-de-sp.ghtml",
+              "titulo": "MGC-383 será interditada para obra entre Itajubá e Maria da Fé a partir de segunda-feira; veja rota alternativa",
+              "resumo": "MGC-383 será interditada para obras entre Itajubá e Maria da Fé a partir de segunda-feira A MGC-383 será totalmente interditada a partir de segunda-feira (24), no km 368, entre Itajubá e Maria da Fé, no Sul de Minas. Segundo o Departamento de Estradas de Rodagem de Minas Gerais (DER-MG), o bloqueio será necessário para a execução de uma obra de contenção de encosta no trecho.",
+              "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/23/mgc-383-sera-interditada-para-obra-entre-itajuba-e-maria-da-fe-a-partir-de-segunda-feira-veja-rota-alternativa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -108,23 +153,23 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
-              "resumo": "Leide se tornou influenciadora e garota propaganda Reprodução / TV TEM Sem leilão ou competição, a Leide e o Xerife ganharam reconhecimento de um jeito fora do convencional. Mais do que gado, eles são influenciadores na região noroeste do estado de São Paulo; cada um com seu estilo de conteúdo. Leide, uma vaca do município de Guapiaçu (SP), se tornou influenciadora e garota propaganda.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/bovinos-influenciadores-conheca-a-vaca-leide-e-o-touro-xerife.ghtml",
+              "titulo": "Mega-Sena, concurso 3048: confira os números sorteados",
+              "resumo": "Como funciona a Mega-Sena? O sorteio do concurso da Mega-Sena foi realizado neste domingo (23), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 57.261.598,09 milhões.",
+              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/23/mega-sena-concurso-3048-confira-os-numeros-sorteados.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Variedade de uva italiana começa a ser produzida em São Roque",
-              "resumo": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. Reprodução / TV TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado de São Paulo, com tradição centenária e forte investimento em enoturismo.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
+              "titulo": "Trump diz 'basta' em reação às tarifas de retaliação do Canadá",
+              "resumo": "A guerra comercial entre Estados Unidos e Canadá ganhou um novo capítulo neste domingo (23), quando o presidente americano Donald Trump criticou duramente as medidas de retaliação anunciadas por Ottawa em resposta às novas tarifas impostas por Washington. As contramedidas canadenses entrarão em vigor em 8 de setembro e atingirão setores como aço, produtos lácteos, indústria de papel, máquinas agrícolas e eletrônicos.",
+              "link": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mega-Sena pode pagar R$ 58 milhões neste domingo; g1 transmite ao vivo",
-              "resumo": "Como funciona a Mega-Sena? O concurso 3.042 da Mega-Sena pode pagar um prêmio de R$ 58 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (9), em São Paulo. Clique aqui para seguir o canal de Loterias do g1 no WhatsApp No concurso da última quinta-feira (6), ninguém acertou as seis dezenas. O g1 transmite todos os sorteios das Loterias Caixa, ao vivo.",
-              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/23/mega-sena-pode-pagar-r-58-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
+              "titulo": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
+              "resumo": "Governo Trump conclui que Pix é 'injusto': por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora? Marcello Casal Jr/Agência Brasil Clientes de bancos brasileirosrelataram neste domigno (23) instabilidade nas operações do PIX. A plataforma Downdetector, que monitora serviços on-line, registrava, às 08h30 deste domingo, 2.431 relatos de que o serviço não estava funcionando. Às 10h50, havia 117 relatos.",
+              "link": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -134,38 +179,71 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "A ciência que transformou a pecuária brasileira em potência global",
-              "resumo": "Programa da Embrapa de melhoramento genético de gado de corte, o Geneplus, completa 30 anos; nesse período produção de carne do Brasil cresceu quase 150%",
-              "link": "https://www.cnnbrasil.com.br/agro/a-ciencia-que-transformou-a-pecuaria-brasileira-em-potencia-global/",
+              "titulo": "Dino determina que indicação de emenda por chefes de partidos seja nula",
+              "resumo": "Ministro avisa que descumprimento acarretará em punição; respostas de partidos foram encaminhadas para PF",
+              "link": "https://www.cnnbrasil.com.br/politica/dino-determina-que-indicacao-de-emenda-por-chefes-de-partidos-seja-nula/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Processo contra “faz-tudo” do PCC terá 50 testemunhas ouvidas em outubro",
-              "resumo": "Audiências estão previstas para ocorrer durante quatro dias, antes dos interrogatórios dos 14 réus; processo tramita na Justiça Federal do Paraná",
-              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/processo-contra-faz-tudo-do-pcc-tera-50-testemunhas-ouvidas-em-outubro/",
+              "titulo": "Fabiana Justus encontra doador de medula pela 1ª vez: “Salvou minha vida”",
+              "resumo": "Nas redes sociais, a influenciadora compartilhou o registro ao lado de Nathan; assista",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/fabiana-justus-encontra-doador-de-medula-pela-1a-vez-salvou-minha-vida/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Não é só perda de peso: estudo mostra novo papel da gordura na obesidade",
-              "resumo": "Estudo francês descobre que enzima conhecida desde 1964 — a LHS — regula a saúde do tecido adiposo, além de liberar a energia da gordura",
-              "link": "https://www.cnnbrasil.com.br/saude/nao-e-so-perda-de-peso-estudo-mostra-novo-papel-da-gordura-na-obesidade/",
+              "titulo": "Vendedor de carros da Bélgica se torna príncipe após teste de DNA",
+              "resumo": "Aos 26 anos, Clément Vandenkerckhove foi reconhecido como filho do irmão do rei, o Príncipe Laurent",
+              "link": "https://www.cnnbrasil.com.br/internacional/vendedor-de-carros-da-belgica-se-torna-principe-apos-teste-de-dna/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Por liderança, Palmeiras tenta manter tabu de 11 anos contra o Vasco",
-              "resumo": "Clube paulista vê Flamengo se aproximar na tabela e não pode mais perder pontos",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/por-lideranca-palmeiras-tenta-manter-tabu-de-11-anos-contra-o-vasco/",
+              "titulo": "Vídeo mostra momento em que ataque aéreo israelense atinge cidade em Gaza",
+              "resumo": "Explosões no território palestino resultaram em duas mortes, incluindo a de um garoto de quatro anos, e sete feridos",
+              "link": "https://www.cnnbrasil.com.br/internacional/video-mostra-momento-em-que-ataque-aereo-israelense-atinge-cidade-em-gaza/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Encceja 2026: saiba o que é preciso levar para a prova deste domingo (23)",
-              "resumo": "Candidatos devem apresentar um documento oficial com foto e levar caneta esferográfica de tinta preta, em material transparente",
-              "link": "https://www.cnnbrasil.com.br/educacao/encceja-2026-saiba-o-que-e-preciso-levar-para-a-prova-deste-domingo-23/",
+              "titulo": "Análise: Putin tenta evitar “maldição de agosto” da Rússia em meio à guerra",
+              "resumo": "Mês tem sido historicamente um período de notícias dramáticas no país, mas líder russo tem tentado diminuir pessimismo",
+              "link": "https://www.cnnbrasil.com.br/internacional/analise-putin-tenta-evitar-maldicao-de-agosto-da-russia-em-meio-a-guerra/",
               "fonte": "CNN Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "Agência Brasil",
+          "noticias": [
+            {
+              "titulo": "Pix enfrenta instabilidade na manhã deste domingo",
+              "resumo": "O sistema de pagamentos instantâneos Pix apresentou instabilidade na manhã deste domingo (23), provocando falhas em diversos bancos e gerando milhares de reclamações de usuários em todo o país. O problema afetou transferências e pagamentos em tempo real, com impacto imediato sobre consumidores e empresas. De acordo com o site DownDetector, que monitora interrupções em serviços digitais, o problema começou às 6h50.",
+              "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Justiça mantém prisão de seguranças investigados por morte de ciclista",
+              "resumo": "A Justiça do Rio manteve a prisão temporária dos seguranças Davi Santos Machado e Jorge Luiz Machado Dias, investigados pela morte por espancamento de Cláudio Rafael Landeiro no dia 11 de agosto, em Copacabana. Ele foi confundido com um ladrão de bicicleta. Na audiência de custódia, neste sábado (22), o juiz Rafael de Almeida Rezende considerou que os mandados de prisão foram regularmente expedidos e permanecem dentro do prazo de validade.",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Novos editais fortalecem Pontões e Pontos de Cultura no Rio",
+              "resumo": "O governo fluminense está com inscrições abertas para editais destinados à seleção de dois Pontões de Cultura e 44 Pontos de Cultura, que atuarão no desenvolvimento de ações visando fortalecer a Política Nacional de Cultura Viva (PNCV), com recursos da Política Nacional Aldir Blanc (PNAB) no total de R$ 13,6 milhões. As inscrições podem ser feitas pela plataforma Desenvolve Cultura.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/novos-editais-fortalecem-pontoes-e-pontos-de-cultura-no-rio",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Conheça as atribuições do presidente e do vice-presidente da República",
+              "resumo": "O Brasil se prepara para ir às urnas e, mais uma vez, escolher pela via democrática aqueles que ocuparão os maiores cargos do Poder Executivo – tanto no âmbito federal quanto no estadual. O futuro do país será definido a partir do voto de cada cidadão. Nas eleições de 2026, será escolhida uma chapa para presidente e vice-presidente da República. O primeiro turno está marcado para 4 de outubro. Se houver segundo turno, será em 25 de outubro.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica",
+              "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
           ]
@@ -179,43 +257,10 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Quem são candidatos a senador por Santa Catarina (SC) nas eleições 2026 - JOTA Info",
-              "resumo": "Quem são candidatos a senador por Santa Catarina (SC) nas eleições 2026 JOTA Info",
-              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVUQjNMRHdUTlNHVkNDVEZXZEhXV3pzSFJ1WmV2a3VSMkEyU0E0V2ktMkRqLTJTRTBhWjVIdVlEVTZPSDZOU2pRdTR0VWo3R0xJamhXWlYyQlh6UkRrbElYcWNKNVNKU1hyN1lPTjRvVFZBZnlEV3ZMaWpielFhX0NCOC1yeEVjNXdEMHVnOVZjY0l3akpENjZYVXNfQ3JHdHZrSmhWb3MzVkFiRWNhMFdXTUEyZEFEbno0RnJFSDBtUQ?oc=5",
+              "titulo": "Mulher mais velha da eleição disputa Senado por Santa Catarina - Diário do Iguaçu",
+              "resumo": "Mulher mais velha da eleição disputa Senado por Santa Catarina Diário do Iguaçu",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVVSUXNIOEJBd0JPQ2tVMkdMNllLeXIyS1JGVHVSbUZBNFhsbVo5RG1EX3JkcV9qVHZkR3RZSFp2VktwZWtwYmxRVTFDVW9NZV95Um5YcnFXb21MY0RERkNvZ2NjWEFoX25rTzRKVjRvNG9jaDRnWUZDamh1NVQzbnp3UjhqNE9XYnRXWVFlc2R5TzR4NkJfSDVVS3YzUTAyc1d2Z1lFNE42UHJLdkZEYWVlakgzd2RXMzB3SmdXRHBJQWxaVUlXUkxDdXltcjhLRXJLdVVR?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Quem são os pré-candidatos ao Senado por SC nas Eleições 2026 - NSC Total",
-              "resumo": "Quem são os pré-candidatos ao Senado por SC nas Eleições 2026 NSC Total",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVZTU9lUHBaQmZFYTRpa29jUmNZenhPdEZSTEY1MzFIeXJBNDkxTHVpS1hDUWdJN3lHRWxSc0VuZ2hpY0w2R1NrR1otWi1JUUpKOFV2a1BveFdQRlBwVElNTlpxQ3ZicDlzc0VHT0dtcDBqS0QwSjRDZE5FY0liZw?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Bolsonarista de Santa Catarina, relator do PL 'da dosimetria' no Senado admite incluir anistia no texto - Jornal do Brasil",
-              "resumo": "Bolsonarista de Santa Catarina, relator do PL 'da dosimetria' no Senado admite incluir anistia no texto Jornal do Brasil",
-              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdDFJREs2VDhUYVpTLTQxd2ltZGE4SElxbzVSSFlJYUppZFAxVUxPX3pJSEZCT29mRS1USU16R2VpSVVFbWtscGxtSTRBVUZ2X3Y5Q2QxcTdQV3A5RFRJNXBZak5DcElkalNyWEZGcmtlM0JxOER5cm9xWldFUVNoT1pId3h5S1ZzMWNhTWQwVHhYT3o5TDNOUnd4RHZRSWpXa0doWUFzNmVZc29vVEstaXpwblRmcFRUeXItbmx4RjNZUlB3VHFvbDh4YVF2QWxaWUYtellfdGF0ZXhjeHNDMHhTbUNYYms0R1VLd09qWm0?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Morre o senador catarinense Luiz Henrique da Silveira - O GLOBO",
-              "resumo": "Morre o senador catarinense Luiz Henrique da Silveira O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUZTWWlCRGtkTXN6WGxaeU5STlkwTVhBdG5rZXFjQ3d5S1FMR21yQlZuV1cxYXdUMkx4Y2tmWDUtSmhHa3U1SmRQQXZOS0VIRFdSeEJrcVBfcjhVVTdsVXZkNEhnc0ZxdG5fcHl5bzY4MXBLX0ZoOEF2RFhsMDRxV0J5RjlTVlpOSWZWRWtFZ0hnOTlic2NINTRB0gGoAUFVX3lxTE94Z21NTnM2OVgyNExSZEJ0dWJIN2EzVUhOTURscjg4T05QWjJVbE5GZEtncmc3V0hKTHRySmdVV1RqTjBmN1RXSjl0YS1vWGRWMm9SdnNoWlYwRjFDN0FvY3JNeXZUZ0pZS1pHT0J0d0Rpc3RiVTkxcnFoZ0MtZmVnVk96ODhoTXh3QUhTbUNITTRPTjdfd09XY0RQQUlNcE4xaV8xY3hXeQ?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            }
-          ]
-        },
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos - Valor Econômico",
-              "resumo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos Valor Econômico",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ3BMYUh5Y2t6VS1Hd3cwSUtBeXFWOFdzck5CWG54M2JnbldCSjFfYXBUeXotdDh1d0FqYUd3TXBvOFlfY2p5eV9BZEg5eTBzQm84VWt0ZkFiT0I4cnlqLUhXUzRWV0FUUjd5Qko0VUZQLVM0S1hRSTkwYjdvUXVldlh3bUU2TktSaVBILTVwRlFvYXc3QWw3THRqSjlJUzFUQ2ZPdkNMX1FudVNkclAzWFZZVEFRbnhDclgyQVpwTUEtQWZBcFpTbzhmNEE1cXFSblB5LWdzQjBVY3ItcGNYZXQyMV9CeF9IcDByZFJOZ2tqc0FPc1lsNW0wQVJBYzNn0gGPAkFVX3lxTFBTTklES0VjcGRYRWo4Z1JUT0w4V0ZnOWoybVNmOVQyRmNSZjBGSFlhanZtZElkVmktbVcwYm5xa3NGanNJOXJkdVZ1WG9rdWtGYWVtUFVtaDM3TjA4MmtWWHNHLUs0elVfdl9rQmVvNTdiYUprUFRmQkxybzZERUNNQThSVjBRMU5QNnVGUnEzc3g2MXNQQ3VibVI1MWk4UUlMUkpyZm5Fb3lYeUJidzlqY2lkMk5kZzhnOGpQbXFRZ3hkR0J1TVJ0QTI5ZnBjZDBqNl81R2xoLXNDSE1MT3pMeHhCLTIyZDdhMzZSQXZOcl9jektfYTlYVXVWenlUZENfTHlwZ3JJU0kzRzBtZGs?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -229,37 +274,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Gabigol reencontra \"primeira vítima\" no Brasileiro e quer manter melhor média de gols pelo Santos",
-              "resumo": "Priorizar competição? GE Santos analisa sequência do Santos na temporada O Santos enfrenta o Mirassol neste domingo, às 18h30 (de Brasília), na Vila Belmiro, pela 24ª rodada do Campeonato Brasileiro. A partida marcará o reencontro de Gabigol com a primeira vítima dele na competição. + CTA: 🔍 adicione o ge nas suas fontes favoritas do Google Gabigol é o artilheiro do Santos na temporada e no Brasileirão, no qual marcou oito dos 17 gols em 2026.",
-              "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/23/gabigol-reencontra-primeira-vitima-no-brasileiro-e-quer-manter-melhor-media-de-gols-pelo-santos.ghtml",
+              "titulo": "Etíope bate recorde mundial e corre meia maratona abaixo dos 57 minutos",
+              "resumo": "Yomif Kejelcha bate recorde mundial de meia maratona em Buenos Aires Yomif Kejelcha fez história em Buenos Aires neste domingo (23). O etíope quebrou o recorde mundial da meia maratona ao terminar o percurso de 21 quilômetros em 56min51s. Kejelcha foi 29 segundos mais rápido que o recordista mundial anterior, Jacob Kiplimo de Uganda, que detinha a melhor marca do mundo ao completar a meia maratona de Lisboa em 57min20s em março de 2026.",
+              "link": "https://ge.globo.com/atletismo/noticia/2026/08/23/etiope-bate-recorde-mundial-e-corre-meia-maratona-abaixo-dos-57-minutos.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "\"A gente está com fome de títulos\": como Palmeiras encara críticas e nova sequência de decisões",
-              "resumo": "Gómez diz que sarrafo do Palmeiras subiu: \"A gente está com fome de vitórias, fome de títulos\" – Espero em termos de talento e qualidade técnica muito mais dos nossos jogadores, mas gostaria de ter tempo para recuperar para que joguem full energy (com máxima energia). Então quando não há full energy, full decisões, full passes, vai haver full entrega, coração e alma para servir o Palmeiras.",
-              "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/23/a-gente-esta-com-fome-de-titulos-como-palmeiras-encara-criticas-e-nova-sequencia-de-decisoes.ghtml",
+              "titulo": "Câmera em carro de Hulkenberg mostra desvio impressionante para evitar batida em Bortoleto; assista",
+              "resumo": "Nico Hulkenberg evita por pouco batida em Gabriel Bortoleto Nico Hulkenberg escapou por um triz de bater no carro de Gabriel Bortoleto quando o brasileiro rodou na pista logo após Verstappen acertar o muro no início do GP da Holanda.",
+              "link": "https://ge.globo.com/motor/formula-1/noticia/2026/08/23/camera-em-carro-de-hulkenberg-mostra-desvio-impressionante-para-evitar-batida-em-bortoleto-assista.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Corinthians começa a analisar outras renovações de contrato depois de acerto com Memphis",
-              "resumo": "Coritiba x Corinthians: informações e palpite para o jogo Encerrada a longa negociação com Memphis Depay, a diretoria do Corinthians se volta agora para as renovações de outros jogadores do elenco. + Siga o canal ge Corinthians no WhatsApp O clube tem dez atletas com contratos que terminam no fim deste ano.",
-              "link": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/23/corinthians-comeca-a-analisar-outras-renovacoes-de-contrato-depois-de-acerto-com-memphis.ghtml",
+              "titulo": "GP da Holanda: assista à corrida em Zandvoort",
+              "resumo": "GP da Holanda: assista à corrida em Zandvoort Pista holandesa se despede do calendário da F1 neste domingo. Verstappen bate, e Antonelli volta a liderar a corrida",
+              "link": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-da-holanda-a-12-etapa-da-f1-em-2026.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "São Paulo fica pessimista e vê cenário quase impossível para ter Scarpa",
-              "resumo": "Voz do Setorista - São Paulo não vai fazer proposta por Vardy Gustavo Scarpa não deve se tornar jogador do São Paulo. O clube paulista evita descartar completamente o negócio, mas já entende que somente uma reviravolta no cenário faria o acerto ser possível. As tratativas estão paradas.",
-              "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/08/23/sao-paulo-fica-pessimista-e-ve-cenario-quase-impossivel-para-ter-scarpa.ghtml",
+              "titulo": "América faz 7 no Real Nacional e garante início avassalador no Campeonato Santareno",
+              "resumo": "Aladilson foi um dos jogadores que marcou pelo América na estreia do Campeonato Santareno Redes Sociais O América estreou com o pé no acelerador no Campeonato Santareno Categoria Principal 2026. Em duelo realizado no Centro de Treinamentos do Tapajós, o Mequinha aplicou uma goleada impiedosa por 7 a 0 sobre o Real Nacional, construindo o placar com facilidade ao longo dos dois tempos.",
+              "link": "https://ge.globo.com/pa/santarem-regiao/futebol/noticia/2026/08/23/america-faz-7-no-real-nacional-e-garante-inicio-avassalador-no-campeonato-santareno.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Análise: estratégia funciona pela metade, e Remo aposta fichas nos jogos em casa",
-              "resumo": "\"Temos que pontuar para sair da situação que estamos hoje\", aponta Taliari após derrota Animado após ter arrancado um empate no último minuto contra o Internacional, o Remo foi ao Maracanã encarar o Fluminense, melhor mandante da Série A, no segundo compromisso seguido longe de Belém. A partida foi disputada na tarde do sábado, dia 22, abrindo a 24ª rodada.",
-              "link": "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/23/analise-estrategia-funciona-pela-metade-e-remo-aposta-fichas-nos-jogos-em-casa.ghtml",
+              "titulo": "Atlético-MG feminino cumpre objetivo da temporada e ainda mantém sonho na Copa do Brasil",
+              "resumo": "Atlético feminino cumpriu objetivo do ano! ge comenta Dever cumprido. Esse é o sentimento que fica para o Atlético-MG com o fim do Brasileirão Feminino. No primeiro ano do retorno à Elite, as Vingadoras mostraram poder de competitividade e deram \"check\" na meta da temporada: permanecer na Série A1. Nesse sábado, o Atlético entrou em campo pelo último compromisso do Brasileiro. Perdeu para o Flamengo por 4 a 1.",
+              "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/23/atletico-mg-feminino-cumpre-objetivo-da-temporada-e-ainda-mantem-sonho-na-copa-do-brasil.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -274,36 +319,43 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Dwayne Johnson, Shawn Mendes, Shakira... Confira os artistas gringos que amam o Brasil e merecem um CPF - Estrelando",
-              "resumo": "Dwayne Johnson, Shawn Mendes, Shakira... Confira os artistas gringos que amam o Brasil e merecem um CPF Estrelando",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDljcGNmMDNkR1ZkMjVGSHlqY1BpS1d0RkU4SGdUaEhDaGVaakFrd01OU2JlVi1SWHl6WU5rczZCcFdmNThZa3MyZEZPNmlYMUJIWHBNcTdKYzlKWDM3NnhmV1dsSUZ5cThvZXZ5ajA0SnlhVzJYVlFlWXdHVFFlS2lsc2FoNTdrLXVENlNKajBRM21LZkstZG55SnpoNTZfZ2xjN3VDMjc2U1JsQ2VzVnNRdEg2cTA2eHc?oc=5",
+              "titulo": "Eleições 2026: veja quais famosos anunciaram pré-candidatura e entrada na política - Gazeta do Paraná",
+              "resumo": "Eleições 2026: veja quais famosos anunciaram pré-candidatura e entrada na política Gazeta do Paraná",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9NRUJmM3NTR0NDNnhSbjlNeEM4RHRfZDkwTk81MFNYVUJwaDJnaW43SjFKTlJabnIzalQtZ2h6c2ZISFliWkt2NDVFaHVzRFJzdzhUX0xCNkFnanRRMkxMM2hqbHFIVG9lRmZCYXR3QWw0YnhyeHhZZy1udlJ6QTNJanl1b29NRTZuckdKeGVqNzVWY3o1MmQzWVI2WnM1c185djFqWkI2NVZMV3FlQ0hickIzbUFud1E?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Meta processa grupos no Brasil e China por golpes com famosos - Olhar Digital",
-              "resumo": "Meta processa grupos no Brasil e China por golpes com famosos Olhar Digital",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3V5dUN5aGZ4VURjWGlEaURwNE9JU2dZelAzMTVHNi1JN1hFSHhTczVpd0tVQ2p3b3FhS1MzMTNJRDZIRWJjSnZhV2E2Yllwa3ZwR19GQUJubGpJczNzYnhzVXNkcDZYQWh3SVdZM1RxY2FuQTFvLUUyNWRoc1NmekhSRTVXY1B6Tk1lQl83TlFJQ2ZweE1WWU9YTE1Nek15UGlKVWtMa1Q?oc=5",
+              "titulo": "Além de Shawn Mendes e Dua Lipa: 5 celebridades gringas que amam o Brasil - Exame",
+              "resumo": "Além de Shawn Mendes e Dua Lipa: 5 celebridades gringas que amam o Brasil Exame",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVZkU0xxMTItR3l0aVBWYkp1eS1ycVRISEVkNzB3b2kxbmN2VXpGS0xJbVI2S3N4MU11ZzYzanppUWppMkZBRE54em9VYnJ1aFlScXFaLVNITHJMV0NZNjlzOGFRMkFNVjE2cU9XS2Y1cVRuQnp1NHJ0WHhTLWRqXy1OQU1tc2hmN3lVeVplb3NCUGhFRnhTeXJkTQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Quem saiu do MasterChef Celebridades? Participante deixa reality após colocar morango no ceviche - Jornal Correio",
-              "resumo": "Quem saiu do MasterChef Celebridades? Participante deixa reality após colocar morango no ceviche Jornal Correio",
-              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2xnaThqYXpfMnZpUWVHblVRbHhIVmc3WEZ3YnJ4Q1F0ZmFDaXF4Z0lSSEd5OXpPaExYYlBxLVRTSVNNcFkxMnEzalcyUXRJeTZLM21RVjF1UFJnemdjZUFZV2dndlZYdXpibkk3VlZ4aG9jeUh4Z1YtellRVGo1WjZUWURGRmxWTTRTcy1mbFdnREh6cEZhUGxKcmd4Ym1iNjhrSk1CNU8wMzhVOUJBaGJuN2duNVRJTjRWZThlbWJ5SUUtaGUxa3FwNkF6dHVlaFN1d0RBalN2dw?oc=5",
+              "titulo": "Qual é o prêmio do MasterChef Celebridades? Saiba valor - band.com.br",
+              "resumo": "Qual é o prêmio do MasterChef Celebridades? Saiba valor band.com.br",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVpqVFpmNUt1aEFLWnBGV0xGS0ROaDBXSmFwU3dXOGxJaTMtQ2hIRHBFdnFBWXljZFZmb1JWLUc4eVdMclBNX3RYRWV3bldYbVB5Z0k3RXhfR280a0pBNFdRRTQ4LWlDV3JRSlRsRFE1bEdOX0FLMGx6UzMzWlozaElmSUxHLWN1N2Jsd0tpcFprakN5V3dKNU9BNzlpaEJES0NHZXpGN0lXY2lTNG01UWljUC1yWTdMc3hjbDFsZ2dGdVF3?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
           ]
         },
         {
-          "nome": "Cinema e Filmes",
+          "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Filme ‘O Poder do Rosário’ estreia nos cinemas em 21 de maio - Jornal O São Paulo",
-              "resumo": "Filme ‘O Poder do Rosário’ estreia nos cinemas em 21 de maio Jornal O São Paulo",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlBMTE9HSVRzYVRjQU5DLWM4bUh5eWptUnFOLU5seEVvWVk2ci1zSk5EV0FpczJaUW9aTmcxeDdTaEVmbERtUl81NFZ4SGdNVGhLaEdKM3RYdHRBUE8yVzRYZVdMOXRXOGJGYXdJSWl1c1RRMU9maVZndTFORWVKRlgzaVNNdVduU0hyYlN6dWdzRm4zUVhTejlsVQ?oc=5",
-              "fonte": "Cinema e Filmes",
+              "titulo": "Outro Canal: Globo vai explorar rivalidade Flamengo x Palmeiras no futebol em nova novela das sete - UOL",
+              "resumo": "Outro Canal: Globo vai explorar rivalidade Flamengo x Palmeiras no futebol em nova novela das sete UOL",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVy1MeVBUQlBhbzktSk9Vc0EtcEhTdUpKR1AwMENjbGQ2Z0tNemNkT2xIQzRzQ1NxUHRWa2EzSjdLdU1DbmZwMTFxRHcxdU1XV09sbXBQVGVPUEpSWjdPM1dKR3VmUFpHNTRoR3p2aFk0MnpsT0p5NHMtVS1MZUVLVjJXOEZZVzFxdUE4dWV6T1ZQREhNMmp3U29RMUczUUxjWjJNMmVuV0hSSm1nQ25iREdPcGYyTEpPYmZxaElWbWtvemhLT0JGbzZ1ZDRhUmZsN19mOFlKbl9GOVBBN1lSQkc0X18?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Novela “Avenida Brasil” voltará a ser exibida, mas não na Globo - Diário do Comércio",
+              "resumo": "Novela “Avenida Brasil” voltará a ser exibida, mas não na Globo Diário do Comércio",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWlybGZadDRMR3lJbEU2TURWY3JmRkQteVluTFBjeDdUVzlyUlhaRTlNVVVSVHJQRDY4TUdmQnYxZ2VTUUxEMmEtX0hvTHNyU0hVbzZUYjhQUGxpVHFOcTlmcC10bFc3d3FyTTNkZ3dSNXdNSUowX0NRMl92N0lqQURaVkVnUkp0WE9BT19ZYlM4MkxvbVMwc0dtUjRzQQ?oc=5",
+              "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             }
           ]
@@ -314,13 +366,13 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Ciência e Tecnologia",
+          "nome": "Saúde e Bem-estar",
           "noticias": [
             {
-              "titulo": "Achado no Marrocos revela tecnologia humana muito antes do que muita gente aprendeu na escola - Olhar Digital",
-              "resumo": "Achado no Marrocos revela tecnologia humana muito antes do que muita gente aprendeu na escola Olhar Digital",
-              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNmoxa1hIWXJneGNsbERBaXVSTnRSMVZTNERQejBKZ0NfNk5BdXlPMEFMdGIxYzFxODk0c0Y1bzJGalE5bW9naFBtNlFYSFFVR20zcEFsOWFHWGRkTzNxQnNPNjRraDFaWWk5MzVYbGNkc3FNSkUtd21GdUZhZWNMbVZSVHg1VDVEMDF3dG1hQkI5WWJiQUs2Zi1iVTM1RkVrTnlJYW5PZ1RTc0RFbkdpNkliTFdLNnhvNVJBYXJsOVY3aXI5QmZxYkRhZ0dWbHBoeDhDUXdqanRPSlFsYVVJ?oc=5",
-              "fonte": "Ciência e Tecnologia",
+              "titulo": "Brasileiros associam cosméticos a saúde e bem-estar, diz pesquisa - Guia da Farmácia",
+              "resumo": "Brasileiros associam cosméticos a saúde e bem-estar, diz pesquisa Guia da Farmácia",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3VUalRCVkMtdVlNR19ScU1LQkdpOWRhMGRsTTVSaTdrcU1aOFloMjZ0NnRwOWExV0g4OWFhUjVtZVhnOE5oSzV1WmJsazRuazlOblgyYXdWWDJOUVBZSlJ5eWRLeHhfenhjVDdPTk9RejgwdnJ5UXB6eGZKRGNmLVhlZTk4RkZZTVFMOFdhRUhmNDNrM0lFWUZNWQ?oc=5",
+              "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             }
           ]
