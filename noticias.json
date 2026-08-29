@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-29T16:38:27.496668",
+  "gerado_em": "2026-08-29T19:23:16.095374",
   "data": "29/08/2026",
-  "hora": "16h38",
-  "total": 27,
+  "hora": "19h23",
+  "total": 29,
   "editorias": [
     {
       "nome": "Local",
@@ -11,16 +11,16 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Pedestre fica ferido após ser atingido por caminhão em Massaranduba",
-              "resumo": "Um homem de 27 anos ficou ferido após um acidente envolvendo um caminhão e um pedestre na noite desta sexta-feira […] The post Pedestre fica ferido após ser atingido por caminhão em Massaranduba appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/pedestre-fica-ferido-apos-ser-atingido-por-caminhao-em-massaranduba",
+              "titulo": "Homem provoca incêndio em restaurante e deixa vítimas em estado grave em Joinville",
+              "resumo": "Um incêndio criminoso em um restaurante deixou vítimas em estado grave na manhã deste sábado (29), na Rua Mário César […] The post Homem provoca incêndio em restaurante e deixa vítimas em estado grave em Joinville appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/homem-provoca-incendio-em-restaurante-e-deixa-vitimas-em-estado-grave-em-joinville",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Enchentes no Nepal deixam 616 mortos e 2,5 mil desaparecidos",
-              "resumo": "As enchentes que atingiram regiões montanhosas do Nepal já deixaram pelo menos 616 mortos e cerca de 2,5 mil desaparecidos, […] The post Enchentes no Nepal deixam 616 mortos e 2,5 mil desaparecidos appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/enchentes-no-nepal-deixam-616-mortos-e-25-mil-desaparecidos",
+              "titulo": "Leilão da Casas Bahia tem geladeira de três portas por R$ 2 mil e atrai compradores",
+              "resumo": "Um leilão promovido pelas Casas Bahia, por meio da plataforma Kwara, vem chamando a atenção de consumidores com produtos vendidos […] The post Leilão da Casas Bahia tem geladeira de três portas por R$ 2 mil e atrai compradores appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/leilao-da-casas-bahia-tem-geladeira-de-tres-portas-por-r-2-mil-e-atrai-compradores",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -32,40 +32,52 @@
       "nome": "Estado",
       "fontes": [
         {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "Pai insatisfeito com decisão em jogo do filho atira contra carro de árbitros e é preso em SC, diz PM",
+              "resumo": "Pai insatisfeito com jogo de futebol envolvendo filho atira contra carro de árbitros e é p Um homem de 41 anos foi preso suspeito de atirar contra o carro em que estavam três árbitros de futebol em Criciúma (SC). Segundo a Polícia Militar, ele teria ficado insatisfeito com uma decisão durante o jogo em que o filho estava. O caso aconteceu por volta das 22h30 de sexta-feira (28), após o jogo infantil, no bairro Michel.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/29/pai-insatisfeito-decisao-jogo-do-filho-atira-carro-arbitros-preso-sc-diz-pm.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Ex-modelo que ‘selecionava’ mulheres para as festas de Vorcaro lamentou colapso do Banco Master e pediu trabalho: ‘será que vai ficar só para lembranças?’",
-              "resumo": "Mensagens obtidas pelo inquérito da PF mostram que ex-modelo e Vorcaro mantinham contato para 'seleção' de mulheres para festas luxuosas O post Ex-modelo que ‘selecionava’ mulheres para as festas de Vorcaro lamentou colapso do Banco Master e pediu trabalho: ‘será que vai ficar só para lembranças?’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/justica/stheve-lopes-teria-pedido-trabalho-para-daniel-vorcaro-durante-crise/",
+              "titulo": "Figueirense vence de virada, mas se despede da Série C após combinações de resultados não favorecer",
+              "resumo": "Figueirense bateu o Maranhão por 2 a 1, mas está de fora da fase final da Série C O post Figueirense vence de virada, mas se despede da Série C após combinações de resultados não favorecer apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/figueirense-vence-de-virada-mas-se-despede-da-serie-c-apos-combinacoes-de-resultados-nao-favorecer/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "JEC Futsal faz história e conquista a Copa do Brasil pela 1ª vez",
-              "resumo": "O JEC Futsal fez história e conquistou pela primeira vez a Copa do Brasil de Futsal. Jogando em […] O post JEC Futsal faz história e conquista a Copa do Brasil pela 1ª vez apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/jec-futsal-faz-historia-e-conquista-a-copa-do-brasil-pela-1a-vez/",
+              "titulo": "Flávio Bolsonaro lança ‘Tesouraço’, jogo em que usuário corta gastos do governo Lula com viagens, cartão corporativo e publicidade",
+              "resumo": "Candidato do PL à Presidência divulgou neste sábado (29) o game satírico, que usa uma tesoura para representar sua proposta de redução de despesas públicas O post Flávio Bolsonaro lança ‘Tesouraço’, jogo em que usuário corta gastos do governo Lula com viagens, cartão corporativo e publicidade apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/tesouraco-flavio-bolsonaro-lanca-jogo-para-cortar-gastos-do-governo-lula/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Copa Santa Catarina começa neste sábado com nove clubes na disputa",
-              "resumo": "Começa neste sábado a Copa Santa Catarina 2026, competição que reúne nove clubes na disputa pelo título estadual. […] O post Copa Santa Catarina começa neste sábado com nove clubes na disputa apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/copa-santa-catarina-comeca-neste-sabado-com-nove-clubes-na-disputa/",
+              "titulo": "Após Lula negar conhecê-la, lobista Roberta Luchsinger apaga rede social com registros de fotos entre eles",
+              "resumo": "Alvo de apuração da Polícia Federal, empresária costumava divulgar registros com o presidente, líderes do PT e ministros do STF; advogado afirmou que a exclusão temporária foi motivada por ofensas. O post Após Lula negar conhecê-la, lobista Roberta Luchsinger apaga rede social com registros de fotos entre eles apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/roberta-luchsinger-apaga-rede-social-apos-fala-de-lula/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Allan Aal tem aproveitamento de G6 desde que chegou ao Avaí",
-              "resumo": "O Avaí vive uma fase de recuperação sob o comando de Allan Aal na Série B do Campeonato […] O post Allan Aal tem aproveitamento de G6 desde que chegou ao Avaí apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/allan-aal-tem-aproveitamento-de-g6-desde-que-chegou-ao-avai/",
+              "titulo": "Granizo atinge cerca de 200 casas e deixa rastro de estragos em cidade de SC",
+              "resumo": "Ipuaçu, no Oeste catarinense, foi uma das cidades atingidas pelas tempestades neste sábado (29), sob influência de ciclone extratropical; equipes distribuem lonas e levantam os prejuízos O post Granizo atinge cerca de 200 casas e deixa rastro de estragos em cidade de SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/granizo-atinge-cerca-de-200-casas-e-deixa-rastro-de-estragos-em-cidade-de-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Figueirense enfrenta o Maranhão em busca da classificação na Série C",
-              "resumo": "O Figueirense recebe o Maranhão no Orlando Scarpelli em um confronto decisivo pela Série C do Campeonato Brasileiro. […] O post Figueirense enfrenta o Maranhão em busca da classificação na Série C apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/figueirense-enfrenta-o-maranhao-em-busca-da-classificacao-na-serie-c/",
+              "titulo": "Inter Miami x Montreal: onde assistir ao vivo, horário, palpite e prováveis escalações pela MLS",
+              "resumo": "Inter Miami de Messi tenta encerrar sequência sem vitórias diante de um Montreal que chega há quatro jogos sem perder na MLS O post Inter Miami x Montreal: onde assistir ao vivo, horário, palpite e prováveis escalações pela MLS apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/inter-miami-x-montreal-onde-assistir-ao-vivo-horario-palpite-e-provaveis-escalacoes-pela-mls/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -80,50 +92,38 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "MC Pipokinha é condenada após apresentação sexual diante de adolescentes em MS",
-              "resumo": "MC Pipokinha é condenada por show com conteúdo sexual em MS Divulgação A Justiça condenou a cantora Doroth Helena de Sousa Alves, conhecida como MC Pipokinha e outras quatro pessoas envolvidas na realização do evento “Esquenta do Magrão”, em Corumbá (MS), a pagar R$ 162,1 mil por danos morais coletivos.",
-              "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/29/mc-pipokinha-e-condenada-apos-apresentacao-sexual-diante-de-adolescentes-em-ms.ghtml",
+              "titulo": "Assista ao Boa Noite Espírito Santo",
+              "resumo": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
+              "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Dois réus são condenados a 196 anos de prisão por mortes em motim na antiga Cadeia Pública de Manaus",
-              "resumo": "Fabrício Duarte Araújo e Rômulo Brasil da Costa foram considerados culpados pelo Conselho de Sentença pelas mortes de quatro internos e pelas tentativas de homicídio contra outros seis presos.",
-              "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/29/dois-reus-sao-condenados-a-196-anos-de-prisao-por-mortes-em-motim-na-antiga-cadeia-publica-de-manaus.ghtml",
+              "titulo": "Foragido de operação contra tráfico e lavagem de dinheiro é preso ao sair de restaurante de luxo com a namorada influenciadora",
+              "resumo": "Yago Araujo Silva Santos Divulgação Foragido da Justiça e apontado como segundo chefe de uma organização criminosa investigada por tráfico de drogas e lavagem de dinheiro, Yago Araujo Silva Santos, de 27 anos, foi preso na noite de sexta-feira (28), em Campos do Jordão (SP). Ele estava acompanhado da namorada, a influenciadora de Uberlândia Lara Canut, que também é investigada pela Operação Luxury.",
+              "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/29/foragido-de-operacao-contra-trafico-e-lavagem-de-dinheiro-e-preso-ao-sair-de-restaurante-de-luxo-com-a-namorada-influenciadora.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Barco de pesca naufraga no litoral do RS e momento é registrado em VÍDEO; todos conseguiram se salvar",
-              "resumo": "Barco de pesca naufraga no litoral do RS; todos conseguiram se salvar Uma embarcação de pesca naufragou na manhã deste sábado (29) nas proximidades da Barra de Rio Grande, no Litoral Sul do Rio Grande do Sul. O barco, identificado como Manoel Espongero, afundou enquanto navegava em uma área próxima à saída da barra.",
-              "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/barco-de-pesca-naufraga-no-litoral-do-rs.ghtml",
+              "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+              "resumo": "Siga o EPTV 2 Ribeirão e Franca Assista às notícias deste sábado (29).",
+              "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "João Pessoa é capital do Nordeste com maior crescimento populacional, aponta IBGE",
-              "resumo": "Litoral da paraíba, praia em João Pessoa, orla de João pessoa em vista aérea Paulo Cavalcanti/Arquivo Pessoal João Pessoa é a capital do Nordeste com o maior crescimento populacional entre 2025 e 2026, segundo dados divulgados na sexta-feira (28) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O levantamento aponta que a capital paraibana alcançou 906.093 habitantes durante o período analisado.",
-              "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml",
+              "titulo": "AO VIVO: Assista ao GR2",
+              "resumo": "AO VIVO: Assista ao GR2 Acompanhe o GR2 deste sábado (29), com apresentação de João Barbosa.",
+              "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "VÍDEOS: DF1 de sábado, 29 de agosto de 2026",
-              "resumo": "Assista aos vídeos do telejornal com as notícias do DF.",
-              "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sabado-29-de-agosto-de-2026.ghtml",
+              "titulo": "Mais de 1 kg de cocaína são apreendidos em Barra Mansa",
+              "resumo": "Mais de 1 kg de cocaína são apreendidos em Barra Mansa Divulgação/Polícia Civil Mais de 1 kg de cocaína foram apreendidos na tarde deste sábado (29) em Barra Mansa (RJ). O caso aconteceu na Rua 14, no bairro Vila Independência. Os agentes foram até o local após receberem denúncias sobre pessoas, que estariam preparando drogas para venda. Segundo a Polícia Militar, os suspeitos fugiram ao perceber a presença dos policiais.",
+              "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/29/mais-de-1-kg-de-cocaina-sao-apreendidos-em-barra-mansa.ghtml",
               "fonte": "G1 Brasil",
-              "editoria": "Brasil"
-            }
-          ]
-        },
-        {
-          "nome": "G1 Economia",
-          "noticias": [
-            {
-              "titulo": "Governo prevê aporte de R$ 6 bilhões para os Correios em 2027, afirma ministro",
-              "resumo": "Correios têm prejuízo de R$ 3 bilhões nos primeiros 3 meses de 2026 Jornal Nacional/ Reprodução O ministro do Planejamento, Bruno Moretti, afirmou ao g1 que o governo federal vai incluir um aporte de R$ 6 bilhões para os Correios na Proposta de Lei Orçamentária (PLOA) de 2027. O projeto será enviado ao Congresso Nacional na próxima segunda-feira (31).",
-              "link": "https://g1.globo.com/economia/noticia/2026/08/29/governo-preve-aporte-de-r-6-bilhoes-para-os-correios-em-2027-afirma-ministro.ghtml",
-              "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
           ]
@@ -132,37 +132,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Ídolo do Flamengo, Zico diz que torce para o Vasco ganhar a Copa do Brasil",
-              "resumo": "Rival rubro-negro é o único time carioca que segue vivo na competição",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/idolo-do-flamengo-zico-diz-que-torce-para-o-vasco-ganhar-a-copa-do-brasil/",
+              "titulo": "São Paulo x Bragantino: escalações e onde assistir ao jogo do Brasileirão",
+              "resumo": "Equipes se enfrentam neste sábado (29) no Morumbis, a partir das 20h pela 25ª rodada do Brasileirão",
+              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-bragantino-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Etanol é mais competitivo que a gasolina em dez estados brasileiros",
-              "resumo": "Biocombustível se mostra mais vantajoso economicamente em regiões que concentram dois terços da demanda nacional",
-              "link": "https://www.cnnbrasil.com.br/agro/etanol-e-mais-competitivo-que-a-gasolina-em-dez-estados-brasileiros/",
+              "titulo": "Colombiano conhecido como ‘Homem-Peixe’ é encontrado vivo após sumir em travessia no PA",
+              "resumo": "Wilber Honório Muñoz estava sem ferimentos e otimista para continuar o projeto na região",
+              "link": "https://www.cnnbrasil.com.br/nacional/norte/pa/colombiano-conhecido-como-homem-peixe-e-encontrado-vivo-apos-sumir-em-travessia-no-pa/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "China diz que enchentes são “desastre mais grave” em anos na fronteira",
-              "resumo": "Chanceler chinês Wang Yi conversou por telefone com o ministro das Relações Exteriores do Nepal, Shisir Khanal",
-              "link": "https://www.cnnbrasil.com.br/internacional/china-diz-que-enchentes-sao-desastre-mais-grave-em-anos-na-fronteira/",
+              "titulo": "Masp anuncia exposição dedicada a Van Gogh para 2027",
+              "resumo": "Mostra fará parte do ciclo \"Histórias da Loucura\", parte da programação do próximo ano",
+              "link": "https://www.cnnbrasil.com.br/comportamento/cultura/masp-anuncia-exposicao-dedicada-a-van-gogh-para-2027/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Neymar se recupera de gripe e é relacionado para Santos x Corinthians",
-              "resumo": "Camisa 10 do Peixe havia sido poupado do treino de sexta-feira (28) para se recuperar de quadro gripal",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-se-recupera-de-gripe-e-e-relacionado-para-santos-x-corinthians/",
+              "titulo": "Botafogo lamenta morte do jornalista esportivo Marcos Penido, aos 74 anos",
+              "resumo": "Penidão conquistou importantes premiações ao longo da carreira e foi importante na investigação de manipulação de resultados no futebol do Rio em 1994",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/botafogo-lamenta-morte-do-jornalista-esportivo-marcos-penido-aos-74-anos/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Rock in Rio esgota dia de Elton John; veja datas com ingressos disponíveis",
-              "resumo": "Festival acontece dias 4, 5, 6, 7, 11, 12 e 13 de setembro, na Cidade do Rock, no Rio de Janeiro",
-              "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-esgota-dia-de-elton-john-veja-datas-com-ingressos-disponiveis/",
+              "titulo": "O que se sabe até agora sobre o resgate de vítimas das enchentes no Nepal",
+              "resumo": "Em comunicado, o exército do Nepal informou que 2.650 pessoas foram resgatadas no país por meio de evacuação aérea",
+              "link": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-ate-agora-sobre-o-resgate-de-vitimas-das-enchentes-no-nepal/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -172,9 +172,23 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Daniel Cargnin é ouro no Grand Slam de Lausanne de judô",
-              "resumo": "O judoca Daniel Cargnin ganhou a medalha de ouro no Grand Slam de Lausanne, na Suíça. Durante a final, na manhã deste sábado, o brasileiro superou o russo Danil Lavrentev com um ippon nos segundos finais da luta após estar perdendo o duelo durante quase todo tempo. Na primeira luta, contra Mikheili Bakhbakhashvli (GEO), o adversário foi desclassificado. Na etapa seguinte, Ibrahim Demiral (TUR) foi excluído após três advertências no golden score.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/daniel-cargnin-e-ouro-no-grand-slam-de-lausanne-de-judo",
+              "titulo": "Vacinação é ampliada em comunidades indígenas da Amazônia",
+              "resumo": "A partir deste domingo (30), uma nova fase da Operação Gota vai beneficiar 20 aldeias indígenas na Amazônia Legal. A ação amplia o acesso à vacinação em comunidades remotas, onde as condições geográficas e de transporte demandam logística aérea para o deslocamento de equipes de saúde.",
+              "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/vacinacao-e-ampliada-em-comunidades-indigenas-da-amazonia",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Podcast Crianças Sabidas volta para discutir as Eleições Gerais 2026",
+              "resumo": "O podcast jornalístico infantil Crianças Sabidas está de volta, para tratar das eleições gerais 2026. Nesta série, são apresentadas de forma lúdica questões como a diferença entre as eleições gerais e as municipais e a divisão do país em níveis de governo, a partir de perguntas enviadas por crianças.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/podcast-criancas-sabidas-volta-para-discutir-eleicoes-gerais-2026",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "TV Brasil exibe final do Brasileirão Feminino Sub-17 neste domingo",
+              "resumo": "A TV Brasil exibe ao vivo, neste domingo (30), a partir das 10h50, o confronto decisivo entre Internacional e Ferroviária pela grande final do Campeonato Brasileiro Feminino Sub-17. O duelo que vale a taça da competição nacional será disputado no Estádio Francisco Novelletto, em Porto Alegre (RS). A decisão chega totalmente em aberto após um primeiro jogo eletrizante na Arena Fonte Luminosa, em Araraquara (SP).",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-exibe-final-do-brasileirao-feminino-sub-17-neste-domingo",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -189,39 +203,68 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Athletico-PR x Paraná - Copa Paraná 2026 - Ao vivo - globoesporte.com",
-              "resumo": "Copa Paraná 2026 no globoesporte.com - acompanhe tudo sobre Athletico-PR x Paraná: escalação, informações sobre o jogo, fotos e muito mais",
-              "link": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/29-08-2026/atletico-pr-parana.ghtml",
+              "titulo": "Santa Cruz empata com o Anápolis e avança no limite para a segunda fase da Série C",
+              "resumo": "Tricolor fica no 1 a 1 no Jonas Duarte e termina em oitavo; time goiano escapa do rebaixamento na última rodada",
+              "link": "https://ge.globo.com/go/futebol/brasileirao-serie-c/jogo/29-08-2026/anapolis-santa-cruz.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Luís Carlos Cardoso conquista a prata no Mundial de Paracanoagem 2026, na Polônia",
-              "resumo": "Piauiense Luís Carlos Cardoso fatura a medalha de prata no Mundial de Paracanoagem Luís Carlos Cardoso faturou a medalha de prata no Campeonato Mundial de Canoagem e Paracanoagem de 2026. O piauiense terminou a prova na segunda posição, com um tempo de 47s25, faturando o pódio na competição internacional. O hungáro Peter Kiss conquistou o título mundial da categoria.",
-              "link": "https://ge.globo.com/pi/canoagem/noticia/2026/08/29/luis-carlos-cardoso-conquista-a-prata-no-mundial-de-paracanoagem-2026-na-polonia.ghtml",
+              "titulo": "Inter tem três desfalques para enfrentar o Bahia; veja os relacionados",
+              "resumo": "Grêmio x Chapecoense e Bahia x Inter: dupla quer se afastar do Z-4 O Inter encerrou na manhã deste sábado a preparação para enfrentar o Bahia, amanhã, na Arena Fonte Nova para enfrentar o Bahia, pela 25ª rodada do Campeonato Brasileiro. No fim da tarde, o clube divulgou a lista de relacionados para a viagem com os três desfalques já esperados por suspensão: Mercado, Bruno Gomes e Paulinho.",
+              "link": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2026/08/29/inter-tem-tres-desfalques-para-enfrentar-o-bahia-veja-os-relacionados.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Provável escalação: CRB deve ter uma mudança para jogo contra o Criciúma",
-              "resumo": "CRB se prepara para confronto contra o Criciúma O CRB deve ter uma novidade na escalação para o jogo contra o Criciúma neste domingo, às 18h, no Estádio Rei Pelé, pela 25ª rodada da Série B. O lateral-esquerdo Lucas Lovat saiu de campo contra o Juventude ainda no primeiro tempo com dores na posterior da coxa esquerda e foi substituído aos 36 minutos. Substituto imediato, Reverson foi a campo.",
-              "link": "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/29/provavel-escalacao-crb-deve-ter-uma-mudanca-para-jogo-contra-o-criciuma.ghtml",
+              "titulo": "Amazonas sai atrás, reage contra o Ypiranga-RS e se despede da Série C com empate",
+              "resumo": "Onça buscou a igualdade diante do Ypiranga-RS na última rodada, mas não avançou ao quadrangular do acesso",
+              "link": "https://ge.globo.com/am/futebol/brasileirao-serie-c/jogo/29-08-2026/amazonas-fc-ypiranga-rs.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Veja os destaques do esporte no Diário TV 1ª Edição deste sábado, 29 de agosto",
-              "resumo": "Suzano Vôlei vence Praia Grande e mantém 100% no Campeonato Paulista Mogi Basquete enfrenta São José nas quartas de final do Campeonato Paulista + Leia outras notícias do esporte do Alto Tietê",
-              "link": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/29/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-deste-sabado-29-de-agosto.ghtml",
+              "titulo": "Atacante do Atlético-MG desencanta e encerra jejum de mais de um ano",
+              "resumo": "Aos 24 min do 1º tempo - gol de dentro da área de Thiago Borbas do Atlético-MG contra o Vitória Um ano e um mês depois, Thiago Borbas voltou a festejar um gol. Desencantou no Atlético-MG no primeiro tempo do duelo contra o Vitória, na Arena MRV, pelo Campeonato Brasileiro. + 🔍 Adicione o ge nas suas fontes favoritas do Google O gol saiu aos 24 minutos.",
+              "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/29/atacante-do-atletico-mg-desencanta-e-encerra-jejum-de-mais-de-um-ano.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Liverpool fica atrás duas vezes, mas empata com o Nottingham Forest",
-              "resumo": "Equipe de Andoni Iraola não consegue a primeira vitória na Premier League. Igor Jesus é titular no Forest e participa do primeiro gol",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/29-08-2026/Liverpool-nottingham-forest.ghtml",
+              "titulo": "Com dois de Emerson Galego, Figueirense bate o Maranhão, mas não avança na Série C",
+              "resumo": "Resultado em Florianópolis deixa Furacão a um ponto do G-8",
+              "link": "https://ge.globo.com/sc/futebol/brasileirao-serie-c/jogo/29-08-2026/figueirense-maranhao.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Entretenimento",
+      "fontes": [
+        {
+          "nome": "Famosos e Celebridades",
+          "noticias": [
+            {
+              "titulo": "10 artistas brasileiras contemporâneas que você precisa conhecer - CNN Brasil",
+              "resumo": "10 artistas brasileiras contemporâneas que você precisa conhecer CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd09qczRvcWRpdXlrM19lTjQyYml2b3JZV0ZBVmZUZy14RkVnV3ByTUZYR1V6M0c3UE1Edk8ydy03d2dXbnlCMTAxZlhKNjREV3l1Zm1veVdhVXNRWXBDYkZfeUtVUnpDYXdIeTFhYl95NlJjZlFrc255Zy1sb3dZYVE4Mk1NOU9wWGtVMDBranU3VnBUTmJsdEQ0b291VGlIaXR5endxSzlMWV95OFBEelZDUHZkWHdqVUt0RA?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Música",
+          "noticias": [
+            {
+              "titulo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal - O Liberal",
+              "resumo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal O Liberal",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVW00TFhiWEhMYWFuc2lISW5ZRHlvRG5mWDhlS18zbk5NT25EaE1HdFNEdW9YRHd5b2ZoZVVwRE0tMVhXQXI1SGxzUFg2eDVXUDE5VE5YbmNXSkUzRUZXX2gzLW4wNDlzVVBkOHhKRk9ldlV1bDRVSnZIY2JsME4xT2lJOXVsSVJKZTVoT2wzajlTQWVvRVBRY0JGYno1T1d3MWNlRHJwRzViUkp3b3dsLUdGaEFqR1Z6TXNaQlhiTXdzcW15NGR3REZ30gHPAUFVX3lxTFBwRzJUdG1MbW1iTDNfc1pfb2xpa3N3MWlYa0tWU2ktRTJfU1h4OHF4b3pyWGt5UUw3VmluWUxkTkJOb2h0R2hIRWxWclJMVEg0R3VwY2VaQWlQcVRzYVhXOXd2ZGpHXzFWYTdhTFRzWm9NQzloRG42a0hnYUR0UzQtdUttSFZrVUx2elUyWlZkVXJjSllYSDBzeEpRS3hISTNYQnV3WDFIdDFJbWJjSldkeE1uX3hjdUVHaVNhVmE5RHYyOG5ZeDlESVdKSnpfcw?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
             }
           ]
         }
@@ -231,31 +274,12 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Ciência e Tecnologia",
-          "noticias": [
-            {
-              "titulo": "Nova espécie de Anaconda é descoberta na Amazônia durante filmagem com Will Smith - Rádio Itatiaia",
-              "resumo": "Nova espécie de Anaconda é descoberta na Amazônia durante filmagem com Will Smith Rádio Itatiaia",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEtBN3dsSVFIcXRkZC1lMUhYbEJDNjVjbUt4MDlpNHVxUWNjUVlQNmlmUXVhYThuRXpyNkt6Qmw4NkRENC16aGplR1pvaEN0OUF2X2ZJdkVDQ0tlTHRQdHZmMGZ3akNBUjQ1TG5JUXQ5cWVGTU9XeFRzSU9hbnV1R3BIUWJIWWhCVjhCM2RFT1kzeVl3V3RXX1d2OWt3ZEJvTVVKYUIxR0NSMGJCa1dFWUJMVjcwQlV6bmJWU2dIdXF6SGEyTUlNeG92QQ?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Nova região do cérebro humano é descoberta por cientistas - Segredos do Mundo",
-              "resumo": "Nova região do cérebro humano é descoberta por cientistas Segredos do Mundo",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0UzUEh0SWlJTDBKZm1CVUpGeW92OU5fNk1uS3BHSEZiNFpoT1NuU2RjRHZQTl8xUUI2dmNrRjNneEEtWHJabkQxUER6dnkzSUZ0TTJ6SzhveDZXblRqaWhsSTFsbkc2M0xla2pVY3FvUC03Y1dKYlM4R1ZsM21MYWJxZXhMcm5YOUJyU2Fvc1VPYnM?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
           "nome": "Saúde e Bem-estar",
           "noticias": [
             {
-              "titulo": "Ter um propósito na vida e paz interior pode melhorar a saúde do coração - CNN Brasil",
-              "resumo": "Ter um propósito na vida e paz interior pode melhorar a saúde do coração CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd293NDBlR1hmSHBodXRjOUhoQ2pRU29DQ1JvNDJaVEVoQ2dUMGlRdlotMmdxZnUxWUdaSDREOWV5ZXlsZ3Nkal9RMklvTzVlMnMwTW5QXzk0Vk0wOE53c2Rzd09scEJSRDM0NGpZdFVGRUNxMlJ0TmhVTGdiV2Rab2puWlkyQU81eVhENHVYQm9VaGpwMWlVUmd0bWtrbXZkUmNOMWVqZkRyTFJH?oc=5",
+              "titulo": "Ciclismo urbano ou na natureza? Pesquisa revela diferenças para a saúde mental - Costa Norte",
+              "resumo": "Ciclismo urbano ou na natureza? Pesquisa revela diferenças para a saúde mental Costa Norte",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmRwMDh4Y1JmMHJUaXhaWWZUeHk2aWJ3RGhYOXVramZQZ2ZxeVZuTWJaZ25DWG1ETUFYM3FtNnNzZlUwaHBkejFJUWczUjk2VEhmV056N3NDRTA2QnNqaDJkWmV6dG1GOUNid1daMmxWUURXaGVUWmFIUF9ydWJhMnpTZVdtSGlpdzVYd3dnWTRBNFRqM19MYmJTaTloQ2xxOXY3TWM1Y2s4RE9vQmVoNVhSZEvSAboBQVVfeXFMUGZyMWJZS3JkTE10SXdLTmh1V1N6TFFna25VYWFKTDhRb2l0RFBVRTRWWktNbnJGR1N6Z0NwZHlhWUhudTh6UFR4N1lJdGxDWnN1ZUpUd3hZbm1yd2RUYzR4NVF2VDFrdzE3RnVjMXlZNWRaSXdsT0xkNzRCUURHMWtxVFVaTEQ2MlVzQS11YU1Uc0gwNENhZmUxN1N5RTBrVmxXRUtMeXZiSi1UYXlTOTlLWlVVT29URV9R?oc=5",
               "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             }
