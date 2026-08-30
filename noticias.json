@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-30T10:34:06.518017",
+  "gerado_em": "2026-08-30T12:05:29.321226",
   "data": "30/08/2026",
-  "hora": "10h34",
-  "total": 59,
+  "hora": "12h05",
+  "total": 43,
   "editorias": [
     {
       "nome": "Local",
@@ -11,23 +11,23 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Abordagem a veículos que seguiam para rave termina com drogas apreendidas em Jaraguá do Sul",
-              "resumo": "A Polícia Militar apreendeu diferentes tipos de drogas durante uma abordagem realizada no sábado (29), em Jaraguá do Sul. A […] The post Abordagem a veículos que seguiam para rave termina com drogas apreendidas em Jaraguá do Sul appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/abordagem-a-veiculos-que-seguiam-para-rave-termina-com-drogas-apreendidas-em-jaragua-do-sul",
+              "titulo": "Disputa por vagas no Senado tem maior número de candidatas desde 2018, aponta TSE",
+              "resumo": "As eleições deste ano terão a maior participação feminina na disputa pelo Senado desde 2018. Segundo dados do Tribunal Superior […] The post Disputa por vagas no Senado tem maior número de candidatas desde 2018, aponta TSE appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/disputa-por-vagas-no-senado-tem-maior-numero-de-candidatas-desde-2018-aponta-tse",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Florianópolis decreta emergência após granizo atingir região Norte da Ilha; Prefeitura distribui lonas às famílias afetadas",
-              "resumo": "A Prefeitura de Florianópolis mantém equipes mobilizadas neste domingo (30) para atender moradores atingidos pelas fortes chuvas e pela queda […] The post Florianópolis decreta emergência após granizo atingir região Norte da Ilha; Prefeitura distribui lonas às famílias afetadas appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/florianopolis-decreta-emergencia-apos-granizo-atingir-regiao-norte-da-ilha-prefeitura-distribui-lonas-as-familias-afetadas",
+              "titulo": "Homem é encontrado morto em Guaramirim",
+              "resumo": "Um homem foi encontrado morto na manhã deste domingo (30), na Rua Maria Zastrow, nas proximidades do Portal do Relógio, […] The post Homem é encontrado morto em Guaramirim appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/homem-e-encontrado-morto-em-guaramirim-2",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Acidente na BR-280 deixa motociclista em estado grave",
-              "resumo": "Um motociclista de 23 anos ficou gravemente ferido após uma colisão envolvendo uma motocicleta e um automóvel na tarde desta […] The post Acidente na BR-280 deixa motociclista em estado grave appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/acidente-na-br-280-deixa-motociclista-em-estado-grave",
+              "titulo": "Mega-Sena sorteia prêmio de R$ 30 milhões neste domingo",
+              "resumo": "A Caixa Econômica Federal realiza neste domingo (30) o sorteio do concurso 3.051 da Mega-Sena, com prêmio estimado em R$ […] The post Mega-Sena sorteia prêmio de R$ 30 milhões neste domingo appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/mega-sena-sorteia-premio-de-r-30-milhoes-neste-domingo",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -42,23 +42,9 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "O que é e o que faz a WEG, 'fábrica de bilionários' de SC que tem 5 herdeiros como os mais jovens do Brasil",
-              "resumo": "Quem são os brasileiros mais ricos segundo nova lista de bilionários da Forbes A WEG, de Jaraguá do Sul, em Santa Catarina, é responsável pelos cinco bilionários mais jovens do Brasil, segundo atualização da lista da Forbes, divulgada na sexta-feira (29). Fundada em 1961, a empresa é uma das maiores fabricantes de equipamentos elétricos do mundo.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/weg-fabrica-bilionarios-sc-5-herdeiros-mais-jovens-brasil.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "Pitágoras, Pitásigma e Pisócrates: os irmãos prodígio de SC que miram prêmio internacional de inteligência",
-              "resumo": "Irmãos prodígios de SC buscam reconhecimento em prêmio internacional Os irmãos Pitágoras Blaise, de 9 anos, Pitásigma Majoris, de 6 anos, e Pisócrates Meraki, de 4 anos, têm algo em comum além dos nomes inspirados no número pi (π): todos chamaram a atenção do International Star Kids Awards (ISKA), iniciativa global que reconhece habilidades e conquistas excepcionais de crianças e adolescentes de até 18 anos em mais de 30 países.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/pitagoras-pitasigma-pisocrates-irmaos-prodigio-sc-miram-premio-internacional-inteligencia.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "VÍDEOS: NSC Notícias de quinta-feira, 27 de agosto de 2026",
-              "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-              "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/08/27/videos-nsc-noticias-de-quinta-feira-27-de-agosto-de-2026.ghtml",
+              "titulo": "VÍDEO mostra mar 'fervilhando' com queda de granizo em Florianópolis; 5 cidades de SC decretam emergência",
+              "resumo": "Tempestade com granizo atinge com força praias em Florianópolis Chuvas fortes com granizo causaram estragos em pelo menos 23 cidades de Santa Catarina entre a noite de sexta-feira (28) e a madrugada deste domingo (30). Cinco municípios, incluindo a capital, decretaram situação de emergência, segundo a Secretaria de Estado da Proteção e Defesa Civil (veja lista abaixo).",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/tempestade-granizo-florianopolis-municipios-sc-decretam-emergencia.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -68,37 +54,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Manchester United x Ipswich Town: onde assistir ao vivo, horário, palpite e prováveis escalações pela Premier League",
-              "resumo": "Manchester United busca reação em Old Trafford após derrota na estreia, enquanto Ipswich tenta manter os 100% no retorno à elite O post Manchester United x Ipswich Town: onde assistir ao vivo, horário, palpite e prováveis escalações pela Premier League apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/futebol/manchester-united-x-ipswich-town-onde-assistir-ao-vivo-horario-palpite-e-provaveis-escalacoes-pela-premier-league/",
+              "titulo": "Jet ski que homenageia Ayrton Senna custa R$ 230 mil e terá menos de duas mil unidades",
+              "resumo": "Lançamento da Sea-Doo é considerado o mais potente do mundo e inspiração no piloto brasileiro mira consumidor globalmente relevante para a companhia O post Jet ski que homenageia Ayrton Senna custa R$ 230 mil e terá menos de duas mil unidades apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/economia/negocios/jet-homenageia-ayrton-senna/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Correios acumulam prejuízo de R$ 5,5 bi no primeiro semestre de 2026, mas perdas diminuem no 2º trimestre",
-              "resumo": "Resultado negativo da estatal cresceu 30,36% na comparação anual, enquanto prejuízo entre abril e junho caiu 5,5% O post Correios acumulam prejuízo de R$ 5,5 bi no primeiro semestre de 2026, mas perdas diminuem no 2º trimestre apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/correios-prejuizo-primeiro-semestre-2026/",
+              "titulo": "Tiros durante rave com mais de 3,5 mil pessoas deixam uma morta e cinco feridos na Suíça",
+              "resumo": "Jovem de 22 anos morreu e outras cinco pessoas ficaram feridas; polícia suíça faz buscas pelo autor dos disparos em Aarau O post Tiros durante rave com mais de 3,5 mil pessoas deixam uma morta e cinco feridos na Suíça apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/mundo/rave-suica-tiros-morte-feridos/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Venezuela diz que acordo com Trump é soberano, mas EUA avançam sobre petróleo do país: ‘Renascimento’",
-              "resumo": "Governo de Delcy Rodríguez afirma que parceria prevê mais de US$ 100 bilhões em investimentos, enquanto relatório aponta participação de 35% dos EUA em empresa ligada ao petróleo venezuelano O post Venezuela diz que acordo com Trump é soberano, mas EUA avançam sobre petróleo do país: ‘Renascimento’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/venezuela-acordo-trump-petroleo-estados-unidos/",
+              "titulo": "Massa de ar frio tem data para avançar pelo Brasil e pode trazer temperaturas próximas de 0°C",
+              "resumo": "O início de setembro será marcado pela entrada de uma massa de ar frio, com queda nas temperaturas e possibilidade de frio intenso nas regiões serranas O post Massa de ar frio tem data para avançar pelo Brasil e pode trazer temperaturas próximas de 0°C apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/massa-de-ar-frio-avanca-pelo-brasil-e-traz-frio-de-0-graus/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Alerta do Inmet para tempestades coloca 23 cidades de SC em perigo para granizo e ventos de até 100 km/h",
-              "resumo": "Aviso é válido até segunda-feira (31) e prevê chuva intensa, rajadas de vento e risco de alagamentos em diferentes regiões do Estado O post Alerta do Inmet para tempestades coloca 23 cidades de SC em perigo para granizo e ventos de até 100 km/h apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/temporais-colocam-23-cidades-de-sc-em-alerta-de-perigo/",
+              "titulo": "Temporal com granizo assusta moradores e cobre localidade na Serra de SC; vídeos mostram chuvas intensas",
+              "resumo": "Pedras de gelo foram registradas por internautas em Altos da Boa Vista, em Bom Jardim da Serra, neste domingo (30) O post Temporal com granizo assusta moradores e cobre localidade na Serra de SC; vídeos mostram chuvas intensas apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/temporal-com-granizo-assusta-moradores-e-cobre-localidade-na-serra-de-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Presidente de órgão da indústria brasileira alerta: ‘Ninguém vai querer ser CLT’ se escala 6×1 continuar",
-              "resumo": "Olavo Noleto, presidente da Agência Brasileira de Desenvolvimento Industrial, diz que PEC pelo fim da escala 6x1 deve avançar no Senado e que alguns setores terão regras específicas O post Presidente de órgão da indústria brasileira alerta: ‘Ninguém vai querer ser CLT’ se escala 6×1 continuar apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/fim-da-escala-6x1-ameaca-clt-diz-presidente-da-industria/",
+              "titulo": "Neymar x Luciano Hang: qual jatinho é mais impressionante? Aviões passam de R$ 200 milhões e têm números gigantes",
+              "resumo": "Um deles tem três motores e leva até 14 passageiros; o outro chega a 904 km/h, transporta até 17 pessoas e voa mais de 11 mil km sem reabastecer O post Neymar x Luciano Hang: qual jatinho é mais impressionante? Aviões passam de R$ 200 milhões e têm números gigantes apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/economia/negocios/neymar-x-luciano-hang-veja-qual-dos-dois-tem-o-jatinho-mais-potente/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -113,37 +99,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Jovem é detido e adolescente apreendido com drogas em Volta Redonda",
-              "resumo": "Jovem é detido e adolescente apreendido com drogas em Volta Redonda Divulgação/Operação Segurança Presente Um jovem, de 20 anos, foi detido e um adolescente, de 15, apreendido com drogas no sábado (29) em Volta Redonda (RJ). O caso aconteceu na Rua Luzia, no bairro Santo Agostinho. Segundo a Operação Segurança Presente, os agentes estavam em patrulhamento no trecho quando viram vários suspeitos traficando no local.",
-              "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/30/trafico-de-drogas-em-volta-redonda.ghtml",
+              "titulo": "Distritos de Presidente Prudente recebem serviços gratuitos para cães e gatos a partir de setembro; veja cronograma",
+              "resumo": "UVZ levará serviços gratuitos de prevenção e controle de zoonoses aos distritos do município Reprodução/Prefeitura de Presidente Prudente A Secretaria Municipal de Saúde (Sesau) de Presidente Prudente (SP) inicia na próxima quarta-feira (2) o projeto “UVZ Itinerante – Ações Descentralizadas de Vigilância de Zoonoses”, que levará serviços gratuitos de prevenção e controle de zoonoses aos distritos do município.",
+              "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/30/distritos-de-presidente-prudente-recebem-servicos-gratuitos-para-caes-e-gatos-a-partir-de-setembro-veja-cronograma.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mulher morre após ser baleada e outras duas pessoas ficam feridas em Pindamonhangaba; suspeito foi preso",
-              "resumo": "O caso foi registrado na delegacia de Pindamonhangaba (SP) Gabriel Guimarães/TV Vanguarda Uma mulher morreu após ser baleada na noite deste sábado (29), em Pindamonhangaba (SP). Outras duas pessoas também ficaram feridas durante a ocorrência. O suspeito dos disparos foi detido pela Polícia Militar. O caso aconteceu no bairro Araretama. A PM foi acionada após relatos de disparos de arma de fogo.",
-              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/30/mulher-morre-apos-ser-baleada-e-outras-duas-pessoas-ficam-feridas-em-pindamonhangaba-suspeito-foi-preso.ghtml",
+              "titulo": "Balão cai em área de mata em Ubatuba; autoridades monitoram vários balões avistados no Vale",
+              "resumo": "Balão cai em Ubatuba e vários outros são avistados sobre cidades do Vale do Paraíba Divulgação/Defesa Civil Um balão caiu em uma área de mata fechada na região da Praia da Caçandoca, em Ubatuba, no Litoral Norte de São Paulo, na manhã deste domingo (30). No mesmo dia, outros balões foram avistados sobre diferentes cidades do Vale do Paraíba. Segundo a Defesa Civil do Estado de São Paulo, a queda em Ubatuba aconteceu por volta das 10h20.",
+              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/30/balao-cai-em-area-de-mata-em-ubatuba-autoridades-monitoram-varios-baloes-avistados-no-vale.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mulher é morta a tiros dentro de casa na Zona Sul de SP; suspeito tinha relacionamento com a vítima",
-              "resumo": "Viatura da Polícia Militar do Estado de São Paulo Divulgação/Polícia Militar Uma mulher foi morta a tiros dentro da própria casa na madrugada deste domingo (30), na Rua João Mário de Jesus, no Parque América, região do Grajaú, na Zona Sul de São Paulo. A ocorrência foi registrada por volta das 2h15. Segundo a polícia, a vítima foi encontrada caída dentro da residência com ferimentos compatíveis com disparos de arma de fogo.",
-              "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/30/mulher-e-morta-a-tiros-dentro-de-casa-na-zona-sul-de-sp-suspeito-tinha-relacionamento-com-a-vitima.ghtml",
+              "titulo": "Morre secretário de Agricultura de cidade no extremo sul da BA",
+              "resumo": "Morreu neste domingo (30) o secretário municipal de Agricultura de Vereda, Silvio Ferreira de Souza, conhecido carinhosamente como Guila. A informação foi confirmada pela prefeitura por meio de nota publicada em uma rede social. Na nota, a gestão municipal lamentou o falecimento do servidor e destacou seu histórico profissional de trabalho, dedicação e compromisso com o município.",
+              "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/30/morre-secretario-de-agricultura-de-cidade-no-extremo-sul-da-ba.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Bairros de Manaus ficam sem energia nesta segunda-feira; veja locais e horários",
-              "resumo": "Bairros de Manaus ficam sem energia nesta segunda-feira (17) Divulgação Moradores de diferentes áreas de Manaus passam por interrupções no fornecimento de energia elétrica nesta segunda-feira (31). O desligamento programado pela Âmbar Energia ocorre para a realização de serviços de manutenção preventiva, expansão e melhoria na rede de distribuição.",
-              "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/30/bairros-de-manaus-ficam-sem-energia-nesta-segunda-feira-veja-locais-e-horarios.ghtml",
+              "titulo": "Inmet emite alerta de baixa umidade do ar para 79 cidades na Paraíba; veja locais sob aviso",
+              "resumo": "Trecho da PB-400, no Sertão paraibano Beto Silva/TV Paraíba O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo de baixa umidade do ar para 79 cidades da Paraíba. O aviso é válido das 11h12 às 20h deste domingo (30). Veja municípios afetados abaixo.",
+              "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/30/inmet-emite-alerta-de-baixa-umidade-do-ar-para-79-cidades-na-paraiba-veja-locais-sob-aviso.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Homem que matou ex-namorada e atual companheiro dela em rodovia de Marília vai a júri popular",
-              "resumo": "Homem que matou ex-namorada e atual companheiro dela em rodovia de Marília vai a júri popular Arquivo pessoal A Justiça determinou que Umberto Muniz de Melo, de 74 anos, seja submetido ao Tribunal do Júri pelo assassinato da ex-companheira Maria da Glória Lima Xavier, de 50 anos, e do namorado dela, Jaelson da Hora Silva, de 52 anos.",
-              "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/30/homem-que-matou-ex-namorada-e-atual-companheiro-dela-em-rodovia-de-marilia-vai-a-juri-popular.ghtml",
+              "titulo": "'Sabores, Sons e Memórias': conheça a Cachaça do Mudo e uma tradição de quatro gerações",
+              "resumo": "Cachaça do Mudo se tornou Cachaça Caipira e empreendimento soma 80 anos de história em Itapecerica Cachaça Caipira/Divulgação Existem histórias que começam pequenas, quase como uma tentativa de sobrevivência, e acabam atravessando gerações e fronteiras. Em Itapecerica, uma delas nasceu entre o canavial e o trabalho na roça pelas mãos de Antônio Lopes de Lima, o “Mudo”, e se transformou em uma tradição familiar que já chega à quarta geração.",
+              "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/30/sabores-sons-e-memorias-conheca-a-cachaca-do-mudo-e-uma-tradicao-de-quatro-geracoes.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -153,37 +139,37 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Presidente interina da Venezuela afirma manter 'soberania' em acordo petrolífero com os EUA",
+              "titulo": "Mega-Sena, concurso 3051: confira os números sorteados",
+              "resumo": "Mega-Sena, concurso 3051: confira os números sorteados O sorteio do concurso 3.051 da Mega-Sena foi realizado neste domingo (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 29.343.361,52. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp Veja os números sorteados: 11 - 21 - 15 - 20 - 48 - 38. Nenhuma aposta acertou as seis dezenas.",
+              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/30/mega-sena-concurso-3051-confira-os-numeros-sorteados.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Presidente interina da Venezuela afirma manter 'soberania' em acordo petrolífero com os EUA; Trump fala em 'presente' para o povo americano",
               "resumo": "A presidente interina da Venezuela, Delcy Rodríguez, discursa após a aprovação da Reforma da Lei Orgânica dos Hidrocarbonetos em frente ao Palácio Presidencial de Miraflores, em Caracas, em 29 de janeiro de 2026 AFP A presidente interina da Venezuela, Delcy Rodríguez, fez um pronunciamento na noite deste sábado (29) e afirmou que o país mantém o controle de seu petróleo.",
               "link": "https://g1.globo.com/mundo/noticia/2026/08/30/venezuela-acordo-petrolifero-com-os-eua.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Leite passa por testes para garantir qualidade e segurança",
-              "resumo": "Alunos de engenharia de alimentos e farmácia estudam a qualidade do leite e possíveis fraudes Reprodução / TV TEM Do campo à indústria, o leite é analisado em diferentes etapas para assegurar que chegue ao consumidor com qualidade e sem riscos. A atenção começa na ordenha, feita logo cedo. O leite é armazenado, pasteurizado e passa por novos testes em laboratório antes de ser liberado para consumo.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/leite-passa-por-testes-para-garantir-qualidade-e-seguranca.ghtml",
+              "titulo": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
+              "resumo": "O magnata fazia suas refeições em uma mesa de quase cinco metros de comprimento, acompanhado apenas por seu cão de guarda Getty Images via BBC Em julho de 1960, Jean Paul Getty organizou uma festa na qual gastou o equivalente a US$ 400 mil (em valores atuais) em Sutton Place, a mansão em estilo Tudor do século 16 localizada em Surrey, no sudeste da Inglaterra, que havia adquirido um ano antes.",
+              "link": "https://g1.globo.com/economia/noticia/2026/08/30/como-um-magnata-excentrico-que-tinha-leao-como-animal-de-estimacao-se-tornou-o-homem-mais-rico-do-mundo.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Presidente Prudente recebe 7ª edição da Batatec",
-              "resumo": "7ª edição da Feira Tecnológica da Batata Doce (Batatec) acontece em Presidente Prudente (SP) Reprodução / TV TEM Presidente Prudente (SP) recebe em 2026 a 7ª edição da Feira Tecnológica da Batata Doce (Batatec). O evento reúne 60 empresas que apresentam novidades em maquinários e soluções para aumentar a produtividade no campo.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/presidente-prudente-recebe-7a-edicao-da-batatec.ghtml",
+              "titulo": "'Efeito China': mais 4 marcas chinesas desembarcam no Brasil; veja os carros e os planos de cada uma",
+              "resumo": "ICaur V27 está confirmado para o Brasil em 2027. Divulgação / iCaur O desembarque de marcas chinesas no Brasil continua. O g1 percorreu os estandes do Festival Interlagos nesta semana para mostrar os destaques de quatro novidades que chegam ao mercado brasileiro. Foram confirmadas ou detalhadas as operações de BAIC, iCAUR, DFM e IM — esta última, uma marca britânica de \"DNA chinês\".",
+              "link": "https://g1.globo.com/carros/noticia/2026/08/30/efeito-china-mais-4-marcas-chinesas-desembarcam-no-brasil-veja-os-carros-e-os-planos-de-cada-uma.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Irrigashow reúne 5 mil visitantes em Paranapanema",
-              "resumo": "14ª edição da Irrigashow aconteceu entre 26 e 28 de agosto em Paranapanema (SP) Reprodução / TV TEM A 14ª edição da Irrigashow aconteceu entre os dias 26 e 28 de agosto em Campos de Holambra, no município de Paranapanema (SP). O evento recebeu 5 mil visitantes com programação de palestras, exposições e tecnologia voltada à irrigação e agricultura irrigada.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/irrigashow-reune-5-mil-visitantes-em-paranapanema.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
-              "resumo": "Acidente fez Silvio Pinheiro abandonar temporariamente as entregas Vitor Serrano/BBC Após um acidente, o entregador Silvio Luiz Pinheiro pensou em desistir da profissão. Quando entrou na central para devolver uma bicicleta alugada, ele ainda estava machucado. O ombro doía, o braço quase não acompanhava os movimentos.",
-              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/30/por-que-o-brasil-ainda-nao-sabe-quantos-entregadores-se-acidentam-no-trabalho.ghtml",
+              "titulo": "Por que governos têm tanta dificuldade para conter os danos das redes sociais",
+              "resumo": "Acusada de viciar crianças e adolescentes nas redes sociais, Meta vai pagar indenização bilionária nos Estados Unidos Jornal Nacional/ Reprodução Acordo nos EUA reforça pressão sobre plataformas, acusadas de adotar modelos de negócios e interfaces que incentivam uso compulsivo por jovens e favorecem problemas psicológicos.",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/08/30/por-que-governos-tem-tanta-dificuldade-para-conter-os-danos-das-redes-sociais.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -193,37 +179,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Decisão de Trump ganha força, mas voto por correio segue em disputa legal",
-              "resumo": "Suprema Corte apoia medida defendida pelo presidente americano, mas 22 estados tentam impedir que diretriz seja aplicada",
-              "link": "https://www.cnnbrasil.com.br/internacional/decisao-de-trump-ganha-forca-mas-voto-por-correio-segue-em-disputa-legal/",
+              "titulo": "DJ Vintage Culture desmarca shows por questões de saúde: “Preciso de pausa”",
+              "resumo": "Artista contou que fez mais de 25 apresentações em três continentes no último mês",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/dj-vintage-culture-desmarca-shows-por-questoes-de-saude-preciso-de-pausa/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Nanda Costa abre álbum de fotos com suposta namorada no Ceará; veja",
-              "resumo": "Atriz e a produtora Emilie Rey posaram juntas em resort",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/nanda-costa-abre-album-de-fotos-com-suposta-namorada-no-ceara-veja/",
+              "titulo": "Glover Teixeira domina Maurício Shogun e vence Spaten Fight Night 3",
+              "resumo": "Na luta principal da noite deste sábado (29), mineiro foi superior no confronto e conquistou vitória por decisão unânime",
+              "link": "https://www.cnnbrasil.com.br/esportes/lutas/glover-teixeira-domina-mauricio-shogun-e-vence-spaten-fight-night-3/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Barretos: Gusttavo Lima, Leonardo e Teló se apresentam na última noite",
-              "resumo": "Embaixador subiu encerrando edição em que foi representante da Festa do Peão; veja fotos",
-              "link": "https://www.cnnbrasil.com.br/pop/musica/barretos-gusttavo-lima-leonardo-e-telo-se-apresentam-na-ultima-noite/",
+              "titulo": "Irã publica mensagem do líder supremo que pede união de países muçulmanos",
+              "resumo": "Texto apelava à unidade muçulmana, à cooperação em diversas áreas e à defesa mútua, afirmando que qualquer pessoa que criasse divisões entre os muçulmanos, \"conscientemente ou inconscientemente\", estaria ajudando os inimigos do Islã",
+              "link": "https://www.cnnbrasil.com.br/internacional/ira-publica-mensagem-do-lider-supremo-que-pede-uniao-de-paises-muculmanos/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Elevador alcança 288 metros em 50 segundos e transforma trajeto escolar de 3 horas em 30 minutos para crianças na China",
-              "resumo": "Engenharia moderna garante segurança em uma caminhada anteriormente perigosa nas montanhas",
-              "link": "https://www.cnnbrasil.com.br/curiosidades/elevador-alcanca-288-metros-em-50-segundos-e-transforma-trajeto-escolar-de-3-horas-em-30-minutos-para-criancas-na-china/",
+              "titulo": "Agosto tem melhor relação de troca entre grãos e fertilizantes no agro",
+              "resumo": "Recuo da ureia e recuperação dos preços agrícolas melhoraram relação de troca do produtor; fosfatados, porém, seguem pressionados",
+              "link": "https://www.cnnbrasil.com.br/noticias/agosto-tem-melhor-relacao-de-troca-entre-graos-e-fertilizantes-no-agro/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Ex-Miss Brasil Supranational é internada após perder a coroa por gravidez",
-              "resumo": "Modelo foi desclassificada de competição após descumprir cláusula de contrato",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-miss-brasil-supranational-e-internada-apos-perder-a-coroa-por-gravidez/",
+              "titulo": "Tainá Militão engana Éder e diz que filho nasceu: “Coração parou”",
+              "resumo": "Influenciadora pregou peça no jogador após ele ficar algumas horas sem responder",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/taina-militao-engana-eder-e-diz-que-filho-nasceu-coracao-parou/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -233,9 +219,16 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Brasil participa de pesquisa inédita que busca a cura da hepatite B",
-              "resumo": "Duas universidades públicas brasileiras se uniram a instituições internacionais na busca de novos tratamentos e até mesmo de uma cura para a hepatite B. O consórcio é liderado pela Faculdade de Medicina da Universidade Johns Hopkins, nos Estados Unidos, e é composto por grupos de pesquisa do Brasil, Índia, Senegal e Uganda.",
-              "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/brasil-participa-de-pesquisa-inedita-que-busca-cura-da-hepatite-b",
+              "titulo": "Eleições 2026: saiba o que é permitido e proibido no dia da votação",
+              "resumo": "Com a proximidade do primeiro turno das Eleições 2026, em 4 de outubro, muitos eleitores se perguntam sobre o que podem e o que não podem fazer antes e durante a votação. Para orientá-los, o Tribunal Superior Eleitoral (TSE) formulou o Manual do Eleitor, que reúne em um único documento um resumo explicativo das principais normas e orientações para os cidadãos e cidadãs exercerem seu direito ao voto.",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/eleicoes-2026-saiba-o-que-e-permitido-e-proibido-no-dia-da-votacao",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Neste domingo, Rádio Nacional transmite clássico Flamengo x Botafogo",
+              "resumo": "Neste domingo (30), a bola rola no Maracanã para o confronto entre Flamengo e Botafogo, e a Rádio Nacional transmite todos os lances da partida válida pela 25ª rodada da Série A do Brasileirão 2026. A equipe esportiva da emissora entra em campo a partir das 15h30 com as últimas notícias, escalações e o aquecimento completo para a partida marcada para as 16h.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/neste-domingo-radio-nacional-transmite-classico-flamengo-x-botafogo",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -250,37 +243,37 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Quem são os candidatos a governador de Santa Catarina (SC) nas eleições 2026 - JOTA Info",
-              "resumo": "Quem são os candidatos a governador de Santa Catarina (SC) nas eleições 2026 JOTA Info",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2lyWUdZeVJ5YVZmRVpvalI1TWlqTVo3enptZWpDUFJNS0JqeTQwU2w2RTdrRFV5b1FBYzJHS3hCMGtNY1U1UnhaRjl3a256ZmE1LUp6NERNLWw5OGhyS2RwUlgxNE9sMndqeTZxR1V6dWhfRTNUYWdfZDlfekpLcWRBbzZsSkR3czFaTk1iLWxSN2c1Qkp3VkFXWHRGUkx3UmNpR2kySlRIYTFsWVVFQWpZd0k5VjRSYzlQOQ?oc=5",
+              "titulo": "Deputada Caroline de Toni obtém a maior votação em Santa Catarina - Portal da Câmara dos Deputados",
+              "resumo": "Deputada Caroline de Toni obtém a maior votação em Santa Catarina Portal da Câmara dos Deputados",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEVIa3NNWlMtZ3h5d1ZuRUxrdGRGV0xOcy1tX2ZxclBTcGdaT1VNakZXQXYxekl0S3Z2ZDhpMEtERW04V0doU3hGcmtyZWpaV2RfVURwQTRLLVctZkNqQkNEeHlBMV9sRGVWek5WSjBMXzBtNHViaGYta1ozYkF3MVRXc2ZqMmRzTHkwUUNUMFhKYU42ZDJwVzhWUHFsT1JROGR3Nmc5VGxGN2Jv?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             },
             {
-              "titulo": "Coordenador do União-PP ameaça não apoiar PL ao governo de SC por excesso de candidatos ao Senado - Estadão",
-              "resumo": "Coordenador do União-PP ameaça não apoiar PL ao governo de SC por excesso de candidatos ao Senado Estadão",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORzVaNlp2dWFZQVhqMVl6aTJhMWFSMFZJTngwcnJkeTVfMFdPXzZ2dDZSNGlCLUEzS3pLcFJzYjdHMW02c19uQXFCVVVidWhBRTJqYlNwZTZYbm1OYXpLbGthY3drem5qMzRQT3R3X3RZRncxMVN2RE9hWGM2TEJQWDljekU4blFLeVYtcjJlcG14TENkR3NIc091NmlCWGNKUmxhUlBiNzNjWWtrLVlBcFdPbUt6dmJBVFRhZk8tcjhkVTVPMmJ3T3BweVVqSUnSAdQBQVVfeXFMUEliMW9JTF82M295alp5c1dtMUZZOHNYNVQwSTNNamtac0d0N0ZlRnVnbEExX1I5Q2pyeHVrTkNGR0FkRTFVSEI4bUJJTi1WS19EWmpYa1RqQUxmTWpQWU9hSzFJbVJfRDF5cGtHRmxyRGlhT0VfSWFVUHkxcEItQW9McVBxcGRjYmNnMldDSW4zYkdDZHkyQlBsQWItVEhkNEFxWVFPc2VhaW9zeGxJUloyTUgtVUhCNGFWb1VHS0FSRUI1Tm55XzNkaEg1cGVBT0RBR0c?oc=5",
+              "titulo": "Carlos testa apoio a Bolsonaro em disputa aberta em SC - Gazeta do Povo",
+              "resumo": "Carlos testa apoio a Bolsonaro em disputa aberta em SC Gazeta do Povo",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDlSdEdCZ0YwUFl5MFd4dy1aT2k3N3M2bjZydjZIVkdkVHE1MU5rMEI2R200MzBvTlowb1RjYzV4ME1qMjRwQmZiS0dEcURKRU1pWTNzOVljRTFMMWZYWGRja0lpQXFfeXZwdi1jUkZEbWpIblZtNGp4QlZPd0k3NTUzMzJ5V2E4T2t4Sk02NkJXQkdnaWVpd1RsWnVpREVFMXVSZ3VtdnpGSTFDNWxYMmpramNCeDJvdzA0Mkh5QTBGaHc?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             },
             {
-              "titulo": "Bolsonarista de Santa Catarina, relator do PL 'da dosimetria' no Senado admite incluir anistia no texto - Jornal do Brasil",
-              "resumo": "Bolsonarista de Santa Catarina, relator do PL 'da dosimetria' no Senado admite incluir anistia no texto Jornal do Brasil",
-              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdDFJREs2VDhUYVpTLTQxd2ltZGE4SElxbzVSSFlJYUppZFAxVUxPX3pJSEZCT29mRS1USU16R2VpSVVFbWtscGxtSTRBVUZ2X3Y5Q2QxcTdQV3A5RFRJNXBZak5DcElkalNyWEZGcmtlM0JxOER5cm9xWldFUVNoT1pId3h5S1ZzMWNhTWQwVHhYT3o5TDNOUnd4RHZRSWpXa0doWUFzNmVZc29vVEstaXpwblRmcFRUeXItbmx4RjNZUlB3VHFvbDh4YVF2QWxaWUYtellfdGF0ZXhjeHNDMHhTbUNYYms0R1VLd09qWm0?oc=5",
+              "titulo": "Entenda como é feita a conta que define o número de deputados de cada estado - CNN Brasil",
+              "resumo": "Entenda como é feita a conta que define o número de deputados de cada estado CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEdmNnhyS1NmbjZKQVd6Smh1RkVCSjc4T25Za2pxQ0FXZHB1OGFpVDQwdzdXRjgwc0NKMWZ2WXRQNEZSa1ZySVlUeVpjVzYtd1lkZ0ZaMkM2eUZ2OFplclhnMFdWczdGSjNDYU9kM2lkVmlTTk8zZXYzdWFJbGFhLUQ3eDFHMXhzenU4WGIxSWk4Rjl6TTU1R05mQnV6YkwtN29fZkZ6ellKVGJLZzNiTDdHZFM?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             },
             {
-              "titulo": "Treze candidatos disputarão por duas cadeiras no Senado Federal em Santa Catarina - Agora Laguna",
-              "resumo": "Treze candidatos disputarão por duas cadeiras no Senado Federal em Santa Catarina Agora Laguna",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUldKUVk5WjN0OFVpVjBDU1dXWHpuTXo2NzB1WnhfVldBYnJNNlhMa3NiYVZoY00zbWRjM2pRN1VOVTRhVTJpSlhHZFlUNE82X244N05YekRSd0ZjR3kxeW0wT0NSNU5RSUNZdmtEYzg2akROVEpRbnMyby1IWDNjYXZUaHlPd2NmVkZRUE5wWElVMkpZR28yckhhYmxiUFhhaE9qRFZFNHlZSW1BTmpfOUU4UXV1MFJq?oc=5",
+              "titulo": "Quem são os candidatos a senador por SC em 2022; veja lista - JOTA Info",
+              "resumo": "Quem são os candidatos a senador por SC em 2022; veja lista JOTA Info",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFRGcFlhWnlrcG0yWjZldm5uS1FxMjRIcUcyU0JOX05oaXYtWklad3hueGtJTll6OXdfYmY0c0tTWnhWOTJRR094SnZIbTUwR205bEg4dFZRcml6OWhsRy1lVWZFYlpIam5jc2ItZm1ucml2UXpzWW9pR0lvNmNNam9wUFZOSHhUTVBBOG9pUHBHNGN2Xy0wVXRaT2xoalBLcHFHb1dKVmZNUXNoNFFoTjJEVTlJcy1GWkdVanNOT1l5Zw?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             },
             {
-              "titulo": "Morre o senador catarinense Luiz Henrique da Silveira - O GLOBO",
-              "resumo": "Morre o senador catarinense Luiz Henrique da Silveira O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUZTWWlCRGtkTXN6WGxaeU5STlkwTVhBdG5rZXFjQ3d5S1FMR21yQlZuV1cxYXdUMkx4Y2tmWDUtSmhHa3U1SmRQQXZOS0VIRFdSeEJrcVBfcjhVVTdsVXZkNEhnc0ZxdG5fcHl5bzY4MXBLX0ZoOEF2RFhsMDRxV0J5RjlTVlpOSWZWRWtFZ0hnOTlic2NINTRB0gGoAUFVX3lxTE94Z21NTnM2OVgyNExSZEJ0dWJIN2EzVUhOTURscjg4T05QWjJVbE5GZEtncmc3V0hKTHRySmdVV1RqTjBmN1RXSjl0YS1vWGRWMm9SdnNoWlYwRjFDN0FvY3JNeXZUZ0pZS1pHT0J0d0Rpc3RiVTkxcnFoZ0MtZmVnVk96ODhoTXh3QUhTbUNITTRPTjdfd09XY0RQQUlNcE4xaV8xY3hXeQ?oc=5",
+              "titulo": "Paulo Rocha se despede defendendo a 'boa política' - Senado Federal",
+              "resumo": "Paulo Rocha se despede defendendo a 'boa política' Senado Federal",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2NYZFlQaHhraTNlNm1aTjJXN0hQdjgyZUZIeTBXVUJFRm9EWjNyYm1yMFdOdThnZkJTZzE2WHJnNTVpeWVmbEh1U1p3UHpkVW5ENHZDeTUtVnB6VmdCZjM5QXdNSXFPYW9COUtaRTJWYjNHOEhzM09PV25rZjZxd0VkazRyU1psZFRJam5aamZlV3hESjRKZUdNSFhoa2xjanZ3VVNnNWI?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -290,37 +283,23 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Alcolumbre faz manobra para reduzir pena de Bolsonaro sem beneficiar condenados por crimes hediondos - G1",
-              "resumo": "Alcolumbre faz manobra para reduzir pena de Bolsonaro sem beneficiar condenados por crimes hediondos G1",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWliQXZJWGttZE0tRVdzcUJQa1NaSXFPTFpJV0pCcXAwZmp2RXJJX0oxTDdBT1ZLSEVVNXpZNEtrN1dBVVU4ZHFvUmpFcV9iNHpxdF9id1RVLWE2X3Y3X0pwZm4wZ2RodjJIalFpRWtMVC15Y3lOc3BXckk1ZWpMbF9OZGVnUWV3ZEtzbmVjWklXQXVDc0Rka3h2MmphOVZBZVllU2NTWXZNbk1xV3FRZHRVa0hCZWxvTGtQRzNjU1pMbFhHN0c1M2hUZXhPM0hJdk96eFR4WdIB5gFBVV95cUxNbl9lYWl0R29ZNlllQmlXWjlIeUtCMnlWMDY5Uk5nYzVJbmRNUHg5c2pLMmN5QXNoNnVVbUU2V0RXWTIxbENEQXQ4ZThyNWRzd0JPUTdIOVlyR01rZ2VrV0hTWWFsZ1lXZG94ZnJTdldVaGFYdEkxVVI0Wmo3UFBBcHJBZ3BuNFJLTXh3VUhOTEFoQUxqeEhUYkUwLWRzakFXVEFVdUl0bXU5NzFYSjNRcV9HM0R5ekEzM0huU3QtNXB6STlNWkVuTDVFbDZ2ODd1S09MWnp0eW1IeVRHSnJUVk1oU0ltdw?oc=5",
+              "titulo": "Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ - BBC",
+              "resumo": "Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ BBC",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91VWpGX0txSWlUaVlIamhFZ2loYlRjQU9BRHdzQ3lXdXlOSGNXS095cTljM2d4bVg4dThLanlEeU9XRlN2WlFwQnFEODZ4Rlo4allQMnNKNHY5VGhyZndzYkJn0gFnQVVfeXFMTXlITl9ZMlpQSjlSYUQ5MldheG1LOTd5WUZKRXdYNllITm14RWFjNzR1LWctM2RPSEd1d3F2SjJ1UW9iWmZyc1RJQUdiblBmVkxEQUFNZFhkaWQ0UVVNNC16cmVybTdrYw?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "Alcolumbre diz que ocupação das Mesas do Senado e da Câmara é ação arbitrária e pede bom senso - G1",
-              "resumo": "Alcolumbre diz que ocupação das Mesas do Senado e da Câmara é ação arbitrária e pede bom senso G1",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQzdKQ2JIYlh0OGxYbVVUQmlfYnE1NTEycUNfU2ZrbHpwRE03dGwxVV9mWE95TTdLRTYtcjd5ek4tR0NYRUZBV1hpWW5ST2w3ZF9vNXhyNXdKV2YwNnBqVW96aXMtR1BUMzgzLVhOOGw4ZFc1eGxDek9GVWx4dVNPZHc5anZRSHVjRi15WDJ0TTlTYmFlVm0wNXdqRDdSQndoT01kMWJKNXhaX1FWUjV6YzZGeHdMbWVIZHVEVkhLcW54MDNGYkJsMV9ac09LenZLVDBOR3pxN2pKVjJXVGJnbXhLZjVBbFZj0gH3AUFVX3lxTE1jMGlaX0Fvd0h1Q2JHMm95SUllVW02RGJWUmZGUFRGSGVuRXZrODZNZC0tUVB3UE1LVUNZdnNmVUYzLU9qNWJJdTdubmIxNXA0VHI5Ml9wYmhjYldxblBJY2JJN1hEYXVrellYM2xQZTlzNGowZzY2eFhHeVVEa3Rtb2VfcllaZlVac1BDYm9lNzZpdU5ySXBqZGJua1EwVzQ4N0F4MXZqV0RVX0JJUlkxNW5sN3A3dm1sdW5KcUhWRzAtbUQySHc5M00zSlBvQVhWX0dRdUJCc3ZPdkRYOE9qYXhNSE10QXNoWHQ3OUpXNkxIY2UyOEU?oc=5",
+              "titulo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos - Valor Econômico",
+              "resumo": "Parlamentares bolsonaristas ocupam Congresso e ameaçam parar trabalhos Valor Econômico",
+              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ3BMYUh5Y2t6VS1Hd3cwSUtBeXFWOFdzck5CWG54M2JnbldCSjFfYXBUeXotdDh1d0FqYUd3TXBvOFlfY2p5eV9BZEg5eTBzQm84VWt0ZkFiT0I4cnlqLUhXUzRWV0FUUjd5Qko0VUZQLVM0S1hRSTkwYjdvUXVldlh3bUU2TktSaVBILTVwRlFvYXc3QWw3THRqSjlJUzFUQ2ZPdkNMX1FudVNkclAzWFZZVEFRbnhDclgyQVpwTUEtQWZBcFpTbzhmNEE1cXFSblB5LWdzQjBVY3ItcGNYZXQyMV9CeF9IcDByZFJOZ2tqc0FPc1lsNW0wQVJBYzNn0gGPAkFVX3lxTFBTTklES0VjcGRYRWo4Z1JUT0w4V0ZnOWoybVNmOVQyRmNSZjBGSFlhanZtZElkVmktbVcwYm5xa3NGanNJOXJkdVZ1WG9rdWtGYWVtUFVtaDM3TjA4MmtWWHNHLUs0elVfdl9rQmVvNTdiYUprUFRmQkxybzZERUNNQThSVjBRMU5QNnVGUnEzc3g2MXNQQ3VibVI1MWk4UUlMUkpyZm5Fb3lYeUJidzlqY2lkMk5kZzhnOGpQbXFRZ3hkR0J1TVJ0QTI5ZnBjZDBqNl81R2xoLXNDSE1MT3pMeHhCLTIyZDdhMzZSQXZOcl9jektfYTlYVXVWenlUZENfTHlwZ3JJU0kzRzBtZGs?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "É possível destituir os presidentes das Casas Legislativas? - JOTA Info",
-              "resumo": "É possível destituir os presidentes das Casas Legislativas? JOTA Info",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0F3ZHJLdF9UZVFZNXpORUE4Rng1ci05bFNVZDgyWW9Ud25iRWl0ckItcUdkSzhaZjVvUkhXbTlBN09zc2NfMnp0TzVyX2FtZXVDUUFNNWZQc1BibDVybDF0SWZLM1I5dGlfaEIyX1Vlb1BGOGJUbVM1Q1Fyd1JqOGRDUU80RnRSWEVHTWZHVVFLbmhzOXBRc2ltMjVMbUtTRXA5ZEhPTEluUXdTM2JSbExGS3JQQUpTT1Zwc1V3?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Câmara e Senado sempre foram dominadas pelo centro e nunca tiveram uma presidente mulher - Estadão",
-              "resumo": "Câmara e Senado sempre foram dominadas pelo centro e nunca tiveram uma presidente mulher Estadão",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1BFVlhDcDdiYkVlRXZQRUw2emlQSERiZmNnbWRzSFRyM0hLNHlCWnB0dFd0T2pfVi1wRmZyaHNrSEpkTHk4MHZTWjd2aHgxRDFqcGdFZ3Q1WnU0Wi1YQUtsTWdiMDQzLWE1anJsc0lTOUFhVERRd2gxb3RNSERsQVFLN1NBZGpkUElrMVNBUFpLOVg4dmY4ajlSNNIBoAFBVV95cUxNdWp0UHpsTWY5aTNBSi1fMnIyS2ZGYXY1XzdoWDhTMm1KeGIyOFBkZ3oyc3JsOVIyUmJ5dnlxZGFNOHM4S3lndE5ORUUxZTZ6anl3ZzUxSGJQRGpvczlhQ2lSNXpyM2w1c2hGbkVqWWtuZUw3QlZGM2ZmV2F3MkotUklmLXpIa2hnOVJnTG81dmdhX1Z5OW1jWlZZTy1TNEV6?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Presidente do Senado rejeita pedido para anular quebra de sigilos bancário e fiscal de Lulinha por CPMI do INSS - G1",
-              "resumo": "Presidente do Senado rejeita pedido para anular quebra de sigilos bancário e fiscal de Lulinha por CPMI do INSS G1",
-              "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLXRwX2lGN0dVWTZPQUJJVUdHUksyTXdYeVo0N1NRUUp2UHlhYjJYQ29vbktjUVVmTXJVSzBGZmQ0NGFfNWp1MGZNcjk1X0NGOUplOFVxa0ZiNkVXU0NGbzVQLU5URTlMNmJWWWxZeGs1MVQtOXN6OUtDUTExaEx3bUpxamx5c2NSczdJV3V4OWJmZGtCWHZhWEMya2dIWGV2RzEwMGxTbzV1MmtLbnVfaWNxWVdpdUNSd1hkTGpJUVJIQzZfMmw3VGVLeW5jdlBUWjhaMlBSZTZVRUxURG1hRDc5VDFSNFVWc3Z0UU9aWWlOUzZsR04w0gGGAkFVX3lxTE1XVHBTSnJQZjlRTGlpV29QcFhiNi1MM2x4ejFUbzZBWFl4WWdPaE5kZ0V4MHZUTG1LNXN1NEFFQzFHUnRBWVM5aW1oWFJCc1BvS3kxUXQ5YXBVTzdXeE51Qk42b1FUVlFLRG92anFPdEZET183ZE1KbmZwY1RyMGZibHFzRG5xNms5bkh0SGdiTEw3YVRqRWFfSXVaazM2SUlsSXgwNUpEcmc1U1dGek5WQlpQcmhWSEpJQTBPYjNkVWVCX3lVRU5Oa2tpa3FjVUlMSTdmN1hfSUVrQ1lON3lvZjl3aVBZdzZNckVuS2IwMmZfaWQ4b09wT3ZBYzk0anlwaF9qYVE?oc=5",
+              "titulo": "Senador, deputado e presidente: quais as funções de cada um - Poder360",
+              "resumo": "Senador, deputado e presidente: quais as funções de cada um Poder360",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjF4T3loczZDV1dkSXZ5NEx4eFdpM1Q4TUd3NkNaeDlpdU5FZmtBdzlfUmFDWVF3eHQ3NENlQWI1Mmx1LUFaMngzdFpVdzJCS1hEekx1RlI4OTlQbHZGM3FBYmZCNDRTRnlHMEpISFVHVHN5N0NRVExndUdfQ2lEVlpGb0RoZ3c5Mk52el9MdExxNEJtd2h3SGtGWlB3VVYzMzVR?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -335,37 +314,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Itália mira naturalização de Robinho Jr para defender seleção, diz jornal",
-              "resumo": "Santos chega a acordo para liberar Robinho Jr. Robinho Jr, filho do ex-atacante Robinho, entrou no radar da seleção italiana. O atacante de 18 anos, que pertence ao Santos e tem acordo para ser emprestado ao Genoa, está em processo para obter a cidadania italiana e é avaliado pelo técnico Roberto Mancini, segundo a imprensa do país. + Santos chega a acordo com Genoa, da Itália, para empréstimo de Robinho Jr.",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/30/italia-monitora-robinho-jr-filho-de-robinho-para-possivel-convocacao-diz-jornal.ghtml",
+              "titulo": "Manchester United x Ipswich - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com",
+              "resumo": "Campeonato Inglês 2026/27 no globoesporte.com - acompanhe tudo sobre Manchester United x Ipswich: escalação, informações sobre o jogo, fotos e muito mais",
+              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/30-08-2026/Manchesterunited-ipswich-town.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Plata chega à Rússia e recebe boas-vindas do Dínamo de Moscou",
-              "resumo": "Plata chega à Rússia e recebe boas-vindas do Dínamo de Moscou Gonzalo Plata chegou à Rússia e já pode sentir um pouco do clima da nova casa. O atacante vendido pelo Flamengo recebido com festa no aeroporto pelo Dínamo Moscou, com direito a comidas e roupas típicas do país. Confira no vídeo acima. + ✅Clique aqui para seguir o canal ge Futebol Internacional no WhatsApp O acerto entre Flamengo e Dínamo Moscou se confirmou na sexta-feira.",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-russo/noticia/2026/08/30/plata-chega-a-russia-e-recebe-boas-vindas-do-dinamo-de-moscou.ghtml",
+              "titulo": "Brasil conquista três ouros e recorde mundial no 2º dia do Parapan-Pacífico de natação",
+              "resumo": "O Brasil foi destaque no segundo dia do Parapan-Pacífico de natação, em Walnut, nos Estados Unidos. A delegação brasileira conquistou sete medalhas, sendo três de ouro, duas de prata e duas de bronze. O resultado teve ainda um feito histórico: Alessandra Oliveira estabeleceu um novo recorde mundial nos 100m peito. Alessandra Oliveira recorde 100m peito Alessandra Cabral/CPB A marca mais expressiva do dia veio nos 100m peito.",
+              "link": "https://ge.globo.com/paralimpiadas/noticia/2026/08/30/brasil-conquista-tres-ouros-e-recorde-mundial-no-2o-dia-do-parapan-pacifico-de-natacao.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Djokovic chega ao US Open preparado para buscar 25º Grand Slam: “Melhor maneira possível”",
-              "resumo": "Novak Djokovic chega ao US Open confiante de que fez tudo o que estava ao seu alcance para estar em boas condições na disputa pelo título. Aos 39 anos, o sérvio busca conquistar o 25º Grand Slam da carreira e vê um cenário mais aberto em Nova York, principalmente diante das ausências e dúvidas envolvendo alguns dos principais nomes do circuito.",
-              "link": "https://ge.globo.com/tenis/noticia/2026/08/30/djokovic-chega-ao-us-open-preparado-para-buscar-25o-grand-slam-melhor-maneira-possivel.ghtml",
+              "titulo": "Fica no Atlético-MG? Scarpa cita São Paulo e Santos ao comentar futuro no Galo",
+              "resumo": "Scarpa comenta futuro no Atlético-MG Gustavo Scarpa reapareceu no time do Atlético-MG neste sábado, no triunfo por 2 a 1 sobre o Vitória pelo Campeonato Brasileiro. Entrou na etapa final. Após o jogo, comentou sobre o futuro depois de ter conversado com o São Paulo e o Santos para uma possível transferência.",
+              "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/30/fica-no-atletico-mg-scarpa-cita-sao-paulo-e-santos-ao-comentar-futuro-no-galo.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Santos encaminha acordo com lateral Rodinei e aguarda liberação do Olympiacos",
-              "resumo": "Santos chega a acordo para liberar Robinho Jr. O Santos encaminhou o segundo reforço na janela de transferências deste meio de temporada. Trata-se do lateral-direito Rodinei, que está próximo de deixar o Olympiacos, da Grécia.",
-              "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/30/santos-encaminha-acordo-com-lateral-rodinei-e-aguarda-liberacao-do-olympiacos.ghtml",
+              "titulo": "Josmar é relacionado pela primeira vez no Flamengo e vira opção contra o Botafogo; conheça a joia",
+              "resumo": "Gol do Flamengo! Josmar aproveita erro do adversário e marca O Flamengo vai ter uma novidade no banco de reservas para enfrentar o Botafogo neste domingo. O centroavante Josmar, de apenas 17 anos, será o reserva imediato de Pedro quando a bola rolar às 16h (de Brasília), no Maracanã, pela 25ª rodada do Campeonato Brasileiro.",
+              "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/josmar-e-relacionado-pela-primeira-vez-no-flamengo-e-vira-opcao-contra-o-botafogo-conheca-a-joia.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Copa Amapá Não Profissional 2026 reúne sete clubes e começa em setembro",
-              "resumo": "Copa Amapá de Futebol Não Profissional começa no dia 21 de setembro Rosivaldo Nascimento - Giro do Esporte AP A Copa Amapá de Futebol Não Profissional 2026 já tem data para começar. A competição organizada pela Federação Amapaense de Futebol (FAF) terá início no dia 21 de setembro e contará com sete clubes na disputa pelo título. Participam do torneio Atlético Amapaense, Combatente, Mangueirão, MV-13, Nacional, Olímpicos e São Joaquim do Pacuí.",
-              "link": "https://ge.globo.com/ap/noticia/2026/08/30/copa-amapa-nao-profissional-2026-reune-sete-clubes-e-comeca-em-setembro.ghtml",
+              "titulo": "Do tour pelo estádio ao vestiário com Pedrinho e atletas do Vasco: os bastidores da ida de Lamacchia a São Januário",
+              "resumo": "Marcos Lamacchia vai a São Januário e tem rosto estampado em bandeira da torcida do Vasco Marcos Lamacchia teve o primeiro contato direto com a atmosfera de São Januário, neste sábado, quando foi assistir à vitória do Vasco por 3 a 1 sobre o Cruzeiro, pela 25ª rodada do Campeonato Brasileiro.",
+              "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/08/30/do-tour-pelo-estadio-ao-vestiario-com-pedrinho-e-atletas-do-vasco-os-bastidores-da-ida-de-lamacchia-a-sao-januario.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -377,77 +356,20 @@
       "nome": "Entretenimento",
       "fontes": [
         {
-          "nome": "Famosos e Celebridades",
-          "noticias": [
-            {
-              "titulo": "Famosos chegam ao evento do Globo de Ouro no Brasil; veja fotos dos looks - CNN Brasil",
-              "resumo": "Famosos chegam ao evento do Globo de Ouro no Brasil; veja fotos dos looks CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBOMC04djBBTUk3UWpjNUJ5eWd4MlRYSC1ZQXlJS0pSN1dYYVpBb3JCN1Y4eTg5UFVWNXEyWXJyMDJhMmh3Qm5KNV9vcnBIcEdJVzdyZWVVTkY3SFBNZklKS0gyR0VVVWEzT2N6aVYzV3hGYWJiRmMyVFpUR2hVVHN5OXFJU2pUVHRzUUpXMXpHY3NyTjBfRmxBQ3J3QkR6Mnk2RnNUWlpYSU1PZUg2ak5hTzczQXRrWDRz?oc=5",
-              "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
           "nome": "TV e Novelas",
           "noticias": [
             {
-              "titulo": "Suely Franco assina contrato vitalício com a Globo; veja outros artistas com o benefício - Estadão",
-              "resumo": "Suely Franco assina contrato vitalício com a Globo; veja outros artistas com o benefício Estadão",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnVxb05JMlZhVTNfRUFBdm1fZXVKYWttRzNHTVhTUXZOcEZXSThRQlNnUWNTWlZVTzlGc3F1bTZMeWozRUdlWUZrUDE2dFlBRjRyMEZaSWtGUGFYUWhHeTNoNTM3bFh1SzhuZXFwU0d6dGU2RDhHbWhkQXRyRy1xQVlCN3lhbENud0xVNUpZWWgyOVRPeHBER2RORVMySk1MYkxlWDA5Um1UR0tsVEFFLVhzRmhEVU9VbUpucU4yMUFZZ2xoUmVpTmh6ZE9yX0h4QWxINmJB0gHbAUFVX3lxTE9Udmd1Zm5fWmRFWDBNQ0VadTJHeTdyZVZqMC1mS2xCSjRmUzQ3d2syNlR6eWd2NTVKWmFqNjZJNmJEQ3RlRjEzcVl3a3NDY3lzWnREeXUyRFk0d1hLZ2ktUTk1clRfZjBZNzYtczJqNTBSb0szS1AxVkhOaHAxMG5vSXFWMFgzRHdjNTBtaFFhRmZqOUxoZ1J3c01zNmhQRVlPMU1jSGtQRFpoY2NZZEw5UGY4eVU1XzdWT3ZJcU5oNmFwSDR6djc0amhFV1FncFcyVnlTOGtESjl3MA?oc=5",
+              "titulo": "Vai ter novela hoje? Veja a programação da Globo nesta sexta-feira - Tribuna do Sertão",
+              "resumo": "Vai ter novela hoje? Veja a programação da Globo nesta sexta-feira Tribuna do Sertão",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM05oVmM0STlKX244dG9CMXFwdENjT2R4ay1feFJmNmtFaDZiTFZRemt5aldpRTNzbTBTOE4xVndIVjZ3UkZKTFhVVXFrMWFsLWUxZzVGRDZJRVlkd19fa2dsYW1JbkVma25xOGJnWl80MENvOXA5QU45WUdRbklxYndQUHZycFlxTXI4UE5FVkRnSlFIdWVWVFRnNjctOVN2aHBBYXBJREg5VVRLY3pJc2pWeF9WWkREelBDSlB5WmNGUHQxTlJnOA?oc=5",
               "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Cleo Pires Retorna às Novelas Após Quase Oito Anos Afastada Da Televisão - InMagazine",
-              "resumo": "Cleo Pires Retorna às Novelas Após Quase Oito Anos Afastada Da Televisão InMagazine",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmekFHSVBNR0IzM1JZSXNEdTB0UGhJOXZ2dUhJaXNiek4ta19Pd1FROGN3ZGdiLU1tRHh2LTNBX3daMkNXd2V6Z0FGN0I1TjdWWlNveXpYV3o1ZmY0bWtkTXBSR2hfaGZORmpUWEJTWFFXQ1Zyd1FR?oc=5",
+              "titulo": "Novela “Avenida Brasil” voltará a ser exibida, mas não na Globo - Diário do Comércio",
+              "resumo": "Novela “Avenida Brasil” voltará a ser exibida, mas não na Globo Diário do Comércio",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWlybGZadDRMR3lJbEU2TURWY3JmRkQteVluTFBjeDdUVzlyUlhaRTlNVVVSVHJQRDY4TUdmQnYxZ2VTUUxEMmEtX0hvTHNyU0hVbzZUYjhQUGxpVHFOcTlmcC10bFc3d3FyTTNkZ3dSNXdNSUowX0NRMl92N0lqQURaVkVnUkp0WE9BT19ZYlM4MkxvbVMwc0dtUjRzQQ?oc=5",
               "fonte": "TV e Novelas",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Cinema e Filmes",
-          "noticias": [
-            {
-              "titulo": "Christopher Nolan conduz jornada épica com grande elenco em 'A Odisseia', que estreia nos cinemas - Guia Folha",
-              "resumo": "Christopher Nolan conduz jornada épica com grande elenco em 'A Odisseia', que estreia nos cinemas Guia Folha",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3pTNXl1Nzk1eDFQNE00eFJDTzN6am1fVDhtYW1LeWF2WjdJNVhyRlhYT01zNFdIMmxITGVsbnNOYjZaRjhZNXEyTmsyaTI4b2RwYllnUXZ2ZURmbTZSZ1ZtVXl6bFpVN1EtRjBxaHYxLWZaQzZtN2NPMjNQMzFMLWRDVUxlVUw0TmlvVFNOcEZScS1PeU0xZ3NYeUJoZ0dpZmZiNkJHZUEzbTBPcWhnMFBiUHVmcTNfdm1mSnhMYWEzRko3STJ5bG96UUN6czZsdGs5S2Y3Wm5EeXFWNWc?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Nicholas Galitzine, Camila Mendes e Travis Knight vêm ao Brasil para divulgar 'Mestres do Universo' - Gshow",
-              "resumo": "Nicholas Galitzine, Camila Mendes e Travis Knight vêm ao Brasil para divulgar 'Mestres do Universo' Gshow",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWRkckc3M21BVHpMWkstcFNpSWVJalZ6bjFabFVockQ1dDgwdlJWd0YtYkE0Qjg4QWN4aC02QllXNVZQd19ndWUza2tiQXBmS3ZhYllwalBJTkJxVGhrcy04Sk1DbVpoSHBhUXRVRUQ0SFdvT0lPanU2MDl3aEQ0UlIwcEw1dlNVQnRFZVdpRnJ0TkZqam56WjZZRUFMLTlRTlB5RjNNV0RKdTdyajVZaWdXZWZ5MjdsbXE1QW5LSUkyWWpCN3cyc3hNQjhoZ180YnBoU09aaHNGdHJ3WXMtZzhJNHZ1Y2420gH3AUFVX3lxTE4ycVhJZTF6TXVFa21LaWduTk1sZGw4azVFMzhkUEpfSEp3RnpuQ1k2V0Jtb2pQSVh4Q2Jic21vOHYxbHQ5QnBReHdPWG1hZHcxRmhLamcwTFdpRXhDT1RiaTJBYVo0aVZtLVlpdFRhM3RjNzBUVXlZT2pTQ29YdGs0aDI0d1VTUzB4bDJ5emN0VjhTX0JFc1BReXRNeHJKT0o5TFVMemRadHY2UGVPZ3lva2FFZ1gyUjR3R2hSeGpyOHFQYktZbkpDX0FLeV9yQ2UyOGdGbVlaX1hoVXBJRGZyS3JHSzAwbGI0Vng2VTUtTVQ0cE1WU2s?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Scarlet: Estreia do filme no Brasil segue indefinida (AT) - JBox",
-              "resumo": "Scarlet: Estreia do filme no Brasil segue indefinida (AT) JBox",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPakF6ODI0ajFOTl9nWmFlT1lkTE9sLXoxY1NCRDBWVUN0ZlFxenROTTItWTc1OE9UWC01ZHBsYjlra2FYa2NVY3E5VngxMEpENkp1d21reHNBMkhHdGpGSmNNT2lBNnNka3FuUVlVWUY0SzY4VWFaZllsS2RIcmpmeGZYUmUyT0UxdERZeHJ2R2Y?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Música",
-          "noticias": [
-            {
-              "titulo": "Mônica Salmaso une música erudita e popular em estreia imperdível - A TARDE",
-              "resumo": "Mônica Salmaso une música erudita e popular em estreia imperdível A TARDE",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjFxOGxwVEFIYldYUER6OXR3R2FzQnJXOVRwWDh6cnZkRzAxeXBfNXFUTHNfTmJ5Q2F5OEYzVHJzSUpPMS1Od0VkcktRMi1MbEtua1ZHbTJVVG5mc0RuSkplNThRWG5aaEpuTDZSZXBSa05qQ3BlemVoVG1kaGRwWEh3TXVrU1RHOE1sY0FScm9oNVU4cUxHREJvSnZxNlAyMVU1MtIBrAFBVV95cUxQeG1JZ0VCd2dHOU9yUWRuRmJ4VGhhQkZ4elB6Qm1jekdScWUyM2dUQS1NN2ZmRnpwVUpmMl80YWc3TVo0VnZMOWkyajJmQy1fcHFMVDZhUTByUXMtT0RsZ3dTQTE1V3pHRVBHMnlTZW9DOWUwODROWDU4eGtqR0w2ZFRhMlNlYm44cTVZcjhPOFBuVE5seno5cUpvaWV3Tm13bXB6enVPSndSc3oz?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Karol Conká canta todas as músicas do “Batuk Freak” em nova turnê comemorativa - veja setlist! - POPLine",
-              "resumo": "Karol Conká canta todas as músicas do “Batuk Freak” em nova turnê comemorativa - veja setlist! POPLine",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2phZm5KVjV4MTk3Y014ODNFR0MyTnozVW9QZy1HaEhNdXZoR2tVTVptR1hLR0RxWnJFWGlqWlRadXF4alpySDVLNDZFQVc4Q0N2ZU9uQnZyTGtpaGVUVEJjMWhULVB5ZUpPR3FLYUhuMDM0eXhTUTkxUUVkZEVUTnJ1ZmppQkU0RzBseUMyTFhLMnpYUDl1ZnJFUzF0Tmp6RXc?oc=5",
-              "fonte": "Música",
               "editoria": "Entretenimento"
             }
           ]
@@ -458,79 +380,20 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Ciência e Tecnologia",
-          "noticias": [
-            {
-              "titulo": "Nova descoberta muda percepção da ciência sobre planetas do Sistema Solar - Revista Fórum",
-              "resumo": "Nova descoberta muda percepção da ciência sobre planetas do Sistema Solar Revista Fórum",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU2E3aHhrREJSRVpLNnJwWkV5QVYwMHJKSEtJeENnUUtuRG1nNnpwRVV4a0kxREI3WjNYT2RpMFllMUYxdjJvRk9RS24tR1lESEoyZHQ1WnNpN3dYTjN2UGR0WXlmZmR6WmxPcENLN2RFZm5yd0lJb0I5VWlQQjhXek5paGE0OG9JYjJ5QUg3UFlLc1Q1ZVlrV2pwZW1odWp4OEtWa2N3Vlo3UDJHcS1lMmQ3Zw?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Da descoberta que revolucionou o mundo tecnológico para o Governo. Elvira Fortunato, a nova ministra que é uma apaixonada pela Ciência - CNN Portugal",
-              "resumo": "Da descoberta que revolucionou o mundo tecnológico para o Governo. Elvira Fortunato, a nova ministra que é uma apaixonada pela Ciência CNN Portugal",
-              "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOWm9RS3BBd2Z4eW1rYk9QYjhrQnptZVNOYTBaWnhaT21PVC1nSHNQREFoSVVCY3Uwc3VxWHQzYWp5ZUU4ZFRhNVk0enY0OW5NYUJaaWVkUzZzQ2lMeEZlZERJdTJjWVRPSGZQNmg1R3dOb0VPOFhUREJpcVRVOWl1VDhGNTlIRVRvX2hhMWpKQTdUZzRpVkxodzU3ejB6Ty1felV2ejVscWVhZjdsYWZ1Tk12bDJ1c05TM05MUlhQMWZJdXlCNkptR0xZaEZHeW16bUxKejVmUVNwTkxjVHdIT2tBNUNiMUNuSEpEWjhzT2RBaGFBc0pwOUpfLURjWDBiWlljNjdJNktRcTdCMFFaTjluNXVISVFNQmk3aXBfRlZ5NExsWFlTX2RyTVZ0eEgwQ3VrUDJ5QkJEQzlfdmdPbVdIOVo?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
           "nome": "Saúde e Bem-estar",
           "noticias": [
             {
-              "titulo": "Estimulação cognitiva melhora memória e bem-estar em idosos, aponta estudo da USP - Folha de S.Paulo",
-              "resumo": "Estimulação cognitiva melhora memória e bem-estar em idosos, aponta estudo da USP Folha de S.Paulo",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlVxNFdac0J1WjRSMjNERmRzYk5vYkxncmFRbXUxVnZ1UGJJd3RHMDRBLTFSclFVZHhhaU5MS2lZMXJSeS1NU0RtOU1vdnFWcVMycXFvSENUN1I1TkZFUWg4U3hyOUgtZXZ4emFEZ3M5ekZia3dMOHM3NFowbXdlSFdMNUNrVUViZ1dHei1va2k0V1ltVjFFZFpwdE1KQTc4RER0QkdpTDVfblpEMzk3MGZTa0tuMGh5T1FSbU9UeThnVkxDWFlhVzNGYXFoRHVxd2h1NXlNN3bSAd4BQVVfeXFMT3QwVmg2b2VGWk9Ja0MtdDZ5eHhreGFUM3JYTG45N1lDckxBbU5vS1RFXzYzV1lRdFNVdEs2S1F5SWdYLXdJbGNrLWoxWE9YYm9RUEVpV1AzT1E5NG1MNUZCU0ItOWJ6Y3Z3S3R3aFpmVDZyRmhJa0R0SjNqRGhRNlYtOG15RDlkNjc3c2dfQy1TTzFUTnQ1anFyZXNHd1RYMEFHSkkyZWVMVVUyY1E4VmgycHZ3am5Db1BYRFcyMEY5MzJxSGZzMkRnc0otaUI3cERqVHdDSDdXeEpKNnVB?oc=5",
+              "titulo": "Brasileiros associam cosméticos a saúde e bem-estar, diz pesquisa - Guia da Farmácia",
+              "resumo": "Brasileiros associam cosméticos a saúde e bem-estar, diz pesquisa Guia da Farmácia",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3VUalRCVkMtdVlNR19ScU1LQkdpOWRhMGRsTTVSaTdrcU1aOFloMjZ0NnRwOWExV0g4OWFhUjVtZVhnOE5oSzV1WmJsazRuazlOblgyYXdWWDJOUVBZSlJ5eWRLeHhfenhjVDdPTk9RejgwdnJ5UXB6eGZKRGNmLVhlZTk4RkZZTVFMOFdhRUhmNDNrM0lFWUZNWQ?oc=5",
               "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "Saúde mental em pauta: qual a relação entre o consumo de mídia e o bem-estar dos brasileiros - Globo Gente",
-              "resumo": "Saúde mental em pauta: qual a relação entre o consumo de mídia e o bem-estar dos brasileiros Globo Gente",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8waXpMdEo0cktHQWU5LWkyQkk2VmY1Tk5mQVdiTFh4TXRoYUNvVUJOb2dWZzdnbHYzQnlUNS1PV2xSVjhweFR4NjcwU2JOdUJSZlNTVDFvY25tbjdreXdWcw?oc=5",
+              "titulo": "Quantas vezes por semanas os casais deveriam fazer sexo para a saúde mental e hormonal? - O GLOBO",
+              "resumo": "Quantas vezes por semanas os casais deveriam fazer sexo para a saúde mental e hormonal? O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2xvQS0wNVBscnYzVVo0THdpTFBPWGRTdmdkNHhNU0JZQjRaMmpBekpJanhDd2FtMWVKM2JFZ1V1RThOc2FsR0R3X1V2b0ZFUnRKTVVHdzA5ZnpBV3RYRGJCYUxmZEVLS3JEYkVsUkdkMUtNT1Z0a0R4XzB1UEtyRFh6U1RDaGRkcFVtaXBYVTZzNGFKTmJQeUZjTndreEZRT3BfLV9rdUFZNFNUYk1ZWF9mejBzV29sU0F6VUQ0U1k4RXBXNDJMQ3lzWFF1RUcyT3JxR19nbk9oODJTYjNUREdXREdWWEnSAfYBQVVfeXFMTzhURGNsa2ZRTVhoT0cwci16TDNodkJmc0l2WGV3cnZRR1pyc1N1QWpjSG1QRHBOaTFEQ1dOWWltSFVLLXZTMHlnNWFfVjB4MGdGTVhUdXhfSzFaYU80cHlHaDloM0lfSWE0Umo3dkxENk5Pbl8yeXRuSGpVdllGbWYxUU00NnZCLVFFSl83am9pRTFWSTBOcVY1ZXBsV2lBYVZsUEN4bVptV1pNdzBIcFkwSERUR1pEWF9WUnVlUFZ1V0hYeWlrejNXQ2xBSVFadjJORW96ZjY5NkhCVV93b2JSRmlnUl9Fc0pPb08xYTRrcTdzR1lB?oc=5",
               "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Jardinagem: cultivar pode reduzir estresse e ansiedade - Einstein Hospital Israelita",
-              "resumo": "Jardinagem: cultivar pode reduzir estresse e ansiedade Einstein Hospital Israelita",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1BDYlZsQjV1N1dBTHlhVUdUNDN5MkJac1M5MjQwNmFMaWM2Z01rYlloNmFrQ3JVLVp2YmNtNVdsUzhQOUxyMWlfQ1FnY0ctY1drZkF0enpDSk9NUnJFWDhZUHY4TzRSNmMwQjdROEEwZlhVSWhSZ0FSY05VRXdEXzFrejd0S0MtU0xmT2dncG90TTg1TFI3aQ?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Transtornos mentais graves podem reduzir expectativa de vida em até 20 anos, aponta estudo - O GLOBO",
-              "resumo": "Transtornos mentais graves podem reduzir expectativa de vida em até 20 anos, aponta estudo O GLOBO",
-              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcjdkUEJ3Qldma1ptSXhQcExMNl8zbFhYT2d5eWxoUnA3UmdtZWZRcTR5WFhtUTVnV1NFWjViUkJ2NkN4WkNwdkJXelVlRUNvaWc4UVJjQzF0YU9jR3habHpOc0tIUWhiTW1ubGk2NkVSbU1lR1VZNkU4NG5ueG5ZTUNvd0J2ZEh5UmhRWk1wLWoxUTByekRKX0hNNkg2dWJXV01Bc25peXJyVjd5RVQ0TlpVYlBLUXBDUUh3YUxjcHVEX2dfak10TWN2UFpoTW42bTExS0dLeWI5bmw2OU10ZE85VFZXb0NJWWhR0gH6AUFVX3lxTFA0MmJCdUlCanpValJjMzZZMDBhTDNUaVRqQ3B3QXFneFZLT2JQWGhJTEdWT3Q1elpGRlcxd3hwOHZGMzRiVlhSb0xnTnFJTTd3XzhhOXhfbmx5dy1mOE0wM3h5Z05HN3RFN1Nsb3RVRVVMUmxtMHJJVzFEcVpjUkU5c1NnSVVnWm9iR0ZnOUNSNWJCSEtHak9KVlFpc3VjTXVEWnc3bWk4WDJDUWZ2QzVlUFVmNXBNbWhBWEE1RmRwUzI2c3U1R1Yyb2NRUlZJUHFQVHFoX0lzVzVUb2pkRUhvQjFfWDRLV2lRdTc1MU9XWWdTZzJXdC1mM3c?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Reclamar menos e sorrir mais faz bem à saúde, dizem pesquisas - Bons Fluidos",
-              "resumo": "Reclamar menos e sorrir mais faz bem à saúde, dizem pesquisas Bons Fluidos",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEZRMnlaWmhkRVNFS0pKQUVna2Q2dGlKOWJlR1lFZ1ctNXphTEJnVVQzSVZIX29lUHcxZXVCLVBYS2t2U3picGRFRHhIMThWQWtPMENKWmdULTV6MHVycWdEZjhsLUJyNDRLRFlkb3FyZHVNUG9jaExrZktQZ0NBMF9sb3ZsODdHVDBlN0tLUjVBclZPa1dnNFVydThIWklBYzZWVjRSbFdQTkZIaGdGNw?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
-          "nome": "Curiosidades Gerais",
-          "noticias": [
-            {
-              "titulo": "Elymar Santos surpreende o público com live em lugar inusitado; saiba qual - Notícias da TV",
-              "resumo": "Elymar Santos surpreende o público com live em lugar inusitado; saiba qual Notícias da TV",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVdiTTVxMHJUYThPWV9pYlBqVnMtaFktbkxjVVlneTMwNkh6MHgyeFdkRGdRMURRVlV3NU9jdnN3eHh6UWUxdDRpOHVVUEQ1bXFxSXpwUTFKLTFJOVZzRjV6d1pQREUzWGRNUmhqSmhKbjJhRmlrYmdxVVVjY21jNnlCcW40dDVrRWdDeENyMVQwN2Q4RnpuS01QNHE1UG1iN2VnTnlPeG9IbzIwRlJFZDJlZlE5R29IMm9CcjZyRDViMnFFVm5qVHBUYi0?oc=5",
-              "fonte": "Curiosidades Gerais",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Maisa Silva revela sonho inusitado e surpreende seguidores: ''Ia ser tudo'' - CARAS Brasil",
-              "resumo": "Maisa Silva revela sonho inusitado e surpreende seguidores: ''Ia ser tudo'' CARAS Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU9qWUpDVHp3amVjc1ozQUxWbmVvd2NSeGhvUjBkZWxmNVJWcG1mVXRnZlByZmlkX3gyRVd3c2VIWWowT2pwb1ZRNWlGR1c0US03S2Z0dFBtWklqRXM3RWR2X3k0WWFQdlBBREZfYmFUOHVvWkhTYXZuc2lyZmlLUkpYek9la0ZhQnpTTkV2d2lpSTA3aVotNWMzSkFYMlhpZGc?oc=5",
-              "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
           ]
