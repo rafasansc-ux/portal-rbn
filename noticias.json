@@ -1,47 +1,59 @@
 {
-  "gerado_em": "2026-09-06T02:26:10.489056",
+  "gerado_em": "2026-09-06T08:58:22.380990",
   "data": "06/09/2026",
-  "hora": "02h26",
-  "total": 38,
+  "hora": "08h58",
+  "total": 27,
   "editorias": [
     {
       "nome": "Estado",
       "fontes": [
         {
+          "nome": "G1 SC",
+          "noticias": [
+            {
+              "titulo": "Do motorhome ao luxo: opções econômicas e instagramáveis mostram diversidade do turismo na Serra de SC",
+              "resumo": "Turismo de expectativa: Caçada pelo frio em SC movimenta a economia na Serra de SC Entre vinhos, boa comida e paisagens únicas, a Serra de Santa Catarina virou destino para quem busca descanso e a experiência de viver o inverno no Brasil. Apesar do custo da viagem ter ficado mais alto, ainda há opções para diferentes bolsos: de pousadas mais econômicas e espaços para casas sob quatro rodas até cabanas instagramáveis e hotéis sofisticados.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/motorhome-luxo-opcoes-economicas-instagramaveis-diversidade-turismo-serra-sc.ghtml",
+              "fonte": "G1 SC",
+              "editoria": "Estado"
+            }
+          ]
+        },
+        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Casal de SC faz protesto contra Lula e Alexandre de Moraes com caminhada de quase 200 km segurando bandeira do Brasil",
-              "resumo": "Moradores de Jaraguá do Sul saem a pé rumo a Florianópolis com camisas e faixas com mensagens políticas; trajeto de 190 km já passou por chuva e alcançou o Litoral Norte O post Casal de SC faz protesto contra Lula e Alexandre de Moraes com caminhada de quase 200 km segurando bandeira do Brasil apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/casal-de-sc-faz-protesto-contra-lula-e-alexandre-de-moraes-com-caminhada-de-quase-200-km-segurando-bandeira-do-brasil/",
+              "titulo": "Onde estarão Lula e Flávio Bolsonaro no 7 de Setembro? Veja a programação dos presidenciáveis no Dia da Independência",
+              "resumo": "Os candidatos à Presidência da República nas eleições deste ano terão agendas distintas nesta segunda-feira O post Onde estarão Lula e Flávio Bolsonaro no 7 de Setembro? Veja a programação dos presidenciáveis no Dia da Independência apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/lula-flavio-bolsonaro-7-de-setembro-a-programacao-dos-presidenciaveis-dia-da-independencia/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Rapaz convida ministro da Saúde para testar nova camisinha texturizada do SUS e resposta de Padilha surpreende",
-              "resumo": "Ministro da Saúde não deixou passar batido o convite inusitado para teste de preservativo 'diferentão' e gratuito O post Rapaz convida ministro da Saúde para testar nova camisinha texturizada do SUS e resposta de Padilha surpreende apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/internet/rapaz-convida-ministro-da-saude-para-testar-nova-camisinha-texturizada-do-sus-e-resposta-de-padilha-surpreende/",
+              "titulo": "Com apenas 17 anos, jovem de SC transforma perda da visão em vitória e mira a Seleção Paralímpica",
+              "resumo": "Eduardo Silva Klegin, de Jaraguá do Sul, enfrenta a perda progressiva da visão, se destaca na natação paralímpica e sonha representar o Brasil O post Com apenas 17 anos, jovem de SC transforma perda da visão em vitória e mira a Seleção Paralímpica apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/jovem-de-sc-enfrenta-perda-de-visao-e-mira-selecao/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Volkswagen quebra tradição e confirma venda de carro inédito no Brasil em meio à ascensão dos elétricos; confira os detalhes",
-              "resumo": "Montadora alemã encerra exclusividade do aluguel, fixa preço abaixo dos R$ 300 mil e acirra disputa no mercado nacional dos elétricos O post Volkswagen quebra tradição e confirma venda de carro inédito no Brasil em meio à ascensão dos elétricos; confira os detalhes apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/carros/volkswagen-quebra-tradicao-e-confirma-venda-de-carro-inedito-no-brasil-em-meio-a-ascensao-dos-eletricos-confira-os-detalhes/",
+              "titulo": "Desaparecimento de bancário paulista em SC completa 1 mês entre mistério, pistas e suspeita de crime",
+              "resumo": "Vinícius Valente da Silva despareceu após sair de hostel na Lagoa da Conceição, em Florianópolis; entrega de computador à perícia e quebra de sigilos trazem novas expectativas de desfecho O post Desaparecimento de bancário paulista em SC completa 1 mês entre mistério, pistas e suspeita de crime apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/desaparecimento-de-bancario-paulista-em-sc-completa-1-mes-entre-misterio-pistas-e-suspeita-de-crime/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Vídeo mostra momento em que lobo-marinho atacado por cães é salvo por aproximação de pescador em SC",
-              "resumo": "Flagrante gravado em Balneário Rincão mobilizou equipes do PMP-BP; especialista da Unesc aponta que animal não sofreu lesões, mas caso reforça alerta sobre ataques recorrentes no litoral de SC O post Vídeo mostra momento em que lobo-marinho atacado por cães é salvo por aproximação de pescador em SC apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/animais/video-mostra-momento-em-que-lobo-marinho-atacado-por-caes-e-salvo-por-aproximacao-de-pescador-em-sc/",
+              "titulo": "De origem oriental, paredão de ‘flores da prosperidade’ se mistura em meio a ‘cidade de pedra’ e muda paisagem em uma das principais avenidas da Capital",
+              "resumo": "\"Paredão\" de azaleias muda a paisagem de quem passa pela Avenida Beira-Mar, em Florianópolis; arbustos florescem no inverno ou no início da primavera O post De origem oriental, paredão de ‘flores da prosperidade’ se mistura em meio a ‘cidade de pedra’ e muda paisagem em uma das principais avenidas da Capital apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/meio-ambiente/azaleias-flores-da-prosperidade-mudam-paisagem-em-avenida-movimentada-da-capital/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Passageiro da primeira classe é amarrado com fita após tumulto, mordidas e xingamentos homofóbicos durante voo da American Airlines",
-              "resumo": "Ele foi preso pela FBI após confusão, que exigiu desvio de rota da aeronave O post Passageiro da primeira classe é amarrado com fita após tumulto, mordidas e xingamentos homofóbicos durante voo da American Airlines apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/passageiro-da-primeira-classe-e-amarrado-com-fita-apos-tumulto-mordidas-e-xingamentos-homofobicos-durante-voo-da-american-airlines/",
+              "titulo": "De Dilma a Lula e à Jovem Pan: relembre votos polêmicos de Cármen Lúcia",
+              "resumo": "Relembre votos polêmicos de Cármen Lúcia envolvendo o impeachment de Dilma, Lula, a Jovem Pan e a vice de Simone Tebet. O post De Dilma a Lula e à Jovem Pan: relembre votos polêmicos de Cármen Lúcia apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/votos-polemicos-carmen-lucia-dilma-lula-jovem-pan/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -56,37 +68,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "TSE vai decidir se Arruda pode ou não ser candidato no DF; entenda os cenários possíveis para a disputa",
-              "resumo": "Arruda (PSD), em primeiro dia do horário eleitoral gratuito no DF Reprodução Ao longo das próximas semanas, o Tribunal Superior Eleitoral (TSE) deve analisar o pedido de registro de candidatura do ex-governador do Distrito Federal José Roberto Arruda (PSD), que deseja voltar ao comando do Executivo local.",
-              "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/06/tse-vai-decidir-se-arruda-pode-ou-nao-ser-candidato-no-df-entenda-os-cenarios-possiveis-para-a-disputa.ghtml",
+              "titulo": "Vulcão 'filhote do Krakatoa' entra em erupção na Indonésia, afeta voos na Ásia e deixa 150 mil passageiros retidos",
+              "resumo": "Agora no g1 Mais de 150 mil passageiros ficaram retidos depois que uma erupção vulcânica obrigou as autoridades da Indonésia a suspender temporariamente as operações em seis aeroportos. O Aeroporto Internacional Soekarno-Hatta de Jacarta foi o primeiro a ser fechado na manhã de domingo, após a detecção de cinzas do vulcão Anak Krakatau no espaço aéreo próximo ao aeroporto.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/09/06/vulcao-filhote-do-krakatoa-entra-em-erupcao-na-indonesia-afeta-voos-na-asia-e-deixa-150-mil-passageiros-retidos.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "59º Festival de Brasília do Cinema Brasileiro começa nesta semana; veja destaques da programação",
-              "resumo": "Fachada Cine Brasília Agência Brasília Após atrasos no financiamento e até risco de um inédito cancelamento por falta de dinheiro, a 59ª edição do Festival de Brasília do Cinema Brasileiro está confirmada – e começa na próxima sexta (11), no Cine Brasília. A noite de abertura contará com a exibição do longa-metragem \"A pele morta\" (2026), com direção dos irmãos brasilienses Bruno Fatumbi Torres e Denise Moraes.",
-              "link": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/06/59o-festival-de-brasilia-do-cinema-brasileiro-comeca-nesta-semana-veja-destaques-da-programacao.ghtml",
+              "titulo": "Mulher de Lito nega privilégio para obter remédio experimental e diz que quer orientar outras famílias",
+              "resumo": "Esposa de Lito explica procedimento para conseguir remédio experimental Reprodução Mila Seidl, esposa do influenciador Lito Sousa, negou que a autorização para importar um medicamento experimental contra a doença de Creutzfeldt-Jakob tenha sido resultado de um privilégio concedido ao marido. Ela afirmou que pretende explicar o procedimento seguido pela família para ajudar outros pacientes com doenças raras e sem alternativas de tratamento.",
+              "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/mulher-de-lito-nega-privilegio-para-obter-remedio-experimental-e-diz-que-quer-orientar-outras-familias.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "RS é o estado com mais indecisos na eleição para presidente, segundo a Quaest",
-              "resumo": "Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41% Boa parte do eleitorado gaúcho não decidiu em quem votar nas eleições de 2026. A afirmação vale para diferentes esferas do poder: o Rio Grande do Sul aparece entre os estados com maior indecisão tanto na disputa do governo do estado quanto na eleição nacional nas pesquisas divulgadas pela Quaest ao longo da última semana.",
-              "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/06/rs-e-o-estado-com-mais-indecisos-na-eleicao-para-presidente-segundo-a-quaest.ghtml",
+              "titulo": "VÍDEO: Passageira é arrastada por motorista de aplicativo após corrida no interior de SP",
+              "resumo": "Mulher é arrastada por motorista de aplicativo, em Tremembé Câmeras de segurança flagraram o momento em que uma passageira é arrastada por um motorista de aplicativo, na divisa entre Taubaté e Tremembé, no interior de São Paulo. O caso aconteceu na sexta-feira (4) e as imagens foram divulgadas pela Prefeitura de Tremembé na noite deste sábado (5) -- assista acima.",
+              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/video-passageira-e-arrastada-por-motorista-de-aplicativo-apos-corrida-no-interior-de-sp.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Fazenda vertical produz 25 tipos de hortaliças em sala comercial e fatura R$ 50 mil por mês",
-              "resumo": "Microverdes cultivados na cidade viram negócio de alto valor Em uma sala comercial de Florianópolis, em Santa Catarina, bandejas iluminadas por luzes artificiais substituem o cenário tradicional de uma lavoura. Ali, entre sensores, software de gestão e sistemas automatizados de irrigação, nascem diariamente brócolis, rúcula, rabanete, repolho roxo e outras espécies de microverdes.",
-              "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/09/06/fazenda-vertical-produz-25-tipos-de-hortalicas-em-sala-comercial-e-fatura-r-50-mil-por-mes.ghtml",
+              "titulo": "Espaço Favela, sucesso do Rock in Rio há 4 edições, nasceu de um ‘transe’ de Roberto Medina, diz curador",
+              "resumo": "Espaço Favela chega à 4ª edição com shows lotados O Espaço Favela chega à sua 4ª edição do Rock in Rio como uma das atrações mais disputadas da Cidade do Rock. E nasceu de um “transe” de Roberto Medina, segundo conta o amigo Zé Ricardo. O palco foi criado para dar visibilidade a artistas da periferia e, desde a estreia, tem reunido grandes públicos — tanto que é considerado um dos mais importantes de toda a Cidade do Rock.",
+              "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/espaco-favela-do-rock-in-rio-historia.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Camaru 2026: veja a programação do último dia, especial para as famílias e com mudança na arena",
-              "resumo": "O Grupo Dos Rosa é atração deste domingo (6), no Camaru Divulgação Termina neste domingo (6), véspera de feriado, a 62ª edição do Camaru - Exposição Agropecuária de Uberlândia. A arena de shows do Parque de Exposições receberá uma nova configuração com o 'Espaço Família'. Os shows desta noites são com Dos Rosa e Bielzinho. Os portões abrem às 12 e também tem mudança no horário da Fazendinha.",
-              "link": "https://g1.globo.com/mg/triangulo-mineiro/agronegocios/noticia/2026/09/06/camaru-2026-veja-a-programacao-do-ultimo-dia-especial-para-as-familias-e-com-mudanca-na-arena.ghtml",
+              "titulo": "Luiza Possi grava álbum audiovisual em São Paulo em show de músicas cristãs que terá orquestra, coro e Eli Soares",
+              "resumo": "Luiza Possi grava o álbum audiovisual 'Quando Ele me encontrou' na segunda-feira, 7 de setembro, em show orquestral na Sala São Paulo Cris Gomes / Divulgação ♫ NOTÍCIA ♬ Dando sequência à discografia da fase cristã, iniciada em 26 de junho com a edição do álbum “Quero conhecer Jesus” (2026), Luiza Possi grava o primeiro álbum audiovisual após a conversão à religião evangélica – ocorrida em setembro de 2024, mas somente anunciada oficialmente em",
+              "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/06/luiza-possi-grava-album-audiovisual-em-sao-paulo-em-show-de-musicas-cristas-que-tera-orquestra-coro-e-eli-soares.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -96,9 +108,37 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Governo federal projeta receita total de R$ 3,24 trilhões em 2026; número é recorde e equivale a 23,7% do PIB",
-              "resumo": "Notas de real Reprodução/Pixabay A equipe econômica estimou que as receitas totais do governo atingirão R$ 3,24 trilhões neste ano, o equivalente a 23,7% do Produto Interno Bruto (PIB). Para o próximo ano, a expectativa da área econômica, de acordo com a proposta de orçamento, é de pequena queda nas receitas totais para 23,4% do PIB (R$ 3,46 trilhões).",
-              "link": "https://g1.globo.com/economia/noticia/2026/09/06/governo-federal-projeta-receita-total-de-r-324-trilhoes-em-2026-numero-e-recorde-e-equivale-a-237percent-do-pib.ghtml",
+              "titulo": "Baixo lucro em safra de urucum preocupa produtores da Nova Alta Paulista",
+              "resumo": "Baixo lucro em safra de urucum preocupa produtores da Nova Alta Paulista Reprodução / TV TEM A safra de urucum de 2026 tem gerado apreensão entre agricultores da região da Nova Alta Paulista, considerada a maior produtora da semente no estado de São Paulo. Apesar de o Brasil ser responsável por cerca de 57% da produção mundial, os preços praticados no mercado não têm garantido margem de lucro satisfatória para os produtores locais.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/06/baixo-lucro-em-safra-de-urucum-preocupa-produtores-da-nova-alta-paulista.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Safra de laranja cresce no interior de SP, mas queda no consumo de suco derruba preços",
+              "resumo": "Safra de laranja cresce no interior de SP, mas queda no consumo de suco derruba preços Reprodução / TV TEM A produção de laranja no interior paulista demonstra crescimento na safra deste ano, mas a queda na indústria do suco reduz o ganho dos produtores rurais. Conforme o diretor-executivo da CitrusBR, Ibiapaba Netto, os últimos três anos de preços elevados geraram uma queda entre 30% e 40% no consumo da cadeia de suco de laranja.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/06/safra-de-laranja-cresce-no-interior-de-sp-mas-queda-no-consumo-de-suco-derruba-precos.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Dívida dos EUA passa de R$ 200 trilhões. Por que Trump não consegue frear a alta?",
+              "resumo": "Trump defende avanço da economia e política de imigração A dívida do governo dos Estados Unidos ultrapassou US$ 40 trilhões (R$ 206 trilhões) nos primeiros 19 meses do segundo mandato de Donald Trump. O número dá a dimensão do desafio que o presidente enfrenta. O republicano voltou à Casa Branca prometendo reduzir gastos, diminuir o tamanho do governo e estimular a economia para colocar as contas públicas em ordem.",
+              "link": "https://g1.globo.com/economia/noticia/2026/09/06/divida-dos-eua-passa-de-r-200-trilhoes-por-que-trump-nao-consegue-frear-a-alta.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Por que o acordo de US$ 18 bilhões da Meta importa além dos Estados Unidos",
+              "resumo": "Meta pagará indenização de US$17 bilhões nos EUA Há bons motivos para ser cético quanto ao impacto que o mais recente acordo legal da Meta terá sobre a gigante de tecnologia. A empresa já sobreviveu a escândalos, audiências no Congresso e multas regulatórias sem grandes danos duradouros.",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/06/por-que-o-acordo-de-us-18-bilhoes-da-meta-importa-alem-dos-estados-unidos.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Currículo inovador ajuda a driblar a IA? Veja quando inovar pode atrapalhar a seleção",
+              "resumo": "O designer australiano Felix Toohey cria currículos criativos e personalizados para cada empresa, transformando a candidatura em objetos e experiências inusitadas para chamar a atenção dos recrutadores.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/06/curriculo-inovador-ajuda-a-driblar-a-ia-veja-quando-inovar-pode-atrapalhar-a-selecao.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -108,37 +148,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Coritiba x Mirassol: horário e onde assistir ao jogo do Brasileirão",
-              "resumo": "Equipes se enfrentam neste domingo (6), no Estádio Couto Pereira, pela 26ª rodada da competição de pontos corridos",
-              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-mirassol-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
+              "titulo": "Corinthians enfrenta a Chapecoense com desfalques; veja provável escalação",
+              "resumo": "Corinthians recebe a Chapecoense neste domingo (6), às 19h30, na Neo Química Arena, buscando reabilitação no Brasileirão",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-enfrenta-a-chapecoense-com-desfalques-veja-provavel-escalacao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Incêndio atinge galpão na Ceagesp, na zona oeste de São Paulo",
-              "resumo": "De acordo com o Corpo de Bombeiros, 16 viaturas trabalham no combate às chamas; não há informações sobre vítimas",
-              "link": "https://www.cnnbrasil.com.br/nacional/incendio-atinge-galpao-na-ceagesp-na-zona-oeste-de-sao-paulo/",
+              "titulo": "Com atenção dividida, Corinthians busca encerrar jejum no Brasileirão",
+              "resumo": "Time de Fernando Diniz vem de três derrotas seguidas no torneio nacional; clube joga quartas da Libertadores",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/com-atencao-dividida-corinthians-busca-encerrar-jejum-no-brasileirao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "“Você é um escolhido e ungido do Senhor”, diz Michelle sobre Mendonça",
-              "resumo": "Em meio à crise no STF, ex-primeira-dama sai em defesa do magistrado e relembra sua indicação ao Supremo",
-              "link": "https://www.cnnbrasil.com.br/politica/voce-e-um-escolhido-e-ungido-do-senhor-diz-michelle-sobre-mendonca/",
+              "titulo": "CNN tem acesso raro ao sul do Líbano sob ocupação israelense",
+              "resumo": "CNN obteve acesso exclusivo a região alvo de conflitos nos últimos meses; forças de Tel Aviv já avançaram 10 km em território libanês, arrasando comunidades e causando deslocamento em massa",
+              "link": "https://www.cnnbrasil.com.br/internacional/cnn-tem-acesso-raro-ao-sul-do-libano-sob-ocupacao-israelense/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Londrina x Operário-PR: horário e onde asisstir ao jogo da Série B",
-              "resumo": "Equipes vão a campo neste domingo (06), 26ª rodada da competição",
-              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/londrina-x-operario-pr-horario-e-onde-asisstir-ao-jogo-da-serie-b/",
+              "titulo": "Dados de brasileiros são vendidos na dark web por menos de R$ 70",
+              "resumo": "Senhas de redes sociais e perfis de streaming estão entre os itens mais comercializados",
+              "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/dados-de-brasileiros-sao-vendidos-na-dark-web-por-menos-de-r-70/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Thiago Mendes vê Vasco melhor em derrota: “Detalhes fazem a diferença”",
-              "resumo": "Capitão do Cruzmaltino destacou a atuação do time no Maracanã, mesmo com o resultado negativo no clássico diante do Fluminense, pelo Brasileirão",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/thiago-mendes-ve-vasco-melhor-em-derrota-detalhes-fazem-a-diferenca/",
+              "titulo": "Quantidade ou qualidade? Saúde sexual não se mede por frequência de relação",
+              "resumo": "Levantamento com brasileiros mostra que mais da metade relaciona bem-estar íntimo à qualidade de vida geral",
+              "link": "https://www.cnnbrasil.com.br/saude/saude-sexual-nao-se-mede-pela-frequencia-das-relacoes-diz-especialista/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -148,75 +188,11 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais",
-              "resumo": "Um dos confrontos pelas semifinais da Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol está definido. Neste sábado (5), Flamengo e São Paulo levaram a melhor nos respectivos confrontos pelas quartas de final e serão adversários por um lugar na decisão.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais",
+              "titulo": "Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização",
+              "resumo": "O ministro Cristiano Zanin (foto), do Supremo Tribunal Federal (STF), enviou neste sábado (5) um ofício ao Tribunal Regional Eleitoral do Paraná (TRE-PE) pedindo responsabilização dos envolvidos na exposição de seus dados fiscais e bancários, que foram anexados ao registro de candidatura ao Senado do ex-procurador da República Deltan Dallagnol (Novo).",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dallagnol-expoe-sigilo-fiscal-de-zanin-que-pede-responsabilizacao",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
-            },
-            {
-              "titulo": "Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino",
-              "resumo": "O Bahia emplacou a terceira vitória seguida no Campeonato Brasileiro. Neste sábado (5), o Esquadrão de Aço derrotou o Red Bull Bragantino por 3 a 2 no Estádio Cícero de Souza Marques, em Bragança Paulista (SP), na partida que abriu a 26ª rodada da competição. O Tricolor foi a 43 pontos, garantindo mais uma rodada na zona de classificação à Libertadores, que engloba os cinco primeiros colocados - o chamado G-5.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/bahia-abre-26a-rodada-do-brasileirao-com-triunfo-sobre-o-bragantino",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "STF: Mendes propõe vetar delegados da PF como assessores de ministros",
-              "resumo": "O ministro Gilmar Mendes, decano do Supremo Tribunal Federal (STF), apresentou neste sábado (5) uma proposta para proibir que militares, delegados ou policiais sejam cedidos para atuar como assessores nos gabinetes da Corte. A proposta de alteração no Regimento Interno do STF já havia sido adiantada durante a semana ao presidente do Supremo, Edson Fachin, e foi agora formalizada por Mendes para que seja apreciada pelos demais ministros.",
-              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-mendes-propoe-vetar-delegados-da-pf-como-assessores-de-ministros",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Alison dos Santos conquista o título da Liga Diamante pela 3ª vez",
-              "resumo": "O paulista Alison dos Santos, o Piu, conquistou, pela terceira vez na carreira, o título da Liga Diamante (Diamond League), o principal circuito do atletismo, nos 400 metros com barreiras. O brasileiro venceu, com sobras, a prova deste sábado (5), que encerrou a etapa de Bruxelas (Bélgica), a última da temporada, com tempo de 46s70. Notícias relacionadas:Alison dos Santos quebra recorde mundial dos 400m com barreiras.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/alison-dos-santos-conquista-o-titulo-da-liga-diamante-pela-3a-vez",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Novo campus da UFSCar terá bacharelados interdisciplinares",
-              "resumo": "A Universidade Federal de São Carlos (UFSCar), no município de São José do Rio Preto (SP), terá uma nova sede. O edifício, antes uma fábrica, tem 11 mil metros quadrados de área construída, estruturada em dois pavimentos, e deverá passar por reformas para acomodar adequadamente a comunidade acadêmica. Os 90 estudantes estão acompanhando as aulas em um espaço provisório, cedido pelo Instituto Federal de São Paulo (IFSP).",
-              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/novo-campus-da-ufscar-tera-bacharelados-interdisciplinares",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Politica",
-      "fontes": [
-        {
-          "nome": "Política SC — Deputados e Senadores",
-          "noticias": [
-            {
-              "titulo": "PL da Dosimetria: Quem é Espiridião Amin, veterano da direita de SC, relator do projeto no Senado - G1",
-              "resumo": "PL da Dosimetria: Quem é Espiridião Amin, veterano da direita de SC, relator do projeto no Senado G1",
-              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWw5dEtETEFLS0p1V1FWaFVEbUNTdmc2MFVPTHh3WEMyVkRMZ3hBbVk2RXhHVC13YnlSMHBkeHZwRG45YUtmbElMRk9FZHRTYWNVa2NaWXFKRTBCSmgza094UEZDTjBwVkhwRXk3SjhSVGR0SkpHQnM5S0FjZnJoeW4tdllXNzc5dVljX3FOaVZZZldjQVQ1NGlzYVVhTl9mSUpqM2VJTkJKektocUcwUHJNc3YzdHM3V0dfWnY3SFpLNE5GMjBES3laSDhrTW11b2FVeENxTWswcUxMcm9aekpYTdIB8gFBVV95cUxNWjRlc0JhSFF6ODh6bE5YQmJuVjU1R0hza19FT28xMndpN0RwZ1BDMUYwdDhCTUJUbnlZSEJNZEo1SG1faUZPVXI1N0dCNzA5Ul9ScVpjWHE3VG9GS2ptS3M5TjU4aGMtZlBXa1JMbmRiQ3NtVG9VYXN5Z2FtU1hEOURCZW9iRzJ3eUpZbmhELTlvTkQ4OE9NOEVKZHRaOHNtamNSVGlCSDJXdG4wNlRtRjlYdDdtUi1GT1hwWTFVR3B6a0NDTTlxLWNGZ2pQTjFJcWVKOUdUQkowQWpkSGVleG5ORFhrTWE4UklCdWhaX25aQQ?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Carlos Bolsonaro confirma candidatura ao Senado e racha direita em SC - CartaCapital",
-              "resumo": "Carlos Bolsonaro confirma candidatura ao Senado e racha direita em SC CartaCapital",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbG42b0pLZThkUVpIWm1YZ0VHMnhyOXlKR2VpQWZDVUx3MkhxZVF2aFdhVlRxZXFfdG1Pdm1CdmF2SE1saDVFQ2xOTFBjTjFmSFJ3aUhreExkaVFkeUprRWp0dkU5ZWNla1p2NksyZlNsQjlBZ2JKbkJheE1uRE5ZVWVTUmFaUGlnaUtuaFl0X2lxSS05ZkMxb2ZBUkNyRzd3Y28tNkd1ZkdFSzQxdDk3dg?oc=5",
-              "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            }
-          ]
-        },
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Presidente do Senado telefona para Lula - Agência Brasil",
-              "resumo": "Presidente do Senado telefona para Lula Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEE2bTJtTHhKb2lYc2tIMEFBZHNyRVVIbzhNWEI3cHIyZ3NKdjF2RFVQNmQxYTN6VE5CQkk5YmdvZ1RpNy1TRHFLelVXNEdSck9Mb0t1VGZDVy1fNEtfVlBLYWlJTVA4ZUplVVNIWTBrRU5LM04yNG9VNDBoT0JfTEJPRVhuSjRkR25DdjlCdjZ3NF9uS3BhWlJPb19IZw?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
             }
           ]
         }
@@ -229,137 +205,39 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Planalto-GO vence Juventude de Estância e conquista título do Brasileiro Feminino Série A3",
-              "resumo": "A noite de sábado na Arena Batistão foi de final do Campeonato Brasileiro Feminino da Série A3. Juventude de Estância e Planalto-GO entraram em campo para a disputa do título e a equipe goiana levou a melhor ao vencer por 1 a 0, repetindo o placar do duelo de ida, conquistando o título.",
-              "link": "https://ge.globo.com/se/futebol/futebol-feminino/noticia/2026/09/06/planalto-go-vence-juventude-de-estancia-e-conquista-titulo-do-brasileiro-feminino-serie-a3.ghtml",
+              "titulo": "Novorizontino vence o Avaí e segue colado na liderança da Série B",
+              "resumo": "Em jogo marcado por pênalti perdido e golaços, Rômulo e Robson dão show e conduzem Tigre à quarta vitória consecutiva; Leão segue no limite do Z-4",
+              "link": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-b/jogo/05-09-2026/novorizontino-avai.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Itabaiana faz amistoso contra Maruinense visando estreia oficial no Campeonato Sergipano sub-20",
-              "resumo": "Na manhã deste sábado, o sub-20 do Itabaiana participou de um amistoso diante do time de base do Maruinense, no CT da Serra. A atividade fez parte da reta final de preparação tricolor para a estreia do Campeonato Sergipano da categoria, que começou neste fim de semana. Edmilson Santos comanda o Itabaiana no Campeonato Sergipano sub-20 VJ Fotografia Foram no total dois tempos de 40 minutos e terminou empatada em 1 a 1. Vitinho fez o gol tricolor.",
-              "link": "https://ge.globo.com/se/futebol/times/itabaiana/noticia/2026/09/06/itabaiana-faz-amistoso-contra-maruinense-visando-estreia-oficial-no-campeonato-sergipano-sub-20.ghtml",
+              "titulo": "Botafogo-SP mantém posição, mas vê Z-4 cada vez mais perto",
+              "resumo": "Botafogo-SP perde terceiro jogo seguido e fica perto do Z-4 na Série B Apesar da derrota para o Náutico e da sequência de quatro jogos sem vencer, o Botafogo-SP conseguiu manter a 15ª posição na tabela da Série B. No entanto, a distância para o Z-4 diminuiu. Na rodada atual, nesse sábado, o Ceará, que estava em 17º, venceu o Sport, foi a 31 pontos e igualou a pontuação do Bota. No entanto, está uma posição atrás por ter saldo pior: -6 contra 0.",
+              "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/botafogo-sp/noticia/2026/09/06/botafogo-sp-mantem-posicao-mas-ve-z-4-cada-vez-mais-perto.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "GP da Itália da F1 2026: horários e onde assistir ao vivo",
-              "resumo": "Pierre Gasly faz história e conquista a pole position do GP de Monza de F1 Chegou a hora da corrida mais veloz e tradicional do calendário! A Fórmula 1 entra neste domingo na 13ª etapa da temporada 2026, com o GP da Itália no icônico Autódromo Nacional de Monza. Pierre Gasly surpreendeu na classificação e larga na pole position pela primeira vez na carreira. Já o brasileiro Gabriel Bortoleto, da Audi, sai em 10º.",
-              "link": "https://ge.globo.com/motor/formula-1/noticia/2026/09/06/gp-da-italia-da-f1-2026-horarios-e-onde-assistir-ao-vivo.ghtml",
+              "titulo": "Sport demite técnico Gilmar Dal Pozzo após derrota para o Ceará",
+              "resumo": "Ceará 2 x 1 Sport | Melhores momentos | 26ª rodada | Série B 2026 Gilmar Dal Pozzo não é mais técnico do Sport. O treinador foi demitido após a derrota por 2 a 1 para o Ceará, neste sábado, na Arena Castelão, pela 26ª rodada da Série B. O clube pernambucano agora vai em busca do quarto técnico da temporada. O treinador deixa o Sport após 11 partidas na competição. Foram apenas três vitórias, quatro empates e quatro derrotas.",
+              "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2026/09/06/sport-demite-tecnico-gilmar-dal-pozzo-apos-derrota-para-o-ceara.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Arsenal x Chelsea na Premier League: onde assistir ao vivo e horário",
-              "resumo": "Arsenal 3 x 0 Manchester City | Melhores momentos | Final | Supercopa da Inglaterra Arsenal e Chelsea fazem neste domingo, no Emirates Stadium, o clássico da terceira rodada do Campeonato Inglês. Ambos têm duas vitórias na competição e tentam manter 100% de aproveitamento. O ge acompanha a partida em Tempo Real, às 12h30 (horário de Brasília).",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/06/arsenal-x-chelsea-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
+              "titulo": "Imprensa internacional repercute peitada de árbitro em Canobbio, do Fluminense: \"Sem precedentes\"",
+              "resumo": "Veja o momento em que o árbitro de Fluminense x Vasco peita Canobbio A imprensa espanhola e a imprensa portuguesa repercutiram neste domingo a peitada que o árbitro Davi Lacerda deu em Canobbio durante o clássico Fluminense x Vasco, vencido pelos tricolores por 1 a 0, na noite de sábado, no Maracanã.",
+              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/06/imprensa-internacional-repercute-peitada-de-arbitro-em-canobbio-do-fluminense-sem-precedentes.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Valencia x Barcelona em LaLiga: onde assistir ao vivo e horário",
-              "resumo": "Barcelona x Real Madrid: quem tem o melhor elenco O Barcelona enfrenta neste domingo o Valencia, no estádio de Mestalla, em jogo válido pela quarta rodada rodada da LaLiga 2026/27. A bola rola às 11h15 (de Brasília), e você pode acompanhar os principais lances da partida em Tempo Real no ge.",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/09/06/valencia-x-barcelona-em-laliga-onde-assistir-ao-vivo-e-horario.ghtml",
+              "titulo": "Juventude empata em casa com o Atlético-GO, mas mantém liderança da Série B",
+              "resumo": "Time gaúcho virou após sair em desvantagem, mas Dragão buscou o resultado no final da partida",
+              "link": "https://ge.globo.com/rs/futebol/brasileirao-serie-b/jogo/05-09-2026/juventude-atletico-go.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Entretenimento",
-      "fontes": [
-        {
-          "nome": "Famosos e Celebridades",
-          "noticias": [
-            {
-              "titulo": "Relembre histórias de stalkers e fã obsessivos com celebridades brasileiras - CNN Brasil",
-              "resumo": "Relembre histórias de stalkers e fã obsessivos com celebridades brasileiras CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWk4QWJLeTVPal95d0lfQ0lGeUgwcVZ3RERvdURadW0tRkc0endfUnkxSHN1dk96VGxEb3VmV3hlX2xDaGI5YjZRUUxLQ1FlcFdSMklfN19kWUFuTnRGTlVFZ1d2aG5UMGFmSWd0MUxLOS1KYlNSaHdreFh1N1E1ajNvSkNSNHhRaGE4eHhzemt5blVKWHRpQ2Y1THAtUk5OV0NKN2dtd0VvV3gtekE?oc=5",
-              "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "TV e Novelas",
-          "noticias": [
-            {
-              "titulo": "Globo fecha contrato com Lucy Alves e mais dois atores para Lá na Minha Terra - Notícias da TV",
-              "resumo": "Globo fecha contrato com Lucy Alves e mais dois atores para Lá na Minha Terra Notícias da TV",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzBEOUVSeW9rMTIxOXppa1NmYW9LcC16OEVtaGlaMS1vT0RKRlllemxyRG9WNGdwdU9JSDZrSkJ3NXZSbHEwQkJJRTktaVM5c1E2ZzhkUHlSSmhmSmp2d2dIZjRfMV9GcXBRYWpwMzZLMUh2c2h1WG5FbXphQk85akxTbnBUMElyQWlfNGVCYzdpRTgzVjFPTzlpNjhTZmN4WWRYNldHQXExUkZtRE5EXzQwSkptM0NHOFVqM3lUZDFOOHZkUlBobHZtbUJHSWPSAd4BQVVfeXFMTm9qRE94SzIzenZZX0I1XzM1SGxCNGdTSjJUVld6RGFDVGVhcV9uWVlFb1lfbjJ0S3hSelcwUkM2T2RnN3c0YklybWRWVkJOenpZbnA1T0ZWM3VFUkNqSVVHWWl5TXlTSWdjbnhZZHJtYjZTVXZOTFR4Nko1OVNQN3VMNDgyY01KR0RiLXN0QWJSay1EUWRZbEhWVi1DWFZ3aVZsQkZsWGtydWhGWno5X0dMbUx6MkMycFZBRWhkcHRTX3AyUzV1TDMyQ0U5UE5qcjF1NHhYclJJY2VzU1ZB?oc=5",
-              "fonte": "TV e Novelas",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "TV Globo divulga teaser da novela 'A Nobreza do Amor' - O Dia",
-              "resumo": "TV Globo divulga teaser da novela 'A Nobreza do Amor' O Dia",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2F3THlXcEk3M2dpRjhjdzVma09MeWRDOVFrQWJJTkRPWm80WmRsOFhEN1I3MUhrejZpenZPdGdKdGpJQTR0NUQtOEdybGVMdWQ5c2l0QzdrNXkzV1lWbWQ3T3UxRWd2Ul9SNE8ycDVBcjY2M0NsM0tWSXB1TkctUktTVUdIcjEwZEVaODNJY2hLMHFRWkFTQjAwMW55Ny1DVjk5SHJtWTJCa0tPa0FYdy1Pc2rSAboBQVVfeXFMTjN5dXhrT3Y1ZTVwcGRPUmFuZ2VIU2FFMlhhYTVfaVVBOW9leHVZclFDcGpPM0ZMb0Z6eVpGX25sMWVEM3RENVFpYzVEZnhyQjBQSXlYdmxqMEZ3ZXFVQWJISXVEbTFHWDNSb29yY01LRjFiSXN1bTJ2RkUxV0p3em53UEdFVlhPVmR3Z3hLWGRzNHkzZnE0Ry1HaEE1c09JSmRPYTM0RVlxdHBhSlpnQkRQblRUMXhzbHBB?oc=5",
-              "fonte": "TV e Novelas",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Música",
-          "noticias": [
-            {
-              "titulo": "Compositor de ‘Asa Morena’, Zé Caradípia revisita 50 anos de música em show em Gravataí; veja como assistir - Seguinte",
-              "resumo": "Compositor de ‘Asa Morena’, Zé Caradípia revisita 50 anos de música em show em Gravataí; veja como assistir Seguinte",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkg3TjlUbXFybjd2Y0tiMHlJZDUwME5vNElBcE1sRW5sUzRoWEFJVVl3WjUtRDVjM0tuaVhDY0FPOWtvNkJrU2dxWV9naG0xZzFzX3pFUDY0Ny1yLU9KM3F5Z2NsbUI1N0RCX0E2T0pEb3B4Nk9zSWVpQXJkRVlmYWtYclVCRWd1SjF5SVlyc01nLXkwZW4teUdfdE9PWjlCaGF6MWduejhJd2Q3MDlHRg?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Lollapalooza Brasil: Djo agita o público em show de estreia no país - POPLine",
-              "resumo": "Lollapalooza Brasil: Djo agita o público em show de estreia no país POPLine",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWY5NzZFcWc1RGNQaE1oWnBoalFjRlhiTEpDYWFueFJBR2x5X1RkVnN0Zmk2ekxHNGtwdTFCQ00zamdLLUlTM3N3dElkUXFBNHBFeThVdEpDWmdfM3JYeVF1MUtnNFNmcXJVNUhSS1BZQ3lvaWhQMUpCM1J5LUl0SHprU1lNZTdUTFdlOV9WemNRNnVJVlU1QTZwQUJacWdSRjhRRE5ybDdCS0tZNVZwZ1d0MA?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal - O Liberal",
-              "resumo": "Projeto ‘Vida e obra de Edyr Proença’ lança single inédito do artista e comunicador | Música | O Liberal O Liberal",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVW00TFhiWEhMYWFuc2lISW5ZRHlvRG5mWDhlS18zbk5NT25EaE1HdFNEdW9YRHd5b2ZoZVVwRE0tMVhXQXI1SGxzUFg2eDVXUDE5VE5YbmNXSkUzRUZXX2gzLW4wNDlzVVBkOHhKRk9ldlV1bDRVSnZIY2JsME4xT2lJOXVsSVJKZTVoT2wzajlTQWVvRVBRY0JGYno1T1d3MWNlRHJwRzViUkp3b3dsLUdGaEFqR1Z6TXNaQlhiTXdzcW15NGR3REZ30gHPAUFVX3lxTFBwRzJUdG1MbW1iTDNfc1pfb2xpa3N3MWlYa0tWU2ktRTJfU1h4OHF4b3pyWGt5UUw3VmluWUxkTkJOb2h0R2hIRWxWclJMVEg0R3VwY2VaQWlQcVRzYVhXOXd2ZGpHXzFWYTdhTFRzWm9NQzloRG42a0hnYUR0UzQtdUttSFZrVUx2elUyWlZkVXJjSllYSDBzeEpRS3hISTNYQnV3WDFIdDFJbWJjSldkeE1uX3hjdUVHaVNhVmE5RHYyOG5ZeDlESVdKSnpfcw?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Curiosidades",
-      "fontes": [
-        {
-          "nome": "Ciência e Tecnologia",
-          "noticias": [
-            {
-              "titulo": "Para que serve a parte do corpo recém-descoberta pelos cientistas - bbc.com",
-              "resumo": "Para que serve a parte do corpo recém-descoberta pelos cientistas bbc.com",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50Q1ZzZW1mcU8ybFZpb1pSM0toYVRtY1d0a1h5Nk5YekJjV0pXbmZLelZ3VEJiZmk4cGxTRzYyZnF3TUtuWGFWcGtYNUpxcWdYU191b1padDXSAV5BVV95cUxQalNlQjRFSS1vVTE3aklrZ183V1hYdkM3aFpqWVgxenhXMF9HQjhBV3BfRUN1LW1CWlA4NVJIX0lhZ1h6aFNFbTZxemtCakoyd3JtSEpOVkcyc3pKQ1NR?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            }
-          ]
-        },
-        {
-          "nome": "Saúde e Bem-estar",
-          "noticias": [
-            {
-              "titulo": "Conheça o Complexo de Saúde da PUCRS: o ecossistema que conecta ensino, pesquisa e bem-estar - PUCRS",
-              "resumo": "Conheça o Complexo de Saúde da PUCRS: o ecossistema que conecta ensino, pesquisa e bem-estar PUCRS",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeG1ZMUhTLUp5ZXBFdTJOQVMtUjN6Z0Zrc2ctdENoSndRMTRUTVpoZ2dDbUlmOW9FZmxCUHNSbl9GWWVUU3ZreklObE1XTUIwYk0xQWJLRm9YaFQxSXIyUUg1NUFRT0hGSDlBd0tjRVBBVnR3VmNDeVNhMjFUZF9ld1JIcFdGRldfbnB2ajNpeWhyVGNOSDRIV0ZmWmt3Y05YdU8zdjZXa3BHOVhHUGhEWjdOZGlVamZnY29KVXN4eHV6RWZjSGtnNW1SUQ?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "ADPEP+ Saúde: campanha promove bem-estar de defensores públicos - diariodopara.com.br",
-              "resumo": "ADPEP+ Saúde: campanha promove bem-estar de defensores públicos diariodopara.com.br",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWRsTDNMWElvUjZGa3RqVTJrOEppTzNMYVNVNUl5dHB1NERRQWZOMEkzc2R2OGhPN3dMRFVQdTJoV0NDMDZnaVlwQmZKT3RMb18zUG0ycVRjUVdtYTZJNUxMY0RLSzFJbWZla0phV09rOGdkeUlUWmt2WXJ5Y243RmJHMUVlcGttanlkYnp4V1pXdmJuM1MwSTk3UDNlbG1HbHpWQWVSQ05Eb0I1VTVOall2cC1yUHFUcXFYeg?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
             }
           ]
         }
