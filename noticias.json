@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-20T09:52:21.298991",
+  "gerado_em": "2026-09-20T11:22:37.216776",
   "data": "20/09/2026",
-  "hora": "09h52",
-  "total": 41,
+  "hora": "11h22",
+  "total": 37,
   "editorias": [
     {
       "nome": "Local",
@@ -11,23 +11,23 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Carro bate na traseira de caminhão estacionado e deixa duas pessoas feridas em Guaramirim",
-              "resumo": "Uma colisão foi registrada na noite deste sábado (19), por volta das 19h14, na Rua Expedicionário Olímpio José Borges, no […] The post Carro bate na traseira de caminhão estacionado e deixa duas pessoas feridas em Guaramirim appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/carro-bate-na-traseira-de-caminhao-estacionado-e-deixa-duas-pessoas-feridas-em-guaramirim",
+              "titulo": "Incêndio em residência deixa dois idosos com sintomas de inalação de fumaça em SC",
+              "resumo": "Por volta das 7h33 deste domingo (20), o Corpo de Bombeiros Militar de Santa Catarina (CBMSC) foi acionado para atender […] The post Incêndio em residência deixa dois idosos com sintomas de inalação de fumaça em SC appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/incendio-em-residencia-deixa-dois-idosos-com-sintomas-de-inalacao-de-fumaca-em-sc",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Colisão entre ônibus e carro deixa duas pessoas feridas na BR-280, em Guaramirim",
-              "resumo": "Um acidente envolvendo um ônibus e um carro foi registrado por volta das 18h42 deste sábado (19), na BR-280, no […] The post Colisão entre ônibus e carro deixa duas pessoas feridas na BR-280, em Guaramirim appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/seguranca/colisao-entre-onibus-e-carro-deixa-duas-pessoas-feridas-na-br-280-em-guaramirim",
+              "titulo": "Drones desenvolvidos por estudantes de Joinville são avaliados pelo Exército Brasileiro",
+              "resumo": "Drones de ataque desenvolvidos por uma startup formada por estudantes de Engenharia Aeroespacial da UFSC Joinville passaram a ser avaliados […] The post Drones desenvolvidos por estudantes de Joinville são avaliados pelo Exército Brasileiro appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/drones-desenvolvidos-por-estudantes-de-joinville-sao-avaliados-pelo-exercito-brasileiro",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Curitiba testa “grama líquida” para proteger margens de rios e reduzir erosão",
-              "resumo": "A Prefeitura de Curitiba iniciou testes com uma técnica conhecida como hidrossemeadura, também chamada de “grama líquida”, para reforçar a […] The post Curitiba testa “grama líquida” para proteger margens de rios e reduzir erosão appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/curitiba-testa-grama-liquida-para-proteger-margens-de-rios-e-reduzir-erosao",
+              "titulo": "Câmera de Segurança mostra Moraes utilizando jatinho de Vorcaro; “Jamais viajei em nenhum avião de Daniel Vorcaro”, disse o Ministro em Abril",
+              "resumo": "Um registro em vídeo divulgado neste domingo (20) passou a integrar as discussões envolvendo o ministro do Supremo Tribunal Federal […] The post Câmera de Segurança mostra Moraes utilizando jatinho de Vorcaro; “Jamais viajei em nenhum avião de Daniel Vorcaro”, disse o Ministro em Abril appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/camera-de-seguranca-mostra-moraes-utilizando-jatinho-de-vorcaro-jamais-viajei-em-nenhum-aviao-de-daniel-vorcaro-disse-o-ministro-em-abril",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -39,52 +39,40 @@
       "nome": "Estado",
       "fontes": [
         {
-          "nome": "G1 SC",
-          "noticias": [
-            {
-              "titulo": "Cadeirante realiza sonho de navegar após ter lancha adaptada com sistema inédito: 'significa muito'",
-              "resumo": "Cadeirante realiza sonho de navegar após lancha feita em SC ganhar adaptação inédita Uma lancha fabricada em Itajaí, no Litoral Norte de Santa Catarina, passou por uma adaptação inédita para receber pessoas com deficiência física. O sistema funciona a partir de uma cadeira de acessibilidade, que permite o acesso direto do píer para a embarcação e também para o mar.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/cadeirante-sonho-navegar-lancha-adaptada-sistema-inedito.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            }
-          ]
-        },
-        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Em escalada do conflito, Ucrânia lança mais de mil drones contra Moscou; Rússia classifica ofensiva como ‘o maior ataque da guerra’",
-              "resumo": "O ataque ocorreu no último dia das eleições parlamentares russas e também atingiu uma importante refinaria de petróleo do país O post Em escalada do conflito, Ucrânia lança mais de mil drones contra Moscou; Rússia classifica ofensiva como ‘o maior ataque da guerra’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/ucrania-mais-de-mil-drones-moscou-russia/",
+              "titulo": "CNH 2026 traz benefício para motoristas de 50 a 69 anos, mas vantagem só pode ser usada uma vez",
+              "resumo": "Mais de 371 mil motoristas já foram beneficiados pela nova regra da CNH, que exige cadastro e bom histórico no trânsito O post CNH 2026 traz benefício para motoristas de 50 a 69 anos, mas vantagem só pode ser usada uma vez apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/transito/cnh-2026-beneficio-motoristas-50-69-anos/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Agro Saúde e Cooperação – Pesca da Anchova",
-              "resumo": "O litoral catarinense está em plena Safra da Anchova. A captura desse peixe migratório movimenta uma cadeia produtiva […] O post Agro Saúde e Cooperação – Pesca da Anchova apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/agro-saude-e-cooperacao-pesca-da-anchova/",
+              "titulo": "Em meio a fumaça e sinalizadores, Renan Santos reúne 1,5 mil pessoas no antigo terminal de Florianópolis",
+              "resumo": "Ato foi uma das paradas da Tour Futuro Glorioso durante passagem do candidato por Santa Catarina O post Em meio a fumaça e sinalizadores, Renan Santos reúne 1,5 mil pessoas no antigo terminal de Florianópolis apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/em-meio-a-fumaca-e-sinalizadores-renan-santos-reune-15-mil-pessoas-no-antigo-terminal-de-florianopolis/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Justiça fecha acordo com Caixa, BB, Itaú e Nubank para acelerar bloqueio de contas de devedores no Brasil",
-              "resumo": "Justiça fecha acordo com cinco instituições financeiras para testar mudanças que devem tornar o bloqueio de contas de devedores mais rápido no Brasil O post Justiça fecha acordo com Caixa, BB, Itaú e Nubank para acelerar bloqueio de contas de devedores no Brasil apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/justica/bloqueio-de-contas-de-devedores-nova-regra-do-cnj/",
+              "titulo": "Confira o resultado da Lotofácil 3784 de hoje, domingo (20/9)",
+              "resumo": "Concurso 3784 da Lotofácil sorteia R$ 5 milhões; verifique se você foi um dos sortudos hoje! O post Confira o resultado da Lotofácil 3784 de hoje, domingo (20/9) apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/loterias/confira-o-resultado-da-lotofacil-3784-de-hoje-domingo-20-9/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Último domingo do inverno tem quatro alertas de tempestade e ciclone extratropical; ventos chegam a 100 km/h e chuva pode alcançar 150 mm até segunda-feira",
-              "resumo": "A frente fria que avança sobre o Sul do Brasil contribui para o aumento da instabilidade na região, em Mato Grosso do Sul e no sul de São Paulo O post Último domingo do inverno tem quatro alertas de tempestade e ciclone extratropical; ventos chegam a 100 km/h e chuva pode alcançar 150 mm até segunda-feira apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/domingo-quatro-alertas-tempestade-ciclone-extratropical-ventos-100-km-h-chuva-150-mm-ate-segunda-feira/",
+              "titulo": "Sua CNH vence até 8 de dezembro? Motoristas ganham novo prazo para renovar a habilitação e evitar sete pontos na carteira",
+              "resumo": "Em caráter excepcional, o Contran prorrogou automaticamente a validade das carteiras vencidas desde 5 de junho; veja a nova data-limite O post Sua CNH vence até 8 de dezembro? Motoristas ganham novo prazo para renovar a habilitação e evitar sete pontos na carteira apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/transito/cnh-vence-ate-8-de-dezembro-motoristas-novo-prazo-renovar-a-habilitacao/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Por que as democracias modernas não conseguem mais manter seus líderes no poder",
-              "resumo": "Sete primeiros-ministros britânicos em dez anos. Setenta governos italianos desde 1945. Austrália removeu e reinstalou o mesmo PM duas vezes. Não é que os líderes pioraram — é que o sistema mudou. O post Por que as democracias modernas não conseguem mais manter seus líderes no poder apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/por-que-as-democracias-modernas-nao-conseguem-mais-manter-seus-lideres-no-poder/",
+              "titulo": "Idosos inalam fumaça e são socorridos após incêndio em residência em SC",
+              "resumo": "Vítimas estavam conscientes e foram levadas por familiares ao hospital após receberem os primeiros socorros do Corpo de Bombeiros no local O post Idosos inalam fumaça e são socorridos após incêndio em residência em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/idosos-inalam-fumaca-e-sao-socorridos-apos-incendio-em-residencia-em-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -99,37 +87,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Homem é preso em MT com mais de 170 tabletes de skunk, conhecido como 'supermaconha'",
-              "resumo": "Segundo a PM, o homem afirmou que fazia a venda da droga a mando de uma facção criminosa Reprodução Um homem de 23 anos foi preso em flagrante suspeito de tráfico de drogas após a Polícia Militar apreender 172 tabletes de skunk, conhecido como supermaconha, em Várzea Grande, na região metropolitana de Cuiabá, neste sábado (19). Parte da droga estava escondida em um carro e o restante foi localizado na casa do suspeito.",
-              "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/20/homem-e-preso-em-mt-com-mais-de-170-tabletes-de-skunk-conhecido-como-supermaconha.ghtml",
+              "titulo": "Resultados das Loterias Caixa",
+              "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+              "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Motorista morre após batida entre carros na BR-070 em MT",
-              "resumo": "Aderval Gomes Naves, de 66 anos, morreu após um acidente de trânsito, em Cáceres (MT) Reprodução O motorista Aderval Gomes Naves, de 66 anos, morreu após o carro que conduzia bater contra outro, na rodovia BR 070, no Bairro Cidade Nova, em Cáceres, a 218 km de Cuiabá, nesse sábado (19).",
-              "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/20/motorista-morre-apos-batida-entre-carros-na-br-070-em-mt.ghtml",
+              "titulo": "Incêndio atinge casa e deixa morador ferido em Itacoatiara",
+              "resumo": "Incêndio atinge casa e deixa morador ferido em Itacoatiara Um incêndio atingiu uma casa na manhã deste domingo (20), no Conjunto da Shan, no bairro Iracy, em Itacoatiara, no interior do Amazonas. O fogo foi controlado pelo Corpo de Bombeiros, com apoio da Secretaria Municipal de Meio Ambiente. Uma pessoa ficou ferida.",
+              "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/20/incendio-atinge-casa-e-deixa-morador-ferido-em-itacoatiara.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Vigilância sanitária é acionada após hóspedes passarem mal em resort na Bahia",
-              "resumo": "Resort fica localizado em Porto Seguro, no extremo sul da Bahia Redes sociais A Vigilância Sanitária foi acionada para inspecionar o resort Porto Seguro Praia Resort, no extremo sul da Bahia, após hóspedes passarem mal com problemas gastrointestinais. Os sintomas começaram na quarta-feira (16) e ainda não há informações sobre o que pode ter causado o quadro.",
-              "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/20/vigilancia-sanitaria-e-acionada-apos-hospedes-passarem-mal-em-resort-na-bahia.ghtml",
+              "titulo": "Ônibus é incendiado em protesto por morte de jovem no Recife",
+              "resumo": "Ônibus é destruído por chamas de incêndio na BR-101, em Milagres, no Recife Divulgação/PRF Um ônibus foi incendiado durante um protesto em um trecho da BR-101, na Zona Oeste do Recife, na noite do sábado (19). Não há registro de vítimas. Segundo a Polícia Rodoviária Federal (PRF), os manifestantes disseram que o motivo do protesto foi a morte de um jovem da comunidade de Vila dos Milagres, no bairro do Ibura.",
+              "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/20/onibus-e-incendiado-em-protesto-por-morte-de-jovem-no-recife.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Polícia flagra adolescente de 14 anos ingerindo bebida alcoólica e estabelecimento é fechado em Altos",
-              "resumo": "Polícia flagra adolescente de 14 anos ingerindo bebida alcoólica e estabelecimento é fechado em Altos Divulgação/PCPI A Polícia Civil do Piauí determinou a suspensão das atividades de um espaço de eventos na cidade de Altos, cidade a 40 km de Teresina, ao flagrar um adolescente de 14 anos ingerindo bebida alcoólica.",
-              "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/20/bar-altos-fechado-policia.ghtml",
+              "titulo": "Helicóptero cai em área de mata em Iaras e mobiliza equipes de resgate",
+              "resumo": "Um helicóptero caiu em uma área de região de mata de difícil acesso na madrugada deste domingo (20), na região de Avaré (SP). 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Segundo informações preliminares do Corpo de Bombeiros do município, a queda aconteceu em uma área de mata em Iaras (SP). A equipe foi acionada por volta da 1h deste domingo para atendimento da ocorrência.",
+              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/20/queda-aeronave-regiao-de-avare.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Homem de 46 anos morre após ser agredido durante briga por cigarro no Centro de BH",
-              "resumo": "A ocorrência foi encaminhada para a 4ª Delegacia de Polícia. Foto: Reprodução Google. Um homem de 46 anos morreu depois de ser agredido durante uma briga por cigarro na Rua Espírito Santo, no Centro de Belo Horizonte, por volta de 0h deste domingo (20). Segundo a Polícia Militar, uma viatura foi abordada por um motorista e informado sobre a briga.",
-              "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/20/homem-de-46-anos-morre-apos-ser-agredido-durante-briga-por-cigarro-no-centro-de-bh.ghtml",
+              "titulo": "Ônibus de acidente com cinco mortos saiu da pista e caiu em ribanceira em trecho de curva de rodovia que liga SP a MG",
+              "resumo": "Ônibus cai em ribanceira e ao menos 5 morrem O ônibus que caiu em uma ribanceira de cerca de 15 metros na manhã deste domingo (20), em Cruzeiro (SP), saiu da pista em um trecho de curva da Rodovia Doutor Avelino Júnior, próximo ao limite entre São Paulo e Minas Gerais. Segundo o Corpo de Bombeiros, o ônibus transportava cerca de 48 passageiros e cinco pessoas morreram no acidente.",
+              "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/20/onibus-de-acidente-com-cinco-mortos-saiu-da-pista-e-caiu-em-ribanceira-em-trecho-de-curva-de-rodovia-que-liga-sp-a-mg.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -139,37 +127,30 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Produtores do interior de SP aumentam renda com consórcio de culturas",
-              "resumo": "Produtores do interior de SP aumentam renda com consórcio de culturas Reprodução / TV TEM O consórcio de culturas, prática antiga que combina diferentes plantações no mesmo espaço, tem ganhado força no centro-oeste paulista. A estratégia ajuda a elevar a produtividade, ampliar a renda e manter mão de obra ativa em períodos distintos de colheita. Em Bocaina (SP), o produtor Edwin Montenegro cultiva 10 variedades em 20 hectares.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/produtores-do-interior-de-sp-aumentam-renda-com-consorcio-de-culturas.ghtml",
+              "titulo": "Mega-Sena 3060: confira os números sorteados",
+              "resumo": "Mega-sena 3060 Reprodução/YouTube O concurso 3.060 da Mega-Sena foi sorteado pela Caixa neste domingo (20), em São Paulo. Veja os números sorteados: 06 - 15 - 23 - 36 - 37 - 38 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp A Caixa não havia informado em seu site se houve ganhadores até a última atualização desta reportagem.",
+              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/20/mega-sena-3060-sorteio.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Clube de jardinagem do Jardim Botânico de Sorocaba oferece aulas gratuitas de poda e cultivo",
-              "resumo": "Clube de jardinagem do Jardim Botânico de Sorocaba oferece aulas gratuitas de poda e cultivo Reprodução / TV TEM O clube de jardinagem do Jardim Botânico de Sorocaba (SP) reúne moradores todas as quartas-feiras, a partir das 8h, para a troca de experiências e aprendizado prático sobre cultivo de plantas. As atividades são conduzidas pelo engenheiro agrônomo e coordenador do curso, Clebson Aparecido Ribeiro.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/clube-de-jardinagem-do-jardim-botanico-de-sorocaba-oferece-aulas-gratuitas-de-poda-e-cultivo.ghtml",
+              "titulo": "Produtores de tangerina poncan unem altitude e tecnologia para ter colheita o ano todo em Domingos Martins, no ES",
+              "resumo": "Tangerina: produtores apostam no clima frio e na tecnologia para colher mais tarde A colheita de tangerina poncan em Domingos Martins, na Região Serrana do Espírito Santo, acontece em momentos diferentes entre as propriedades que cultivam o produto. Enquanto parte dos agricultores encerra a colheita em julho, safra padrão do fruto, outros produtores unem tecnologia e adaptações ao clima de altitude para começar a colheita mais tarde.",
+              "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/09/20/produtores-de-tangerina-poncan-unem-altitude-e-tecnologia-para-ter-colheita-o-ano-todo-em-domingos-martins-no-es.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Nostalgia milionária: por que adultos pagam fortunas por brinquedos da infância",
-              "resumo": "Jogos de cartas do Pokémon é inspirado no desenho clássico dos anos 90 Hennzo Pinheiro/Arquivo Pessoal Brinquedos e colecionáveis que fizeram parte da infância de uma geração movimentam hoje cifras que vão muito além do universo infantil. Adultos passaram a gastar grandes quantias para comprar objetos que remetem à infância — e, em alguns casos, essas peças chegam a valer centenas de milhares ou até milhões de reais.",
-              "link": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
+              "titulo": "Preços mais altos, salários menores: como o clima extremo afeta o bolso das famílias no mundo todo",
+              "resumo": "Mudanças climáticas: um dos maiores desafios é de onde vai sair o dinheiro para ajudar a proteger florestas e reduzir a poluição Jornal Nacional/ Reprodução Os últimos 11 anos foram os mais quentes já registrados no planeta. Essa mudança climática se manifesta em eventos extremos, como ondas de calor e incêndios florestais. Mas menos evidentes são os preços mais altos e os salários menores associados a um mundo cada vez mais quente.",
+              "link": "https://g1.globo.com/economia/noticia/2026/09/20/como-o-clima-extremo-afeta-o-bolso-das-familias-no-mundo-todo.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Renault Boreal acumula prêmios, mas não decola em vendas; g1 testou e mostra prós e contras",
-              "resumo": "Renault Boreal na versão Techno Carlos Cereijo / g1 O Renault Boreal chegou em 2025, enfileirou alguns prêmios e criou expectativa de um novo capítulo para a marca junto com o irmão Kardian. O SUV mostrou que a marca francesa conseguiu dar um salto de qualidade, mas as vendas são tímidas. Hoje é vendido nas versões Evolution por R$ 179.990, Techno de R$ 199.990 e Iconic por R$ 214.990. Entre janeiro e agosto de 2026, a Renault emplacou 7.",
-              "link": "https://g1.globo.com/carros/noticia/2026/09/20/renault-boreal-acumula-premios-mas-nao-decola-em-vendas-g1-testou-e-mostra-pros-e-contras.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Casa própria vira sonho distante, e jovens gastam mais com pequenos luxos; entenda",
-              "resumo": "Pobreza de luxo: por que o presente vale mais que o futuro? A chamada “pobreza de luxo” passou a circular nas redes sociais para descrever um comportamento em que jovens mantêm gastos com viagens, restaurantes, eletrônicos e outros pequenos luxos, muitas vezes recorrendo ao crédito ou ao parcelamento, enquanto metas de longo prazo, como comprar um imóvel, parecem cada vez mais fora de alcance.",
-              "link": "https://g1.globo.com/g1-explica/noticia/2026/09/20/casa-propria-vira-sonho-distante-e-jovens-gastam-mais-com-pequenos-luxos-entenda.ghtml",
+              "titulo": "Pagar para pedir demissão? Por que jovens japoneses contratam empresas para evitar o confronto com o chefe",
+              "resumo": "Computador, digitação, laptop, notebook, trabalho, internet CDC/ Amanda Mills Para Y.M., um japonês de pouco mais de 20 anos, o primeiro emprego após a universidade, numa empresa de vendas do setor imobiliário, se transformou em um teste diário de resistência. Entre os colegas, era ele quem costumava ser alvo de gritos e reprimendas. Segundo relato publicado no site da consultoria trabalhista e de recursos humanos Leadbrain, sediada em Tóquio, Y.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/20/pagar-para-pedir-demissao-por-que-jovens-japoneses-contratam-empresas-para-evitar-o-confronto-com-o-chefe.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -179,37 +160,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Entenda o que é a Assembleia Geral da ONU",
-              "resumo": "Brasil é o primeiro país na lista de discursos do órgão das Nações Unidas durante debate geral",
-              "link": "https://www.cnnbrasil.com.br/internacional/o-que-e-a-assembleia-geral-da-onu/",
+              "titulo": "Anitta responde perguntas sobre sexo e que recusou jantar de Mariah Carey",
+              "resumo": "Cantora ainda disse, em conversa publicada por Luciano Huck, que não tem feito sexo e que, se precisasse escolher entre trabalho e intimidades, já teria a escolha certa",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/anitta-responde-perguntas-sobre-sexo-e-que-recusou-jantar-de-mariah-carey/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "15 anos de “Call Me Maybe”: saiba por onde anda a cantora Carly Rae Jepsen",
-              "resumo": "Artista lançou um novo álbum, intitulado \"Day and Night\", na última sexta-feira (18); fora da música, a canadense se tornou mãe em março deste ano",
-              "link": "https://www.cnnbrasil.com.br/pop/musica/15-anos-de-call-me-maybe-saiba-por-onde-anda-a-cantora-carly-rae-jepsen/",
+              "titulo": "Trump diz que Arco do Triunfo em Washington também será complexo militar",
+              "resumo": "Segundo presidente, instalação deve armazenar grande quantidade de drones e contar com atiradores de elite; plano para construção de monumento é alvo de críticas",
+              "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-arco-do-triunfo-em-washington-tambem-sera-complexo-militar/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "“Eu mudo de país”, avisa Daniel sobre possível roça com Renê em “A Fazenda”",
-              "resumo": "Ator acredita que os dois podem estar na mesma berlinda, que será formada na próxima terça-feira, e declara que vai se sentir mal se sair contra o ator de \"Chiquititas\"",
-              "link": "https://www.cnnbrasil.com.br/pop/realities/eu-mudo-de-pais-avisa-daniel-sobre-possivel-roca-com-rene-em-a-fazenda/",
+              "titulo": "Ataque russo atinge ponto de acolhimento de civis na Ucrânia",
+              "resumo": "Antigo berçário usado como ponto de passagem para moradores de áreas de frente de batalha pega fogo após ataque em Kramatorsk, na região de Donetsk",
+              "link": "https://www.cnnbrasil.com.br/internacional/ataque-russo-atinge-centro-de-evacuacao-de-civis-na-ucrania/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "“Quem Ama Cuida”: Rosa entrega segredo do pai de Brigitte para Adriana",
-              "resumo": "Mocinha terá mais um trunfo nas mãos contra Pilar (Isabel Teixeira) e a família Brandão, que arquitetou sua prisão injustamente no passado",
-              "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-rosa-entrega-segredo-do-pai-de-brigitte-para-adriana/",
+              "titulo": "Voto latino, inflação e data centers aumentam chance de democratas no Texas",
+              "resumo": "Fatores econômicos, reação nacional às operações anti-imigração e ao crescimento da inteligência artificial testam o Partido Republicano, que controla o estado há 20 anos",
+              "link": "https://www.cnnbrasil.com.br/internacional/voto-latino-inflacao-e-data-centers-aumentam-chance-de-democratas-no-texas/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Quem é Capitão Wagner, candidato ao Senado pelo Ceará",
-              "resumo": "Ex-deputado federal e estadual, candidato do União Brasil tem trajetória ligada à segurança pública e disputou o governo do estado em 2022",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-capitao-wagner-candidato-ao-senado-pelo-ceara/",
+              "titulo": "Vídeo mostra casarão desabando sobre mãe e filha na zona Sul do Rio",
+              "resumo": "Mulher de 43 anos e filha, de 2, ficaram feridas e foram levadas ao Hospital Municipal Miguel Couto; estado de saúde das vítimas é estável",
+              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/video-mostra-casarao-desabando-sobre-mae-e-filha-na-zona-sul-do-rio/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -219,70 +200,39 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "ONU: Lula apoiará multilateralismo e reforma do Conselho de Segurança",
-              "resumo": "O presidente Luiz Inácio Lula da Silva embarca neste domingo (20) para Nova York, nos Estados Unidos (EUA), onde participará da 81ª Assembleia Geral da Organização das Nações Unidas (ONU).",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/onu-lula-apoiara-multilateralismo-e-reforma-do-conselho-de-seguranca",
+              "titulo": "TSE suspende campanha de Deltan ao Senado pelo Paraná",
+              "resumo": "O ministro Floriano de Azevedo Marques, do Tribunal Superior Eleitoral (TSE), decidiu suspender a campanha eleitoral do candidato ao Senado pelo Paraná Deltan Dallagnol (Novo). Pela decisão liminar, proferida na noite deste sábado (19), os atos de campanha devem ser suspensos até decisão final do tribunal. Notícias relacionadas:Candidatos não poderão ser presos a partir deste sábado.",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-suspende-campanha-de-deltan-ao-senado-pelo-parana",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Wilson Grassi defende imposto único e mais rigor contra facções",
-              "resumo": "O candidato à Presidência da República Wilson Grassi, do Partido Democrata, protocolou no Tribunal Superior Eleitoral (TSE) o programa de governo intitulado Brasil em Primeiro Lugar. O documento de 58 páginas é dividido em uma carta ao eleitor e 14 eixos de propostas, além de um cronograma de realização para os 100 primeiros dias de um eventual governo.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/wilson-grassi-defende-imposto-unico-e-mais-rigor-contra-faccoes",
+              "titulo": "Filme cearense Feito Pipa representa Brasil na disputa pelo Oscar",
+              "resumo": "Um menino de 11 anos que vive com a avó no interior do Ceará enfrenta a doença da cuidadora e o medo de ser obrigado a morar com o pai. Essa é a história de Feito Pipa, filme dirigido por Allan Deberton que vai representar o Brasil na disputa por uma indicação ao prêmio de Melhor Filme Internacional no Oscar de 2027. O longa é protagonizado por Yuri Gomes, que interpreta o menino Gugu, e Teca Pereira, que vive a avó Dilma.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Samara Martins propõe dobrar salário mínimo e instituir escala 4x3",
-              "resumo": "Sob o título Unidade Popular pelo Socialismo, o programa de governo da candidata a presidente Samara Martins, do partido Unidade Popular (UP), apresenta explicitamente um projeto de transformação estrutural do modelo econômico e político brasileiro. O objetivo declarado no documento é superar as desigualdades do capitalismo e construir uma sociedade socialista.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/samara-martins-propoe-dobrar-salario-minimo-e-instituir-escala-4x3",
+              "titulo": "Após dias de chuva, Rio tem fim de semana com tempo mais firme e calor",
+              "resumo": "Depois de ter chovido em 13 dos primeiros 15 dias de setembro, o final de semana dos cariocas e fluminense é de céu parcialmente nublado, com o sol aparecendo e a temperatura máxima prevista para este domingo (20) 32º C neste domingo (20) . No sábado, o sol apareceu e muita gente aproveitou para passar o dia na praia, com a máxima atingindo os 29º C.",
+              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/apos-dias-de-chuva-rio-tem-fim-de-semana-com-tempo-mais-firme-e-calor",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo",
-              "resumo": "Mais de 625 mil estudantes concluintes e formados em licenciatura de todo o país farão, neste domingo (20), a Prova Nacional Docente (PND). O resultado do exame pode ser usado em processos de seleção de professores por entes federativos que optarem por adotar a nota da PND.",
-              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-625-mil-pessoas-fazem-prova-nacional-docente-neste-domingo",
+              "titulo": "Produções com artistas negros ganham espaço, mas desigualdade resiste",
+              "resumo": "Além do filme Feito Pipa, do diretor Allan Deberton, escolhido para representar o Brasil na busca por uma indicação ao Oscar no ano que vem, outros dois longas de narrativas negras faziam parte da lista de seis obras pré-selecionadas. Os outros dois filmes da lista eram Vicentina Pede Desculpas, de Gabriel Martins, e Nosso Segredo, de Grace Passô, ambos diretores negros.",
+              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/producoes-com-artistas-negros-ganham-espaco-mas-desigualdade-resiste",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Zema propõe saída do Brics e redução de supersalários e de impostos",
-              "resumo": "O programa de governo do candidato do partido Novo à Presidência da República, Romeu Zema, está dividido em 15 temas. Entre as medidas propostas pelo candidato estão a eliminação de supersalários para os agentes públicos, a redução das taxas de juros e de impostos sobre operações financeiras e a criação de um regime alternativo à Consolidação das Leis do Trabalho (CLT).",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/zema-propoe-saida-do-brics-e-reducao-de-supersalarios-e-de-impostos",
+              "titulo": "Saiba como manifestar intenção de doar órgãos por meio de cartórios",
+              "resumo": "Mais de 32 mil brasileiros já utilizaram cartórios de notas para manifestar formalmente a intenção de doar órgãos, desde o lançamento da Autorização Eletrônica de Doação de Órgãos (Aedo), em 2024. O assunto ganha importância durante o Setembro Verde, mês dedicado à conscientização sobre a doação de órgãos, em um país onde mais de 49 mil pessoas aguardam atualmente por um transplante.",
+              "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/saiba-como-manifestar-intencao-de-doar-orgaos-por-meio-de-cartorios",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Politica",
-      "fontes": [
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Alcolumbre e Motta pedem diálogo e respeito após ocupação de plenários - Agencia Brasil",
-              "resumo": "Alcolumbre e Motta pedem diálogo e respeito após ocupação de plenários Agencia Brasil",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0Y3RGp0TnJrRWwtQlZ1ZDE1cHBOUTFiMFpjOUljalFRVWY1czV1R196b3p5RlljanBNV0JEUkY0T3ZyYzNaUkh0MjltSFYxNzUwblptR09MS1A5NE5rU0J3VjdGNjhDMWhQS0FEdHBzQUpMMmI5MXFlN0FQQUdBaDZPSFF3VTNlZXVydWpHYXc2RzFvZVZtV1d5czA0N1JCSUpyRWR5elpnUWtyT3I2ZjQ5REEwRmVWS2VmdU51WXhrdU54ejVv?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Alcolumbre destrava PEC da Segurança e fim da escala 6x1 após reuniões com Lula - G1",
-              "resumo": "Alcolumbre destrava PEC da Segurança e fim da escala 6x1 após reuniões com Lula G1",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLUxPOWZEckpIXy1qU0FIVTVINWd6WXN3UjdLOUdDV19ULVBPYWQzMGN5U2k5VVNFRVZidUJRWVVxWm1wNDdsU3Q3ZWFMX2JjOF95ZHc5Sll6ZHR6Rnk3THFETEhBX1RwTVRWVUZ5Q3dUd3J5SVV3RFZPTElObUo5YjJUU1lSU2RtZnJxZWNtMkJvTWFwblh6TUVUcGxKUFFkcTRFNDlDNTd1akphZVRqRFVFUHNXOWlqUlZBS3dGakxhSTk2Snl5NExfVU0xM3pjRm5RcFpEdWPSAecBQVVfeXFMTnZSX1dXbnp0MkFaa25ZZTNERDFTNUt0Q1VJYUFIZkpETGg0NmJOM2lscEJpcU9lT2RfMVE3SEp4OGhxMUlQemh2aDU1eXhfZzNJX0dJRndKOGcyTnB0c0dBenhoYWI0dGw5Y3JwTzd2LXZLRVVocVN6dFVlM25mRUEwNWtERUNnRkZpc1hDbkNDcmNhRWhBODdicE52VXhRSWw2VzRPUVlHQ2xsbXZuMmxRNF9iUXBzVno1YlRDMjExUzVna2JSV1NfSk5BWXE0OUZjNzh5TEp3SFlwa1ZDVzFtYlhGdWVJ?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Eleições 2022: quantos deputados e senadores cada partido elegeu - BBC",
-              "resumo": "Eleições 2022: quantos deputados e senadores cada partido elegeu BBC",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uOElwaEREWEhkODRMczJGWTI4YmlJa2NtbEdZWUd4X0ZOSGZpaXBGVG9sTWtkOUhGc1dHQ0UxdC1wLW1NeXRGM3dUWUJQOVQyMFJfRFFIamxjQdIBX0FVX3lxTE1ETlhQWEtrRlJTamtRYVd3QnV0MUladVFZbndwMnZjUGZhRDBQSUh4bmFvRk1GVG1IVmtvYWhuMlJQQVM4RnZoYkpMRXJmei10ZHRpcDkxUkdrX0xMbzdR?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
             }
           ]
         }
@@ -295,37 +245,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "SP Open: acompanhe a final de duplas com Luisa Stefani",
-              "resumo": "SP Open: acompanhe a final de duplas com Luisa Stefani Brasileira e a canadense Gabriela Dabrowski enfrentam as americanas Rogers/Zamarripa",
-              "link": "https://ge.globo.com/tenis/ao-vivo/sp-open-acompanhe-a-final-de-duplas-com-luisa-stefani.ghtml",
+              "titulo": "São Paulo marca no fim, vence Flamengo e avança à final do Brasileirão Feminino",
+              "resumo": "Kesia marca aos 43 do segundo tempo e garante Soberanas na decisão do título após dois anos",
+              "link": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/futebol-feminino/brasileiro-feminino/jogo/19-09-2026/saopaulo-flamengo.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Athletic e Botafogo-SP marcam gols de cabeça e empatam pela Série B",
-              "resumo": "Duelo manteve Esquadrão no meio da tabela e deixou time paulista à beira do Z-4",
-              "link": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/brasileirao-serie-b/jogo/19-09-2026/athletic-club-botafogo-sp.ghtml",
+              "titulo": "Maringá domina o Botafogo-PB e se mantém firme na briga pelo acesso na Série C",
+              "resumo": "Time paranaense se impõe dentro de casa e deixa equipe paraibana zerada na tabela",
+              "link": "https://ge.globo.com/pr/futebol/brasileirao-serie-c/jogo/19-09-2026/maringa-botafogo-pb.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Orion bate recorde de 19 anos e conquista Fita Azul da Regata Recife-Fernando de Noronha",
-              "resumo": "Orion chega primeiro e bate recorde de 19 anos na Refeno O barco pernambucano Orion Racing Brasil foi o primeiro a chegar em Fernando de Noronha na disputa da 37ª Regata Recife–Fernando de Noronha (Refeno), neste domingo. A embarcação conquistou o troféu Fita Azul e bateu o recorde da prova ao completar as 300 milhas náuticas, cerca de 545 quilômetros, em 14h18min56s (veja vídeo acima). A conquista derruba uma marca que permanecia havia 19 anos.",
-              "link": "https://ge.globo.com/pe/noticia/2026/09/20/orion-bate-recorde-de-19-anos-e-conquista-fita-azul-da-regata-recife-fernando-de-noronha.ghtml",
+              "titulo": "Flávia Saraiva e Rebeca Andrade garantem dobradinha na trave na Copa do Mundo de Ginástica",
+              "resumo": "Rebeca Andrade e Flávia Saraiva garantiram a dobradinha do Brasil na trave na etapa da Hungria da Copa do Mundo de Ginástica Artística. Flavinha levou a primeira colocação na final do aparelho e garantiu sua segunda medalha de ouro na competição. Já Rebeca voltou medalhar em Copas do Mundo em grande estilo, com a prata.",
+              "link": "https://ge.globo.com/ginastica-artistica/noticia/2026/09/20/flavia-saraiva-e-rebeca-garantem-dobradinha-brasileira-na-trave-na-copa-do-mundo-de-ginastica.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Acre no ge: veja os principais destaques do esporte acreano na última semana",
-              "resumo": "O ge apresenta os principais destaques do esporte acreano durante a semana, entre domingo (13) e este sábado (19).",
-              "link": "https://ge.globo.com/ac/noticia/2026/09/20/acre-no-ge-veja-os-principais-destaques-do-esporte-acreano-na-ultima-semana.ghtml",
+              "titulo": "Como Tite viveu a estreia no Botafogo: olhar atento, diálogo e preocupação",
+              "resumo": "Reações de Tite à beira do campo em estreia pelo Botafogo Tite estreou no comando do Botafogo em uma noite nada feliz: derrota por 2 a 0 para o Mirassol e uma atuação que evidenciou o trabalho que terá para fazer o time evoluir. Foi o retorno do técnico à beira do gramado depois de pouco mais de seis meses e foi possível notar um treinador muito ativo e observador.",
+              "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/09/20/como-tite-viveu-a-estreia-no-botafogo-olhar-atento-dialogo-e-preocupacao.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Comercial-PI conquista classificação antecipada às semifinais do Piauiense Série B 2026",
-              "resumo": "Comercial-PI 2 x 1 River-PI: veja os gols do Bode na partida pela Segundona O Comercial-PI conquistou a classificação antecipada às semifinais do Campeonato Piauiense Série B 2026. A vitória diante do River-PI, por 2 a 1, pela quarta rodada da competição, garantiu o clube nas semifinais com uma rodada de antecedência para o fim da fase classificatória.",
-              "link": "https://ge.globo.com/pi/futebol/times/comercial-pi/noticia/2026/09/20/comercial-pi-conquista-classificacao-antecipada-as-semifinais-do-piauiense-serie-b-2026.ghtml",
+              "titulo": "Elenco do Vasco reconhece evolução, mas vai para Data Fifa com pés no chão em luta contra rebaixamento",
+              "resumo": "Vasco 5 x 0 Coritiba | Melhores Momentos | 28ª rodada | Brasileirão 2026 O Vasco goleou o Coritiba por 5 a 0 em São Januário e respirou no Campeonato Brasileiro. O time carioca deixou a zona de rebaixamento, mesmo que de forma momentânea - pode ser de maneira definitiva com um tropeço do Grêmio -, pela primeira vez desde a Copa do Mundo.",
+              "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/09/20/elenco-do-vasco-reconhece-evolucao-mas-vai-para-data-fifa-com-pes-no-chao-em-luta-contra-rebaixamento.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -340,29 +290,41 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Demi Lovato faz 34 anos: confira 34 fatos sobre a artista - CNN Brasil",
-              "resumo": "Demi Lovato faz 34 anos: confira 34 fatos sobre a artista CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnVjaFEwZXYzVER4Z0NPcUwySWdNVXlrUVZyM0VYQTg1VFZBbkJ3Qk43UURlaXZhOEI0OWVCQ3N5d1RxbzFZYTFKalI1MjFQdkpTX3NTS3ZoSkdjMkpTYzlWOUtXTktJRERoWElNV2NCWEtFZmRTNUlQcmE5RllWazFZaTI1a0JjSlBZVWhtT2FCVVU0d29heXExYmQ4TUdwVDFSN2N3?oc=5",
+              "titulo": "Eleições no Brasil atraem ex-futebolistas, famosos do Big Brother e sósias de Lula e Bolsonaro - Jornal de Notícias",
+              "resumo": "Eleições no Brasil atraem ex-futebolistas, famosos do Big Brother e sósias de Lula e Bolsonaro Jornal de Notícias",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2o1dGlUbVBZQmJMT2JvYVRDeU5Ia3FoVHRCXzZ3M3ZqeFhKVEl4MWY1UE1kTmk2cU1qN3ZkOV93TkdJcXo2dERidVk5UURlVV8wY19nUHhoLU1EbmE4Uk9ENnJvUEdGZWlRSW9mbUdycjlHTm9Id2tYX1FOZjJyY1pHN2Rtdk5NSnkxaUN3elBkci1yYVh2V014QkIwWXZERy0xYWliM1JyZDF4cUVMam1Ub1NpU1cwX2NqM2xjQmc1dURISy1FaG16UGZBZ9IBwgFBVV95cUxOdkhzemZ4U193Y0hSay11Ui14UWNvM1k4LXVtcEN6NWdkQUNKcGU1RWZ5Y2I1TThfN0toZGdXRFIzLTNmLW4xSmJtY3JZOVZsQUF1cjkwWTd0Y3hYU3dDQ3J5Y3pUWnVOQThWVWVlUlE2NFRMdjBDWUh4ZXBZeFBMMzdMeWdpZUNOZTcwR0hxSmxhNUhBT3VWSmt4OGMzNmJNSFZGbHBra25FbElxU2J2OWVmNHF3MWtQV3lhUjcwdlczUQ?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "WhinderssonNunes #MayaMassafera #Humor #Famosos #Celebridades #Brasil #Noticias #Entrevista #Youtube - Voz da Bahia",
-              "resumo": "WhinderssonNunes #MayaMassafera #Humor #Famosos #Celebridades #Brasil #Noticias #Entrevista #Youtube Voz da Bahia",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWJialN0ZFlqVjBWbnozSFAyMFJOd3dvaGVTb3dSUmpsUXZJSEZXUUpXcFJXS1RxeUdVaHdlaDVZUThWUGIxWFlpcFRZV0xwMVF3SWZjbE9WcUdkSndGZjdtOUVzSE9pbk1rMldmNURURndkd0R6Wmt1dzhIcWkySXlTczJaRTVJM1kxMnY4OVdqQ2ZEWVRJbkwzX2hKc3h5TUY3MFdoVXltNmlQN2l0aEh0QkhtRTlCQ2pHc1VxWl8?oc=5",
+              "titulo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela - Famosos e Celebridades",
+              "resumo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela Famosos e Celebridades",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEVrTWdTXzdUQXBCaWhsMldNNDN0MGI2RElQdnJwWlZaV3RxVzEyVjhDaFVRdWE5Ym0zaDR2OUVfaWhWMkh4VE1vbG82cUNBRmF1VFlvSS01OXNSMUZjSkhUaG1KRTNHRnNpWnMtb0pGaWMxVW1UVzJQZkVWWG42emJMUUlWVzJLV1lOSEpYd3JyWWIwUEt5YlN6M3NJNC12djZ3Tm9XRW9KM3FONF9tdTFzdEJ4LXJVd2hRS3hNNUZpNmdCUDlyRUNpajg?oc=5",
               "fonte": "Famosos e Celebridades",
               "editoria": "Entretenimento"
             }
           ]
         },
         {
-          "nome": "TV e Novelas",
+          "nome": "Cinema e Filmes",
           "noticias": [
             {
-              "titulo": "Outro Canal: Taís Araujo volta às novelas da Globo como rainha revolucionária em 'A Nobreza do Amor' - UOL",
-              "resumo": "Outro Canal: Taís Araujo volta às novelas da Globo como rainha revolucionária em 'A Nobreza do Amor' UOL",
-              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2pSZFNMd3FNbjZxNFcyR29jRF82UW84anBpd0lOTUM2c0IwZnpnX3ZELThsdDQ4aDRFdXlCbFJEaGYwWlNIOVFwOEV3LVBtTHRQNkYwUWsxbnctbFJVQncyNFdJR1lkV0pJZlN6MWIyOHBMMjU0OFk5ZWI1OVBURDVHRVI4U3VVVjVFN2lldktxNk5oVEFWUmVfcnp6b2RGbzFxMkRyZkVzdko5MXVRUjNydUxRV01Gd24tZlZUU0NRbWwzU2J5NmxzeGRzTzdBcExKRlNDeXNrZEtpTVZlNE84WGU?oc=5",
-              "fonte": "TV e Novelas",
+              "titulo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil - Exame",
+              "resumo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil Exame",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWc2VGxzTXlZMWdhZEdzY3BnaW91WEx0NmtnTm5TNS1LSkFBWVA1WHFFc3ltdEVSei0zQlQ5aEE5MmViV2xyejZ3WEpGSHFFeEJNV3JGV3JtY1BNVm8xRHF0NS1sTmh5eGhoR25nR18yQ1N0UkUxeVFBdG9GMmdYQ3ZPa1pyM3VnMkNJNzJNWGd5V1dmNmZv?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Música",
+          "noticias": [
+            {
+              "titulo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" - GZH",
+              "resumo": "Ney Matogrosso comemora 80 anos com o lançamento de \"Nu com a Minha Música\" GZH",
+              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNGg0VGx0VkVmNnQ2ejBZd3E3YS00ZVl1Y015TDdjMU5tak9RMjI4cWk1Q1dtVThwQ2pCNVFsY1JmUEVWWGdrVXBnTUdXNTdsX3RuU3lISE1MbUZSWjN4ODQ1ai1RRU0zVmVWS2FlNUdLbWxlLWE2aE4wa21hWWRiSkVkZEl2OWpkY1MtVDhBeF9pT1RWZ0lTMWlySmU1d3VyTlIxSXk3ODMxajA4b2h2VnZaZS05NXUtcExNblJQa2w4NGJfTVpvWTBYSU9HOURPZXJCMWlFSEVWZXpnbmNBYmV5QzhRbUx2YVdaTjZ6N2xNRFFYSS1aWmpqUjBRdEN5YUxJRERR?oc=5",
+              "fonte": "Música",
               "editoria": "Entretenimento"
             }
           ]
@@ -373,13 +335,13 @@
       "nome": "Curiosidades",
       "fontes": [
         {
-          "nome": "Curiosidades Gerais",
+          "nome": "Saúde e Bem-estar",
           "noticias": [
             {
-              "titulo": "Esses 3 signos vão ganhar dinheiro inesperado nos próximos dias - Revista Ana Maria",
-              "resumo": "Esses 3 signos vão ganhar dinheiro inesperado nos próximos dias Revista Ana Maria",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUZMaGVwNGVOVjNrMTRjUUxveUk5T0xCS3dVQngwSmppbEJmNkVyWVdCSF9mMG1JRG5KeWZmenZINDVqdUhOUWVUUnFKQjNBN0J4QjUzX0VJcTk5MnBldkJTNWpuekJBWV9CZ2hFcTljc2hlUmhXUGRzZ2RpbmlCNXhpNW0zZlE1QTdBN2xxR3QzM1lUS2ZhTUNEdnJOZUhGUXhpZXpYcmMwdw?oc=5",
-              "fonte": "Curiosidades Gerais",
+              "titulo": "Contas e dívidas podem afetar a saúde mental e até o sono, mostra pesquisa - Folha BV",
+              "resumo": "Contas e dívidas podem afetar a saúde mental e até o sono, mostra pesquisa Folha BV",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVC1fUHl6UlRrSG14dEFyV0J4WlFJU3Uwd0c1SFpOUTBDLUZFZ25XWklabEFBY0ZLRmp4Y3hjU1VuajBxUUdfREVZRUxTYjRpdHVReEJGaDM2dW0taHV0RUJIaTFFbEVhNHgzeWhSbGh5RWFiZGdVd1VNSlg5REtOMWIxbk1KTGhmMWJTRXVYaEl0SmNxSlJRTDhWRXBoWnNKN0l4bThLTHpUYkVlTVFxZ29XeGVtMjJlLXY0?oc=5",
+              "fonte": "Saúde e Bem-estar",
               "editoria": "Curiosidades"
             }
           ]
