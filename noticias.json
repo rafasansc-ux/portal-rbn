@@ -1,9 +1,33 @@
 {
-  "gerado_em": "2026-09-27T12:25:09.262842",
+  "gerado_em": "2026-09-27T15:05:36.978471",
   "data": "27/09/2026",
-  "hora": "12h25",
-  "total": 33,
+  "hora": "15h05",
+  "total": 28,
   "editorias": [
+    {
+      "nome": "Local",
+      "fontes": [
+        {
+          "nome": "OCP News",
+          "noticias": [
+            {
+              "titulo": "Planeta a 63 anos-luz da Terra é “ouvido” por radiotelescópios",
+              "resumo": "Emissão de rádio é a primeira atribuída diretamente a um exoplaneta e permitiu aos cientistas medir seu campo magnético a 63 anos-luz da Terra The post Planeta a 63 anos-luz da Terra é “ouvido” por radiotelescópios appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/planeta-a-63-anos-luz-da-terra-e-ouvido-por-radiotelescopios",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Chuva de granizo deixa ruas cobertas de gelo e assusta moradores no RS",
+              "resumo": "Uma forte chuva de granizo atingiu cidades do Rio Grande do Sul na noite deste sábado (26). Em Santiago, moradores […] The post Chuva de granizo deixa ruas cobertas de gelo e assusta moradores no RS appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/seguranca/chuva-de-granizo-deixa-ruas-cobertas-de-gelo-e-assusta-moradores-no-rs",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            }
+          ]
+        }
+      ]
+    },
     {
       "nome": "Estado",
       "fontes": [
@@ -11,9 +35,9 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "Mega-Sena 3063: sortudo de cidade mais populosa de SC fica a um número de faturar R$ 45 milhões",
-              "resumo": "Concurso 3.063 da Mega-Sena - veja sorteio Uma aposta de Santa Catarina bateu na trave e acertou cinco dos seis números sorteados do concurso 3063 da Mega-Sena neste domingo (27), que valia R$ 45 milhões . O sortudo é de Joinville, no Norte catarinense, a cidade mais populosa do estado.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/mega-sena-3063-sortudo-cidade-mais-populosa-sc-fica-um-numero-faturar-r-45-milhoes.ghtml",
+              "titulo": "SC entra na rota de temporais após fim de semana marcado por 'calorão' de até 33°C",
+              "resumo": "SC entra na rota de temporais após fim de semana marcado por calor Após um fim de semana de calor intenso, Santa Catarina terá uma sequência de dias instáveis. A Defesa Civil estadual prevê temporais em todas as regiões do estado entre esta segunda (28) e terça-feira (29). ⛈️O órgão alerta para risco alto de estragos, como destelhamentos, quedas de árvores e galhos, danos na rede elétrica, queda de granizo, alagamentos e enxurradas pontuais.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/sc-entra-na-rota-de-temporais-fim-de-semana-marcado-calorao.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -23,37 +47,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Homem de 81 anos trabalha até 14 horas por dia, recebe ajuda milionária e 1 decisão faz todo o dinheiro voltar aos doadores",
-              "resumo": "Idoso trabalhava para ajudar nas despesas médicas da esposa com câncer nos Estados Unidos; campanha milionária acabou removida pelo GoFundMe O post Homem de 81 anos trabalha até 14 horas por dia, recebe ajuda milionária e 1 decisão faz todo o dinheiro voltar aos doadores apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/comportamento/homem-81-anos-ajuda-milionaria-dinheiro-volta-doadores/",
+              "titulo": "Ex-cotada a vice de Flávio, Tereza Cristina declara apoio a Amin e acirra disputa contra Carlos Bolsonaro em SC",
+              "resumo": "Senadora do PP gravou vídeo de apoio ao colega de partido e destacou atuação no Congresso; manifestação ocorre após troca de farpas entre Amin e o filho de Jair Bolsonaro O post Ex-cotada a vice de Flávio, Tereza Cristina declara apoio a Amin e acirra disputa contra Carlos Bolsonaro em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/tereza-cristina-apoio-amin-disputa-senado-carlos-bolsonaro-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Quem é o empresário que gravou bloqueio no casamento do filho de Moraes e teve o celular derrubado em SP",
-              "resumo": "Gabriel Kanner tem trajetória no meio empresarial e político e passou a se dedicar à formação intelectual antes de ganhar destaque pelo episódio deste sábado (26) O post Quem é o empresário que gravou bloqueio no casamento do filho de Moraes e teve o celular derrubado em SP apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/quem-e-gabriel-kanner-empresario-casamento-filho-moraes/",
+              "titulo": "Apostador gasta R$ 10 em bilhete, ganha R$ 5,3 bilhões na loteria, desaparece por um mês, mas reaparece para resgatar bolada de uma só vez",
+              "resumo": "Ganhador de R$ 5,3 bilhões na loteria reaparece após um mês, escolhe saque à vista e mantém anonimato O post Apostador gasta R$ 10 em bilhete, ganha R$ 5,3 bilhões na loteria, desaparece por um mês, mas reaparece para resgatar bolada de uma só vez apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/loterias/apostador-ganha-5-bilhoes-loteria-powerball-resgata-premio/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Funcionário usa 1º salário acima de R$ 5 mil para presentear colegas e, em troca, ganha carro novo do chefe",
-              "resumo": "Funcionário usou parte do primeiro pagamento acima de US$ 1 mil para comprar comida e lanches para a equipe; meses depois, foi surpreendido no trabalho nos EUA O post Funcionário usa 1º salário acima de R$ 5 mil para presentear colegas e, em troca, ganha carro novo do chefe apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/comportamento/funcionario-primeiro-salario-presenteia-colegas-ganha-carro/",
+              "titulo": "Encontro beneficente de veículos antigos reúne clássicos em cartão-postal de Florianópolis",
+              "resumo": "A exposição, já conhecida pelo público, conta com modelos fabricados até o ano 2000 O post Encontro beneficente de veículos antigos reúne clássicos em cartão-postal de Florianópolis apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/cidadania/encontro-beneficente-de-veiculos-antigos-reune-classicos-em-cartao-postal-de-florianopolis/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Atleta de handebol morre aos 15 após ser atingida por estrutura de balanço em SC e comove comunidade esportiva: ‘Sorriso contagiante’",
-              "resumo": "Beatriz Peixoto morreu após ser atingida por uma estrutura de madeira enquanto brincava com amigas em Alfredo Wagner, na Serra catarinense O post Atleta de handebol morre aos 15 após ser atingida por estrutura de balanço em SC e comove comunidade esportiva: ‘Sorriso contagiante’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/atleta-de-handebol-morre-aos-15-apos-ser-atingida-por-estrutura-de-balanco-em-sc-e-comove-comunidade-esportiva-sorriso-contagiante/",
+              "titulo": "Tornado é confirmado em pequena cidade de SC após deixar rastro de destruição",
+              "resumo": "Fenômeno passou por São João dos Cavalheiros, em Três Barras, no Planalto Norte de Santa Catarina, e causou destelhamentos, queda de árvores e danos em imóveis O post Tornado é confirmado em pequena cidade de SC após deixar rastro de destruição apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/tornado-e-confirmado-em-pequena-cidade-de-sc-apos-deixar-rastro-de-destruicao/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Governo Lula tem plano de R$ 20 bilhões para socorrer clubes de futebol após fim das bets no Brasil; entenda se dinheiro pode ser usado para contratar jogadores",
-              "resumo": "Proposta de refinanciamento prevê até 20 anos para pagar dívidas tributárias e bancárias, sem perdão de débitos, para compensar perdas no futebol com o fim das apostas online O post Governo Lula tem plano de R$ 20 bilhões para socorrer clubes de futebol após fim das bets no Brasil; entenda se dinheiro pode ser usado para contratar jogadores apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/fim-das-bets-governo-lula-plano-20-bilhoes-clubes-futebol/",
+              "titulo": "Cliente ganha compras grátis durante 40 anos em gigante dos supermercados após ser sorteado em promoção de R$ 250 mil",
+              "resumo": "João Gabriel, morador de Quixeramobim, foi o grande vencedor da campanha comemorativa e recebeu a premiação estimada em R$ 250 mil nesta sexta-feira (25) O post Cliente ganha compras grátis durante 40 anos em gigante dos supermercados após ser sorteado em promoção de R$ 250 mil apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/economia/cliente-ganha-250-mil-compras-gratis-grupo-mateus/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -68,37 +92,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Justiça Eleitoral retira perfil de Renan Filho em redes social, mas nova decisão determina retomada",
-              "resumo": "Renan Filho (MDB) Rebecca Moura/g1 A Justiça Eleitoral de Alagoas determinou a suspensão, por 24 horas, do perfil oficial do candidato ao governo de Alagoas, Renan Filho (MDB), no Instagram. Mas uma nova decisão, proferida neste sábado (26), suspendeu a ordem e determinou o restabelecimento imediato da conta.",
-              "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/27/justica-eleitoral-retira-perfil-de-renan-filho-em-redes-social-mas-nova-decisao-determina-retomada.ghtml",
+              "titulo": "Toffoli determina retirada da federação PSDB/Cidadania da coligação de Raquel Lyra",
+              "resumo": "Dias Toffoli, ministro do Supremo Tribunal Federal (STF) Luiz Silveira/STF O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), determinou a retirada da Federação PSDB/Cidadania da coligação Pernambuco de Coração, que apoia a candidatura à reeleição da governadora Raquel Lyra (PSD). Cabe recurso da decisão, que é monocrática e foi assinada no sábado (26).",
+              "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/27/toffoli-determina-retirada-da-federacao-psdbcidadania-da-coligacao-de-raquel-lyra.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Justiça determina que Prefeitura de Passos seja indenizada em R$ 136 mil por irregularidades em aluguel de trator",
-              "resumo": "Prefeitura de Passos Reprodução EPTV A Justiça condenou ex-agentes públicos, particulares e uma empresa a ressarcirem R$ 136 mil ao município de Passos (MG), por prejuízos decorrentes de irregularidades na execução de um contrato de aluguel de trator para a prestação de serviços no aterro municipal.",
-              "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/27/justica-determina-que-prefeitura-de-passos-seja-indenizada-em-r-136-mil-por-irregularidades-em-aluguel-de-trator.ghtml",
+              "titulo": "Homem morre após tentar ultrapassar ônibus, cair de moto e ser atropelado no PI",
+              "resumo": "Instituto de Medicina Legal (IML) em Parnaíba MP-PI Um homem identificado como Robson Jaime da Costa Pereira morreu após um acidente envolvendo uma motocicleta e um ônibus na manhã deste domingo (27), em Luís Correia, no litoral do Piauí.",
+              "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/27/homem-morre-atropelado.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "PM cerca casa e prende suspeito com drogas em Paty do Alferes",
-              "resumo": "PM cerca casa e prende suspeito com drogas em Paty do Alferes Divulgação/Polícia Militar Um homem, de 38 anos, foi preso em flagrante por tráfico de drogas no sábado (26), no distrito de Avelar, em Paty do Alferes (RJ). A prisão aconteceu na Rua Deputado José Vaz, após um monitoramento do setor de inteligência da Polícia Militar.",
-              "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/27/pm-cerca-casa-e-prende-suspeito-com-drogas-em-paty-do-alferes.ghtml",
+              "titulo": "Mulher morre e homem fica ferido em acidente de moto na Grande João Pessoa",
+              "resumo": "Mulher morre e homem fica ferido em acidente de moto na Grande João Pessoa Flávio Fernandes/TV Cabo Branco Uma mulher, Joelma Freire da Silva, de 51 anos, morreu, e o esposo dela, Lenilson Nascimento, ficou ferido após um acidente de moto, na PB-018, na cidade do Conde, na Grande João Pessoa, durante a madrugada deste domingo (27). ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O acidente aconteceu por volta das 4h.",
+              "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/27/mulher-morre-e-homem-fica-ferido-em-acidente-de-moto-na-grande-joao-pessoa.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Ônibus clandestino é apreendido após transportar passageiros sentados sobre caixas de cigarros ilegais no Paraná",
-              "resumo": "Passageiros estavam sentados sobre as caixas com cigarros Receita Federal Cerca de 500 caixas de cigarro foram apreendidas em um ônibus clandestino em Foz do Iguaçu, no Oeste do Paraná, na noite de sábado (26). Segundo a Receita Federal, os passageiros viajavam sentados sobre as caixas que escondiam os produtos ilegais, sem saber o que havia dentro delas. Os cigarros também estavam armazenados na parte do bagageiro.",
-              "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/27/onibus-clandestino-e-apreendido-apos-transportar-passageiros-sentados-sobre-caixas-de-cigarro-ilegais-no-parana.ghtml",
+              "titulo": "Banda sinfônica do IFSP Itapetininga vence campeonato estadual e se classifica para etapa nacional",
+              "resumo": "Banda sinfônica se tornou campeã paulista IFSP/Divulgação A Banda Sinfônica do Instituto Federal de São Paulo (IFSP), do campus de Itapetininga (SP), venceu o Campeonato Estadual de Bandas e Fanfarras “Maestro Jairo Farias”, em Santa Rita do Passa Quatro (SP), na terça-feira (22). A vitória ocorreu na categoria juvenil e, além disso, o conjunto disputou a categoria sênior, na qual apresentou um repertório de alta complexidade técnica.",
+              "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/27/banda-sinfonica-do-ifsp-itapetininga-vence-campeonato-estadual-e-se-classifica-para-etapa-nacional.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Ônibus tomba e passageiros ficam feridos em rodovia na Bahia",
-              "resumo": "Ônibus tomba e passageiros ficam feridos em trecho de rodovia na Bahia Portal Bahia Extremo Sul Um acidente de ônibus deixou pelo menos 25 pessoas feridas, no sábado (26), em um trecho da BA-489, na cidade de Prado, no extremo sul da Bahia. Segundo informações de um dos passageiros, o motorista teria desviado de uma bicicleta que estava na pista e, em seguida, aconteceu uma colisão.",
-              "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/27/onibus-tomba-na-bahia.ghtml",
+              "titulo": "Festa Nordestina de Cajamar reúne Pablo, Calcinha Preta,Toque10 e gastronomia típica em outubro; saiba como comprar ingressos",
+              "resumo": "Festa Nordestina de Cajamar reúne Pablo, Calcinha Preta,Toque10 gastronomia típica e cultura em noite especial Divulgação A Festa Nordestina de Cajamar, com apoio da Viva+, chega a mais uma edição no Centro de Eventos Boiódromo, em 11 de outubro, com cerca de 60 comerciantes locais e pratos típicos como baião de dois, acarajé, cuscuz nordestino, carne de sol com macaxeira e espetinhos, incluindo carne de bode.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/27/festa-nordestina-de-cajamar-reune-pablo-calcinha-pretatoque10-e-gastronomia-tipica-em-outubro-saiba-como-comprar-ingressos.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -108,37 +132,9 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "OpenAI para treinamento após agentes de IA agirem por conta própria",
-              "resumo": "CEO da OpenAI, Sam Altman, afirmou que o incidente envolveu o Hugging Face continua sendo o mais grave Alexi J. Rosenfeld/Getty Images/AFP A empresa OpenAI comunicou neste sábado (26/09) que suspendeu temporariamente o treinamento de seus mais recentes modelos de inteligência artificial (IA).",
-              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/27/openai-para-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Bitget: roubo de R$ 1,86 bilhão está entre os maiores golpes com criptomoedas; veja lista",
-              "resumo": "O que são as criptomoedas? A corretora de criptomoedas Bitget afirmou na sexta-feira (25) que cerca de US$ 350 milhões (R$ 1,86 bilhão) em criptomoedas foram roubados da plataforma. No ano passado, invasores roubaram US$ 2,9 bilhões em criptomoedas em quase 150 ataques, segundo pesquisadores da TRM Labs.",
-              "link": "https://g1.globo.com/economia/noticia/2026/09/27/bitget-roubo-entra-para-lista-dos-maiores-golpes-com-criptomoedas-veja-lista.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Vaca dá à luz bezerros trigêmeos e surpreende produtor no ES: 'Achei era só um bezerro grande'",
-              "resumo": "Vaca dá à luz bezerros trigêmeos e surpreende produtor: 'Achei que ia vir só um bezerrão' Uma vaca de nove anos deu à luz três bezerros de uma só vez em uma propriedade rural de São Mateus, no Norte do Espírito Santo. O nascimento de Pinta, Nina e Cristóvão aconteceu no dia 8 de setembro e surpreendeu o produtor rural José Carlos Junca Júnior.",
-              "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/vaca-da-a-luz-bezerros-trigemeos-e-surpreende-produtor-no-es-achei-era-so-um-bezerro-grande.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Criminoso admite usar conta bancária de terceiro para vender material de abuso sexual infantil: 'É de uma menina'",
-              "resumo": "⚠️ Aviso: esta reportagem contém conteúdo sensível sobre abuso sexual infantil. Ao final dela, veja como denunciar casos desse tipo. Criminosos usam TikTok para promover de conteúdo de abuso sexual infantil no Telegram Uma investigação do g1 revelou como agem criminosos que comercializam material de abuso sexual infantil na internet. A reportagem mostrou que eles usam o TikTok como vitrine para promover a venda do conteúdo ilegal.",
-              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/27/criminoso-admite-usar-conta-bancaria-de-terceiro-para-vender-material-de-abuso-sexual-infantil-e-de-uma-menina.ghtml",
-              "fonte": "G1 Economia",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Caso Farm: empresa pode usar projeto feito por candidato em processo seletivo? Veja o que dizem especialistas",
-              "resumo": "Caso Farm: empresa pode usar projeto feito por candidato em processo seletivo? Na semana passada, a designer de moda Maria Clara Franklim publicou no Instagram um vídeo que já ultrapassa 2 milhões de visualizações. Ela afirma ter identificado \"semelhanças\" entre uma coleção recente da Farm e um projeto desenvolvido durante um processo seletivo da empresa.",
-              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/27/caso-farm-veja-o-que-dizem-especialistas.ghtml",
+              "titulo": "Bill Gates alerta que IA pode causar 'um bilhão de mortes' e defende legislação para a tecnologia",
+              "resumo": "Leão XIV pede mais regras para uso da Inteligência Artificial A inteligência artificial é poderosa o suficiente para desencadear eventos que causem um bilhão de mortes, segundo o bilionário Bill Gates, fundador da Microsoft. Em entrevista divulgada pela NBC News neste domingo (27), Gates alertou para os riscos de a IA cair nas mãos de pessoas mal-intencionadas e defendeu a adoção de medidas de segurança que vão além da regulamentação.",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/27/bill-gates-entrevista-inteligencia-artificial.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -148,37 +144,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Elevação do nível do mar destrói casas e apaga praias na Califórnia",
-              "resumo": "Danos foram provocados por uma série de ciclones e furacões do Pacífico Oriental, intensificados pelo fenômeno climático conhecido como El Niño",
-              "link": "https://www.cnnbrasil.com.br/internacional/elevacao-do-nivel-do-mar-destroi-casas-e-apaga-praias-na-california/",
+              "titulo": "Ataques da Rússia matam pelo menos três pessoas na Ucrânia",
+              "resumo": "Disparos atingiram cidades como Sumy, Kharkiv e a capital Kiev, que são alvos frequentes das forças russas na guerra que já dura mais de quatro anos",
+              "link": "https://www.cnnbrasil.com.br/internacional/ataques-da-russia-matam-pelo-menos-pessoas-na-ucrania/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Vídeo: Homem é baleado na frente de crianças durante assalto em São Paulo",
-              "resumo": "Vítima de 39 anos foi atingida por disparos no Itaim Bibi após criminoso exigir aliança; ele foi encaminhado ao Hospital das Clínicas com ferimentos na cabeça e no braço",
-              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-baleado-na-frente-de-criancas-durante-assalto-em-sao-paulo/",
+              "titulo": "Águas europeias registraram os meses de verão mais quentes desde que os sensores de satélite começaram a fornecer dados; pesca é severamente ameaçada",
+              "resumo": "Desaparecimento de florestas marinhas compromete a pesca artesanal e ameaça o sustento de comunidades locais na Espanha",
+              "link": "https://www.cnnbrasil.com.br/ciencia/aguas-europeias-registraram-os-meses-de-verao-mais-quentes-desde-que-os-sensores-de-satelite-comecaram-a-fornecer-dados-pesca-e-severamente-ameacada/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Inundações e deslizamentos de terra matam 56 pessoas na Índia e 14 no Nepal",
-              "resumo": "Mau tempo fez níveis dos rios subirem enquanto falta de energia e problemas nas telecomunicações afetam diversas regiões dos países",
-              "link": "https://www.cnnbrasil.com.br/internacional/inundacoes-e-deslizamentos-de-terra-matam-pessoas-na-india-e-no-nepal/",
+              "titulo": "Casal de pandas da China chega aos EUA em meio a gesto diplomático",
+              "resumo": "Envio dos animais ocorre após visita de Estado do líder chinês Xi Jinping a Washington para aliviar tensões bilaterais entre os dois países",
+              "link": "https://www.cnnbrasil.com.br/internacional/casal-de-pandas-da-china-chega-aos-eua-em-meio-a-gesto-diplomatico/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Ator de “Quem Ama Cuida” passeia com namorado em shopping do RJ",
-              "resumo": "Na trama de Walcyr Carrasco e Claudia Souto, Guilherme Piva interpreta Edvaldo, funcionário da vilã Pilar Brandão (Isabel Teixeira)",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/ator-de-quem-ama-cuida-passeia-com-namorado-em-shopping-do-rj/",
+              "titulo": "Após 4.300 anos, montanha de 157 metros na Turquia pode revelar paradeiro da Arca de Noé",
+              "resumo": "Projeto científico utiliza georradar e análise de solo para investigar formação em formato de barco perto do Monte Ararat; estudo utiliza georradar (GPR), tomografia de resistividade elétrica (ERT), tecnologia LiDAR e análises químicas para mapear o subsolo sem a necessidade de escavações imediatas",
+              "link": "https://www.cnnbrasil.com.br/curiosidades/apos-4-300-anos-montanha-de-157-metros-na-turquia-pode-revelar-paradeiro-da-arca-de-noe/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Por que o cocô dos pinguins é rosa? Coloração pode ser vista do espaço e serve para para monitorar a saúde do ecossistema",
-              "resumo": "Entenda como o consumo de krill altera a cor dos resíduos dos pinguins-de-adélia e auxilia cientistas no acompanhamento ambiental; monitoramento contínuo faz parte do programa da Comissão para a Conservação dos Recursos Vivos Marinhos da Antártica (CCAMLR)",
-              "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-coco-dos-pinguins-e-rosa-coloracao-pode-ser-vista-do-espaco-e-serve-para-para-monitorar-a-saude-do-ecossistema/",
+              "titulo": "Shawn Mendes diz que está “construindo uma vida” com Bruna Marquezine",
+              "resumo": "Cantor e brasileiro assumiram o relacionamento no final do ano passado",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/shawn-mendes-diz-que-esta-construindo-uma-vida-com-bruna-marquezine/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -188,9 +184,23 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Saiba quem são os cinco candidatos a governador no Espírito Santo",
-              "resumo": "Cinco candidatos concorrem ao governo do Espírito Santo nas eleições deste ano. Um total de 2.990.490 eleitores estão aptos a votar. Desse total, 53% são mulheres e 47% homens. 24,45% dos eleitores declaram cor/raça, e entre eles 51,88% são pardos, 34,41% são brancos e 13,13% são pretos. Notícias relacionadas:Saiba quais são as atribuições dos governadores e vice-governadores.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/saiba-quem-sao-os-cinco-candidatos-governador-no-espirito-santo",
+              "titulo": "Saiba como as bets adoeceram e endividaram os brasileiros",
+              "resumo": "“Um grande alívio.” Foi assim que Kaio*, de 42 anos, definiu o sentimento ao ouvir a notícia, na última sexta (25), de que as operações das empresas de apostas on-line, as bets, foram proibidas no Brasil. Ele diz que tenta recomeçar a vida depois de perder o carro, a casa e o emprego por causa das dívidas de jogo. Hoje, Kaio mora sozinho em um dormitório em uma cidade do interior de Goiás. No local, ele se abriga, todas as noites, no chão.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/saiba-como-bets-adoeceram-e-endividaram-os-brasileiros",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Capital fluminense integra programa global de gestão de resíduos",
+              "resumo": "A capital fluminense está entre as sete cidades do mundo escolhidas como piloto para o programa global Distritos Lixo Zero, de gestão de resíduos e redução de metano. De acordo com o Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG), do Observatório do Clima, o Rio de Janeiro é a cidade brasileira que lidera o ranking de emissões de gases do efeito estufa no setor de resíduos.",
+              "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-fluminense-integra-programa-global-de-gestao-de-residuos",
+              "fonte": "Agência Brasil",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Quilombo urbano na zona sul do Rio guarda lições de resistência",
+              "resumo": "É em um quintal com coqueiro, goiabeira, bananeiras, uma paineira-rosa e um raro pé de abiu que vivem as 14 famílias do Quilombo Urbano Ferreira Diniz. A comunidade fica na Glória, na zona sul do Rio de Janeiro, e foi tombada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan).",
+              "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/quilombo-urbano-na-zona-sul-do-rio-guarda-licoes-de-resistencia",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -205,29 +215,10 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Carol de Toni deixa o PL após partido escolher Carlos Bolsonaro como candidato ao Senado em SC - CartaCapital",
-              "resumo": "Carol de Toni deixa o PL após partido escolher Carlos Bolsonaro como candidato ao Senado em SC CartaCapital",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGdxRWVmbEFNbnIzNUVIOGJPTDJ3dFJzLUgwWmQ4dmFyazg3Ql9WbjkwUmFrenl5M2I1Q3d3bWU5LXJVbTliX2U2aklqM29xUnRnSlMxTmJ0cHNXQ04xSWFNamswUWJJRnlfUW42clBkZnVqdFFkSVJJanVWVHhNS3Z4cXJJMldMUkNxMzhnU3dzZC1lY29CZmpNQmx2bmF6R0RlYm9LUWZKWHdHY2RKQXVxcmZoVGZRNzhOdXN2TXR6U2NpUmZMbVhtcUtWOGlGelE?oc=5",
+              "titulo": "Acidente que matou Jorge Lacerda alterou rumos da política catarinense - alesc.sc.gov.br",
+              "resumo": "Acidente que matou Jorge Lacerda alterou rumos da política catarinense alesc.sc.gov.br",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3NYeVd4SFhLR2g4cEtCdVNMTjJ3TnJhOVN6Skc1cThJRmVNZUphY3VpUU42TzBJcWl1Q2VEb0IxSEdCMzdFOXN3SDIwMWloZ3g0MTNJOXJXajNCTms1QW9wNk8yN19GUG5kUkxXVzJtR0NOZFRaV0s0NkNaRHNRWHh1V3RSaVQ4TzNoeExJM2lnTFZralQ1VXhyUTBWQ2tvVTQzNDNMNzE1dVpwU2tST2RRMVpBZw?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
-              "editoria": "Politica"
-            }
-          ]
-        },
-        {
-          "nome": "Política Brasil — Congresso e Presidente",
-          "noticias": [
-            {
-              "titulo": "Oposição pernoita nos plenários do Congresso para impedir trabalhos - Agência Brasil",
-              "resumo": "Oposição pernoita nos plenários do Congresso para impedir trabalhos Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlpTMHJQUXRJb1ZFenlSbkpFeG9oZkVaalRPemNZemxhQi1EMmROdzBHUHpRVnUySWxkY1otMGRzUWJnYnlicTdlcVVkVXl2Ykxqb3BNb1Izc0lIVU5TcENsdUZ3YWRBVy1RNWZWX3J2LU8wa05vQnZMLW1MMTllUkhPNkFBZmgwczRUOXA5aVNyTGprMW1POFVRR250TU1nNHFpeG9sSF93eGVjWWNmeEFkNzNpZkU4MHdJcG9JTV9GZ3M?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Congresso brasileiro aprova lei para reduzir pena de Bolsonaro - Euronews.com",
-              "resumo": "Congresso brasileiro aprova lei para reduzir pena de Bolsonaro Euronews.com",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUJ1aEM5QlBBWG52UlFHaEdEd0Y3QjVDaHYtMW1XcTFjQXpFbjQ2YXo2ZEItSkRNT0t3cFRicmkxQ0EzSFNKMTdVQXRTdlNiWTE1VnFOVEw0LXJoSkx0Q3RFMGQyQ3E2c0ZOOWtlVUtEMFhRc1Nvckc5OWhOa2NmdHNBdGl1dVhtajRIUHJia21ONTdKTXg1TkVhejZxXzBaV1lLZHRwTnVhck83VGJPMXlyTXFFZnduNWg3N2dmNXQxQzA?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
           ]
@@ -241,75 +232,39 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Athletic vence Cruzeiro e larga na frente nas semifinais do Mineiro sub-20",
-              "resumo": "Athletic Club 1 x 1 Botafogo-SP | Melhores momentos | 29ª rodada | Brasileirão Série B O Athletic deu um passo importante rumo à final do Campeonato Mineiro sub-20. A equipe venceu o Cruzeiro na manhã deste domingo e largou na frente nas semifinais do Estadual. A equipe bateu a Raposa por 2 a 1 no CT do Athletic, em São João del Rei e está a um empate da decisão. O Esquadrão de Aço abriu o placar aos 38 minutos o primeiro tempo.",
-              "link": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/noticia/2026/09/27/athletic-vence-cruzeiro-e-larga-na-frente-nas-semifinais-do-mineiro-sub-20.ghtml",
+              "titulo": "Foz do Iguaçu x Athletico-PR - Copa Paraná 2026 - Ao vivo - globoesporte.com",
+              "resumo": "Copa Paraná 2026 no globoesporte.com - acompanhe tudo sobre Foz do Iguaçu x Athletico-PR: escalação, informações sobre o jogo, fotos e muito mais",
+              "link": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/27-09-2026/fozdoiguacu-atletico-pr.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Noroeste e São José-SP empatam o jogo de ida da semifinal da Copa Paulista",
-              "resumo": "Decisão do finalista fica para o duelo de volta, no sábado que vem, em São José dos Campos",
-              "link": "https://ge.globo.com/sp/tem-esporte/futebol/copa-paulista/jogo/27-09-2026/noroeste-sao-jose.ghtml",
+              "titulo": "Mato-grossense Feminino inicia com vitórias de Mixto e Paulistano",
+              "resumo": "Mixto permanece no Brasileirão Feminino para 2027 O Campeonato Mato-grossense Feminino 2026 começou neste sábado com duas partidas e vitórias de Mixto e Paulistano. O Mixto venceu o Ação por 2 a 0, no Estádio Dutrinha, em Cuiabá, enquanto o Paulistano bateu o Sorriso Esporte Clube por 2 a 1, no Estádio Egídio Preima, em Sorriso. A competição conta com cinco equipes: Sorriso, Ação, Paulistano, Mixto e Operário.",
+              "link": "https://ge.globo.com/mt/noticia/2026/09/27/mato-grossense-feminino-inicia-com-vitorias-de-mixto-e-paulistano-2026.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Jorge Jesus avisa antes de enfrentar algoz do Brasil: \"Não vou ter medo nenhum da Noruega. Zero\"",
-              "resumo": "A Noruega vive um de seus melhores momentos na história e vem empolgada no início da Liga das Nações. Depois de eliminar a seleção brasileira nas oitavas de final da última Copa do Mundo, a equipe nórdica estreou com vitória na Nations, batendo a Dinamarca por 3 a 2, e agora se prepara para um grande desafio: enfrentar a seleção portuguesa, agora comandada por Jorge Jesus - que indicou não temer os noruegueses.",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/jorge-jesus-avisa-antes-de-enfrentar-algoz-do-brasil-nao-vou-ter-medo-nenhum-da-noruega-zero.ghtml",
+              "titulo": "CSKA faz jogo de despedida para Vágner Love com 27 mil torcedores",
+              "resumo": "Vágner Love se emociona com homenagem do CSKA em jogo de despedida O CSKA Moscou preparou uma grande festa para homenagear um dos grandes ídolos do clube: Vágner Love. O atacante recebeu um jogo de despedida neste sábado entre lendas da equipe contra amigos dele. A celebração contou com a participação de 27 mil torcedores na VEB Arena.",
+              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-russo/noticia/2026/09/27/cska-faz-jogo-de-despedida-para-vagner-love-com-27-mil-torcedores.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Treinador galáctico: North contrata Míchel Salgado, ex-Real Madrid",
-              "resumo": "Míchel Salgado: \"Zico foi o meu primeiro ídolo\" O North, de Montes Claros-MG, tem uma contratação de impacto internacional para a temporada 2027. O clube acertou a chegada do espanhol Míchel Salgado, ex-lateral do Real Madrid e da seleção espanhola, para comandar a equipe no Campeonato Mineiro, na Copa do Brasil e na Série D do Campeonato Brasileiro — o ano mais importante da ainda jovem história da associação.",
-              "link": "https://ge.globo.com/mg/grande-minas-vales/noticia/2026/09/27/treinador-galactico-north-contrata-michel-salgado-ex-real-madrid.ghtml",
+              "titulo": "Vozinha diz que preferia vida antes da fama: \"Perdi minha paz, não tenho mais privacidade\"",
+              "resumo": "Goleiro sensação da Copa, Vozinha é apresentado aos torcedores do Colo Colo, do Chile Vozinha, destaque de Cabo Verde na Copa do Mundo e atualmente no chileno Colo-Colo, fartou-se da fama. Em entrevista ao jornal inglês \"The Observer\", o goleiro cabo-verdiano afirmou que preferia a vida tranquila que levava antes de se tornar mundialmente conhecido.",
+              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/vozinha-diz-que-preferia-vida-antes-da-fama-perdi-minha-paz-nao-tenho-mais-privacidade.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Mr. Olympia distribui mais de R$ 10 milhões em premiação; veja valores de cada categoria",
-              "resumo": "Nick Walker supera Samson Dauda e é campeão do Mr. Olympia 2026 Principal competição do fisiculturismo mundial, a 62ª edição do Mr. Olympia chegou ao fim na madrugada deste domingo (27), em Las Vegas, nos Estados Unidos. Ao longo de dois dias de disputas, o campeonato coroou 12 campeões e distribuiu cerca de 1,9 milhão de dólares em premiação (aproximadamente R$ 10,2 milhões). Mr.",
-              "link": "https://ge.globo.com/fisiculturismo/noticia/2026/09/27/mr-olympia-2026-distribui-mais-de-r-10-milhoes-em-premiacao-veja-valores-de-cada-categoria.ghtml",
+              "titulo": "Paranaense Feminino 2026: Coritiba e Imperial/Athletico estreiam com goleadas",
+              "resumo": "Paranaense Feminino 2026: jogadoras falam da expectativa para o estadual Coritiba e Imperial/Athletico começaram o Campeonato Paranaense Feminino 2026 com o pé direito. As duas equipes venceram por goleada neste domingo, pela primeira rodada da competição, e largaram com três pontos.",
+              "link": "https://ge.globo.com/pr/futebol/futebol-feminino/noticia/2026/09/27/paranaense-feminino-2026-coritiba-e-imperialathletico-estreiam-com-goleadas.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Entretenimento",
-      "fontes": [
-        {
-          "nome": "Famosos e Celebridades",
-          "noticias": [
-            {
-              "titulo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela - Famosos e Celebridades",
-              "resumo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela Famosos e Celebridades",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEVrTWdTXzdUQXBCaWhsMldNNDN0MGI2RElQdnJwWlZaV3RxVzEyVjhDaFVRdWE5Ym0zaDR2OUVfaWhWMkh4VE1vbG82cUNBRmF1VFlvSS01OXNSMUZjSkhUaG1KRTNHRnNpWnMtb0pGaWMxVW1UVzJQZkVWWG42emJMUUlWVzJLV1lOSEpYd3JyWWIwUEt5YlN6M3NJNC12djZ3Tm9XRW9KM3FONF9tdTFzdEJ4LXJVd2hRS3hNNUZpNmdCUDlyRUNpajg?oc=5",
-              "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Cinema e Filmes",
-          "noticias": [
-            {
-              "titulo": "Vingadores: Doutor Destino | Saiba quando começa a pré-venda no Brasil - Omelete",
-              "resumo": "Vingadores: Doutor Destino | Saiba quando começa a pré-venda no Brasil Omelete",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJHUWlkTlUydTBuUmxWa195ajlQQVNhUjdzQ3U5MVVVelFZQ04yRFplQV9INHl6amhZR2o1N1duN0JtN1UyUHczLTV1NGtmS2g0OHcwd3g3anFvT1U2cEtNWXFBNGhVSkRGZ3BfdTcydjdkY2hMM25hSFBKcEk1LWJ1MEdZOFhvWXdFWUtCOA?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil - Exame",
-              "resumo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil Exame",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWc2VGxzTXlZMWdhZEdzY3BnaW91WEx0NmtnTm5TNS1LSkFBWVA1WHFFc3ltdEVSei0zQlQ5aEE5MmViV2xyejZ3WEpGSHFFeEJNV3JGV3JtY1BNVm8xRHF0NS1sTmh5eGhoR25nR18yQ1N0UkUxeVFBdG9GMmdYQ3ZPa1pyM3VnMkNJNzJNWGd5V1dmNmZv?oc=5",
-              "fonte": "Cinema e Filmes",
-              "editoria": "Entretenimento"
             }
           ]
         }
