@@ -1,33 +1,9 @@
 {
-  "gerado_em": "2026-09-27T10:32:29.340367",
+  "gerado_em": "2026-09-27T12:25:09.262842",
   "data": "27/09/2026",
-  "hora": "10h32",
-  "total": 48,
+  "hora": "12h25",
+  "total": 33,
   "editorias": [
-    {
-      "nome": "Local",
-      "fontes": [
-        {
-          "nome": "OCP News",
-          "noticias": [
-            {
-              "titulo": "Canetas emagrecedoras entram na mira da Anvisa após 13 casos de doença rara",
-              "resumo": "A Anvisa investiga 13 notificações de suspeita de neuropatia óptica isquêmica anterior não arterítica (Noia) em pacientes que utilizavam medicamentos […] The post Canetas emagrecedoras entram na mira da Anvisa após 13 casos de doença rara appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/cotidiano/canetas-emagrecedoras-entram-na-mira-da-anvisa-apos-13-casos-de-doenca-rara",
-              "fonte": "OCP News",
-              "editoria": "Local"
-            },
-            {
-              "titulo": "Mega-Sena pode pagar R$ 45 milhões neste domingo; veja como apostar",
-              "resumo": "A Mega-Sena pode pagar R$ 45 milhões neste domingo (27). O concurso 3.063 será sorteado às 11h, em São Paulo. […] The post Mega-Sena pode pagar R$ 45 milhões neste domingo; veja como apostar appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/economia/mega-sena-pode-pagar-r-45-milhoes-neste-domingo-veja-como-apostar",
-              "fonte": "OCP News",
-              "editoria": "Local"
-            }
-          ]
-        }
-      ]
-    },
     {
       "nome": "Estado",
       "fontes": [
@@ -35,16 +11,9 @@
           "nome": "G1 SC",
           "noticias": [
             {
-              "titulo": "Preso passa por buraco em grade de cela e foge de delegacia em Florianópolis; VÍDEO",
-              "resumo": "Preso passa por buraco em grade de cela e foge de delegacia em Florianópolis; VÍDEO Um homem foi flagrado por câmeras de segurança fugindo pelo buraco da grade da cela na Central de Plantão Policial (CPP) de Florianópolis. O caso aconteceu na madrugada de sábado (26). Nas imagens, é possível ver o preso passando os braços, a cabeça e o restante do corpo pelo espaço da grade. Na sequência, ele é visto deixando a sala onde estava (assista acima).",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/preso-passa-por-buraco-grade-cela-foge-delegacia-florianopolis-video.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "Justiça reconhece pai biológico e mantém pai socioafetivo no registro de criança em SC; entenda",
-              "resumo": "Prédio do Tribunal de Justiça de Santa Catarina Mauricio Vieira/NCI TJSC/Divulgação A Justiça de Santa Catarina reconheceu a paternidade biológica de um homem e, ao mesmo tempo, manteve no registro civil a paternidade socioafetiva de outro homem, que assumiu a função de pai desde o nascimento da criança (entenda mais abaixo).",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/justica-reconhece-pai-biologico-e-mantem-pai-socioafetivo-no-registro-de-crianca-em-sc-entenda.ghtml",
+              "titulo": "Mega-Sena 3063: sortudo de cidade mais populosa de SC fica a um número de faturar R$ 45 milhões",
+              "resumo": "Concurso 3.063 da Mega-Sena - veja sorteio Uma aposta de Santa Catarina bateu na trave e acertou cinco dos seis números sorteados do concurso 3063 da Mega-Sena neste domingo (27), que valia R$ 45 milhões . O sortudo é de Joinville, no Norte catarinense, a cidade mais populosa do estado.",
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/mega-sena-3063-sortudo-cidade-mais-populosa-sc-fica-um-numero-faturar-r-45-milhoes.ghtml",
               "fonte": "G1 SC",
               "editoria": "Estado"
             }
@@ -54,37 +23,37 @@
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Bets chegam ao fim e dinheiro dos apostadores entra em novo cronograma com data para ser devolvido",
-              "resumo": "Medida provisória estabelece etapas para restituição de saldos, prêmios e apostas que ficarem em aberto após o encerramento das plataformas O post Bets chegam ao fim e dinheiro dos apostadores entra em novo cronograma com data para ser devolvido apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/economia/bets-chegam-ao-fim-e-dinheiro-dos-apostadores-entra-em-novo-cronograma-com-data-para-ser-devolvido/",
+              "titulo": "Homem de 81 anos trabalha até 14 horas por dia, recebe ajuda milionária e 1 decisão faz todo o dinheiro voltar aos doadores",
+              "resumo": "Idoso trabalhava para ajudar nas despesas médicas da esposa com câncer nos Estados Unidos; campanha milionária acabou removida pelo GoFundMe O post Homem de 81 anos trabalha até 14 horas por dia, recebe ajuda milionária e 1 decisão faz todo o dinheiro voltar aos doadores apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/homem-81-anos-ajuda-milionaria-dinheiro-volta-doadores/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Trabalhador recebe R$ 88 mil por engano na conta, saca todo o dinheiro e toma uma decisão 6 horas depois",
-              "resumo": "Erro envolvendo um cheque fez cerca de R$ 88 mil aparecerem inesperadamente na conta de um trabalhador no Paraguai O post Trabalhador recebe R$ 88 mil por engano na conta, saca todo o dinheiro e toma uma decisão 6 horas depois apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/comportamento/trabalhador-recebe-r-88-mil-por-engano-e-devolve-dinheiro/",
+              "titulo": "Quem é o empresário que gravou bloqueio no casamento do filho de Moraes e teve o celular derrubado em SP",
+              "resumo": "Gabriel Kanner tem trajetória no meio empresarial e político e passou a se dedicar à formação intelectual antes de ganhar destaque pelo episódio deste sábado (26) O post Quem é o empresário que gravou bloqueio no casamento do filho de Moraes e teve o celular derrubado em SP apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/quem-e-gabriel-kanner-empresario-casamento-filho-moraes/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Calor passa dos 40°C em 8 estados e onda de calor ganha força neste domingo; veja onde temperaturas serão mais extremas",
-              "resumo": "Onda de calor deve atingir partes do Centro-Oeste, Sudeste e Sul, enquanto cidades de oito estados podem superar os 40 °C nos próximos dias O post Calor passa dos 40°C em 8 estados e onda de calor ganha força neste domingo; veja onde temperaturas serão mais extremas apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/onda-de-calor-40-graus-estados-domingo/",
+              "titulo": "Funcionário usa 1º salário acima de R$ 5 mil para presentear colegas e, em troca, ganha carro novo do chefe",
+              "resumo": "Funcionário usou parte do primeiro pagamento acima de US$ 1 mil para comprar comida e lanches para a equipe; meses depois, foi surpreendido no trabalho nos EUA O post Funcionário usa 1º salário acima de R$ 5 mil para presentear colegas e, em troca, ganha carro novo do chefe apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/comportamento/funcionario-primeiro-salario-presenteia-colegas-ganha-carro/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Agro Saúde e Cooperação – Drones e Satélites no Campo: O futuro da Agricultura de Precisão",
-              "resumo": "A tecnologia impacta diretamente no agronegócio, transforma a vida dos produtores e melhora a qualidade da produção de […] O post Agro Saúde e Cooperação – Drones e Satélites no Campo: O futuro da Agricultura de Precisão apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/video/agro-saude-e-cooperacao-drones-e-satelites-no-campo-o-futuro-da-agricultura-de-precisao/",
+              "titulo": "Atleta de handebol morre aos 15 após ser atingida por estrutura de balanço em SC e comove comunidade esportiva: ‘Sorriso contagiante’",
+              "resumo": "Beatriz Peixoto morreu após ser atingida por uma estrutura de madeira enquanto brincava com amigas em Alfredo Wagner, na Serra catarinense O post Atleta de handebol morre aos 15 após ser atingida por estrutura de balanço em SC e comove comunidade esportiva: ‘Sorriso contagiante’ apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/atleta-de-handebol-morre-aos-15-apos-ser-atingida-por-estrutura-de-balanco-em-sc-e-comove-comunidade-esportiva-sorriso-contagiante/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "VÍDEO: Empresário grava bloqueio no casamento do filho de Moraes e tem celular derrubado",
-              "resumo": "Vídeo publicado nas redes sociais mostra o momento em que um homem derruba o celular de Gabriel Kanner enquanto ele registrava o bloqueio de uma via próxima à cerimônia O post VÍDEO: Empresário grava bloqueio no casamento do filho de Moraes e tem celular derrubado apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/seguranca/casamento-filho-alexandre-de-moraes-bloqueio-empresario-celular/",
+              "titulo": "Governo Lula tem plano de R$ 20 bilhões para socorrer clubes de futebol após fim das bets no Brasil; entenda se dinheiro pode ser usado para contratar jogadores",
+              "resumo": "Proposta de refinanciamento prevê até 20 anos para pagar dívidas tributárias e bancárias, sem perdão de débitos, para compensar perdas no futebol com o fim das apostas online O post Governo Lula tem plano de R$ 20 bilhões para socorrer clubes de futebol após fim das bets no Brasil; entenda se dinheiro pode ser usado para contratar jogadores apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/fim-das-bets-governo-lula-plano-20-bilhoes-clubes-futebol/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -99,37 +68,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Ciclista morre após colisão com carro na região da Forquilha, em São Luís",
-              "resumo": "Ciclista morre após colisão com carro na região da Forquilha, em São Luís Um ciclista morreu na tarde deste sábado (26) após ser atingido por um carro na MA-201, na região da Forquilha, em São Luís. O acidente aconteceu nas proximidades de uma igreja localizada após um empresa de ônibus, no trecho entre a Estrada de Ribamar e a Estrada da Maioba.",
-              "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/27/ciclista-morre-apos-colisao-com-carro-na-regiao-da-forquilha-em-sao-luis.ghtml",
+              "titulo": "Justiça Eleitoral retira perfil de Renan Filho em redes social, mas nova decisão determina retomada",
+              "resumo": "Renan Filho (MDB) Rebecca Moura/g1 A Justiça Eleitoral de Alagoas determinou a suspensão, por 24 horas, do perfil oficial do candidato ao governo de Alagoas, Renan Filho (MDB), no Instagram. Mas uma nova decisão, proferida neste sábado (26), suspendeu a ordem e determinou o restabelecimento imediato da conta.",
+              "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/27/justica-eleitoral-retira-perfil-de-renan-filho-em-redes-social-mas-nova-decisao-determina-retomada.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "A uma semana do 1º turno, candidatos ao governo do Paraná reforçam campanha em eventos públicos",
-              "resumo": "Palácio Iguaçu - Governo do Paraná Natalia Filippin/G1 A uma semana do primeiro turno das eleições de 2026, os candidatos ao governo do Paraná fazem gravações de campanhas, participam de eventos e carreatas neste domingo (27). Sandro Alex (PSD) participa de carreatas em cidades da Região Metropolitana de Curitiba, e Sérgio Moro (PL) vai a uma feira e a um festival na capital paranaense.",
-              "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/27/a-uma-semana-do-1o-turno-candidatos-ao-governo-do-parana-reforcam-campanha-em-eventos-publicos.ghtml",
+              "titulo": "Justiça determina que Prefeitura de Passos seja indenizada em R$ 136 mil por irregularidades em aluguel de trator",
+              "resumo": "Prefeitura de Passos Reprodução EPTV A Justiça condenou ex-agentes públicos, particulares e uma empresa a ressarcirem R$ 136 mil ao município de Passos (MG), por prejuízos decorrentes de irregularidades na execução de um contrato de aluguel de trator para a prestação de serviços no aterro municipal.",
+              "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/27/justica-determina-que-prefeitura-de-passos-seja-indenizada-em-r-136-mil-por-irregularidades-em-aluguel-de-trator.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Filho viaja quase mil quilômetros para realizar sonho da mãe de ver Xuxa pela primeira vez",
-              "resumo": "Filho realiza sonho da mãe de 62 anos e a leva para ver Xuxa pela primeira vez Foram cerca de 16 horas dentro de um ônibus para realizar um sonho que Suely Anderson Corrêa, de 62 anos, guarda desde a infância: ver a Xuxa de perto. Ela saiu de Campo Grande, em Mato Grosso do Sul, rumo a Curitiba, no Paraná, para assistir ao show da turnê \"O Último Voo da Nave\", que aconteceu neste sábado (26), na Arena da Baixada.",
-              "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/27/filho-viaja-quase-mil-quilometros-para-realizar-sonho-da-mae-de-ver-xuxa-pela-primeira-vez.ghtml",
+              "titulo": "PM cerca casa e prende suspeito com drogas em Paty do Alferes",
+              "resumo": "PM cerca casa e prende suspeito com drogas em Paty do Alferes Divulgação/Polícia Militar Um homem, de 38 anos, foi preso em flagrante por tráfico de drogas no sábado (26), no distrito de Avelar, em Paty do Alferes (RJ). A prisão aconteceu na Rua Deputado José Vaz, após um monitoramento do setor de inteligência da Polícia Militar.",
+              "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/27/pm-cerca-casa-e-prende-suspeito-com-drogas-em-paty-do-alferes.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mulher é presa suspeita de matar marido com golpe de faca em comunidade de Monte Alegre",
-              "resumo": "Vítima, identificada como Ubirailson Vieira Pinto, de 47 anos Reprodução/Rede Social Uma mulher foi presa suspeita de matar o marido com um golpe de faca na noite de sábado (26), na comunidade Jurunduba, na zona rural de Monte Alegre, no oeste do Pará. O crime ocorreu nas proximidades do campo de futebol da comunidade.",
-              "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/27/mulher-e-presa-suspeita-de-matar-marido-com-golpe-de-faca-em-comunidade-de-monte-alegre.ghtml",
+              "titulo": "Ônibus clandestino é apreendido após transportar passageiros sentados sobre caixas de cigarros ilegais no Paraná",
+              "resumo": "Passageiros estavam sentados sobre as caixas com cigarros Receita Federal Cerca de 500 caixas de cigarro foram apreendidas em um ônibus clandestino em Foz do Iguaçu, no Oeste do Paraná, na noite de sábado (26). Segundo a Receita Federal, os passageiros viajavam sentados sobre as caixas que escondiam os produtos ilegais, sem saber o que havia dentro delas. Os cigarros também estavam armazenados na parte do bagageiro.",
+              "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/27/onibus-clandestino-e-apreendido-apos-transportar-passageiros-sentados-sobre-caixas-de-cigarro-ilegais-no-parana.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "VÍDEO: Estação Agrícola, 27 de setembro de 2026",
-              "resumo": "Confira as principais matérias do programa.",
-              "link": "https://g1.globo.com/se/sergipe/edicao/2026/09/27/video-estacao-agricola-27-de-setembro-de-2026.ghtml",
+              "titulo": "Ônibus tomba e passageiros ficam feridos em rodovia na Bahia",
+              "resumo": "Ônibus tomba e passageiros ficam feridos em trecho de rodovia na Bahia Portal Bahia Extremo Sul Um acidente de ônibus deixou pelo menos 25 pessoas feridas, no sábado (26), em um trecho da BA-489, na cidade de Prado, no extremo sul da Bahia. Segundo informações de um dos passageiros, o motorista teria desviado de uma bicicleta que estava na pista e, em seguida, aconteceu uma colisão.",
+              "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/27/onibus-tomba-na-bahia.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -139,37 +108,37 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Risco de guerra pode salvar montadoras europeias?",
-              "resumo": "A Ford participa de uma proposta que disputa o fornecimento de veículos para o programa de mobilidade leve do Exército britânico BBC É verde, robusto e intimidador. O mais recente carro da Ford parece uma picape que passou por uma transformação digna do Incrível Hulk.",
-              "link": "https://g1.globo.com/carros/noticia/2026/09/27/risco-de-guerra-pode-salvar-montadoras-europeias.ghtml",
+              "titulo": "OpenAI para treinamento após agentes de IA agirem por conta própria",
+              "resumo": "CEO da OpenAI, Sam Altman, afirmou que o incidente envolveu o Hugging Face continua sendo o mais grave Alexi J. Rosenfeld/Getty Images/AFP A empresa OpenAI comunicou neste sábado (26/09) que suspendeu temporariamente o treinamento de seus mais recentes modelos de inteligência artificial (IA).",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/27/openai-para-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Região de Itapetininga promove contato com a natureza através do turismo rural",
-              "resumo": "Região de Itapetininga promove contato com a natureza através do turismo rural Reprodução / TV TEM Na região de Itapetininga (SP), propriedades rurais vêm se transformando em espaços de lazer e turismo. O que antes era rotina de trabalho para os produtores agora se tornou experiência para visitantes e fonte de renda para os proprietários.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/regiao-de-itapetininga-promove-contato-com-a-natureza-atraves-do-turismo-rural.ghtml",
+              "titulo": "Bitget: roubo de R$ 1,86 bilhão está entre os maiores golpes com criptomoedas; veja lista",
+              "resumo": "O que são as criptomoedas? A corretora de criptomoedas Bitget afirmou na sexta-feira (25) que cerca de US$ 350 milhões (R$ 1,86 bilhão) em criptomoedas foram roubados da plataforma. No ano passado, invasores roubaram US$ 2,9 bilhões em criptomoedas em quase 150 ataques, segundo pesquisadores da TRM Labs.",
+              "link": "https://g1.globo.com/economia/noticia/2026/09/27/bitget-roubo-entra-para-lista-dos-maiores-golpes-com-criptomoedas-veja-lista.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Os segredos do campo: projeto leva alunos de Promissão a vivenciar rotina no campo",
-              "resumo": "Projeto leva alunos de Promissão a vivenciar rotina no campo Reprodução / TV TEM Alunos da Escola Estadual Comendador Antônio Figueiredo Navas, em Promissão (SP), participam de um projeto que aproxima jovens da rotina no campo. Chamado “Os segredos do campo”, o programa promove visitas técnicas a três propriedades rurais da cidade, onde os estudantes aprendem sobre o cultivo de banana, morango e uva.",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/os-segredos-do-campo-projeto-leva-alunos-de-promissao-a-vivenciar-rotina-no-campo.ghtml",
+              "titulo": "Vaca dá à luz bezerros trigêmeos e surpreende produtor no ES: 'Achei era só um bezerro grande'",
+              "resumo": "Vaca dá à luz bezerros trigêmeos e surpreende produtor: 'Achei que ia vir só um bezerrão' Uma vaca de nove anos deu à luz três bezerros de uma só vez em uma propriedade rural de São Mateus, no Norte do Espírito Santo. O nascimento de Pinta, Nina e Cristóvão aconteceu no dia 8 de setembro e surpreendeu o produtor rural José Carlos Junca Júnior.",
+              "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/vaca-da-a-luz-bezerros-trigemeos-e-surpreende-produtor-no-es-achei-era-so-um-bezerro-grande.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Uva núbia ganha espaço em Jales com alta produtividade e resistência ao clima",
-              "resumo": "Uva núbia ganha espaço em Jales com alta produtividade e resistência ao clima Reprodução / TV TEM A uva núbia, desenvolvida pela Empresa Brasileira de Pesquisa Agropecuária (Embrapa) Uva e Vinho, vem ganhando espaço na região de Jales (SP).",
-              "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/uva-nubia-ganha-espaco-em-jales-com-alta-produtividade-e-resistencia-ao-clima.ghtml",
+              "titulo": "Criminoso admite usar conta bancária de terceiro para vender material de abuso sexual infantil: 'É de uma menina'",
+              "resumo": "⚠️ Aviso: esta reportagem contém conteúdo sensível sobre abuso sexual infantil. Ao final dela, veja como denunciar casos desse tipo. Criminosos usam TikTok para promover de conteúdo de abuso sexual infantil no Telegram Uma investigação do g1 revelou como agem criminosos que comercializam material de abuso sexual infantil na internet. A reportagem mostrou que eles usam o TikTok como vitrine para promover a venda do conteúdo ilegal.",
+              "link": "https://g1.globo.com/tecnologia/noticia/2026/09/27/criminoso-admite-usar-conta-bancaria-de-terceiro-para-vender-material-de-abuso-sexual-infantil-e-de-uma-menina.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             },
             {
-              "titulo": "ICE amedronta trabalhadores e faz cair processamento de carne nos EUA; país tenta baixar preços",
-              "resumo": "Trump determina permite importação carne moída sem taxa adicional para tentar baixar preços nos EUA As operações de repressão à imigração nos Estados Unidos começaram a afetar o funcionamento de frigoríficos no Kansas, um dos principais polos de produção de carne bovina norte-americana.",
-              "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/27/ice-amedronta-trabalhadores-e-faz-cair-processamento-de-carne-nos-eua-pais-tenta-baixar-precos.ghtml",
+              "titulo": "Caso Farm: empresa pode usar projeto feito por candidato em processo seletivo? Veja o que dizem especialistas",
+              "resumo": "Caso Farm: empresa pode usar projeto feito por candidato em processo seletivo? Na semana passada, a designer de moda Maria Clara Franklim publicou no Instagram um vídeo que já ultrapassa 2 milhões de visualizações. Ela afirma ter identificado \"semelhanças\" entre uma coleção recente da Farm e um projeto desenvolvido durante um processo seletivo da empresa.",
+              "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/27/caso-farm-veja-o-que-dizem-especialistas.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -179,37 +148,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Ricky Martin posa na arquibancada do Maracanã antes de show",
-              "resumo": "O cantor porto-riquenho se apresenta no estádio carioca neste domingo (27), durante o intervalo da NFL, ao lado do DJ brasileiro Pedro Sampaio",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/ricky-martin-posa-na-arquibancada-do-maracana-antes-de-show/",
+              "titulo": "Elevação do nível do mar destrói casas e apaga praias na Califórnia",
+              "resumo": "Danos foram provocados por uma série de ciclones e furacões do Pacífico Oriental, intensificados pelo fenômeno climático conhecido como El Niño",
+              "link": "https://www.cnnbrasil.com.br/internacional/elevacao-do-nivel-do-mar-destroi-casas-e-apaga-praias-na-california/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Forças do Afeganistão matam 28 combatentes vindos do Paquistão",
-              "resumo": "Ministério da Defesa afegão informou que grupo incluía militantes do Estado Islâmico e que outros 32 combatentes ficaram feridos nos disparos",
-              "link": "https://www.cnnbrasil.com.br/internacional/forcas-do-afeganistao-matam-combatentes-vindos-do-paquistao/",
+              "titulo": "Vídeo: Homem é baleado na frente de crianças durante assalto em São Paulo",
+              "resumo": "Vítima de 39 anos foi atingida por disparos no Itaim Bibi após criminoso exigir aliança; ele foi encaminhado ao Hospital das Clínicas com ferimentos na cabeça e no braço",
+              "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-baleado-na-frente-de-criancas-durante-assalto-em-sao-paulo/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Nunes Marques suspende jingle de Lula que liga Flávio a Vorcaro",
-              "resumo": "Decisão do presidente do TSE é liminar e deve ser julgada pelo plenário da Corte; peça também fazia menção a esquema de rachadinha e compra de imóveis",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro/",
+              "titulo": "Inundações e deslizamentos de terra matam 56 pessoas na Índia e 14 no Nepal",
+              "resumo": "Mau tempo fez níveis dos rios subirem enquanto falta de energia e problemas nas telecomunicações afetam diversas regiões dos países",
+              "link": "https://www.cnnbrasil.com.br/internacional/inundacoes-e-deslizamentos-de-terra-matam-pessoas-na-india-e-no-nepal/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Unilever Alimentos mantém aposta no Brasil e amplia investimentos",
-              "resumo": "Operação está entre as três maiores da companhia no mundo e aposta em expansão, tecnologia e novas oportunidades de consumo",
-              "link": "https://www.cnnbrasil.com.br/economia/money/negocios/unilever-alimentos-mantem-aposta-no-brasil-e-amplia-investimentos/",
+              "titulo": "Ator de “Quem Ama Cuida” passeia com namorado em shopping do RJ",
+              "resumo": "Na trama de Walcyr Carrasco e Claudia Souto, Guilherme Piva interpreta Edvaldo, funcionário da vilã Pilar Brandão (Isabel Teixeira)",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/ator-de-quem-ama-cuida-passeia-com-namorado-em-shopping-do-rj/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Eclipse Cross GLS: nova versão mais barata chega sem multimídia",
-              "resumo": "Apesar dos cortes na lista de equipamentos, a nova versão mantém itens importantes de segurança, conforto e segue com a mesma motorização",
-              "link": "https://www.cnnbrasil.com.br/auto/eclipse-cross-gls-nova-versao-mais-barata-chega-sem-multimidia/",
+              "titulo": "Por que o cocô dos pinguins é rosa? Coloração pode ser vista do espaço e serve para para monitorar a saúde do ecossistema",
+              "resumo": "Entenda como o consumo de krill altera a cor dos resíduos dos pinguins-de-adélia e auxilia cientistas no acompanhamento ambiental; monitoramento contínuo faz parte do programa da Comissão para a Conservação dos Recursos Vivos Marinhos da Antártica (CCAMLR)",
+              "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-coco-dos-pinguins-e-rosa-coloracao-pode-ser-vista-do-espaco-e-serve-para-para-monitorar-a-saude-do-ecossistema/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -219,37 +188,9 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Geledés lança guia para acesso às políticas de cuidados",
-              "resumo": "Quais os direitos de populações que exercem o trabalho de cuidado no Brasil? Quais políticas de Estado podem contribuir para que essas pessoas tenham uma vida mais digna? As respostas estão no Guia de Acesso a Políticas de Cuidado lançado nesta sexta-feira (25) pelo Geledés - Instituto da Mulher Negra. De maneira simples e didática, o manual apresenta quais os passos para conseguir acesso a políticas públicas.",
-              "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/geledes-lanca-guia-para-acesso-politicas-de-cuidados",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Setembro Verde: idosos também podem ser doadores vivos de órgãos",
-              "resumo": "Em 2023, Arivaldo Sampaio, à época com 69 anos, viu o filho perder a função do único rim que tinha após passar por hemodiálise quase diária. Com o transplante como única opção, toda a família se colocou à disposição como um possível doador – inclusive Arivaldo. O resultado: compatibilidade total entre pai e filho.",
-              "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/setembro-verde-idosos-tambem-podem-ser-doadores-vivos-de-orgaos",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Conheça os candidatos que disputam o governo estadual em São Paulo",
-              "resumo": "Seis candidatos concorrem ao governo de São Paulo nas eleições deste ano. Com o maior eleitorado do país, os paulistas somam 34.104.226 eleitores aptos a votar. Desse total, 53% são mulheres e 47% homens. Entre os 15,77% de eleitores que declaram cor/raça, 36,32% são pardos, 52,46% são brancos e 9,97% são pretos.Outros 1,12% são amarelos e 0,14% são indígenas.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-candidatos-que-disputam-o-governo-estadual-em-sao-paulo",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Conheça os nove candidatos a governador do Rio de Janeiro",
-              "resumo": "Nove candidatos concorrem ao governo do Rio de Janeiro nas eleições deste ano. No estado, 12,857 milhões de eleitores estão aptos a votar, universo que perde apenas para Minas Gerais e São Paulo. Desse total, 54% são mulheres e 46% homens. Entre os eleitores que declararam cor/raça, 41,54% são pardos, 39,76% são brancos e 18,19%, pretos. Amarelos e indígenas somam cerca de 0,5%.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-nove-candidatos-governador-do-rio-de-janeiro",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Minas Gerais tem 11 candidatos a governador; veja quais são",
-              "resumo": "Onze candidatos concorrem ao governo de Minas Gerais nas eleições deste ano. Segundo maior colégio eleitoral e estado de maiores dimensões da região sudeste, abriga um total de 16.377.659 eleitores aptos a votar. Desse total, 52% são mulheres e 47% homens. Entre os 22,08% eleitores que declaram cor/raça, 49,64%% são pardos, 36,13% são brancos e 13,49% são pretos.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/minas-gerais-tem-11-candidatos-governador-veja-quais-sao",
+              "titulo": "Saiba quem são os cinco candidatos a governador no Espírito Santo",
+              "resumo": "Cinco candidatos concorrem ao governo do Espírito Santo nas eleições deste ano. Um total de 2.990.490 eleitores estão aptos a votar. Desse total, 53% são mulheres e 47% homens. 24,45% dos eleitores declaram cor/raça, e entre eles 51,88% são pardos, 34,41% são brancos e 13,13% são pretos. Notícias relacionadas:Saiba quais são as atribuições dos governadores e vice-governadores.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/saiba-quem-sao-os-cinco-candidatos-governador-no-espirito-santo",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -264,9 +205,9 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Senador Luiz Henrique da Silveira morre em Joinville - Agência Brasil",
-              "resumo": "Senador Luiz Henrique da Silveira morre em Joinville Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWJQeVRjTlJMOTZQQURFTl9ycXp4ay1ZZFRYa0VodFY3eTV5R0NIcEEzYmVqYkJKR19vMDlYdTFUOFNSaWpCbXFxY1FwUnZRRm45MDQwcEVpRTh0X3BLQjBaYzduNXdhQ3BVbU42NGk4Ump4bkpHYjdEVU0xWnkyM1U1SG1NUl9ZazRRZklGVjZOUjMzRnQyY0pSNFlzdG1JNk12VjYySDRveC1aZ2ZR?oc=5",
+              "titulo": "Carol de Toni deixa o PL após partido escolher Carlos Bolsonaro como candidato ao Senado em SC - CartaCapital",
+              "resumo": "Carol de Toni deixa o PL após partido escolher Carlos Bolsonaro como candidato ao Senado em SC CartaCapital",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGdxRWVmbEFNbnIzNUVIOGJPTDJ3dFJzLUgwWmQ4dmFyazg3Ql9WbjkwUmFrenl5M2I1Q3d3bWU5LXJVbTliX2U2aklqM29xUnRnSlMxTmJ0cHNXQ04xSWFNamswUWJJRnlfUW42clBkZnVqdFFkSVJJanVWVHhNS3Z4cXJJMldMUkNxMzhnU3dzZC1lY29CZmpNQmx2bmF6R0RlYm9LUWZKWHdHY2RKQXVxcmZoVGZRNzhOdXN2TXR6U2NpUmZMbVhtcUtWOGlGelE?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -276,37 +217,16 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Oposição protesta contra prisão de Bolsonaro, anuncia obstrução no Congresso e defende anistia e fim do foro privilegiado - G1",
-              "resumo": "Oposição protesta contra prisão de Bolsonaro, anuncia obstrução no Congresso e defende anistia e fim do foro privilegiado G1",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM2h4YlBzV3BUS19lN2g4bVlxSjZYOTl4YTZ4SGlTYzBwYndlVnZEN05KMmVHaUlZcGE2c0ZvQVMzSDVEdGh2N2JULWZVNzZKeXA3UkpfUTRqTl9mMENla2JjbGljUmZnZzNpUEFLSEp4Zk5rNXNSSXRMTEMtU0p3cFdtWG9vRi1qNHkxRmE0LVZIS0F2OEtlcjQ2ZVo0YThWNjJHSGF3UzJ5UUEya0NGRWoyVEdPTmJCZHRMc1NkaVUwTVdFekM3OGc2aGw3aW92SXkzSjRTQURxem91czdVNVpEbmdxWURNUmQyYW9VTGZGT0ZvWXBFYl9CWkxiVTZEMkdWaS1B0gGUAkFVX3lxTE85enJNVUo2Ym5kVTdfd2hTYjdiY3N3ek9TdTQxY2FMcDg0Uk1OSWhYRkdrbkJVVnViZ21yY3RReEp5YlNhZHFlRnRKSnVLbzZQVnpwVUUzcDZDR1Y5TnJTVHZHUGNmNEZxQ3lQSjg5TEZmdzZZMi1ZY0tRVjk3OXlfMmtFNDVtU3h3eWgwTmV1c0s5RnE3ckhyVlNlY1JSdVN3MlhDR2EtbzEwc01sT2MyYW5EU09EbHcxakxXTk52N1VRNFZ4LXMyN0l0dkV2S3ZfSVBOanZ1S0FGQ1Z6TEllWTdpUDJPVXA0LUEwOG1fMW51VlB2WTJNYms3dFRmbXlmZlpxUVVvQWNmaHktTnRtWmNWYw?oc=5",
+              "titulo": "Oposição pernoita nos plenários do Congresso para impedir trabalhos - Agência Brasil",
+              "resumo": "Oposição pernoita nos plenários do Congresso para impedir trabalhos Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlpTMHJQUXRJb1ZFenlSbkpFeG9oZkVaalRPemNZemxhQi1EMmROdzBHUHpRVnUySWxkY1otMGRzUWJnYnlicTdlcVVkVXl2Ykxqb3BNb1Izc0lIVU5TcENsdUZ3YWRBVy1RNWZWX3J2LU8wa05vQnZMLW1MMTllUkhPNkFBZmgwczRUOXA5aVNyTGprMW1POFVRR250TU1nNHFpeG9sSF93eGVjWWNmeEFkNzNpZkU4MHdJcG9JTV9GZ3M?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             },
             {
-              "titulo": "Presidente do Senado exalta democracia e defende urna eletrônica - Agência Brasil",
-              "resumo": "Presidente do Senado exalta democracia e defende urna eletrônica Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFF4STcwTE9McTJ0Yi1xNkN2S0hicTQwVnRHdTh0OHBjYnpqOERzcUo2YmZ2Tlg2SVhlOWJRbVdPRmRiWHlXNWpScFR5Qk4tMmdGaG42LUg4ajhzRkhnMktaVXRCTE9tcGRONElITnN1STNpODF1RFRjb1JIZ0Jvejl4N3hXbFhlUnZYYjc5dUgwOVRaZlEzaE4tRjdtYUJXdS1pSGVDUFJ5OHNValR0VWk4Y0lPR05fbk5DaTk1NA?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Alcolumbre destrava PEC da Segurança e fim da escala 6x1 após reuniões com Lula - G1",
-              "resumo": "Alcolumbre destrava PEC da Segurança e fim da escala 6x1 após reuniões com Lula G1",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLUxPOWZEckpIXy1qU0FIVTVINWd6WXN3UjdLOUdDV19ULVBPYWQzMGN5U2k5VVNFRVZidUJRWVVxWm1wNDdsU3Q3ZWFMX2JjOF95ZHc5Sll6ZHR6Rnk3THFETEhBX1RwTVRWVUZ5Q3dUd3J5SVV3RFZPTElObUo5YjJUU1lSU2RtZnJxZWNtMkJvTWFwblh6TUVUcGxKUFFkcTRFNDlDNTd1akphZVRqRFVFUHNXOWlqUlZBS3dGakxhSTk2Snl5NExfVU0xM3pjRm5RcFpEdWPSAecBQVVfeXFMTnZSX1dXbnp0MkFaa25ZZTNERDFTNUt0Q1VJYUFIZkpETGg0NmJOM2lscEJpcU9lT2RfMVE3SEp4OGhxMUlQemh2aDU1eXhfZzNJX0dJRndKOGcyTnB0c0dBenhoYWI0dGw5Y3JwTzd2LXZLRVVocVN6dFVlM25mRUEwNWtERUNnRkZpc1hDbkNDcmNhRWhBODdicE52VXhRSWw2VzRPUVlHQ2xsbXZuMmxRNF9iUXBzVno1YlRDMjExUzVna2JSV1NfSk5BWXE0OUZjNzh5TEp3SFlwa1ZDVzFtYlhGdWVJ?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Ministro do STF afasta Renan Calheiros do cargo de presidente do Senado - Agência Brasil",
-              "resumo": "Ministro do STF afasta Renan Calheiros do cargo de presidente do Senado Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODNaTkdxcEFKTHI3QndpajRjaGZfeVIyRjhKakl5UWs1dEpMT1FSbGtkMDB4Vk9MdVNrb3NqZTNfbTNJYl9CazhuVWk5eFZ4eVZQOGxkd2xTUUp4R2dCN0lUT0FMMHhQR0t0NnB2NU5aNFBLY2lrSWxUODZ6d01Sc3R0Y3dVU0d0ZE9FOUtNX1NoUDJMWG5EUXN6UjJfcHowVzRGbVoteW5lQ3QwLWpVWkJsa2U3RUllTllSTm41NFhwR3ZheWFQdQ?oc=5",
-              "fonte": "Política Brasil — Congresso e Presidente",
-              "editoria": "Politica"
-            },
-            {
-              "titulo": "Lava Jato, crise política, impeachment e disputa entre Poderes marcaram 2016 - Agência Brasil",
-              "resumo": "Lava Jato, crise política, impeachment e disputa entre Poderes marcaram 2016 Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWpDWVNFZGlMSTdsWUxuVUxJM2JaQk51MHUzbDZYTGdCUjJidDRjRjdNSXVnUzI1a2twaTdLaVRyYk1DT0lEcFlhaWlfLTNzd1NuZG5BZXVwb1BSeHJRQWpRbVZsTzNiMXRLYlhlWE5XX3MtVWZmdkFpY1d2UDFfeVM3VEJ3SENOVVJ6ZWN3?oc=5",
+              "titulo": "Congresso brasileiro aprova lei para reduzir pena de Bolsonaro - Euronews.com",
+              "resumo": "Congresso brasileiro aprova lei para reduzir pena de Bolsonaro Euronews.com",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUJ1aEM5QlBBWG52UlFHaEdEd0Y3QjVDaHYtMW1XcTFjQXpFbjQ2YXo2ZEItSkRNT0t3cFRicmkxQ0EzSFNKMTdVQXRTdlNiWTE1VnFOVEw0LXJoSkx0Q3RFMGQyQ3E2c0ZOOWtlVUtEMFhRc1Nvckc5OWhOa2NmdHNBdGl1dVhtajRIUHJia21ONTdKTXg1TkVhejZxXzBaV1lLZHRwTnVhck83VGJPMXlyTXFFZnduNWg3N2dmNXQxQzA?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -321,37 +241,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Noroeste x São José-SP - Copa Paulista 2026 - Ao vivo - globoesporte.com",
-              "resumo": "Copa Paulista 2026 no globoesporte.com - acompanhe tudo sobre Noroeste x São José-SP: escalação, informações sobre o jogo, fotos e muito mais",
+              "titulo": "Athletic vence Cruzeiro e larga na frente nas semifinais do Mineiro sub-20",
+              "resumo": "Athletic Club 1 x 1 Botafogo-SP | Melhores momentos | 29ª rodada | Brasileirão Série B O Athletic deu um passo importante rumo à final do Campeonato Mineiro sub-20. A equipe venceu o Cruzeiro na manhã deste domingo e largou na frente nas semifinais do Estadual. A equipe bateu a Raposa por 2 a 1 no CT do Athletic, em São João del Rei e está a um empate da decisão. O Esquadrão de Aço abriu o placar aos 38 minutos o primeiro tempo.",
+              "link": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/noticia/2026/09/27/athletic-vence-cruzeiro-e-larga-na-frente-nas-semifinais-do-mineiro-sub-20.ghtml",
+              "fonte": "GE",
+              "editoria": "Esporte"
+            },
+            {
+              "titulo": "Noroeste e São José-SP empatam o jogo de ida da semifinal da Copa Paulista",
+              "resumo": "Decisão do finalista fica para o duelo de volta, no sábado que vem, em São José dos Campos",
               "link": "https://ge.globo.com/sp/tem-esporte/futebol/copa-paulista/jogo/27-09-2026/noroeste-sao-jose.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Gabriel Dias, ex-Vasco, volta a marcar depois de cinco anos: \"Tinha pensado em parar\"",
-              "resumo": "Gol especial para Gabriel Dias, ex-Vasco, na Série C Gabriel Dias viveu uma noite especial no último sábado. O volante, com passagens por Vasco e Internacional, foi escalado de última hora como titular da Inter de Limeira contra o Paysandu, pela quarta rodada do quadrangular decisivo da Série C, e fez um dos gols da vitória alvinegra por 2 a 0, no Major Levy Sobrinho, quebrando um jejum de cinco anos sem marcar.",
-              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/inter-de-limeira/noticia/2026/09/27/gabriel-dias-ex-vasco-volta-a-marcar-depois-de-cinco-anos-e-se-emociona-tinha-pensado-em-parar.ghtml",
+              "titulo": "Jorge Jesus avisa antes de enfrentar algoz do Brasil: \"Não vou ter medo nenhum da Noruega. Zero\"",
+              "resumo": "A Noruega vive um de seus melhores momentos na história e vem empolgada no início da Liga das Nações. Depois de eliminar a seleção brasileira nas oitavas de final da última Copa do Mundo, a equipe nórdica estreou com vitória na Nations, batendo a Dinamarca por 3 a 2, e agora se prepara para um grande desafio: enfrentar a seleção portuguesa, agora comandada por Jorge Jesus - que indicou não temer os noruegueses.",
+              "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/jorge-jesus-avisa-antes-de-enfrentar-algoz-do-brasil-nao-vou-ter-medo-nenhum-da-noruega-zero.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "▶️ Picos bate o Flamengo e segue invicto na Série B; veja entrevistas de técnico e atletas",
-              "resumo": "",
-              "link": "https://ge.globo.com/pi/futebol/times/picos/playlist/-picos-bate-o-flamengo-e-segue-invicto-na-serie-b-veja-entrevistas-de-tecnico-e-atletas.ghtml",
+              "titulo": "Treinador galáctico: North contrata Míchel Salgado, ex-Real Madrid",
+              "resumo": "Míchel Salgado: \"Zico foi o meu primeiro ídolo\" O North, de Montes Claros-MG, tem uma contratação de impacto internacional para a temporada 2027. O clube acertou a chegada do espanhol Míchel Salgado, ex-lateral do Real Madrid e da seleção espanhola, para comandar a equipe no Campeonato Mineiro, na Copa do Brasil e na Série D do Campeonato Brasileiro — o ano mais importante da ainda jovem história da associação.",
+              "link": "https://ge.globo.com/mg/grande-minas-vales/noticia/2026/09/27/treinador-galactico-north-contrata-michel-salgado-ex-real-madrid.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "▶️ Flamengo-PI perde para o Picos na última rodada da 1ª fase; veja entrevista de Flávio Araújo",
-              "resumo": "",
-              "link": "https://ge.globo.com/pi/futebol/times/flamengo-pi/playlist/-flamengo-pi-perde-para-o-picos-na-ultima-rodada-da-1-fase-veja-entrevista-de-flavio-araujo.ghtml",
-              "fonte": "GE",
-              "editoria": "Esporte"
-            },
-            {
-              "titulo": "Após título da Taça Brasil, São José estreia na Copa Norte de Futsal",
-              "resumo": "São José estreia neste domingo (27) na Copa Norte de Futsal Francisco Reis Menos de uma semana após conquistar o título inédito da Taça Brasil de Futsal, o São José já volta à quadra em outra competição nacional. O time amapaense estreia na 18ª Copa Norte neste domingo (27), contra o Buriti-RR, às 16h, no Ginásio Cláudio Coutinho, em Porto Velho, Rondônia.",
-              "link": "https://ge.globo.com/ap/noticia/2026/09/27/apos-titulo-da-taca-brasil-sao-jose-estreia-na-copa-norte-de-futsal.ghtml",
+              "titulo": "Mr. Olympia distribui mais de R$ 10 milhões em premiação; veja valores de cada categoria",
+              "resumo": "Nick Walker supera Samson Dauda e é campeão do Mr. Olympia 2026 Principal competição do fisiculturismo mundial, a 62ª edição do Mr. Olympia chegou ao fim na madrugada deste domingo (27), em Las Vegas, nos Estados Unidos. Ao longo de dois dias de disputas, o campeonato coroou 12 campeões e distribuiu cerca de 1,9 milhão de dólares em premiação (aproximadamente R$ 10,2 milhões). Mr.",
+              "link": "https://ge.globo.com/fisiculturismo/noticia/2026/09/27/mr-olympia-2026-distribui-mais-de-r-10-milhoes-em-premiacao-veja-valores-de-cada-categoria.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -366,29 +286,10 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "WhinderssonNunes #MayaMassafera #Humor #Famosos #Celebridades #Brasil #Noticias #Entrevista #Youtube - Voz da Bahia",
-              "resumo": "WhinderssonNunes #MayaMassafera #Humor #Famosos #Celebridades #Brasil #Noticias #Entrevista #Youtube Voz da Bahia",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWJialN0ZFlqVjBWbnozSFAyMFJOd3dvaGVTb3dSUmpsUXZJSEZXUUpXcFJXS1RxeUdVaHdlaDVZUThWUGIxWFlpcFRZV0xwMVF3SWZjbE9WcUdkSndGZjdtOUVzSE9pbk1rMldmNURURndkd0R6Wmt1dzhIcWkySXlTczJaRTVJM1kxMnY4OVdqQ2ZEWVRJbkwzX2hKc3h5TUY3MFdoVXltNmlQN2l0aEh0QkhtRTlCQ2pHc1VxWl8?oc=5",
+              "titulo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela - Famosos e Celebridades",
+              "resumo": "Lembrou dela em ‘Avenida Brasil’? Aos 51 anos, Letícia pode voltar à novela Famosos e Celebridades",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEVrTWdTXzdUQXBCaWhsMldNNDN0MGI2RElQdnJwWlZaV3RxVzEyVjhDaFVRdWE5Ym0zaDR2OUVfaWhWMkh4VE1vbG82cUNBRmF1VFlvSS01OXNSMUZjSkhUaG1KRTNHRnNpWnMtb0pGaWMxVW1UVzJQZkVWWG42emJMUUlWVzJLV1lOSEpYd3JyWWIwUEt5YlN6M3NJNC12djZ3Tm9XRW9KM3FONF9tdTFzdEJ4LXJVd2hRS3hNNUZpNmdCUDlyRUNpajg?oc=5",
               "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Ex-BBBs e celebridades: quem são os famosos que estão no Privacy - Famosos e Celebridades",
-              "resumo": "Ex-BBBs e celebridades: quem são os famosos que estão no Privacy Famosos e Celebridades",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGlOY2F4XzJ5QXpOX3UyUTltSU9GeUpUMTUxcV9taFFMdUMtSVN5TGxmNGF2Qk45Z090Z3RrNURHR2I3ZVNMd0xiZFpHRUp0dV94ZjF3N0ljeEs2dURQZkFuRjFlV1JoeWdZRXU1cnlZRzJyYVJFU0xmSVAtSmpTU2Q1OGJ3bm03eWRLbFhjR3ltemVqRjdhWnZ2b01aNi1VVDVZbnk1SUprU0Z0bnNNY29rVFk?oc=5",
-              "fonte": "Famosos e Celebridades",
-              "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "TV e Novelas",
-          "noticias": [
-            {
-              "titulo": "TV Globo: programação semanal de 11 a 13 de julho - Portal iG",
-              "resumo": "TV Globo: programação semanal de 11 a 13 de julho Portal iG",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrRnBCQXI1aW80MmRINkZGaWZtUXNOdGpEUDhvR2dlLWJuT2FGZkV2U29UdnpBTjZxOC1UbjhNQnFvWHZqcEMxSll0cVlRRlpOcjh6MzczeGktOUprRDctOXdOTlgtUVJ0azBXUkh1MEFKNTk2ZzRqdl94RG4?oc=5",
-              "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             }
           ]
@@ -397,54 +298,18 @@
           "nome": "Cinema e Filmes",
           "noticias": [
             {
-              "titulo": "Data de estreia de A Bola Preta no Brasil é anunciada nos cinemas nacionais - arrobanerd.com.br",
-              "resumo": "Data de estreia de A Bola Preta no Brasil é anunciada nos cinemas nacionais arrobanerd.com.br",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzVtTWo4VUpvTFhXT3RVeGtoU29idlN5eElyRlhyd3pNaVpQOWhNR0ZNV0liT3c0VXlYWTg1Z0Z2QnlpNEt0MmlEZUdITmpLempJekRzeWo1dkxjeXc3bkxCTW5NblRpanFFdHVxRDhkWVhUQXlsUldfeUVoS3lhaXpJLWVtNGlEV1Q0cXY0NHNEcUhaNk53OWZDR09CVHM2QTktMNIBqgFBVV95cUxPaFhTM2VQUzNDcmVaakJPRzVaWVpZaUZ5OTJadlZmdnc0ekRleTlPbkJiZzBpcFZZM3U0N1dRQjZnU2hhUWZMdVd1eEY4UG9iZEVhSkZ2bFBwbUYyS1k3Vjg5SG81MlZhVHhUeTFBdmZrTm9QMFl4NmpNSVpFcnFJUkU4WnFWSEVzMUs5N1JHNUhsVmwzSzZ5b0Q2R0lHbi1rckgtQy1TT1diQQ?oc=5",
+              "titulo": "Vingadores: Doutor Destino | Saiba quando começa a pré-venda no Brasil - Omelete",
+              "resumo": "Vingadores: Doutor Destino | Saiba quando começa a pré-venda no Brasil Omelete",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJHUWlkTlUydTBuUmxWa195ajlQQVNhUjdzQ3U5MVVVelFZQ04yRFplQV9INHl6amhZR2o1N1duN0JtN1UyUHczLTV1NGtmS2g0OHcwd3g3anFvT1U2cEtNWXFBNGhVSkRGZ3BfdTcydjdkY2hMM25hSFBKcEk1LWJ1MEdZOFhvWXdFWUtCOA?oc=5",
               "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Homem-Aranha, Verity e mais: veja os próximos grandes lançamentos do cinema em 2026 - Times Brasil | CNBC",
-              "resumo": "Homem-Aranha, Verity e mais: veja os próximos grandes lançamentos do cinema em 2026 Times Brasil | CNBC",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzFXbFUtQWdDQXRtUFJURzV1dUdFY0RObDlUQUN1VHFfVjgycTJvVXgxdmU0akVxNy1oUFMwZF9iU0hBQ2w2VmlOdmxGOVFWTTkza045T3FzWl84bmU5YzBTaDlDbDZlMDJkbE8zczZjWk5ramllN29HZEhiODN2NnN5aHFkN2hDUlVoeWg0MWJIelJ2T0ltWUJWN1JrRWlsRjJCd1dTVGM?oc=5",
+              "titulo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil - Exame",
+              "resumo": "'Homem-Aranha' estreia com US$ 23,8 milhões e lidera bilheteria no Brasil Exame",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWc2VGxzTXlZMWdhZEdzY3BnaW91WEx0NmtnTm5TNS1LSkFBWVA1WHFFc3ltdEVSei0zQlQ5aEE5MmViV2xyejZ3WEpGSHFFeEJNV3JGV3JtY1BNVm8xRHF0NS1sTmh5eGhoR25nR18yQ1N0UkUxeVFBdG9GMmdYQ3ZPa1pyM3VnMkNJNzJNWGd5V1dmNmZv?oc=5",
               "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
-            }
-          ]
-        },
-        {
-          "nome": "Música",
-          "noticias": [
-            {
-              "titulo": "Show de Harry Styles com músicas novas estreia na Netflix neste domingo - Exame",
-              "resumo": "Show de Harry Styles com músicas novas estreia na Netflix neste domingo Exame",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXJBNkRlOGVUb2swV045NkpTRnBhMnhZVENxM0RNWnoxYURDcTF5TllkbE1ReURYZVdscDNlUDhhMlZmUlVQLWV4QjBYTy1fQUpuZmxNX2xuSGp3UVlxR0FqQWx2S1MtQkNTYlhQQUlOWEJraEh0cDhXekVicHotZ1lYRzIzbjZ0ZGRVaEEwYUpKUUdDRkhxQXhn?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "Alunos do Aprendiz Musical se preparam para estreia de espetáculo com 80 artistas em Niterói - G1",
-              "resumo": "Alunos do Aprendiz Musical se preparam para estreia de espetáculo com 80 artistas em Niterói G1",
-              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQm0yZTZkTHJveFF1V1RQV1pfTVhEbHd1OENIMktWYk5ZQ2JzZ0FFX0RRenZyR1dOQU9KS0c5clB1aG1Wc2NTeUIwWmNGN2tYX3NzNXpIWVlZTUdmVDlTTkN0RlVFRnRKSnM0RkRNaWlIcFpMbHVxeF9UemhQOFZMc0otRkdQWjlqUU9ENVZDaUVlMUVWT2Z5Z0NXNHNCVkFLcnltZ3RlZzByUm9oVk5WMG1Pb1ZfMUJzM1hmWE5iZl9HVGpPdmFTMEx1eWo3WHN3U0FPRWMwR2JvWFB5WVl5bzBCcHB5d0gtQzYtWFJfNkU2UdIBgAJBVV95cUxNVzgxdG0tV2JRYmJpeTEwNVc5TjJ6R09rV29YZDBIeHNKNE15c04yTEJicnJBZTNuWUU2MUpqeGE4cldhZ1VGRS1xdDNOZHVBZFhnUXFKcUx4VTNJUi1NNVliUVRmaXhBam85ckJDa2JNNEt0NlBGWDZlRUkxVTNxc0dGMy1LN1l3V1ZieTNBWXBfTGt1YmtiVTBXTXVZRnZhRGFqUUVsbEdibW1zcGtfcExRdDRRelZHZWRzSFg5elFqQlBlS2NDcTNXaHdFMjZoSVBPRk5NZFhVUm13VmVfbFpOQ0ZTRjNGYXEzdFc1bjZ0V3BoS3BMWUxkd2JZaUdY?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Curiosidades",
-      "fontes": [
-        {
-          "nome": "Saúde e Bem-estar",
-          "noticias": [
-            {
-              "titulo": "Comer bem e envelhecer com saúde: o papel das oleaginosas e dos peixes na longevidade - G1",
-              "resumo": "Comer bem e envelhecer com saúde: o papel das oleaginosas e dos peixes na longevidade G1",
-              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa3d1cHh0NHpvSjZOaXBRUHNPdW9Ma0ktWnVSeV9FOTlUQVRVLTZPaXNlek1zUjlKZjdpTEtZQjBITXN1LWExUzBPZ0pqTk1HLUEwYTJENGhvMHRuOHZ2b0VjdVNIN3dKMm1DRkFheWpNNlZvZTB0Sm0wUGpaLWxJcG9MNUxRUlR0QkItdVF5Q1ZNXzdOejJIUVpNOVVzeW80U212NW11NnpaV0lMd05UNmNhWWVCcXpoY2N6N09ObkRFOTNiSnhTS0oxVzVsUTN4ZFVaU1duazFHZEotX0VZ0gHuAUFVX3lxTFBxcWZyeFI1OU43ZjZHWmlYYUw0QjdlZnYzdWFKYlBMb1A2MnVFTU14X3h4S2thVU1XdGRaNXVXX0RvSWFqU19kRXNzM0dmZW01V3dERTB4RV92eTlGWmdDSi1mM0hJUUhNbWlPTlhjNlFldVBScVU2NmMyTm9yMXRheTdyNGlXVzNCYnhIbS0tdG91aXcxS09FblRjUzZkS0FLMVBHTXBOUHFsR3lXRTM1bjVJaTVERWkxb2VQUmp5ODB1RklkaGw0LVRYVmZGajQ1aTdkU3dTWTJPeEFzZ2tCWjlINjZRMmtfMUZsWXc?oc=5",
-              "fonte": "Saúde e Bem-estar",
-              "editoria": "Curiosidades"
             }
           ]
         }
