@@ -1,66 +1,47 @@
 {
-  "gerado_em": "2026-10-11T17:50:49.544444",
+  "gerado_em": "2026-10-11T20:27:37.617441",
   "data": "11/10/2026",
-  "hora": "17h50",
-  "total": 31,
+  "hora": "20h27",
+  "total": 53,
   "editorias": [
     {
       "nome": "Estado",
       "fontes": [
         {
-          "nome": "G1 SC",
-          "noticias": [
-            {
-              "titulo": "Mega-Sena 3069: quatro apostas simples de SC acertam cinco números e levam R$ 26 mil",
-              "resumo": "Concurso 3069 da Mega-Sena: veja os números sorteados Quatro apostas simples de Santa Catarina acertaram cinco números no concurso 3069 da Mega-Sena e levaram R$ 26.095,23 cada uma. Três delas foram feitas em lotéricas e uma, por meio digital. Os números sorteados foram: 05 - 19 - 22 - 44 - 47 - 57 ✅Clique e siga o canal do g1 SC no WhatsApp Ninguém no Brasil acertou os seis números e o prêmio acumulou.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/11/mega-sena-3069-resultado-santa-catarina.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            },
-            {
-              "titulo": "Mulher e namorado mortos a facadas em SC são identificados; suspeito é ex dela",
-              "resumo": "Giovane Espíndola Severino e Flaviane de Oliveira foram assassinados em Balneário Arroio do Silva Reprodução/Redes sociais O casal assassinado em Balneário Arroio do Silva, no Sul de Santa Catarina, foi identificado como Flaviane de Oliveira, de 44 anos, e Giovane Espíndola Severino, de 35. Ela era auxiliar operacional de creche, conforme a prefeitura. O suspeito do crime é o ex-companheiro de Flaviane, um homem de 53 anos.",
-              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/11/mulher-namorado-mortos-identificados-balneario-arroio-silva.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            }
-          ]
-        },
-        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Passarelas das Cataratas do Iguaçu são interditadas após vazão aumentar 6 vezes",
-              "resumo": "Volume de água registrado nas Cataratas do Iguaçu atingiu a marca de aproximadamente 8,8 milhões de litros por segundo. O post Passarelas das Cataratas do Iguaçu são interditadas após vazão aumentar 6 vezes apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/meio-ambiente/passarelas-das-cataratas-do-iguacu-sao-interditadas-apos-vazao-aumentar-6-vezes/",
+              "titulo": "Saiba quem é Seedorf, novo técnico do Corinthians anunciado para salvar ‘fase ruim’ do Timão",
+              "resumo": "Aposta da diretoria alvinegra em Seedorf se baseia no perfil vitorioso e na bagagem internacional do holandês O post Saiba quem é Seedorf, novo técnico do Corinthians anunciado para salvar ‘fase ruim’ do Timão apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/saiba-quem-e-seedorf-novo-tecnico-do-corinthians-anunciado-para-salvar-fase-ruim-do-timao/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Picape fica contorcida após grave colisão em poste e motorista fica preso nas ferragens em SC",
-              "resumo": "Colisão mobilizou equipes do Corpo de Bombeiros na manhã deste domingo em Porto União; motorista foi desencarcerado e encaminhado ao hospital O post Picape fica contorcida após grave colisão em poste e motorista fica preso nas ferragens em SC apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/transito/picape-fica-contorcida-apos-grave-colisao-em-poste-e-motorista-fica-preso-nas-ferragens-em-sc/",
+              "titulo": "Veja como foi o ato pró-Lula na Paulista, que ocupou 7 quarteirões, reunindo artistas e lideranças de esquerda",
+              "resumo": "Ato pró-Lula em São Paulo teve participação de Érika Hilton, Sâmia Bomfim e Luna Zarattini O post Veja como foi o ato pró-Lula na Paulista, que ocupou 7 quarteirões, reunindo artistas e lideranças de esquerda apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/veja-como-foi-o-ato-pro-lula-na-paulista-que-ocupou-7-quarteiroes-reunindo-artistas-e-liderancas-de-esquerda/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Corregedor do TSE derruba decisão de Nunes Marques e mantém canal pró-Lula ativo",
-              "resumo": "André Janones, coordenador do canal Exército do Lula, celebrou derrubada de restrição que atendeu pedido de Flávio contra distribuição de notícias falsas O post Corregedor do TSE derruba decisão de Nunes Marques e mantém canal pró-Lula ativo apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/politica/corregedor-do-tse-derruba-decisao-de-nunes-marques-e-mantem-canal-pro-lula-ativo/",
+              "titulo": "Bebê de 9 meses sai ileso e duas crianças são arremessadas de carro em acidente em SC",
+              "resumo": "Ocorrência em Rio das Antas mobilizou o bombeiros na manhã deste domingo; irmãs tiveram escoriações e mãe foi socorrida com suspeita de lesão na coluna O post Bebê de 9 meses sai ileso e duas crianças são arremessadas de carro em acidente em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/bebe-de-9-meses-sai-ileso-e-duas-criancas-sao-arremessadas-de-carro-em-acidente-em-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Morre aos 90 anos Nelson Martins, pai de Cristiano Zanin, ministro do STF",
-              "resumo": "Pai de Cristiano Zanin morreu neste domingo (11), em Piracicaba (SP); Supremo divulgou nota de pesar e manifestou solidariedade à família O post Morre aos 90 anos Nelson Martins, pai de Cristiano Zanin, ministro do STF apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/justica/nelson-martins-pai-de-cristiano-zanin-morre-aos-90-anos/",
+              "titulo": "Mendonça suspende anúncios da campanha de Lula contra Flávio Bolsonaro sobre escala 6×1",
+              "resumo": "Anúncios pagos da campanha de Lula acusavam Flávio de ser contrário o fim da jornada de trabalho 6x1 O post Mendonça suspende anúncios da campanha de Lula contra Flávio Bolsonaro sobre escala 6×1 apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/politica/mendonca-suspende-anuncios-da-campanha-de-lula-contra-flavio-bolsonaro-sobre-escala-6x1/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Schadenfreude? Toska? Ubuntu? O que cada palavra intraduzível revela sobre o povo que precisou inventá-la",
-              "resumo": "O alemão tem uma palavra para prazer na desgraça alheia. O russo tem uma para tristeza sem motivo. O que cada língua nomeia revela o que aquela cultura sente demais para deixar sem nome. O post Schadenfreude? Toska? Ubuntu? O que cada palavra intraduzível revela sobre o povo que precisou inventá-la apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/mundo/schadenfreude-toska-ubuntu-o-que-cada-palavra-intraduzivel-revela-sobre-o-povo-que-precisou-inventa-la/",
+              "titulo": "El Niño ‘chega de penetra’ em casamento ao ar livre e nuvem gigantesca de tempestade deixa noivos em apuros",
+              "resumo": "Nuvem prateleira atingiu praia durante cerimônia de casamento ao ar livre e fez convidados correrem da chuva O post El Niño ‘chega de penetra’ em casamento ao ar livre e nuvem gigantesca de tempestade deixa noivos em apuros apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/tempo/el-nino-chega-de-penetra-em-casamento-ao-ar-livre-e-nuvem-gigantesca-de-tempestade-deixa-noivos-em-apuros/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -75,37 +56,37 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Pinturas de Renoir roubadas na França são recuperadas; seis pessoas foram presas",
-              "resumo": "Retrato de Madame Colonna Romano (1910), de Renoir. Museu Renoir/Divulgação Duas pinturas de Renoir avaliadas em milhões de dólares roubadas de um museu na Riviera Francesa há um mês foram recuperadas e seis suspeitos foram presos, informou o prefeito local nesta sexta-feira (9).",
-              "link": "https://g1.globo.com/pop-arte/noticia/2026/10/11/pinturas-de-renoir-roubadas-na-franca-sao-recuperadas-seis-pessoas-foram-presas.ghtml",
+              "titulo": "Suspeito morre e outro é baleado após policial reagir a assalto no interior do Ceará",
+              "resumo": "Suspeito morre e outro é baleado após policial reagir a assalto no interior do Ceará. Um suspeito de 36 anos morreu após ser baleado por um policial que reagiu a um assalto em Limoeiro do Norte, no Ceará. Um adolescente de 13 anos, que estava com o suspeito, também foi baleado. O caso aconteceu, neste sábado (10), na localidade de Bixopá, distrito de Canafístula do Bixopá.",
+              "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/suspeito-morre-e-outro-e-baleado-apos-policial-reagir-a-assalto-no-interior-do-ceara.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Assista ao Amazônia Agro deste domingo, 11 de outubro.",
-              "resumo": "",
-              "link": "https://g1.globo.com/am/amazonas/playlist/assista-ao-amazonia-agro-deste-domingo-11-de-outubro.ghtml",
+              "titulo": "Morre Edson Silva, ator de ‘Laços de Família’ e dublador",
+              "resumo": "Perfil no Instagram anuncia morte de ator Edson Silva reprodução O ator e dublador Edson Silva, conhecido por interpretar o motorista Heitor na novela “Laços de Família” (2000), morreu aos 95 anos. A morte foi anunciada no sábado (10) pelo perfil Dublapédia Brasil, no Instagram. A causa não foi divulgada. Silva nasceu em Juiz de Fora, em Minas Gerais, em 25 de outubro de 1930.",
+              "link": "https://g1.globo.com/pop-arte/noticia/2026/10/11/morre-edson-silva-ator-de-lacos-de-familia-e-dublador.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "VÍDEO: idoso morre a caminho de almoço de família após carro derrapar e capotar na Bahia",
-              "resumo": "Idoso morre a caminho de almoço de família após carro capotar na Bahia Um idoso de 67 anos morreu depois que o carro que dirigia derrapou na pista e capotou, na tarde deste domingo (11), na cidade de Itabela, no sul da Bahia. Segundo apurou a TV Santa Cruz, afiliada da Rede Bahia na região, Antônio Bispo dos Santos morava em uma fazenda, na zona rural, e estava a caminho de um almoço de família, na sede do município, quando ocorreu o acidente.",
-              "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/acidente-com-morte-bahia.ghtml",
+              "titulo": "Incêndio em subestação de energia elétrica é apagado após três horas de trabalho dos bombeiros; alguns bairros seguem afetados",
+              "resumo": "Bairros de Salvador ficam sem energia elétrica após ocorrência em subestação O incêndio que atingiu a subestação de energia elétrica do bairro de Amaralina, em Salvador, foi apagado, após cerca de três horas de trabalho dos bombeiros militares. A informação foi divulgada pela Corporação.",
+              "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/incendio-em-subestacao-de-energia-controlado.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Vídeo; homem quebra porta de hamburgueria e furta dinheiro e celular durante a madrugada em Teresópolis",
-              "resumo": "O suspeito usava um boné e carregava uma sacola plástica nas costas. Ele circulou pelo comércio abrindo gavetas em busca de objetos de valor. Redes sociais As câmeras de segurança registraram o momento em que um homem quebra a porta de uma hamburgueria, em Teresópolis, na Região Serrana do Rio. Na madrugada deste sábado (11) ele entra no estabelecimento, vai até as gavetas e furta o dinheiro do caixa e um celular.",
-              "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/11/video-homem-quebra-porta-de-hamburgueria-e-furta-dinheiro-e-celular-durante-a-madrugada-em-teresopolis.ghtml",
+              "titulo": "Homem é preso após matar ex-companheira a facadas durante festa de aniversário do filho em Americana",
+              "resumo": "Polícia Civil de Americana. Reprodução/EPTV Uma mulher de 43 anos foi morta a facadas pelo ex-companheiro neste domingo (11), em Americana (SP). O homem, de 40 anos, foi preso em flagrante. Segundo a Polícia Civil, a vítima tinha uma medida protetiva contra o ex-companheiro e já havia registrado dois boletins de ocorrência contra ele. O casal tinha dois filhos, de 15 e 8 anos.",
+              "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/11/homem-e-preso-apos-matar-ex-companheira-a-facadas-durante-festa-de-aniversario-do-filho-em-americana.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Discussão durante partida de sinuca termina com homem morto a tiros em Campinas",
-              "resumo": "Polícia Civil em Campinas (SP) Jorge Talmon/EPTV Um homem morreu após ser baleado durante uma discussão em um bar no Núcleo Residencial Boa Vista, em Campinas (SP), na tarde de sábado (10). O suspeito de efetuar os tiros fugiu e é procurado pela polícia. Segundo a Secretaria de Segurança Pública (SSP), a confusão começou durante uma partida de sinuca. Após a discussão, a vítima deixou o bar e voltou pouco depois com uma arma.",
-              "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/11/discussao-durante-partida-de-sinuca-termina-com-homem-morto-a-tiros-em-campinas.ghtml",
+              "titulo": "Dia de Nossa Senhora Aparecida: veja a programação nas igrejas do Rio",
+              "resumo": "Dom Orani Tempesta com a imagem de Nossa Senhora Aparecida Reprodução/Site oficial Arquidiocese do Rio de Janeiro As igrejas do Rio de Janeiro terão missas em diferentes horários nesta segunda-feira (12), Dia de Nossa Senhora Aparecida. A programação divulgada pela Arquidiocese inclui celebrações em bairros como Campo Grande, Cachambi, Ilha do Governador, Realengo e Rocinha, além de uma procissão em Santa Margarida, na Zona Oeste.",
+              "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/11/dia-de-nossa-senhora-aparecida-veja-a-programacao-nas-igrejas-do-rio.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             }
@@ -115,9 +96,9 @@
           "nome": "G1 Economia",
           "noticias": [
             {
-              "titulo": "Mais de 32 mil empresas fecharam durante o governo Javier Milei na Argentina",
-              "resumo": "O presidente da Argentina, Javier Milei, participa de uma reunião da coalizão política e de segurança multinacional \"Escudo das Américas\", à margem da 81ª Assembleia Geral das Nações Unidas, em Nova York, EUA, em 22 de setembro de 2026 Charly Triballeau/Pool via REUTERS A Argentina passou a ter 32.290 empresas a menos desde que Javier Milei assumiu a Presidência, no fim de 2023.",
-              "link": "https://g1.globo.com/economia/noticia/2026/10/11/mais-de-32-mil-empresas-fecharam-durante-o-governo-javier-milei-na-argentina.ghtml",
+              "titulo": "Mega-Sena 3069 pode pagar R$ 112 milhões neste domingo; g1 transmite ao vivo",
+              "resumo": "Como funciona a Mega-Sena? O concurso 3.069 da Mega-Sena pode pagar um prêmio de R$ 112 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (11), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp No concurso da última quinta-feira (8), nenhuma aposta acertou a faixa principal e o valor acumulou.",
+              "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-3069-pode-pagar-r-112-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
               "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
@@ -127,37 +108,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Torcida do Flamengo protesta contra Lula, Congresso, STF e MP das bets",
-              "resumo": "Clubes já haviam se posicionado com frase em camisa, mas torcida rubro-negra levou faixas para criticar a Medida Provisória assinada pelo presidente",
-              "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/torcida-do-flamengo-protesta-contra-lula-congresso-stf-e-mp-das-bets/",
+              "titulo": "Os 20 SUVs mais vendidos do Brasil em setembro; confira o ranking",
+              "resumo": "Ao longo do semestre, o Volkswagen T-Cross já acumula 71.269 unidades e também é o SUV mais vendido do Brasil durante o ano de 2026",
+              "link": "https://www.cnnbrasil.com.br/auto/os-20-suvs-mais-vendidos-do-brasil-em-setembro-confira-o-ranking/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Campanha de Flávio contesta corregedor por decisão sobre “Exército do Lula”",
-              "resumo": "Mais cedo, presidente do TSE, Kassio Nunes Marques, determinou a suspensão do canal; decisão, porém, foi derrubada pelo ministro Ricardo Villas Boas Cueva, que enviou caso para análise do plenário da Corte",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-flavio-contesta-corregedor-por-decisao-sobre-exercito-do-lula/",
+              "titulo": "Grêmio 1 x 1 Internacional: veja os melhores momentos pelo Brasileirão",
+              "resumo": "Clássico de número 455 foi marcado pela disputa para escapar do Z4. Grêmio e Internacional seguem ameaçados pelo rebaixamento no Campeonato Brasileiro",
+              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-1-x-1-internacional-veja-os-melhores-momentos-pelo-brasileirao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Aos 40 anos, Megan Fox abre conta em plataforma de conteúdo adulto",
-              "resumo": "Atriz lançou perfil por assinatura com fotos exclusivas e passou a ser coproprietária da plataforma, onde divulgará projetos profissionais",
-              "link": "https://www.cnnbrasil.com.br/pop/celebridades/aos-40-anos-megan-fox-abre-conta-em-plataforma-de-conteudo-adulto/",
+              "titulo": "“Exército do Lula”: advogado analisa decisões de corregedor e Nunes Marques",
+              "resumo": "José Paes Neto, especialista em Direito Eleitoral, questiona autoridade do corregedor do TSE para suspender decisão da presidência da Corte sobre canal pró-Lula",
+              "link": "https://www.cnnbrasil.com.br/eleicoes/exercito-do-lula-advogado-analisa-decisoes-de-corregedor-e-kassio-nunes/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Mendonça determina que CUT apague postagens com críticas a Flávio Bolsonaro",
-              "resumo": "",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/mendonca-determina-que-cut-apague-postagens-com-criticas-a-flavio-bolsonaro/",
+              "titulo": "Casal de ex-BBBs é cobrado em mais de R$ 1,4 milhão na Justiça",
+              "resumo": "Decisão judicial determina bloqueio de valores em contas de Rodrigão, do BBB 11, processado por quebra de contrato com produtora, e da mulher, Adriana Sant'Anna",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/casal-de-ex-bbbs-e-cobrado-em-mais-de-r-14-milhao-na-justica/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Fluminense se une ao Flamengo em protesto contra a MP das bets; veja",
-              "resumo": "Rivais entraram em campo com a frase \"Proibir não é proteger\" nas camisas; Rubro-Negro já tinha feito isso na última rodada",
-              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-se-une-ao-flamengo-em-protesto-contra-mp-das-bets-veja/",
+              "titulo": "Samuel Xavier diz que Flamengo e Palmeiras são beneficiados pela arbitragem",
+              "resumo": "Lateral do Fluminense fez forte desabafo após a derrota por 1 a 0 para o Rubro-Negro, neste domingo, no Maracanã",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/samuel-xavier-diz-que-flamengo-e-palmeiras-sao-beneficiados-pela-arbitragem/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -167,37 +148,30 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Ato pela reeleição de Lula leva milhares à Avenida Paulista",
-              "resumo": "Uma manifestação pela reeleição do presidente Luiz Inácio Lula da Silva (PT) ocupou neste domingo (11) a maior parte da Avenida Paulista, em São Paulo, e contou com a participação do candidato. O ato, chamado de Marcha Pela Democracia, foi organizado independentemente por movimentos sociais e por fandoms, comunidades de admiradores de artistas pop, como Lady Gaga, BTS, Beyoncé e Taylor Swift.",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-pela-reeleicao-de-lula-leva-milhares-a-avenida-paulista",
+              "titulo": "Flávio passa domingo reunido com prefeitos e vereadores de São Paulo",
+              "resumo": "O senador e candidato à presidência da República pelo PL, Flávio Bolsonaro, cumpriu agenda neste domingo (11) na capital paulista. Flávio reuniu-se com prefeitos e vereadores da região da Grande São Paulo; o encontro ocorreu em um prédio na região do Vale do Anhangabaú, no centro da cidade. O candidato do PL estava acompanhado do governador do estado, Tarcísio de Freitas, e do prefeito de São Paulo, Ricardo Nunes, entre outras autoridades.",
+              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-passa-domingo-reunido-com-prefeitos-e-vereadores-de-sao-paulo",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Corregedor derruba decisão que suspendeu canal Exército do Lula",
-              "resumo": "O corregedor-geral eleitoral, ministro Ricardo Vilas Bôas Cuêva, derrubou neste domingo (11) a decisão do presidente da Corte, Kassio Nunes Marques, que suspendeu o canal “Exército do Lula”, criado no WhatsApp para postagens de apoios ao candidato à reeleição Luiz Inácio Lula da Silva (PT).",
-              "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/corregedor-derruba-decisao-que-suspendeu-canal-exercito-do-lula",
+              "titulo": "Corinthians anuncia Seedorf como novo técnico até dezembro de 2027",
+              "resumo": "O Corinthians anunciou neste domingo (11) a contratação do holandês Clarence Seedord, de 50 anos, como novo técnico do time masculino, até o fim da temporada de 2027. O treinador, que atuou como meio-campista do Botafogo entre 2012 e 2013, substituirá Fernando Diniz, demitido pelo clube na última quarta-feira (7), após o Timão sofre revés para o Internacional (2 a 1) em Porto Alegre, a sétima derrota seguida no Campeonato Brasileiro.",
+              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/corinthians-anuncia-seedorf-como-novo-tecnico-ate-dezembro-de-2027",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Dupla de Stefani fatura WTA 1000 de Pequim, o 5º título na temporada",
-              "resumo": "A tenista brasileira Luisa Stefani conquistou neste domingo (11) o quinto título do ano, ao vencer ao lado da canadense Gabriela Dabrowski o WTA 1000 de Pequim (China). Segunda melhor dupla da temporada, a parceria Brasil-Canadá derrotou com facilidade a final contra a dupla da tcheca Katerina Siniakova com a chinesa Shuai Zhang (7ª no ranking), por 2 sets a 0, com parciais de 6/1 e 6/2.",
-              "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/dupla-de-stefani-fatura-wta-1000-de-pequim-o-5o-titulo-na-temporada",
+              "titulo": "Derrubar canal com eleitores limita mobilização, dizem especialistas",
+              "resumo": "A decisão de derrubar o canal Exército do Lula no WhatsApp com 3,3 milhões de pessoas, que acabou revertida horas depois, limita a mobilização de eleitores no segundo turno e extrapola o combate à desinformação, avaliam especialistas em direito no ambiente digital.",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/derrubar-canal-com-eleitores-limita-mobilizacao-dizem-especialistas",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Interpretação é a base da prova de Linguagens do Enem; veja dicas",
-              "resumo": "Saber interpretar textos é tão importante quanto conhecer os conteúdos na prova de Linguagens, Códigos e suas Tecnologias, que faz parte do primeiro dia do Exame Nacional do Ensino Médio (Enem), marcado para 8 de novembro. Uma das formas de se preparar é resolver questões de edições anteriores, prestando atenção nos comandos e nos contextos que envolvem os assuntos.",
-              "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/interpretacao-e-base-da-prova-de-linguagens-do-enem-veja-dicas",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Patrimônio cultural, Círio de Nazaré reúne fiéis e turistas em Belém",
-              "resumo": "No mês de outubro, a programação do Círio de Nazará mobiliza fiéis, turistas e inúmeras pessoas atraídas pelo sentimento de fé, união, esperança e amor ao próximo. Muito mais do que uma comemoração religiosa, a celebração nazarena é considerada patrimônio cultural da humanidade pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco).",
-              "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/patrimonio-cultural-cirio-de-nazare-reune-fieis-e-turistas-em-belem",
+              "titulo": "TSE barra anúncios de Lula acusando Flávio de ser contra escala 6x1",
+              "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), proibiu neste domingo (11) a campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) de promover anúncios pagos para afirmar que o candidato Flávio Bolsonaro (PL) é contra o fim da escala 6x1 de trabalho.",
+              "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-barra-anuncios-de-lula-acusando-flavio-de-ser-contra-escala-6x1",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -209,12 +183,52 @@
       "nome": "Politica",
       "fontes": [
         {
+          "nome": "Política SC — Deputados e Senadores",
+          "noticias": [
+            {
+              "titulo": "Lista de quem são todos os candidatos ao Senado por Santa Catarina (SC) nas eleições 2026 - JOTA Info",
+              "resumo": "Lista de quem são todos os candidatos ao Senado por Santa Catarina (SC) nas eleições 2026 JOTA Info",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb19KYi1rTGxnRGtzUFJudFMzTk1nVXhmMVN5NjNlU3I1SElabkVCYVdRckpqdnFqR3YwcmIwYTI0SGVOd081aGZwSllaSDA3dXk4SHFDR2xKLVFaWXJpbjZWTjBJMklxUjRBWmtldEVYWWx6eDNMSjUwcklfNGp5NVFteDlsZExlaVJhcVB0bHF1TER4NjhKd09kaUI0RkhubzFoNktTMFdNOFdZX2oxaGwza3pudnZzUjhLdWJDRThZNjhDS3BjdHF4dFA?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Jorginho Mello é reeleito governador de Santa Catarina em 1° turno - Agência Brasil",
+              "resumo": "Jorginho Mello é reeleito governador de Santa Catarina em 1° turno Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkIyLTFXRmV4N3VSWWZaSngwdkdKbS1veGJzeVFILVZhM3E3SHMxTHMzbEx1M244V19od3NnSkhYQkwtRHVnVmd1dXhJbzBrOUQzSjU3dXRrdjhtLUFOQ3ZMSkVXN0hvak9KS0dQMVN6Z1VKVnpJdUVJNUExRFFtbXdZYk9qdEcyTlNpdFUtTWdPVnpMcmVRLUpOUXRHWEFMNEU1RXVzLURBZ0ZodXRDWlZB?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Nikolas Ferreira deixa Carlos Bolsonaro fora de lista de apoios ao Senado em SC após ser ignorado por Eduardo - O GLOBO",
+              "resumo": "Nikolas Ferreira deixa Carlos Bolsonaro fora de lista de apoios ao Senado em SC após ser ignorado por Eduardo O GLOBO",
+              "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX096dW0wQ2o5ZW9rYkI5NF9UaS1Mc3pZa19iOWYwU0MyX2p6LW5UMVVuTVh5MXd1dzNwMTJod21rTDBORFEtQk1CdnpQcXdmTk5XME5pdVg5dXp4Unp1b014SkFSeTFuSXgwRGRzMm13ZkVnLU1YRzRZUVdVSGt0ZWNsM2lpc1prUUZZeEhQZ29Ld2Nvdm9oNHJoN3lXbmZMZ0w3TzhjTGlCVHdaNkRwRDdudDg2OGdCXzZlekpQN2hQbVlaTDd0elRZOUdIeGhZeXR4a2F4dUluM2stckRjRnk0bTRLY2hrSWwzV2lfMGRpU3pKMzkxRzRTM19Md1lsTExXY243QmpEX25TQ1lXd1dR0gGgAkFVX3lxTE9kZkxLSU9IMTcxcnNaUmVHSnNscHRvTEdPeTBCNlFxd2lUR1FDaWhuNnJHZjBVMklhZ2d5VG1qZFoxWWd2ZWl2T2p4TjlFYWlBdFpVVUpyOUJIMVFKTmlmMWZBWUdpaXoxX2tIaDI4eVV4QUloM09EUVVVZUNWSkhrZlBIVDZwWS1tM3hpSF9HYzlONFNyb1hSMDB2aFQxVlVuWi1QYmIxZWZ3M0hqRmRQblBJd0dtbFFhSWRGMXh5cTJ4WEZmSHRqbjdGSW5vRXowSFhqbGpNYjhyVzFkNkFmWVpmT2dMTTR4cXM1MzVoNlF5V2VsZVBfeDJKSTg0bnY4ME9tcG1ZLVF5WlM3bVZldDFZX2dhOFpBWVZvbzZxUg?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            }
+          ]
+        },
+        {
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Congresso volta na quarta-feira com pautas importantes - Agência Brasil",
-              "resumo": "Congresso volta na quarta-feira com pautas importantes Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnF6N290SzhPckhUOGZxSmt0bF9wQmtVWEVyZVFuX2V6VmdJeEVwcml1OUxaaHhGbVR4YUxKMEd3UmU3ZGZjTUMyN0JRM2Z4Zk9qRkdlNnlaMVVwcFZDX1B3OUZBeHRYVTZWV3RqQUh6RWZRU0hrWENlY3lJcGxGM1lBVXZxQ09XbXZmbWtFa2VJa0w1Yk1hWFF4ZkUxRGRkdXk5dVNvVldnNHNnVG9HMUNR?oc=5",
+              "titulo": "Presidente do Senado marca para terça votação do fim da escala 6x1 - Agência Brasil",
+              "resumo": "Presidente do Senado marca para terça votação do fim da escala 6x1 Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSnRuUWhZbUxERXFRb1gzZzZHRlIyOUctMzI4d2wxd2VWcmhva0E5RENyU1lQRXI1cnRPR2JRTVhrWEQ5UzJBOUFSd3I2MmVtZlpvMW56Y25PRXpYRHM5MkpHcUFkcUgwMmhWNEdrSlJyOGF2XzkwbTFSQUk1bmh1ZEVnOW53MzBRc1FhUFVEUG1UTGVreHB3MUptQVM3dzVaUGtzdlZ3VU9mNWRkaGRSNms2cF95V2dORnFJekxodGdEUQ?oc=5",
+              "fonte": "Política Brasil — Congresso e Presidente",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Davi Alcolumbre prega convivência pacífica entre Poderes - Agência Brasil",
+              "resumo": "Davi Alcolumbre prega convivência pacífica entre Poderes Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1E4alRYYy1mREpjYXV4eG5yTEFNSDZXQlV5cXJFUlhOd1AzZ2JKUHhtTGlDdlFKamJjYjFsLUM0UUN2X0pqYlcyaWstaU83MFRkdXBDd1VCekJMSlIzdDVyRFlFd29mSkZwYVZLRlM5SkZMWlV5R0hVRHdUc3hURFF0N2dsMURjM0xCWjA5d3NUTUc5M0p3bndtOG8yU2xvWjFnc3RyZGV2cW1tM2prcUpuQ2Q?oc=5",
+              "fonte": "Política Brasil — Congresso e Presidente",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Eleições para o Senado vão influenciar governabilidade do próximo presidente - Valor Econômico",
+              "resumo": "Eleições para o Senado vão influenciar governabilidade do próximo presidente Valor Econômico",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZNDFtY0VUUFBqZ2szYnJBZEdaNHdIcUpQSFRDc29aSVY5ZlA5M0l5ZDNjVU9WdFNlYzdvQm5obFNQcktndTRXNzcxbjVfc05HekI4Ym1MVXBNaFNyTWxtWm5rU1J0RFlKS28xTUIzWEPSAX9BVV95cUxNeEJVQWtNODlzNVhEa3dyUC1mN0xzYWw1cFpUZkhWOElNVE5yS1JsYXpTR3dhVFUxZ3FRNW8wN0FoVzJBd1pxdUxVTW1nU2JVcHl0ajhtbWJCcDl1Rkk2U3FGanpvX0hydkFQMEM5QW43Yl9HeVBfYldJU2ROeG9V?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -229,37 +243,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Sob o comando de Drake Maye, Patriots atropelam Raiders e vencem segundo jogo consecutivo",
-              "resumo": "New England Patriots 45 x 17 Las Vegas Raiders | Semana 5 | NFL O torcedor do New England Patriots que compareceu ao Gillette Stadium, em Massachusetts, para acompanhar a partida contra o Las Vegas Raiders vai voltar para casa satisfeito com a atuação da equipe.",
-              "link": "https://ge.globo.com/futebol-americano/nfl/noticia/2026/10/11/sob-o-comando-de-drake-maye-patriots-atropelam-raiders-e-vencem-segundo-jogo-consecutivo.ghtml",
+              "titulo": "Amazonense Sub-16: empates e goleada marcam terceira rodada",
+              "resumo": "Site do ge Amazonas completa 15 anos As quatro partidas válidas pela 3ª rodada do Campeonato Amazonense Sub-16 aconteceram na manhã deste sábado (10). No estádio Carlos Zamith, ocorreram dois empates: Manaus e Inter Academy ficaram no 1 a 1, enquanto, Nacional e São Paulo-AM protagonizaram um 3 a 3.",
+              "link": "https://ge.globo.com/am/futebol/noticia/2026/10/11/amazonense-sub-16-empates-e-goleada-marcam-terceira-rodada.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Catarinense de Futsal Série Ouro: confira datas e horários dos jogos das quartas de final",
-              "resumo": "Catarinense Série Ouro define classificados para as quartas de final O Catarinense de Futsal Série Ouro tem datas e horários definidos para os jogos de ida e volta das quartas de final. A Federação Catarinense de Futebol de Salão definiu os detalhes dos duelos que decidem os semifinalistas da competição.",
-              "link": "https://ge.globo.com/sc/futsal/noticia/2026/10/11/catarinense-de-futsal-serie-ouro-confira-data-e-horario-dos-jogos-das-quartas-de-final.ghtml",
+              "titulo": "Atuações do Náutico: Muriel e Paulo Sérgio entre os piores em derrota; dê suas notas",
+              "resumo": "Náutico 0 x 2 Vila Nova | melhores momentos | 33ª rodada | Brasileirão série B Initial plugin text Muriel, goleiro do Náutico, em jogo contra o Vila Nova Marlon Costa/Agif 🎙️ Ouça o podcast Embolada 🎧 Assista: tudo sobre o Náutico no ge, na Globo e no sportv",
+              "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2026/10/11/atuacoes-do-nautico-muriel-e-paulo-sergio-entre-os-piores-em-derrota-de-suas-notas.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Ronaldo e Roberto Carlos celebram acesso da Inter de Limeira: “O Leão subiu”",
-              "resumo": "Assista aos melhores momentos de Ferroviária 2x0 Inter de Limeira, pela Série C Ronaldo e Roberto Carlos comemoraram nas redes sociais o acesso da Inter de Limeira à Série B do Campeonato Brasileiro de 2027. Os pentacampeões mundiais compartilharam neste domingo a arte publicada pelo clube para celebrar a conquista. Ronaldo publicou a imagem nos stories do Instagram e escreveu “VAMOS”, acompanhado de emojis de aplausos.",
-              "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/inter-de-limeira/noticia/2026/10/11/ronaldo-e-roberto-carlos-celebram-acesso-da-inter-de-limeira-o-leao-subiu.ghtml",
+              "titulo": "Jardim valoriza postura do Flamengo contra o Fluminense: \"Eles sempre têm energia a mais contra nós\"",
+              "resumo": "Leonardo Jardim elogiou o Flamengo além da parte técnica na vitória por 1 a 0 sobre o Fluminense, na tarde deste domingo, no Maracanã, pela 30ª rodada do Campeonato Brasileiro. O português citou que o rival sempre tem uma postura diferente em clássicos, e exemplificou que pediu que isso fosse replicado pelo seu elenco dentro de campo. Ele elogiou a postura.",
+              "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/11/jardim-valoriza-postura-do-flamengo-contra-o-fluminense-eles-sempre-tem-energia-a-mais-contra-nos.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Fair play: francês para de correr na chegada e dá vitória ao rival que havia errado percurso; assista",
-              "resumo": "Fair play: corredor francês para perto da linha chegada e deixa rival vencer prova O corredor francês Gaspard Cothias-Faure deu neste domingo (11) uma daquelas demonstrações de que o senso de espírito esportivo, muitas vezes, pode ser mais forte do que o desejo de conquistar uma vitória.",
-              "link": "https://ge.globo.com/atletismo/noticia/2026/10/11/fair-play-frances-para-de-correr-na-chegada-e-da-vitoria-ao-rival-que-havia-errado-percurso-assista.ghtml",
+              "titulo": "Atlético-PI vence o Piripiri com gol no fim e estreia com vitória no Campeonato Piauiense Feminino 2026",
+              "resumo": "Eduarda Baldino abre o placar, Geovana chega a empatar o confronto, mas de pênalti, Natalinha sela vitória do CAP na 1ª rodada do estadual",
+              "link": "https://ge.globo.com/pi/futebol/futebol-feminino/jogo/11-10-2026/atletico-pi-piripiri.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
-              "resumo": "Marcelo Paz sobre a escolha de Seedorf: \"Identificamos que é um líder, um vencedor\" Marcelo Paz, diretor executivo de futebol do Corinthians, explicou a escolha do técnico Clarence Seedorf para substituir Fernando Diniz no comando da equipe. Em entrevista antes do clássico contra o Palmeiras, neste domingo, ele elogiou os atributos e a trajetória do holandês.",
-              "link": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+              "titulo": "Escalação do Botafogo: Tite terá terceira dupla de zaga distinta em três jogos",
+              "resumo": "Botafogo embarca para Curitiba para jogo do Brasileirão O Botafogo encerrou a preparação para enfrentar o Coritiba, às 16h (horário de Brasília) desta segunda-feira, no Couto Pereira. Com a ausência de Lucas Monzón e Arthur Chaves, o técnico Tite - que não poderá comandar o time, já que foi expulso - deve montar a escalação com sua terceira dupla de zaga distinta em três partidas.",
+              "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/10/11/escalacao-do-botafogo-tite-tera-terceira-dupla-de-zaga-distinta-em-tres-jogos.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -271,13 +285,119 @@
       "nome": "Entretenimento",
       "fontes": [
         {
+          "nome": "Famosos e Celebridades",
+          "noticias": [
+            {
+              "titulo": "Famosos chegam para show de Shakira em Copacabana; veja fotos - CNN Brasil",
+              "resumo": "Famosos chegam para show de Shakira em Copacabana; veja fotos CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFpnMlhkcGZmUktCM0VweTAtOFlEMlN6cGl5cEw5NFNETW1YOG5ud3dlNm40S0I3cHZkQmhkR2d5Rm4zbXZhdmQwWjZjQVJGMGJFNXpwWVNING92T1BlNENGeTZZSzZfSE8zbE5HTTY4bDdGMGF5cXFGeDRLSGlPV1h1ZE4tY3lDZER4Z3JJRlBHVGRGYVVBNnlR?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Famosos chegam ao evento do Globo de Ouro no Brasil; veja fotos dos looks - CNN Brasil",
+              "resumo": "Famosos chegam ao evento do Globo de Ouro no Brasil; veja fotos dos looks CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBOMC04djBBTUk3UWpjNUJ5eWd4MlRYSC1ZQXlJS0pSN1dYYVpBb3JCN1Y4eTg5UFVWNXEyWXJyMDJhMmh3Qm5KNV9vcnBIcEdJVzdyZWVVTkY3SFBNZklKS0gyR0VVVWEzT2N6aVYzV3hGYWJiRmMyVFpUR2hVVHN5OXFJU2pUVHRzUUpXMXpHY3NyTjBfRmxBQ3J3QkR6Mnk2RnNUWlpYSU1PZUg2ak5hTzczQXRrWDRz?oc=5",
+              "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "TV e Novelas",
+          "noticias": [
+            {
+              "titulo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho - AdoroCinema",
+              "resumo": "Vai ter novela hoje na TV Globo? Confira a programação da emissora para este sábado, 27 de junho AdoroCinema",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUDczUXdwWEtaNDBYalg4YlFnaWZpMXNHOXFtSW9EYVpWN1Bad052YXdPX1BZRXFSc0MyTldZdWVURmVLQVhtR2NrWm85TTdvOWRhR3JpV2ZkR0d0WG1seUN2b1JYbTB0cDdfY1hXd3diQlJyLWJERmV3?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "TV Globo altera programação desta sexta-feira (26) por causa da Copa; veja - CNN Brasil",
+              "resumo": "TV Globo altera programação desta sexta-feira (26) por causa da Copa; veja CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUFtT2xCS1BCQ0JxX3FrTnd6Y21YWl9DREJ6aGFhaHE4d1djYk5XbTZlLUpPTk9xZW5CTEFaMFYtVG9fdUNLLXhVSEdGOFpYRkhTcEIxeWFkaWRFSm5NNzhNZ2dwOUdxUEd1dnBOVjBmaUw4WFVWNllsT1REc1BLRmxTVlY0a2pNY0pSZ2VEZzBzZ0tuZXlGamllQnM0TWtmR2pPdHRjOVlBUmlF?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "TV Globo é ignorada pelas novelas da Globo - NaTelinha",
+              "resumo": "TV Globo é ignorada pelas novelas da Globo NaTelinha",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTZWNTNUcjl3TmVTTFBWRkZ5U0x3VUoyTEtURFRGcjBGM25SMjlwbkdRczJjSlB4M2FEbDFTNTZROFBHY3N6a2tyTURENjEwOVR5aUxaeUk3MTJJLWp3aTJsMkQzcVZFaVl3Sld4OUpNZVU0cVZNOEpwSUdmSzVBdGlnYm92MGxxWEhBVkdva3FRM0dhUXlfbnRKeG1CSDdBWFg3VjkwN1JiaW5WOEcyVi1hb3hmd05UZ3fSAb8BQVVfeXFMUFBQVGtTR2JPekkyVXZ2Y3VQV3pPOGw2NDN0blV4WFFFTndqVWMwQzZxNEF4NW5sd2tTY0hFWG1XdlBQZUpiOFBCSW5MUUJ5MnM5cFR1UmY1WGlYT255c19hd0pra1VFTmxOMnJ1TTQyak8tM3lydXdoNUMxNXBuTzNXd1A0a1BzTEE4cmdQU1pUWkQ2Unl5dTdoUTRTM0VBWHE4NjlET3d0R2VMSGl3TWNpR3oxU1NLSG9aWjVBSTA?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Vai passar Quem Ama Cuida hoje? Globo muda programação por jogo do Brasil - Notícias da TV",
+              "resumo": "Vai passar Quem Ama Cuida hoje? Globo muda programação por jogo do Brasil Notícias da TV",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXBjM2xPN2VMam95ZzZZQXp1XzVsREYtY3lZeHBtcm53Zmx1TGNnNkVETHVtaFQ4ek1NUFhfOVBCQW1BdnlST1FOQVN0T0RRRWNYR1d4Vy1qOXNWclJjY2w3RWFqS1plWlQ5ellwSDQ4S1BfLUpXT09QVHlqdS04TElkZUItblloVlMxVERoQmNyd0VsYXhyb3BZQTZoUjlja2wxZk1Mc2NxUlVBVGxfRmtpaU5STHVKbWFFR24yUDBwb0FROG5rNdIB1wFBVV95cUxNSnVJdmV6RHhELThyTXVEOWxKajF5SlBnT2Z5SFBGaHc3Yll2QjBHNXk1QU9IcVJYWjQxTUlINjQzQzhJMGtEZjdISk5PLVFSLVZXajRlVzNac2F3dDJna29wNTRGS1lvVUVKdl8wTTlLM0Q2YXdCZFlnV0FtWHVFYUhULWw3dmtpbEdfcmVzSkRjVXpYQ0NENUNfRXY2TnVpdEk1Njc5RF8tN3hpSkQ4c1IzSjJZY3BwVGlEX0FuS0xUU0taLWNVMm1nRF9nN1FobGs1dUVPUQ?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Globo faz mudança radical em nova novela e surpreende público - A TARDE",
+              "resumo": "Globo faz mudança radical em nova novela e surpreende público A TARDE",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekQ0UEg3VHotNVU2amtuYlI0VWdRUkdYQ29kdVU0d2FvVTQ5a2NkY2JmZE9qb0lubUx0NVpSRXpmMS1lM3dETGtYWXR6SDBHLVNvMVl5ZWFDX2owb2tDZjRhTk5IMWZmTlJBVDVscUxLM05wbVRlSncxQk9ycnY0WG56RmFrT2FkTHlzME9lS1ZXeEI5VjUybk15T3JvQWVZXzhF0gGrAUFVX3lxTE1zRDNmQjdzUEQ0YVpsWWtCdlM4Wk4xQU9WMFNWZlRyT3NvWFROLW00Q25RRk0zOVZMLUN3RlhnOTluOFVaelQzUWJ4Q1ZaUGpqcFdYOHR3RVFWT0ZLVEJnM2ZIY1V6bnpWQ2NkRkZiTTNxNjh5dmg4UUFHTWlrbTlLLXRaVUJZRlk2QkRvYTdnbEp6cDVQc1ZjNXBtNFVFRUhTTnVNTm9ZaDdUdw?oc=5",
+              "fonte": "TV e Novelas",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
           "nome": "Cinema e Filmes",
           "noticias": [
             {
-              "titulo": "Os 5 filmes estrelados por Anne Hathaway que estreiam em 2026 - Rolling Stone Brasil",
-              "resumo": "Os 5 filmes estrelados por Anne Hathaway que estreiam em 2026 Rolling Stone Brasil",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbE42ODNjdFBqaU5aSkFHbXZuY3IwWHNDZTJUbGJTY3NuS29yTkd4QVhhWGZuQXMwMnIyTkhTRUxyaHFzTFNVMGNCc0dJY1gwb0JWeTU3aVhVMGZXN2tOZm50RGhFajd4cWZUVmdqMjVkZGJwc0xDcUxHaEpaR0U1RjRSZE5yWDg5NHBucTJwUnhzeTkyaUJTd1Z1cE5VQQ?oc=5",
+              "titulo": "‘Harry Potter e a Pedra Filosofal’ retorna aos cinemas do Brasil; saiba como comprar ingressos - Ingresso.com",
+              "resumo": "‘Harry Potter e a Pedra Filosofal’ retorna aos cinemas do Brasil; saiba como comprar ingressos Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlB6V0tfZUFmc0trT0JHcThjdjE5aEpLeXdwbWk2T3I4cUY0bFlodktBVTZBdFhiT0FEd0x3SzdHSmxEUnJJOFlDeDREdkIwU0JWYlZITG1FdXBLRWtZTFo5QzlHejB4RC04ZG1ZS2NjVlZEOW1ILWxNZmo3MG9aXzFNZWpmVTZFT3ljOHVBNnVpVHpxU0RlR3ZHTUlObWx6UWJPdmJSLXhzekVrbmlkeWswQzhrRXExaklTXzFnNnRYUXQ2amZkbg?oc=5",
               "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "‘Eu Sou O Rocky’ ganha trailer e data de estreia nos cinemas do Brasil; confira - Ingresso.com",
+              "resumo": "‘Eu Sou O Rocky’ ganha trailer e data de estreia nos cinemas do Brasil; confira Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcURYVXFxcmxWaV82OXl6c2VmRUJqMXlMZHlmekFjMURTM1ZfVHNObzZERUl2ZGMzUlBHM0k1Snk4ZEk3Yl9aODRNbXpRVk95UzZhZERZeV9vaEFEV18tdmMtWDBkYjNGSlZnTTBrNUZ5Wk1lZ042STJBcERyNzR4WjdMMUtyMUZMMFZFWDZNdGVoSXVNT1Bka2xfUUFETWJBSC0zeEptZFFidw?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "‘Dia D’: pré-venda do novo filme de Steven Spielberg está aberta; saiba como comprar ingressos - Ingresso.com",
+              "resumo": "‘Dia D’: pré-venda do novo filme de Steven Spielberg está aberta; saiba como comprar ingressos Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVpYZEJBVDdtV3VTdy1ZcFRYcXdPMUZla0JuZXdkT1VKeEpKMGE1VGVpa1oxZkQtUHJwZkdVamJ6RmRJTVZiMUs3NWRhMWpUdUFnMDdJVkVCcURSTm5GNHR6dXJubzZjNk1Ob09CMzJOU2RYYU1tLTVwYkh4TGlJaXhKM09XdnRXa2N5dlRiUm42UHMxOEJqSzRmYw?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Umamusume: Pretty Derby – O Início de uma Nova Era chega aos cinemas brasileiros no dia 17 de setembro - Crunchyroll",
+              "resumo": "Umamusume: Pretty Derby – O Início de uma Nova Era chega aos cinemas brasileiros no dia 17 de setembro Crunchyroll",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSy1EOFZoUVhiY1l1R3hYVHRMaUtaWUJuRnc3ci01OXVFOUhXa2U0Rkk0LU9iTk54aVlKTTVfN010c1JQQXBQUmduLXQtU1QzcHVkZDlkSXlIVGM5VzVoSDRDM1F5QkxrNWQtU2RjdzZsVkRXMHkzR1pNZnE1WFdHM1JCTVk0TTRyNk5tMDNjSllRQ1BCWHdEakdwN0t0ZjdwUDFrQUFaTFl3VWVpV1B5bUJBd3ZVTHc?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "Música",
+          "noticias": [
+            {
+              "titulo": "Harry Styles abre turnê no Brasil com show de artista no ápice do controle de pontos fortes e fracos - G1",
+              "resumo": "Harry Styles abre turnê no Brasil com show de artista no ápice do controle de pontos fortes e fracos G1",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT01ybEgyUlZ4ODZpOEdDZlhtSEZFZjc5eE1MZTVBaHZaaHh3MS1Zdjh5UGgzZ1lFbXZFWG4yVksxM1VxWUV3cWFuNzNjU2tjR0s1SVF5eTRtUFY0cFVFMDhlVWRQdTRSSWtpZjRHSW5SVW5KdnR3RElXdlU3QVZnOV96QVRZYWMyMFhYSFEyNERWZExKaG9uQ0ZlbUMtZ2VfLVRTcVd1UEhqOWx0WUJETWp4LWdFLTMxNFVfaU5JVlRhTzZXV3FPRjI5QkpPY2ZMWnNsUGJEQU9aS1NxbFpGWUdoNHNtNmlQcUdDTUtxTUxfSnha0gGDAkFVX3lxTFBibUViRmtYNC05SEowb2ZfLTdxY3c0elhXRTNxcE5scE15RElDX05tZy1OREpDU0dGRy1pd3FwbGlvWUdrZmsxM21xM29pZ1hFRjVHNnRWZjl0dlVJNXduUU8yWUVpb1VNSlJOTGZNSGVwc285NXB4UzVCUlpvdjl5cmNXc0NZRHJ4NjhGUmRrMjFvQjdONWdBS1BRNTI5ZlRPM3ZuZ0w0MGlHSTJtZ0VjYkhCVi1QNDlyRG5tZ1Y3ZGpsR0M0eEtZMTEtTmlydjF1T2dXQzFLZllYd2Frcm1zbzctbDdMT3RjbElIN0swXzgtWW9pcVRjamdGVjktZnM1QW8?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Mônica Salmaso une música erudita e popular em estreia imperdível - A TARDE",
+              "resumo": "Mônica Salmaso une música erudita e popular em estreia imperdível A TARDE",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjFxOGxwVEFIYldYUER6OXR3R2FzQnJXOVRwWDh6cnZkRzAxeXBfNXFUTHNfTmJ5Q2F5OEYzVHJzSUpPMS1Od0VkcktRMi1MbEtua1ZHbTJVVG5mc0RuSkplNThRWG5aaEpuTDZSZXBSa05qQ3BlemVoVG1kaGRwWEh3TXVrU1RHOE1sY0FScm9oNVU4cUxHREJvSnZxNlAyMVU1MtIBrAFBVV95cUxQeG1JZ0VCd2dHOU9yUWRuRmJ4VGhhQkZ4elB6Qm1jekdScWUyM2dUQS1NN2ZmRnpwVUpmMl80YWc3TVo0VnZMOWkyajJmQy1fcHFMVDZhUTByUXMtT0RsZ3dTQTE1V3pHRVBHMnlTZW9DOWUwODROWDU4eGtqR0w2ZFRhMlNlYm44cTVZcjhPOFBuVE5seno5cUpvaWV3Tm13bXB6enVPSndSc3oz?oc=5",
+              "fonte": "Música",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música - Gazeta Brazilian News",
+              "resumo": "Zeca Pagodinho estreia novo show no Rio - Planeta Música Gazeta Brazilian News",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEE2SHBSRzRNTHJGem02ekhDVlo0RTFJdDFFZ05PcHVvTl94WTFxSXhlQnhKaGVzZUtsdXRrRS1mellpMktwZjZ4NWt5bmh2YTdSRHdEZk55Vl92bnRwTWJ3UGIxMUNwdjNGYUw4OWx2dGNvSExMN2tBWVp5d2labHE2Q0hxanpMUFlBa0hsN2VqOUU?oc=5",
+              "fonte": "Música",
               "editoria": "Entretenimento"
             }
           ]
@@ -291,10 +411,69 @@
           "nome": "Ciência e Tecnologia",
           "noticias": [
             {
-              "titulo": "A maior descoberta das viagens à Lua foi a Terra - Agência Brasil",
-              "resumo": "A maior descoberta das viagens à Lua foi a Terra Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd090WE9mQTR6VVpUVU9NME1mSmZJNDdyQ3hfNTlZWk1HelhlbENOTTJQQ1BwZDdMZWpUWG5mZWtGb2t1Z2tla3ppUE9LeXZMYlhRZjh6X2ZpNWlSQmFqVWxpemVpVzlwcU5LWHQzdk02X3N3MmpvUDAzUnpHemFseG13c1J4TlhyWmpNN192VGRzSllrZFJ2cDdBSjhMSlRZ?oc=5",
+              "titulo": "Os cientistas que se espantaram com a própria descoberta - BBC",
+              "resumo": "Os cientistas que se espantaram com a própria descoberta BBC",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91R1hXSlBqZS0tTGhtd2dPQjJ6MFB3ZHgzLV9EUmQ2VE03WGQ1c3F4MXdKcWRRLUlIRVpRdlJ5TVR5SzBjYjlCamFFdE5TQlhaR0ZoVm9ubTRKRnpmWTdPLUF30gFnQVVfeXFMT3JVLW5Hd2VmUm9RT1Q4elh1SmVIcnJWRTRKYzZvd2Qwd2xaOFlJVVhybElsd1BjUWQ2bzJvQkVUZmY3dkJJSjdwTnVja3E4Qi1GdUZBNldvNDEycGlMNVNUUWh4RW1abw?oc=5",
               "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Da descoberta que revolucionou o mundo tecnológico para o Governo. Elvira Fortunato, a nova ministra que é uma apaixonada pela Ciência - CNN Portugal",
+              "resumo": "Da descoberta que revolucionou o mundo tecnológico para o Governo. Elvira Fortunato, a nova ministra que é uma apaixonada pela Ciência CNN Portugal",
+              "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOWm9RS3BBd2Z4eW1rYk9QYjhrQnptZVNOYTBaWnhaT21PVC1nSHNQREFoSVVCY3Uwc3VxWHQzYWp5ZUU4ZFRhNVk0enY0OW5NYUJaaWVkUzZzQ2lMeEZlZERJdTJjWVRPSGZQNmg1R3dOb0VPOFhUREJpcVRVOWl1VDhGNTlIRVRvX2hhMWpKQTdUZzRpVkxodzU3ejB6Ty1felV2ejVscWVhZjdsYWZ1Tk12bDJ1c05TM05MUlhQMWZJdXlCNkptR0xZaEZHeW16bUxKejVmUVNwTkxjVHdIT2tBNUNiMUNuSEpEWjhzT2RBaGFBc0pwOUpfLURjWDBiWlljNjdJNktRcTdCMFFaTjluNXVISVFNQmk3aXBfRlZ5NExsWFlTX2RyTVZ0eEgwQ3VrUDJ5QkJEQzlfdmdPbVdIOVo?oc=5",
+              "fonte": "Ciência e Tecnologia",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Saúde e Bem-estar",
+          "noticias": [
+            {
+              "titulo": "Pesquisa acende alerta sobre o bem-estar dos líderes - Valor Econômico",
+              "resumo": "Pesquisa acende alerta sobre o bem-estar dos líderes Valor Econômico",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUVwc2UyVzNWLWpkYVAtc1d6UDNMNHZyTHFzMWF3bGFkODhKNGJleFd1eTd3ODkxWENSYVVUWkxmeDVrMFlieXllZlVFMFJWOW1Bc3otOHpjRmtlMTB6dXdkQjBmZEUxbmRndFc1WlVQc1FLZ2FCMm9adnRoTTFtMXI3SHdWemMwbFg1b2hYWHVGQm1DQk1MM0RMRi0tRjZYSzczTmRGMVdrUHNJNWZV0gG-AUFVX3lxTE5lcU9qbXJGUmVFMTZXZm5ybmZnY25SdllhcHlmellGb2t5MG9VaWxoQ2x1dnRVdFFBTGJyQmpkeTV5ZlZpZGtDM2ZfSTl2RzQwV0VIVE54SGhhQ2VnOU80VEhiVzV1NW5WMWpDTmVrQ21lTWdfVnRHeUdEY0F2bk11Qk5qSGhxTmMyOGl3S1IwczdTMTRCZTVBTWVNV3ZkUGZVSGtrQ1BnWGlXdWZWSjA2LU5GeFJ4WVRyU21PaFE?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Pesquisa vai acompanhar saúde e bem-estar de estudantes ao longo da graduação no sul do RS - GZH",
+              "resumo": "Pesquisa vai acompanhar saúde e bem-estar de estudantes ao longo da graduação no sul do RS GZH",
+              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbGYyb01MNnJBSGltX21kRXJndGNydWtpaG1jd3hRcGtPMmNsR3NRQTJ4UkZKazBwZkpsaVlzYVNHNDM1b1dxY2hERG9ENWN0NFJIZXFrUW5rZVFMQUNXTlFrNy1RUkN1UlRYZEN6RjhFdGxMSndLbkVyU3Qtdko5MkZja0RBdWp1aUY0c3VqbkFfV2hOZXBNWG52dDZmU3RfTHZVb2xoUTktSEZOblBxazh6czNfRTZMTG1JOFNDMjRQbWkza3EySWFSUXBiTXdkRXcxdlFmbERkYVEyMjNFV2pOX2g1MTZfelNvbVUydnJNLXFfcVJSY1daVE8zSDkxMktKRjBRZmxvejR3NzBzSmM1eXY?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Seleção para Robustez: Avanços na Saúde, Bem-Estar e Produtividade dos Frangos de Corte - avinews.com",
+              "resumo": "Seleção para Robustez: Avanços na Saúde, Bem-Estar e Produtividade dos Frangos de Corte avinews.com",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0lmaFRMbm9xYko5QVV1WEliTnpTX1VCTGhuNk9zWFZDQ2pjbEt3UTg1a014WXFLQlJrZzhPYV8tSklfbjE0bFh6Nl9pOXpDYmxlcTZVVnQtYjlwTjFtY3F2S0xKSVNVanE3S0EzVXlWWWZWZDF5TGo3MG54M2NlcWZabjFwR3BLcnhoekdrREV2b3lpai1sdzJaazB4bC1XeElrOWFhSGJaVkQyNVUtZzhn?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Jardinagem: cultivar pode reduzir estresse e ansiedade - Einstein Hospital Israelita",
+              "resumo": "Jardinagem: cultivar pode reduzir estresse e ansiedade Einstein Hospital Israelita",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1BDYlZsQjV1N1dBTHlhVUdUNDN5MkJac1M5MjQwNmFMaWM2Z01rYlloNmFrQ3JVLVp2YmNtNVdsUzhQOUxyMWlfQ1FnY0ctY1drZkF0enpDSk9NUnJFWDhZUHY4TzRSNmMwQjdROEEwZlhVSWhSZ0FSY05VRXdEXzFrejd0S0MtU0xmT2dncG90TTg1TFI3aQ?oc=5",
+              "fonte": "Saúde e Bem-estar",
+              "editoria": "Curiosidades"
+            }
+          ]
+        },
+        {
+          "nome": "Curiosidades Gerais",
+          "noticias": [
+            {
+              "titulo": "Musa do OnlyFans diz que ama tomar leite quentinho - Observatório dos Famosos",
+              "resumo": "Musa do OnlyFans diz que ama tomar leite quentinho Observatório dos Famosos",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnM3WVU1WVdUaVY3aDd3LUNWUllwSGdjTW1UbllOa3Y4VmowUUZackVJeXgzcnVsTm5KclhpODl3eXRrNEJBZ2JHbUgyb1ptaEtON0VaaGxXZEFKRlpwWG81aks1S3pmVGVuTk02RTRsQjY1Y2gyTWdSTHJpbEpSODdEVlpKbU4tQmYycXM0S0RmUGpiRVJKT0VKTE5neDBqcjJOM2ZYcVFEdmxGbEtsNFpxS3hkcGhW?oc=5",
+              "fonte": "Curiosidades Gerais",
+              "editoria": "Curiosidades"
+            },
+            {
+              "titulo": "Adriane Galisteu surpreende ao revelar curiosidade inusitada sobre seus pés: \"Jamais imaginei\" - CARAS Brasil",
+              "resumo": "Adriane Galisteu surpreende ao revelar curiosidade inusitada sobre seus pés: \"Jamais imaginei\" CARAS Brasil",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYl9GNno0MW9KbG9tR3p2WHFRZ0pjaUlTbXBDNjEtNGY0U2JrSWhkQThFd2lxdU1jVE9mbmcxRzdLT2F4eXFhXzlqOS1XZXJWTjVNRmFBUlBRZ01rYmlfNnVVTXdhS0pGNGszbjNjbUZlcXdZSVp0QWtfS0h4NjhCRVJsZDhLdWJrdjdHdjRVcXlZT0NOYThaVmxYaDBOU29rQmdkYktTUFQtcEk1WUZKMDM2MUM3cWtDRUxtcHJfVXBuRktzZ1A0MEFB?oc=5",
+              "fonte": "Curiosidades Gerais",
               "editoria": "Curiosidades"
             }
           ]
