@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-18T16:19:01.582594",
+  "gerado_em": "2026-10-18T19:13:54.271874",
   "data": "18/10/2026",
-  "hora": "16h19",
-  "total": 36,
+  "hora": "19h13",
+  "total": 42,
   "editorias": [
     {
       "nome": "Local",
@@ -11,23 +11,37 @@
           "nome": "OCP News",
           "noticias": [
             {
-              "titulo": "Não votou no primeiro turno? Veja se você pode votar no segundo",
-              "resumo": "O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente […] The post Não votou no primeiro turno? Veja se você pode votar no segundo appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/politica/nao-votou-no-primeiro-turno-veja-se-voce-pode-votar-no-segundo",
+              "titulo": "1ª Divisão da Liga Jaraguaense de Futebol: veja os resultados da segunda rodada",
+              "resumo": "Três partidas movimentaram a segunda rodada do Campeonato da 1ª Divisão Topsun da Liga Jaraguaense de Futebol (LJaF) neste fim […] The post 1ª Divisão da Liga Jaraguaense de Futebol: veja os resultados da segunda rodada appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/1a-divisao-da-liga-jaraguaense-de-futebol-veja-os-resultados-da-segunda-rodada",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "Eleitor sem biometria pode votar no segundo turno das eleições",
-              "resumo": "O cadastro biométrico na Justiça Eleitoral não é obrigatório para o exercício do voto. O eleitor que não tiver a […] The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes",
+              "titulo": "VÍDEO: Snipers da PM reforçam segurança em ato de Flávio Bolsonaro na Avenida Paulista",
+              "resumo": "Atiradores de elite da Polícia Militar (PM) de São Paulo acompanharam a manifestação convocada pelo senador e candidato à Presidência […] The post VÍDEO: Snipers da PM reforçam segurança em ato de Flávio Bolsonaro na Avenida Paulista appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/politica/video-snipers-da-pm-reforcam-seguranca-em-ato-de-flavio-bolsonaro-na-avenida-paulista",
               "fonte": "OCP News",
               "editoria": "Local"
             },
             {
-              "titulo": "“Vou esfregar os crimes de Lula”: Flávio Bolsonaro promete confronto ao vivo em debate da Band",
-              "resumo": "Na tarde deste domingo, 18 de outubro, Flávio Bolsonaro (PL), candidato à Presidência da República, participou do ato político “Bloquinho […] The post “Vou esfregar os crimes de Lula”: Flávio Bolsonaro promete confronto ao vivo em debate da Band appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
-              "link": "https://ocp.news/politica/vou-esfregar-os-crimes-de-lula-flavio-bolsonaro-promete-confronto-ao-vivo-em-debate-da-band",
+              "titulo": "Morre Lua Blanco, a Roberta de “Rebelde”, aos 39 anos após câncer",
+              "resumo": "A atriz e cantora Lua Blanco morreu aos 39 anos neste domingo, 18 de outubro, após enfrentar um câncer nos […] The post Morre Lua Blanco, a Roberta de “Rebelde”, aos 39 anos após câncer appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/morre-lua-blanco-a-roberta-de-rebelde-aos-39-anos-apos-cancer",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Filipe Luís conhece a primeira derrota sob o comando do Monaco",
+              "resumo": "O técnico jaraguaense Filipe Luís sofreu sua primeira derrota no comando do Monaco neste domingo (18). Fora de casa, a […] The post Filipe Luís conhece a primeira derrota sob o comando do Monaco appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/esporte/filipe-luis-conhece-a-primeira-derrota-sob-o-comando-do-monaco",
+              "fonte": "OCP News",
+              "editoria": "Local"
+            },
+            {
+              "titulo": "Domingo tem sol, mas temperatura pode chegar a 10°C em Jaraguá do Sul; veja a previsão",
+              "resumo": "O domingo, 18 de outubro, foi marcado pelo predomínio de sol e temperaturas agradáveis em Jaraguá do Sul. Durante a […] The post Domingo tem sol, mas temperatura pode chegar a 10°C em Jaraguá do Sul; veja a previsão appeared first on OCP News | As melhores notícias e histórias de Santa Catarina.",
+              "link": "https://ocp.news/cotidiano/domingo-tem-sol-mas-temperatura-pode-chegar-a-10c-em-jaragua-do-sul-veja-a-previsao",
               "fonte": "OCP News",
               "editoria": "Local"
             }
@@ -39,52 +53,40 @@
       "nome": "Estado",
       "fontes": [
         {
-          "nome": "G1 SC",
-          "noticias": [
-            {
-              "titulo": "Apoiadores de Lula fazem ato pelas ruas de Florianópolis",
-              "resumo": "Apoiadores de Lula fazem ato pelas ruas de Florianópolis Apoiadores do presidente Luiz Inácio Lula da Silva (PT) se reuniram no Centro de Florianópolis neste domingo (18). O ato conta com a participação de artistas, políticos e lideranças aliadas. A mobilização começou às 11h. Ao longo da caminhada, milhares de participantes ergueram bandeiras, faixas e cartazes em apoio ao candidato à reeleição, além de cantar músicas de campanha.",
-              "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/18/apoiadores-lula-ato-ruas-florianopolis.ghtml",
-              "fonte": "G1 SC",
-              "editoria": "Estado"
-            }
-          ]
-        },
-        {
           "nome": "ND Mais",
           "noticias": [
             {
-              "titulo": "Ciclone impulsiona massa de ar frio em 8 estados e derruba temperaturas com mínimas de até -4°C; veja onde o frio será intenso e quando a chuva volta",
-              "resumo": "Massa de ar frio mantém temperaturas negativas na Serra Catarinense, enquanto ciclone extratropical favorece chuva no leste do Sudeste; veja quando o tempo volta a mudar O post Ciclone impulsiona massa de ar frio em 8 estados e derruba temperaturas com mínimas de até -4°C; veja onde o frio será intenso e quando a chuva volta apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/ciclone-impulsiona-massa-de-ar-frio-em-8-estados-e-derruba-temperaturas-com-minimas-de-ate-4c-veja-onde-o-frio-sera-intenso-e-quando-a-chuva-volta/",
+              "titulo": "Empresário de 23 anos morre em acidente de moto após cavalo invadir rodovia em SC",
+              "resumo": "Motociclista bateu contra animal, caiu na pista contrária e foi atropelado por carro na SC-452, em Monte Carlo, no Meio-Oeste catarinense O post Empresário de 23 anos morre em acidente de moto após cavalo invadir rodovia em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/transito/empresario-morre-em-acidente-apos-cavalo-invadir-rodovia-em-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Como é o protocolo de segurança que salvou a vida de piloto que estava no carro que explodiu no Speedway em Balneário Camboriú",
-              "resumo": "Carro perdeu o controle durante prova de arrancada, bateu contra o muro, explodiu e pegou fogo na noite de sábado (17) O post Como é o protocolo de segurança que salvou a vida de piloto que estava no carro que explodiu no Speedway em Balneário Camboriú apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/esportes/radicais/como-e-o-protocolo-de-seguranca-que-salvou-a-vida-de-piloto-que-estava-no-carro-que-explodiu-no-speedway-em-balneario-camboriu/",
+              "titulo": "Avaí empata com o Athletic e vê equipe rival abrir distância na briga contra o rebaixamento",
+              "resumo": "O inimigo agora é outro. O empate em 0 a 0 do Avaí com o Athletic, na tarde […] O post Avaí empata com o Athletic e vê equipe rival abrir distância na briga contra o rebaixamento apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/futebol/avai-empata-com-o-athletic-e-ve-equipe-rival-abrir-distancia-na-briga-contra-o-rebaixamento/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Apostadores de SC acertam a quina da Mega-Sena 3071 de R$ 171 milhões e faturam bolada",
-              "resumo": "Jogos registrados em Içara, Porto União e Tubarão acertaram a quina e garantiram fatias da premiação; valor principal acumulou O post Apostadores de SC acertam a quina da Mega-Sena 3071 de R$ 171 milhões e faturam bolada apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/loterias/mega-sena-3071-bolao-apostas-de-sc-dividem-235-mil/",
+              "titulo": "MPF recorre após Justiça negar redes de proteção a motoristas em serviços de roçagem na BR-101 em SC",
+              "resumo": "Órgão aponta que serviços de poda e roçagem lançam detritos contra veículos em trânsito; perícia comprovou risco real de lesões a condutores O post MPF recorre após Justiça negar redes de proteção a motoristas em serviços de roçagem na BR-101 em SC apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/justica/mpf-recorre-tribunal-federal-redes-de-protecao-na-br-101-sc/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "Arthur Aguiar descobre morte de Lua Blanco durante live no TikTok: ‘Como assim, gente?’",
-              "resumo": "Arthur Aguiar foi surpreendido com a morte de Lua Blanco, aos 39 anos, enquanto fazia uma live; os dois haviam se reconciliado após 11 anos O post Arthur Aguiar descobre morte de Lua Blanco durante live no TikTok: ‘Como assim, gente?’ apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/famosos/arthur-aguiar-descobre-morte-lua-blanco-live-tiktok/",
+              "titulo": "Quem era o cirurgião plástico de 57 anos conhecido pelo ‘lifting de bumbum brasileiro’ e assassinado dentro de clínica na Espanha",
+              "resumo": "Conhecido por atender celebridades e realizar cirurgias de contorno corporal, Alexander Aslani foi morto a tiros em Marbella; polícia investiga possível crime encomendado O post Quem era o cirurgião plástico de 57 anos conhecido pelo ‘lifting de bumbum brasileiro’ e assassinado dentro de clínica na Espanha apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/seguranca/quem-era-alexander-aslani-cirurgiao-plastico/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             },
             {
-              "titulo": "El Niño pode ficar ainda mais forte e NOAA aponta quando fenômeno deve atingir o pico em 2026",
-              "resumo": "Nova previsão da NOAA indica que o El Niño pode ganhar intensidade nos próximos meses e continuar ativo em 2027 O post El Niño pode ficar ainda mais forte e NOAA aponta quando fenômeno deve atingir o pico em 2026 apareceu primeiro em ND Mais",
-              "link": "https://ndmais.com.br/tempo/el-nino-mais-forte-noaa-preve-pico-2026/",
+              "titulo": "Quem vai lutar pelas urgentes melhorias no trecho do Morro dos Cavalos da BR-101?",
+              "resumo": "Últimos dias marcaram mais uma série de problemas envolvendo o fluxo de veículos na BR-101, em Palhoça, trecho do Morro dos Cavalos; quem vai lutar pelas urgentes e indispensáveis obras? O post Quem vai lutar pelas urgentes melhorias no trecho do Morro dos Cavalos da BR-101? apareceu primeiro em ND Mais",
+              "link": "https://ndmais.com.br/infraestrutura/quem-vai-lutar-pelas-urgentes-melhorias-no-trecho-do-morro-dos-cavalos-da-br-101/",
               "fonte": "ND Mais",
               "editoria": "Estado"
             }
@@ -99,38 +101,57 @@
           "nome": "G1 Brasil",
           "noticias": [
             {
-              "titulo": "Homem fica gravemente ferido após perder controle de trike voador em MT",
-              "resumo": "Homem de 32 anos ficou gravemente ferido após perder o controle de um trike voador em MT Corpo de Bombeiros Um homem de 32 anos ficou gravemente ferido após perder o controle de um trike voador ainda no solo, em Lucas do Rio Verde, a 360 km de Cuiabá, na noite desse sábado (17). Segundo o Corpo de Bombeiros, ele sofreu múltiplos traumatismos e foi encaminhado ao Hospital São Lucas.",
-              "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/18/homem-fica-gravemente-ferido-apos-perder-controle-de-trike-voador-em-mt.ghtml",
+              "titulo": "Policial civil e outras duas pessoas são presos suspeitos de roubar malas de ônibus",
+              "resumo": "Aparelhos celulares e tablets foram encontrados dentro de um carro, no condomínio do policial suspeito de roubar um ônibus em Itu (SP) Guarda Civil Municipal de Itu/Divulgação Um policial civil e outras duas pessoas foram presos no sábado (17) suspeitos de roubar um ônibus na rodovia Castello Branco, em Itu (SP). A Corregedoria da Polícia Civil instaurou um procedimento administrativo contra o agente.",
+              "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/18/policial-civil-e-outras-duas-pessoas-sao-presos-suspeitos-de-roubar-onibus-em-itu.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Polícia apreende 236 kg de maconha em carro abandonado em estrada de terra em Presidente Venceslau",
-              "resumo": "Grande quantidade de maconha estava escondida em carro abandonado em estrada de terra Polícia Militar/Divulgação A Polícia Militar apreendeu 236 quilos de maconha, em Presidente Venceslau (SP), neste sábado (17). A droga foi encontrada em um carro abandonado em uma estrada de terra.",
-              "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/18/policia-apreende-maconha-em-carro-abandonado-em-estrada-de-terra-em-presidente-venceslau.ghtml",
+              "titulo": "Moradores fazem manifestação após ficarem dias sem água em Cachoeiras de Macacu: 'Sem uma gota d'água e temos crianças'",
+              "resumo": "Moradores fazem manifestação após ficarem sem água em Cachoeiras de Macacu Moradores de Cachoeiras de Macacu (RJ) fizeram uma manifestação na tarde deste domingo (18), em Ribeira, na altura do km 21 da RJ-116, para cobrar a normalização do abastecimento de água. Segundo os moradores, há um mês que o fornecimento de água é afetado, mas se agravou nos últimos dias.",
+              "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/18/moradores-fazem-manifestacao-apos-ficarem-dias-sem-agua-em-cachoeiras-de-macacu-sem-uma-gota-dagua-e-temos-criancas.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Inmet emite alerta de tempestade, granizo e ventos de até 60 km/h para 66 cidades do RJ; veja lista",
-              "resumo": "Defesa Civil de Petrópolis emite alerta para ventos de até 70 km/h Priscila Torquato/g1 O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de tempestade para 66 municípios do estado do Rio de Janeiro, estando 43 deles na área de cobertura da Inter TV RJ, localizados nas regiões dos Lagos, Serrana, Metropolitana, Norte e Noroeste Fluminense, Baixadas Litorâneas e Centro-Sul Fluminense.",
-              "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/18/inmet-emite-alerta-de-tempestade-granizo-e-ventos-de-ate-60-kmh-para-66-cidades-do-rj-veja-lista.ghtml",
+              "titulo": "Médico morre em troca de tiros com a polícia no noroeste de SP",
+              "resumo": "Médico de 52 anos morre em troca de tiros com a polícia, em Catanduva (SP) Reprodução/Instagram Um médico de 52 anos morreu na tarde deste domingo (18) em uma troca de tiros com a polícia, em Catanduva (SP), no noroeste de SP. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Segundo informações preliminares da Polícia Civil, a ocorrência iniciou-se no atendimento de um caso de violência doméstica, no Centro.",
+              "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/medico-morre-em-troca-de-tiros-com-policia-no-noroeste-de-sp.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Você viu? Plantação de melancia com 20 mil pés, homem resgatado de 'tribunal do crime' e mais em RR",
-              "resumo": "Perdeu as notícias da semana? Confira abaixo as reportagens mais acessadas pelos leitores do g1 Roraima entre os dias 11 e 17 de outubro de 2026. ✅ Clique aqui para seguir o canal do g1 RR no WhatsApp 11/10 Produção de melancias de Rosimaria Oliveira sendo carregada para vendas em Boa Vista.",
-              "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/voce-viu-plantacao-de-melancia-com-20-mil-pes-homem-resgatado-de-tribunal-do-crime-e-mais-em-rr.ghtml",
+              "titulo": "Adolescente fantasiado de Fofão fica ferido após cair durante apresentação em MG",
+              "resumo": "Um adolescente de 17 anos que trabalhava fantasiado de Fofão ficou ferido após sofrer uma queda durante uma apresentação na noite de sábado (17), em Alfenas (MG). O acidente aconteceu por volta das 21h, na Rua Dom Silvério, no bairro Jardim Boa Esperança.",
+              "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/18/adolescente-fantasiado-de-fofao-fica-ferido-apos-cair-durante-apresentacao-em-mg.ghtml",
               "fonte": "G1 Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Apoiadores de Lula protestam em ato com Daniela Mercury, Gilberto Gil, Zélia Duncan, Liniker e outros artistas em Salvador",
-              "resumo": "Apoiadores de Lula protestam com Daniela, Gil, Liniker e outros artistas na BA Apoiadores do atual presidente Luiz Inácio Lula da Silva (PT) nas eleições 2026 se reuniram em protesto, neste domingo (18), com artistas da Bahia e de outros estados do país, em Salvador.",
-              "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/18/ato-pela-democracia-em-salvador.ghtml",
+              "titulo": "Estudante morre e amigo fica ferido após acidente na GO-080",
+              "resumo": "Estudante morre após acidente na GO-080, em Petrolina de Goiá Reprodução/TV Anhanguera Um estudante de 18 anos morreu depois que o carro em que estava capotou na GO-080, em Petrolina de Goiás, na tarde deste domingo (18). Segundo o Comando de Policiamento Rodoviário, um amigo dele também estava no veículo e ficou gravemente ferido. ✅ Clique e siga o canal do g1 GO no WhatsApp A vítima foi identificada como Eduardo da Silva Leão.",
+              "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/18/estudante-morre-apos-acidente-em-goias.ghtml",
               "fonte": "G1 Brasil",
+              "editoria": "Brasil"
+            }
+          ]
+        },
+        {
+          "nome": "G1 Economia",
+          "noticias": [
+            {
+              "titulo": "Trump diz que não quer afastar Rússia de negociações e acusa Zelensky de prolongar guerra",
+              "resumo": "Vladimir Putin, Donald Trump e Volodymyr Zelensky. Sputnik/Gavriil Grigorov/Pool via REUTERS, Reuters e Genya Savilov/AFP O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (18) que não quer adotar medidas que afastem a Rússia das negociações para encerrar a guerra na Ucrânia.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml",
+              "fonte": "G1 Economia",
+              "editoria": "Brasil"
+            },
+            {
+              "titulo": "Rubio diz que Trump terá até 60 dias para reavaliar suspensão de sanções à Rússia",
+              "resumo": "Donald Trump e Vladimir Putin. Kevin Lamarque/Reuters O presidente dos Estados Unidos, Donald Trump, terá até 60 dias para avaliar os impactos econômicos da suspensão de sanções e tarifas relacionadas à Rússia, afirmou neste sábado (17) o secretário de Estado americano, Marco Rubio. As medidas haviam sido suspensas na véspera, e Trump ainda não anunciou uma decisão definitiva sobre o assunto.",
+              "link": "https://g1.globo.com/mundo/noticia/2026/10/18/rubio-diz-que-trump-tera-ate-60-dias-para-reavaliar-suspensao-de-sancoes-a-russia.ghtml",
+              "fonte": "G1 Economia",
               "editoria": "Brasil"
             }
           ]
@@ -139,37 +160,37 @@
           "nome": "CNN Brasil",
           "noticias": [
             {
-              "titulo": "Queimadas no Amazonas: quais são os riscos de inalar fumaça?",
-              "resumo": "Incêndios expõe a população a elevados níveis de poluentes atmosféricos, que podem causar irritações nas vias respiratórias, tosse, falta de ar e agravamento de doenças como asma e bronquite, que podem levar ao óbito",
-              "link": "https://www.cnnbrasil.com.br/saude/queimadas-no-amazonas-quais-sao-os-riscos-de-inalar-fumaca/",
+              "titulo": "Mbappé brilha, e Real Madrid goleia Sevilla pelo Campeonato Espanhol",
+              "resumo": "Craque francês marcou duas vezes, Arda Güler e Yan Diomande completam placar expressivo no Santiago Bernabéu em Madri",
+              "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/mbappe-brilha-e-real-madrid-goleia-sevilla-pelo-campeonato-espanhol/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Macron promete punir quem causou destruição nos protestos na França",
-              "resumo": "Pelo menos duas pessoas morreram nas manifestações de sábado (17); mais de 2.000 foram presas",
-              "link": "https://www.cnnbrasil.com.br/internacional/macron-promete-punir-quem-causou-destruicao-nos-protestos-na-franca/",
+              "titulo": "Grêmio 2 x 4 Cruzeiro: veja os melhores momentos do Brasileirão",
+              "resumo": "Cabuloso venceu o Imortal por 4 a 2, na 31ª rodada do Campeonato Brasileiro. Com o resultado, a equipe de Renato Gaúcho se mantém na zona de rebaixamento",
+              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-2-x-4-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Análise: Novas regras do TSE no 2º turno geram insegurança jurídica",
-              "resumo": "Âncora da CNN Débora Bergamasco critica, ao CNN Agora, falta de planejamento da Justiça Eleitoral para combater fake news e alerta para prejuízos ao eleitor",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/analise-novas-regras-do-tse-no-2o-turno-geram-inseguranca-juridica/",
+              "titulo": "No Egito, Luciana Gimenez visita templo e brinca com nome de faraó",
+              "resumo": "A apresentadora passa pelo Cairo, compartilha encontros culturais nas redes e relata encantamento com a história egípcia",
+              "link": "https://www.cnnbrasil.com.br/pop/celebridades/no-egito-luciana-gimenez-visita-templo-e-brinca-com-nome-de-farao/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Albânia tem confronto entre manifestantes e polícia em novo dia de protesto",
-              "resumo": "Manifestações lideradas por estudantes e impulsionadas pela indignação com a suposta corrupção governamental, a falta de empregos e a precariedade do sistema educacional tomaram conta de várias cidades",
-              "link": "https://www.cnnbrasil.com.br/internacional/albania-tem-confronto-entre-manifestantes-e-policia-em-novo-dia-de-protesto/",
+              "titulo": "Trump diz que isenção de sanções à Rússia visa manter país nas negociações",
+              "resumo": "Presidente americano afirmou que não quer fazer nada que possa afastar Moscou da mesa de conversas com Kiev; medida foi criticada por Zelensky, que a classificou como \"equivocada\"",
+              "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-isencao-de-sancoes-a-russia-visa-manter-pais-nas-negociacoes/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             },
             {
-              "titulo": "Domingo de campanha: Flávio fala de vagas no STF; PT lembra mortes na Covid",
-              "resumo": "Presidente e senador também participarão de debate presidencial na noite deste domingo (18); esse será o primeiro confronto ao vivo entre os dois nestas eleições",
-              "link": "https://www.cnnbrasil.com.br/eleicoes/domingo-de-campanha-flavio-fala-de-vagas-no-stf-pt-lembra-mortes-na-covid/",
+              "titulo": "Santos aposta em ofensiva, vira contra Flu e vence por 2 a 1 no Maracanã",
+              "resumo": "Gabigol e Coutinho marcaram em vitória santista pela 31ª rodada do Campeonato Brasileiro Série A",
+              "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-aposta-em-ofensiva-vira-contra-flu-e-vence-por-2x1-no-maracana/",
               "fonte": "CNN Brasil",
               "editoria": "Brasil"
             }
@@ -179,16 +200,9 @@
           "nome": "Agência Brasil",
           "noticias": [
             {
-              "titulo": "Tensões voltam a crescer; França contabiliza custos de protestos",
-              "resumo": "Novos confrontos eclodiram em Paris neste domingo (18), um dia depois de a França ter vivido um dos piores dias de agitação dos últimos anos, com protestos contra os preços altos que deixaram um manifestante morto, milhares de pessoas presas e lojas saqueadas ou danificadas em todo o país.",
-              "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/tensoes-voltam-crescer-franca-contabiliza-custos-de-protestos",
-              "fonte": "Agência Brasil",
-              "editoria": "Brasil"
-            },
-            {
-              "titulo": "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira",
-              "resumo": "O concurso 3.071 da Mega-sena acumulou já que nenhuma aposta acertou as seis dezenas sorteadas na manhã deste domingo (18). Com isso, o prêmio estimado para o concurso de terça-feira (20) deve chegar a R$ 185 milhões. Os números sorteados no Espaço da Sorte, em São Paulo foram: 12, 22, 41, 45, 51 e 52. Nesta edição, 102 apostas acertaram cinco dezenas e levarão prêmio de R$ 58.806 cada. Já as 7.",
-              "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-premio-pode-chegar-r-185-milhoes-na-terca-feira",
+              "titulo": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
+              "resumo": "As atividades relacionadas ao setor de minerais críticos e estratégicos (MCE) para o Brasil somaram 129.423 empregos, em 2025, o equivalente a 57% dos 226.634 empregos da indústria extrativa mineral do país. Quando comparado ao mesmo mercado de trabalho registrado em 2023, houve crescimento de 8,6% no período. Notícias relacionadas:Brasil cria política para ampliar produção de minerais críticos.",
+              "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil",
               "fonte": "Agência Brasil",
               "editoria": "Brasil"
             }
@@ -203,9 +217,16 @@
           "nome": "Política SC — Deputados e Senadores",
           "noticias": [
             {
-              "titulo": "Apuração ao vivo das Eleições 2026 em Santa Catarina - NSC Total",
-              "resumo": "Apuração ao vivo das Eleições 2026 em Santa Catarina NSC Total",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQUxSX0hNVm1NaHJ4SVNnZjRwelpEQkkyYjA4ejZITGJUNVJFSmZ4SV9nRkp6RW9MTlQ4V0Zpa0lJWHFCNXN1VkxsU3VheDVoM1BpUjloMVR2WVVFQmh5Y0RqeEpGTjRaZTlXNGx2d2w0bFg1U0JZNmVzS20zbFU?oc=5",
+              "titulo": "Eleições 2026: quem são os principais candidatos a governador em cada Estado - BBC",
+              "resumo": "Eleições 2026: quem são os principais candidatos a governador em cada Estado BBC",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4WkQyS1pIMm1TX0pFZE15NXppM0hKbWFDaTU4NjZOdW1JS0JZU0dvYUtRYkNaMXBla2Z6bWhjTWdfUzR0S21ubEFuaFpYYWRNazhveVotRGpkNjNMdnFqOVZyQQ?oc=5",
+              "fonte": "Política SC — Deputados e Senadores",
+              "editoria": "Politica"
+            },
+            {
+              "titulo": "Santa Catarina reelege Jorginho Mello e coloca Carlos Bolsonaro no Senado - Jornal GGN",
+              "resumo": "Santa Catarina reelege Jorginho Mello e coloca Carlos Bolsonaro no Senado Jornal GGN",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oZlJXNnJpamo3bWhFRHkwampNeExUa1VlTU1WOEdDZzd4THlHR3IyQlVJWENZbVI4b1ZGVXAwYTkwTDlxNDFjLWljTHlJeEVxa3NKeUlVdklLcmo3V2VuOUZBNUw?oc=5",
               "fonte": "Política SC — Deputados e Senadores",
               "editoria": "Politica"
             }
@@ -215,9 +236,9 @@
           "nome": "Política Brasil — Congresso e Presidente",
           "noticias": [
             {
-              "titulo": "Governo e Congresso acertam pautas para esforço concentrado de votação - Agência Brasil",
-              "resumo": "Governo e Congresso acertam pautas para esforço concentrado de votação Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTk1RUZjejRwNlZpMkh3d1RmeWw3Xzh0MUU5NmZ1cFJIU1JjcmdtcWRjcWtSakVOV2p4cGpVSk1RQ0VoRzFtb3dfWGtXQ3FSNHpRU3U1Z3lFU2h0TVB2NGpNVXRXLUpMRDZhTk5WbEdqWE5ibE9LTEZOdWhHVmdVR1JTd2k4cnEzN2UyQlhEeTNSOURrSXFidHhTS0tjY3IzTFdrSVVnUEJyRnJjcVM0VnpCN21tdHJ3Sm85LUVNVUxyYlIwdFNZ?oc=5",
+              "titulo": "Congresso volta na quarta-feira com pautas importantes - Agência Brasil",
+              "resumo": "Congresso volta na quarta-feira com pautas importantes Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnF6N290SzhPckhUOGZxSmt0bF9wQmtVWEVyZVFuX2V6VmdJeEVwcml1OUxaaHhGbVR4YUxKMEd3UmU3ZGZjTUMyN0JRM2Z4Zk9qRkdlNnlaMVVwcFZDX1B3OUZBeHRYVTZWV3RqQUh6RWZRU0hrWENlY3lJcGxGM1lBVXZxQ09XbXZmbWtFa2VJa0w1Yk1hWFF4ZkUxRGRkdXk5dVNvVldnNHNnVG9HMUNR?oc=5",
               "fonte": "Política Brasil — Congresso e Presidente",
               "editoria": "Politica"
             }
@@ -232,37 +253,37 @@
           "nome": "GE",
           "noticias": [
             {
-              "titulo": "Londrina x Athletico-PR - Copa Paraná 2026 - Ao vivo - globoesporte.com",
-              "resumo": "Copa Paraná 2026 no globoesporte.com - acompanhe tudo sobre Londrina x Athletico-PR: escalação, informações sobre o jogo, fotos e muito mais",
-              "link": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/18-10-2026/londrina-atletico-pr.ghtml",
+              "titulo": "Corrida ao pôr do sol deve reunir mais de 3,5 mil atletas na Ponta Negra, em Manaus",
+              "resumo": "O Complexo Esportivo da Ponta Negra de Manaus, na Zona Oeste da cidade, recebe no próximo dia 21 de novembro, a 11ª edição da corrida-show Nossa Energia Move a Amazônia (NEMA). A expectativa é que pelo menos 3,5 atletas participem das provas e outras milhares acompanhem a programação musical que terá o cantor Samuel Rosa com atração principal. A prova terá percursos de 5 km e 9 km, com largada às 16h30, pela orla da Ponta Negra.",
+              "link": "https://ge.globo.com/am/noticia/2026/10/18/corrida-ao-por-do-sol-deve-reunir-mais-de-35-mil-atletas-na-ponta-negra-em-manaus.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Real Madrid x Sevilla - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com",
-              "resumo": "Campeonato Espanhol 2026/27 no globoesporte.com - acompanhe tudo sobre Real Madrid x Sevilla: escalação, informações sobre o jogo, fotos e muito mais",
-              "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/18-10-2026/realmadrid-Sevilla.ghtml",
+              "titulo": "Cuca valoriza força do Santos como visitante e elogia Neymar: \"Partida em que mais competiu\"",
+              "resumo": "Fluminense 1 x 2 Santos | melhores momentos | 31ª rodada | Brasileirão 2026 O Santos segue firme e forte em sua campanha como um dos melhores times do segundo turno do Campeonato Brasileiro. Neste domingo, o Peixe bateu o Fluminense, por 2 a 1, chegou aos 45 pontos e e ganhou força na briga por uma vaga na Conmebol Libertadores do ano que vem. Para o técnico Cuca, o resultado é a consolidação de um bom trabalho nos últimos meses.",
+              "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/18/cuca-valoriza-forca-do-santos-como-visitante-e-elogia-neymar-partida-em-que-mais-competiu.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Com Acevedo, veja relacionados do Bahia para enfrentar o Flamengo",
-              "resumo": "Bahia x Flamengo: informações e palpite para o jogo O Bahia tem 24 jogadores relacioniados para a partida deste domingo, contra o Flamengo, válida pela 31ª do Campeonato Brasileiro. A grande novidade é a volta do meio-campista Acevedo, desfalque na vitória sobre o Mirassol por causa de suspensão.",
-              "link": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/18/com-acevedo-veja-relacionados-do-bahia-para-enfrentar-o-flamengo.ghtml",
+              "titulo": "Paulinho critica arbitragem de Grêmio x Cruzeiro: \"Erro que poderia ter influenciado\"",
+              "resumo": "Aos 13 min do 1º tempo - Pênalti para o Grêmio! Amuzu é derrubado por Zé Lucas! Executivo de futebol do Cruzeiro, Paulinho fez um pronunciamento a respeito da arbitragem do jogo contra o Grêmio. Mesmo após a vitória por 4 a 2 sobre o time gaúcho, no Brasileirão, o diretor pediu reflexão dos árbitros e criticou atitude que poderia ter influenciado a partida.",
+              "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/10/18/paulinho-critica-arbitragem-de-gremio-x-cruzeiro-erro-que-poderia-ter-influenciado.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "World Skate Games: Rayssa Leal na final do Mundial",
-              "resumo": "World Skate Games: Rayssa Leal na final do Mundial Maranhense busca o tricampeonato da competição após avançar em 7º na semifinal; Maria Lúcia também disputa a decisão",
-              "link": "https://ge.globo.com/skate/ao-vivo/world-skate-games-rayssa-leal-na-final-do-mundial.ghtml",
+              "titulo": "Marcão reconhece queda do Fluminense, mas reforça confiança por Libertadores: \"Vamos buscar a classificação\"",
+              "resumo": "Fluminense x Santos - Melhores Momentos Marcão, técnico do Fluminense, analisou a derrota da equipe por 2 a 1 contra o Santos, na tarde deste domingo, no Maracanã. O time tricolor chegou à terceira derrota consecutiva jogando em casa e saiu do G-4 do Campeonato Brasileiro. O treinador reconheceu a queda de desempenho do Flu na segunda etapa, que acabou resultando na virada do Santos: — Precisamos separar o que foi o jogo.",
+              "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/18/marcao-reconhece-queda-de-desempenho-do-fluminense-mas-reforca-confianca-por-libertadores-vamos-buscar-a-classificacao.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             },
             {
-              "titulo": "Após garantir acesso, Simão Dias conquista título da Taça Brasil 2ª Divisão em Brasília",
-              "resumo": "A equipe de Simão Dias garantiu neste domingo o título da Taça Brasil 2ª Divisão, que foi realizada ao longo desta semana em Brasília. Os simãodienses derrotaram na final o Fidas Futsal pelo placar de 4 a 2, garantindo a conquista nacional. Simão Dias é campeão da Taça Brasil 2ª Divisão Jaderson Oliveira/CBFS Os gols do time sergipano foram marcados por Rickelb, Clayton, Pitel e Neto Show.",
-              "link": "https://ge.globo.com/se/noticia/2026/10/18/apos-garantir-acesso-simao-dias-garante-titulo-da-taca-brasil-2a-divisao-em-brasilia.ghtml",
+              "titulo": "Kaio Jorge faz segundo hat-trick da carreira pelo Cruzeiro; veja os gols",
+              "resumo": "Incrível! Veja o hat-trick de Kaio Jorge sobre o Grêmio! Kaio Jorge teve uma noite de brilho com a camisa do Cruzeiro. Diante do Grêmio, o atacante marcou três gols e comandou a virada por 4 a 2, no Rio Grande do Sul. Foi o segundo hat-trick da carreira do camisa 19, que havia conseguido o feito pela primeira vez há um ano.",
+              "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/10/18/kaio-jorge-faz-segundo-hat-trick-da-carreira-pelo-cruzeiro-veja-os-gols.ghtml",
               "fonte": "GE",
               "editoria": "Esporte"
             }
@@ -277,17 +298,29 @@
           "nome": "Famosos e Celebridades",
           "noticias": [
             {
-              "titulo": "Famosos lamentam a morte de Lua Blanco, atriz de \"Rebelde\" no Brasil - CNN Brasil",
-              "resumo": "Famosos lamentam a morte de Lua Blanco, atriz de \"Rebelde\" no Brasil CNN Brasil",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmN1b2lZQW1iWDQzZmFzOUNMMngwTUZiTUVmV2tWUHVxNDZuXy1md2pnOFpyMURUaTVodDM2eXhTYTJUM3Y4NFdrSzJYaEJtaUVFeDdRd0RGV25Jdm04b3Q4VzZTeFh3VElWblY1SjFSVDhkSzE0U2dIWlVJcUtpVEZ0dkJJaUdSZnJzZVRaaWYwa01BVFhQdVp0N0s0dnhRWDBCdW90eXlzbWFvRDJ5dG5n?oc=5",
+              "titulo": "Sete celebridades brasileiras que escolheram morar fora do Brasil - R7 Entretenimento",
+              "resumo": "Sete celebridades brasileiras que escolheram morar fora do Brasil R7 Entretenimento",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG5FMGQxRHVGSkdkY18tVWVaYThzZjFzaXdZTnNPZ2ZQNHVHc3ZjMUlpNE1GYUVaNzdFZlhCc21xX01ZbUM5YXhTN2NvUk5OVWRlSnBjMmRZVXJvdUd3NWZiWTlRcEV0Sk8xeXlkRGlMc2tFcFBXT3pYOU5fTDdfcUx3WDFPd3hhUWJiU0NpbWt6UzNUS1MtY004TlBtU2hrVXVsanVtWXFzVmNtX0hfZi1HclJXVGctZUE?oc=5",
               "fonte": "Famosos e Celebridades",
+              "editoria": "Entretenimento"
+            }
+          ]
+        },
+        {
+          "nome": "TV e Novelas",
+          "noticias": [
+            {
+              "titulo": "'Achei que a hora de voltar era agora', diz Sheron Menezzes sobre retorno às novelas da Globo - UOL",
+              "resumo": "'Achei que a hora de voltar era agora', diz Sheron Menezzes sobre retorno às novelas da Globo UOL",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb1JVOU1iTkFCRmpBU0ZLRUtwZ2JYYU5RQWlUZUIxczFrRU9TYmtEb2ZTM3JlbnlBMnM2QTl4cW5VNFhPbTR6eU54VElRUE9kS0pDRV9tZ3ZqNUV3ajdVelVtV2twM0ZvekoxR3BDSmNZbTVma0ZmY0IxTGl1LXZmb0h6MGtaUVlzc2hZTFU4bDliMGowbGxna1ZOZjdjX2tPdHVBNVFJN0R4cmliTWZxSnFfWVJSNDFiRjVkQzM3ZXdtWVdZZ2FWQnBkR0NfLWlhNm0tdlg0SWc0ZVFuNXEzMXV6UW5UMWMxeVhZ?oc=5",
+              "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             },
             {
-              "titulo": "Selton Mello, João Gomes e outros famosos viram 'desaparecidos' por silêncio nas eleições - UOL",
-              "resumo": "Selton Mello, João Gomes e outros famosos viram 'desaparecidos' por silêncio nas eleições UOL",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS092SWx6VEtsWEpJLThOWE5JdllsMUtoM1lHd2VQaUJMaVRoUE4zcTRFWENhTkFZN0ZIQmhCTEJXa3JGZHZMT0pMOHFMemFzOExRTlkwVHd2b0pMdmkyT25iX01VbXNFNWlsR3d2ZEo0UDhZeWZjTGk5ZmtOd2VhY2ZfNGsyaVJEdlVTd2JfenhlZjVLbDhhY3MxakN4NGJrVXdWa2dPMFl2bWhjWTI2NW5ock1aQzYxZHN5enpzY1F0dHNaRU1vZjZJWjlpcU5NR0ZpMTFJY1c?oc=5",
-              "fonte": "Famosos e Celebridades",
+              "titulo": "Vai ter novela hoje? Veja a programação da Globo nesta sexta-feira - Tribuna do Sertão",
+              "resumo": "Vai ter novela hoje? Veja a programação da Globo nesta sexta-feira Tribuna do Sertão",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM05oVmM0STlKX244dG9CMXFwdENjT2R4ay1feFJmNmtFaDZiTFZRemt5aldpRTNzbTBTOE4xVndIVjZ3UkZKTFhVVXFrMWFsLWUxZzVGRDZJRVlkd19fa2dsYW1JbkVma25xOGJnWl80MENvOXA5QU45WUdRbklxYndQUHZycFlxTXI4UE5FVkRnSlFIdWVWVFRnNjctOVN2aHBBYXBJREg5VVRLY3pJc2pWeF9WWkREelBDSlB5WmNGUHQxTlJnOA?oc=5",
+              "fonte": "TV e Novelas",
               "editoria": "Entretenimento"
             }
           ]
@@ -296,9 +329,37 @@
           "nome": "Cinema e Filmes",
           "noticias": [
             {
-              "titulo": "‘Dia D’, novo filme de Steven Spielberg, estreia no streaming - Rolling Stone Brasil",
-              "resumo": "‘Dia D’, novo filme de Steven Spielberg, estreia no streaming Rolling Stone Brasil",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3VscmVnT2xfN0pPVU1oaVkzdTFxaUg2bEF1eUw2VHpqR2ZnTlFDOWJaOW9kcnA0Z3l5b0t3ekxiejRMV1hWdlQwSXVBT0pVLVM5NW8xLXFWTWVvbE1Pak9uZEg0Z0NEMktSdFRaTkE1MTRXX1NlM2J1WEZFRGZYNDI0MmdSRUJic1pwT3NuYkdwWnBVS1E?oc=5",
+              "titulo": "Pré-venda de ‘O Morro dos Ventos Uivantes’ está aberta; saiba como comprar ingressos - Ingresso.com",
+              "resumo": "Pré-venda de ‘O Morro dos Ventos Uivantes’ está aberta; saiba como comprar ingressos Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW1RZ2RSbDdkS1hRS1UyN1lLOXd5dWFldEJ5N2Z4VmFXLUZ0MzhVcjdfRWthMW9EV1pqenZHa1Q3RzMtQnFHZnlyeFo0SHNGQ2VjdUtxM25DUlBYLWYwYTdUWVVQcW5mZkJkd2hTa1ZoNDhXdDRjZ0V5TlYwT2h5alVzQzJMVWRITWFvLVUyWGpVZw?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Filme em 3D da Billie Eilish, dirigido por James Cameron, ganha nova data de estreia no Brasil - Ingresso.com",
+              "resumo": "Filme em 3D da Billie Eilish, dirigido por James Cameron, ganha nova data de estreia no Brasil Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmpOVkV4dS1SSHdsb1hoRDRqQnI4X2tNazZabThYOVBCaml0U2huUXQ1QzkzME9LUlFsSVo4LWtQVmRJTDJBODFQZmFnZE9RcU9xY1I4SHpCTjhDN2h2WDJGYnIzVnFUQXFmeE83WF9xM0NnekFveFJUQTFnMGFXS185R21VRVdoZFg5dEEwZmVJdWVEMlF6SVlqNW1zNXFvQTdmX2swTUd0SUEzLWh1eGdBWQ?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "‘Natal Amargo’, novo filme de Pedro Almodóvar, ganha trailer cheio de tensão - Ingresso.com",
+              "resumo": "‘Natal Amargo’, novo filme de Pedro Almodóvar, ganha trailer cheio de tensão Ingresso.com",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVRHBNT2ZmTG9WTXVlaHdseGo1WnZNTmJMRUhYZTVwbWdXUkgyQ2VZalh2Ty1XLVF4RmpQNDRUU0UtblA3V1pjM1FCMmNBT2x5OVAxWWZyV3ZFbGhjN2lScFFkcFpBekdPc2pJM1ZmRUVHWkgwbTZxU0Vn?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "\"Mestres do Universo\": filme de He-Man ganha trailer e data de lançamento - CNN Brasil",
+              "resumo": "\"Mestres do Universo\": filme de He-Man ganha trailer e data de lançamento CNN Brasil",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc2MDV2Ri1vdVJBdlh2V0ZBYmJ6ZmFocUcyTUpXdloxbURGVWxweUVBelRoVnNTbUhJVjV5ZTNuS041alFFVjdfdjFuVXZoUEZVMDdteFJTWkpBR3gwdG5sX19IMW12U0cxLWcwMXI1V0VJbkdvcUN3bkNjYmlnVURwenB2WnNjU1ZDOEgtdXhXQ0FGT2NFZGtMX1hzRlFMd0lSc00tZw?oc=5",
+              "fonte": "Cinema e Filmes",
+              "editoria": "Entretenimento"
+            },
+            {
+              "titulo": "Filme O Agente Secreto chega aos cinemas em todo o país - Agência Brasil",
+              "resumo": "Filme O Agente Secreto chega aos cinemas em todo o país Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGx3cGJGYXE2aUJFeHlZZFhSN01PbjB4X0lzaV8wb3AtYzFYTXROOXRsMU9tWnRWczJfa21jTkJkNEJiQWhUVk5hd3BaNGhKOGtkbnA3VkMzWUtGTzlzbmw2b0RmSFFrWVN4Z1B2a25jOGZfX0pUQktaWmp3OFFmSjNzU3I4YTk0QUcxWlRnWGpwMWdNck0ySDhpYkV0SHpTT2UySQ?oc=5",
               "fonte": "Cinema e Filmes",
               "editoria": "Entretenimento"
             }
@@ -308,16 +369,9 @@
           "nome": "Música",
           "noticias": [
             {
-              "titulo": "Cantora baiana Bela estreia novo show em Salvador com música inédita - bahia.ba",
-              "resumo": "Cantora baiana Bela estreia novo show em Salvador com música inédita bahia.ba",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWRtSGphV2hEVTdZOFMxV1FYSG85Y2poMHFBWnM1X2t5Z1Bic21MbEdPeXV6b2xBU0U1dGwwWFBqYThaSXlaSGd6ZTRKSHhuWWQxb0FSdTZ1U0VhMmx1MGIxZVNLemtXbkhmR2dqTTJFWGJuQVNCVzZCRVJhRXp4bDJHd2h6V1FKcDFDMzE3MEpSV0xTVzI0WTNiQkhnM242Nzhr?oc=5",
-              "fonte": "Música",
-              "editoria": "Entretenimento"
-            },
-            {
-              "titulo": "One Take Show estreia no Globoplay e Canal Bis com performances musicais em plano sequência - Mundo da Música",
-              "resumo": "One Take Show estreia no Globoplay e Canal Bis com performances musicais em plano sequência Mundo da Música",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uSFItcERsdGdpSzZ3SnZhRVdMcjFXcnFnYzdnRmU2dDF1SklpRlRqSkpYYjJ5OFdfc0d2NDVVT1Y0LTNudW92c25zNWRfRVd2N2w0X1Yta0UteTJ2X3FSVUtQSllMQmxaRTRzaEdfNFluZw?oc=5",
+              "titulo": "El Mató a un Policía Motorizado faz show no Brasil. Mais lançamentos musicais do Brasil e do Mundo. - music non stop",
+              "resumo": "El Mató a un Policía Motorizado faz show no Brasil. Mais lançamentos musicais do Brasil e do Mundo. music non stop",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0JzS2NnWTlJUEhhZjNlcC1NT1BiQi1mT0YwaGgyTDFOUjdESEJ2VXAyNzloUWNpOFg1VEkyb1M5VzcwQ3hCdVg0Q1RUc1V0aDhibVpyZEIxSnRLRmd6bHhWeVdKLTZPQ3YxM0lRY0pWTFlLZ1cwWVBwMVgtdkFSX25wVG1DMVdVSUtFMmJUQWpHMEwyaU5SeFFDOWhTTkhnN2JweDdOSzN4Y3JzeXJhQ0w3Vy1sUEJLSEowU0dLdGVYRzdMRXlDMGJn0gHPAUFVX3lxTE9PUGNvbE5wb1pGN2JicjVXRll2NEMtSTFKTURlV0wyNG5td3lWYkJXcWktYW5tQjUwQXZDTzljR09BOVBPRmNHV3pjSWJTVmxDN0VWLUZ3eHIwck1Bci1TTmNEM2ZySXJRT2M2NVY2VUJvMmx0a0dxMlZFSUpkU2ZWNXJ0aS1ud05tY3k1aVFsU3BRT3RFaFlJa3VxS3pOdjhZQjgyTnlUVmIyTXVPR0xyN21HSWJUd0xtSGtYNUhkZ2JSVG9KQWdqQ2ppa05FYw?oc=5",
               "fonte": "Música",
               "editoria": "Entretenimento"
             }
@@ -332,23 +386,16 @@
           "nome": "Ciência e Tecnologia",
           "noticias": [
             {
-              "titulo": "Cientistas japoneses desenvolvem tecnologia inédita para gerar hidrogênio de baixo custo e descoberta pode impactar positivamente o futuro da energia sustentável no mundo - CPG Click Petróleo e Gás",
-              "resumo": "Cientistas japoneses desenvolvem tecnologia inédita para gerar hidrogênio de baixo custo e descoberta pode impactar positivamente o futuro da energia sustentável no mundo CPG Click Petróleo e Gás",
-              "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMVJ5UWswbVpXUDVzR3RzRENqbGJhbi1FQk4zUXZNcnlYQ3BiN1dlZGxyUjZJVjJQTkk3YU5kX1VwNC1QLTNSNGR3dmVXcXZzS2NXeEhDbmxMV093czlhUnpLUGVpY1o0SFZyS205ZlB1R1R1NkJGWFNldEJkSnRWOTNWRVEwMW9IaFhLMHRfQmxRZFN1VUQ5SHhzdzYtXzZpZG5sUTh2MmoxeW5Ya0s1MnBmN3Y4RW1yc1NCcVd1anY2SUp3cGEzWEc4Z0VVeU5Mc2FqNVo0T1pQUzk2NUZBVmFpeVVicjVvd1hRMFZRb0J3dG1Pc1dQVmF4dUNWdTJ2LUhMODJ6Y1ZQWllHekYtZHMzYUxuLXRVOEFsd2Q2THEyVEdPTHVmQTQ0X09RWTA4OFBEX2hB?oc=5",
+              "titulo": "A misteriosa criatura marinha descoberta por cientistas na costa britânica - BBC",
+              "resumo": "A misteriosa criatura marinha descoberta por cientistas na costa britânica BBC",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XQWUtZTB5RWlXR0VVdzNLaG9VdGVQZGpJZDJITTZxandvZmJwaXhZTTJManNHTkJXMG95RVJ6d0NSUmJOVFFvUDVYR2UwTXJMYTlQQ2laRnVNTDV4cFhpYVJR0gFnQVVfeXFMT0Jjbmg1b09UNkJ4b1Y0d1AtTmFuMFZsLVBIOGlhdFVoMENSTWF3VGJiZFVRMmcwWDJzdXFWVm8wdmNSVjhUSVZSdVVEZGRqdHFHRXViSXRUTXhPZ2xMNHpJT1BxWDlwVQ?oc=5",
               "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             },
             {
-              "titulo": "A descoberta nas fontes termais de Yellowstone, nos EUA, que se tornou chave para os testes da covid-19 - BBC",
-              "resumo": "A descoberta nas fontes termais de Yellowstone, nos EUA, que se tornou chave para os testes da covid-19 BBC",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVYkR0ZmlkRlc0d2VsUE83TmM5QjJGa1NhWnNKNkVNY2JSTEZQRnZIU0VueDdfN3R2cUtoN0Y2YmFXSmFCMm1EQTIyQlRvT216aUlaZWNsaGVFUQ?oc=5",
-              "fonte": "Ciência e Tecnologia",
-              "editoria": "Curiosidades"
-            },
-            {
-              "titulo": "Equipe com brasileiros descobre anéis em pequeno corpo celeste do sistema solar - Agência Brasil",
-              "resumo": "Equipe com brasileiros descobre anéis em pequeno corpo celeste do sistema solar Agência Brasil",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVV0UUVOWFlsWDdINFlJLVlMQWxxdmtyZHZLSENueGRtc3B2cktqMnJzbFRpdDdkd0hRQW9PTS0wOTBHTjJFWDhSa1puU0YxTVFlMnVCM0ZvaEFaNmt0LXVCSGVVcDBmQXZQY1o4anc1WWdxajJXeF9LRFNNMGlkYVBWYjZoNnNReWctRWFkZjJqdWgxQmZJUms5eXpkUVRibW1QQUhIS1FMdlhVdERXbFZMTTFPbEpsNGNuMEpCN3dSSkV2ZXFKaGdR?oc=5",
+              "titulo": "A maior descoberta das viagens à Lua foi a Terra - Agência Brasil",
+              "resumo": "A maior descoberta das viagens à Lua foi a Terra Agência Brasil",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd090WE9mQTR6VVpUVU9NME1mSmZJNDdyQ3hfNTlZWk1HelhlbENOTTJQQ1BwZDdMZWpUWG5mZWtGb2t1Z2tla3ppUE9LeXZMYlhRZjh6X2ZpNWlSQmFqVWxpemVpVzlwcU5LWHQzdk02X3N3MmpvUDAzUnpHemFseG13c1J4TlhyWmpNN192VGRzSllrZFJ2cDdBSjhMSlRZ?oc=5",
               "fonte": "Ciência e Tecnologia",
               "editoria": "Curiosidades"
             }
