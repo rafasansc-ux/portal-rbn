@@ -1,22 +1,6 @@
-name: Atualizar Noticias RBN
+name: Coletor legado manual
 
 on:
-  schedule:
-    # Horários em UTC — Brasil é UTC-3
-    # 05h BR = 08h UTC
-    # 08h BR = 11h UTC
-    # 11h BR = 14h UTC
-    # 14h BR = 17h UTC
-    # 17h BR = 20h UTC
-    # 22h BR = 01h UTC (dia seguinte)
-    - cron: '0 8 * * *'
-    - cron: '0 11 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 1 * * *'
-
-  # Permite rodar manualmente pelo GitHub
   workflow_dispatch:
 
 jobs:
@@ -48,3 +32,4 @@ jobs:
           git add noticias.json historico.json
           git diff --staged --quiet || git commit -m "Boletim automático $(date -u '+%d/%m/%Y %H:%Mh')"
           git push
+

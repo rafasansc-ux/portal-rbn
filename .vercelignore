@@ -1,0 +1,11 @@
+.git/
+node_modules/
+.env*
+supabase/
+tools/
+*.test.cjs
+coletor_cloud.py
+fontes.json
+noticias.json
+historico.json
+README.md

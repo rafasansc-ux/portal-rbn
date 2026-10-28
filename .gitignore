@@ -1,0 +1,14 @@
+node_modules/
+data/
+backups/
+.env
+*.log
+validacao-portal.png
+.pnpm-store/
+
+.env.*
+!.env.example
+public/
+
+*.local.sql
+epagri-sample.html

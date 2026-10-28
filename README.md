@@ -1,208 +1,70 @@
-# 📻 RBN 94,3 — Portal da Redação
+# Portal da Redação RBN — versão 0.3
 
-Sistema automático de coleta e publicação de notícias para rádio.
+Portal com login e senha, dados separados por rádio, assinatura de liberação
+manual e atualização automática no Supabase.
 
----
+## Funciona nesta versão
 
-## 🌐 Portal online
+- Supabase Auth, sessões criptografadas em cookie HttpOnly, validação de origem,
+  CSRF, vínculo por rádio, perfis e vencimento de acesso.
+- Até cinco notícias por fonte, priorizando a data do RSS quando disponível.
+- Coleta automática no Supabase de duas em duas horas, mesmo com o portal fechado.
+- Botão Atualizar notícias para uma busca adicional e trava para evitar concorrência.
+- Boletim da Epagri/Ciram em texto para Santa Catarina, com data, autoria e link.
+- Dados numéricos de Jaraguá do Sul via Open-Meteo, apresentados separadamente.
+- Exportação de boletim em HTML/TXT, identidade, temas, logo e fontes por rádio.
 
-**URL:** https://portal-rbn.vercel.app  
-**Login:** `rbn` · **Senha:** `1234`  
-**Senha de configurações:** `rbn@admin2026`
+Projeto exclusivo do portal: amksnfyktkzewxcandpu, região São Paulo. O CRM não
+foi alterado. A agenda portal-rbn-coleta-2h está ativa com execuções às 00h,
+02h, 04h, 06h, 08h, 10h, 12h, 14h, 16h, 18h, 20h e 22h de Brasília.
 
----
+A função automática foi testada pelo próprio banco: HTTP 200, 85 notícias,
+duas fontes em falha e boletim Epagri atualizado. Na interface, 17 fontes
+exibiram cinco itens cada. A agenda usa a verificação JWT existente e um token
+exclusivo do coletor guardado no Vault. Chamadas sem esse token foram recusadas.
 
-## 🗂️ Estrutura do projeto
+## Instalação e testes
 
-```
-PC (C:/redacao_automatica/)        GitHub / Vercel
-──────────────────────────────     ─────────────────────
-coletor.py      ← motor            index.html  (portal)
-fontes.json     ← sites RSS        LOGO_RBN-03.png
-historico.json  ← anti-repetição   noticias.json
-saida/          ← boletins         vercel.json
-```
+Requer Node.js 24 ou superior. Instale as dependências usando npm ou pnpm;
+o lockfile pnpm está incluído. Copie .env.example para .env.local e preencha
+os valores do ambiente, sem versionar senhas ou chaves secretas.
 
----
+- Preparar interface: node build-cloud.cjs.
+- Gerar coletor após alterar parser: node tools/build-worker.cjs.
+- Testar: node --test cloud.test.cjs collector.test.cjs automacao.test.cjs supabase/tests/rls.test.cjs.
+- Prévia: node --env-file=.env.local tools/preview-cloud.cjs, em localhost:9432.
 
-## ⚙️ Instalação do zero (novo PC)
+Configuração na Vercel: vercel.json publica public/ e utiliza api/portal.js.
+Variáveis de servidor: SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, SESSION_SECRET
+(32 bytes aleatórios em base64) e APP_ORIGIN (origem exata da publicação).
+O backend de login/coleta manual não precisa de chave administrativa.
 
-### 1. Instalar Python
-- Acesse: https://www.python.org/downloads/
-- Marcar **Add Python to PATH** na instalação
+As migrações SQL e a agenda já foram executadas no projeto do portal pelo SQL
+Editor; não as execute de novo nesse projeto. Elas não foram registradas via CLI.
+Consulte supabase/AUTOMACAO.md para operação, autenticação e limitações da agenda.
 
-### 2. Instalar dependências
-```bash
-pip install feedparser
-```
+## Acesso e operação
 
-### 3. Criar pasta principal
-```
-C:/redacao_automatica/
-C:/redacao_automatica/saida/
-```
+A entrada solicita apenas login e senha; um identificador interno é usado no
+Supabase Auth. O primeiro login rbn.admin foi criado pelo responsável e vinculado
+à RBN 94,3. Não existe senha padrão no código nem registro de senha em SQL.
+A recuperação de senha é assistida pelo operador nesta etapa.
 
-### 4. Copiar arquivos para o PC
-- `coletor.py` → `C:/redacao_automatica/`
-- `fontes.json` → `C:/redacao_automatica/`
+Perfis: administrador da rádio, editor e leitor. Administração de assinaturas
+fica no servidor/operador; uma rádio não consegue renovar seu próprio prazo.
+A ferramenta tools/cadastrar-radio.cjs exige credencial administrativa somente
+no ambiente privado do operador e cria rádios novas; não a use para duplicar RBN.
 
-### 5. Instalar Git
-- Acesse: https://git-scm.com/download/win
-- Deixar todas as opções padrão
+## Limitações atuais
 
-### 6. Configurar Git
-```bash
-git config --global user.name "RBN Redacao"
-git config --global user.email "rafasansc@gmail.com"
-```
+Duas fontes continuam indisponíveis e são identificadas na tela. Novos domínios
+no coletor automático precisam entrar na lista permitida após revisão de rede.
+O texto Epagri é um trecho do boletim estadual; não é previsão municipal produzida
+pela aplicação. A leitura editorial dos conteúdos permanece necessária.
 
-### 7. Clonar repositório
-```bash
-git clone https://github.com/rafasansc-ux/portal-rbn.git C:/portal-rbn
-```
+O novo backend/interface ainda não foi publicado na Vercel nem enviado ao GitHub.
+A agenda Supabase está ativa e a prévia local já consome seus dados. O coletor
+legado do main continua independente e não é a agenda de duas horas desta versão.
 
-### 8. Rodar o coletor
-```bash
-cd C:/redacao_automatica
-python coletor.py
-```
-
----
-
-## 📡 Fontes RSS configuradas
-
-| Site | Editoria |
-|------|----------|
-| OCP News | Local |
-| RBN Portal | Local |
-| G1 SC | Estado |
-| ND Mais | Estado |
-| G1 Brasil | Brasil |
-| G1 Economia | Brasil |
-| Gazeta do Povo | Brasil |
-| CNN Brasil | Brasil |
-| Agência Brasil | Brasil |
-| GE | Esporte |
-| Google News — Política SC | Política |
-| Google News — Política Brasil | Política |
-| Google News — Famosos | Entretenimento |
-| Google News — TV e Novelas | Entretenimento |
-| Google News — Cinema | Entretenimento |
-| Google News — Música | Entretenimento |
-| Google News — Ciência | Curiosidades |
-| Google News — Saúde | Curiosidades |
-| Google News — Curiosidades | Curiosidades |
-
----
-
-## 🔄 Como funciona a atualização automática
-
-```
-Agendador Windows (05h 08h 11h 14h 17h 22h)
-         ↓
-coletor.py coleta RSS de todos os sites
-         ↓
-Salva noticias.json + boletim HTML/TXT
-         ↓
-Git push → GitHub detecta mudança
-         ↓
-Vercel publica em menos de 1 minuto
-```
-
----
-
-## ⏰ Agendador do Windows
-
-**Windows + R → `taskschd.msc` → Criar Tarefa Básica**
-
-| Campo | Valor |
-|-------|-------|
-| Programa | `python` |
-| Argumentos | `C:\redacao_automatica\coletor.py` |
-| Iniciar em | `C:\redacao_automatica` |
-| Horários | 05h · 08h · 11h · 14h · 17h · 22h |
-
----
-
-## 🔧 Configurações do coletor.py
-
-```python
-PASTA_BASE   = Path("C:/redacao_automatica")
-PASTA_PORTAL = Path("C:/portal-rbn")
-
-MAX_NOTICIAS_POR_FONTE = 5       # notícias por site
-DIAS_HISTORICO         = 7       # dias no histórico
-SIMILARIDADE_MINIMA    = 0.65    # limiar anti-duplicata
-ENVIAR_PARA_GITHUB     = True    # False = desativa envio
-```
-
----
-
-## 🚀 GitHub + Vercel
-
-### Repositório
-- **URL:** https://github.com/rafasansc-ux/portal-rbn
-- **Usuário:** rafasansc-ux
-- **Branch:** main
-
-### Arquivos no repositório
-```
-index.html        ← portal visual
-LOGO_RBN-03.png   ← logo da rádio
-noticias.json     ← atualizado pelo coletor
-vercel.json       ← config da Vercel
-README.md         ← este arquivo
-```
-
-### vercel.json
-```json
-{
-  "version": 2,
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
-```
-
-### Sincronizar quando houver conflito
-```bash
-git -C C:/portal-rbn pull --rebase
-git -C C:/portal-rbn push
-```
-
----
-
-## 📺 Seções do portal
-
-| Seção | Conteúdo | Cor |
-|-------|----------|-----|
-| 📍 Notícias Local | OCP News, RBN Portal | Azul |
-| 🏛 Estado | G1 SC, ND Mais | Âmbar |
-| 🇧🇷 Brasil | G1, CNN, Agência Brasil | Verde |
-| ⚽ Esporte | GE Globo Esporte | Verde |
-| 🏛️ Política | Google News SC + Brasil | Vermelho |
-| 🌤 Tempo | Open-Meteo API — Jaraguá do Sul | Ciano |
-| 🎬 Entretenimento | Google News famosos, TV, cinema | Roxo |
-| 💡 Curiosidades | Google News ciência, saúde | Âmbar |
-| 📋 Boletim | Todas as notícias para imprimir | — |
-| ⚙ Config | Gerenciar fontes RSS | — |
-
----
-
-## 🔁 Replicar para outra emissora
-
-1. Criar nova conta GitHub para a emissora
-2. Criar repositório `portal-rbn`
-3. Subir `index.html`, logo e `vercel.json`
-4. Criar conta Vercel conectada ao novo GitHub
-5. Trocar logo, cores e nome no `index.html`
-6. Configurar `fontes.json` com sites locais
-7. Alterar usuário/senha no portal
-8. Configurar `coletor.py` no PC da rádio
-
----
-
-## 📞 Suporte
-
-Desenvolvido com **Claude (Anthropic)** · 2026  
-Em caso de dúvidas, abra o chat e descreva o problema — o histórico do projeto está salvo.
+Antes de vender: publicar e homologar o novo ambiente, testar carga, recuperação
+de dados e contas, completar administração visual e formalizar a operação comercial.
