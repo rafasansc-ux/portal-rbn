@@ -39,7 +39,7 @@
     </div>
 
     <nav class="tb-nav" aria-label="Editorias">
-<button class="nb" onclick="ir('boletim',this)">Boletim</button>
+<button class="nb" onclick="ir('boletim',this)">Boletins</button>
       <button class="nb on" onclick="ir('noticias',this)"><span class="pip" style="background:#4D8FFF"></span>Notícias</button>
       <button class="nb" onclick="ir('esporte',this)"><span class="pip" style="background:#34D399"></span>Esporte</button>
       <button class="nb" onclick="ir('politica',this)"><span class="pip" style="background:#F87171"></span>Política</button>
@@ -66,8 +66,8 @@
         <p class="hero-sub" id="hero-data-extra" style="margin-top:6px;color:var(--frequencia);font-size:12px;letter-spacing:.5px"></p>
       </div>
       <div class="stats">
-        <div><div class="stat-n" id="tot">0</div><div class="stat-l">Notícias exibidas</div></div>
-        <div><div class="stat-n">7</div><div class="stat-l">Fontes configuradas</div></div>
+        <button class="btn-ac bp" onclick="prepararBoletim()">🎙 Preparar boletim</button>
+        <span id="tot" hidden></span>
       </div>
     </div>
   </div>
@@ -109,11 +109,11 @@
     <section class="sec" id="sec-boletim">
       <div class="ed-bloco">
         <div class="ed-header">
-          <div class="ed-pill" style="background:rgba(148,195,255,.1);color:#94C3FF">📋 Gerar Boletim</div>
+          <div class="ed-pill" style="background:rgba(148,195,255,.1);color:#94C3FF">📋 Boletins salvos</div>
         </div>
         <div class="bol-actions">
-          <button class="btn-ac bp" onclick="downloadBulletin(true)">⬇ Baixar .HTML</button>
-          <button class="btn-ac bp" onclick="downloadBulletin(false)">⬇ Baixar .TXT</button>
+          <button class="btn-ac bp" onclick="prepararBoletim()">🎙 Preparar boletim</button>
+          <button class="btn-ac bs" onclick="renderBoletim()">Atualizar lista</button>
           <button class="btn-ac bs btn-coleta" onclick="coletarNoticias()">🔄 Coletar notícias</button>
           <button class="btn-ac bs" onclick="ir('config',document.querySelector('.nb:last-child'))">⚙ Configurar Fontes</button>
         </div>
@@ -175,7 +175,7 @@
     </div>
   </div>
 </div>
-<script src="app.js" defer></script><script src="saas.js" defer></script>
+<script src="app.js" defer></script><script src="saas.js" defer></script><script src="roteiros-portal.js" defer></script>
 <!-- MODAL CONFIG VISUAL -->
 <div role="dialog" aria-modal="true" aria-label="Personalizar portal" id="modal-cfg-visual" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:500;align-items:center;justify-content:center;padding:20px">
   <div style="background:var(--azul-painel);border:1px solid var(--azul-borda);border-radius:16px;padding:28px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto">

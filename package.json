@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node --env-file-if-exists=.env.local tools/preview-cloud.cjs",
     "build": "node build-cloud.cjs",
-    "test": "node --test collector.test.cjs cloud.test.cjs automacao.test.cjs supabase/tests/rls.test.cjs",
+    "test": "node --test collector.test.cjs cloud.test.cjs automacao.test.cjs supabase/tests/rls.test.cjs login.test.cjs runtime.test.cjs roteiros.test.cjs",
     "test:automation": "node --test automacao.test.cjs supabase/tests/rls.test.cjs",
     "build:worker": "node tools/build-worker.cjs"
   },
