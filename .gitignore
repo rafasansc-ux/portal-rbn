@@ -12,3 +12,6 @@ public/
 
 *.local.sql
 epagri-sample.html
+
+.vercel
+.env*
