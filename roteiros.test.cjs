@@ -1,4 +1,12 @@
 const {test}=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs');const {validarRoteiro}=require('./lib/roteiros.cjs');const {PGlite}=require('@electric-sql/pglite');
+test('Notícias aguardam o editor e seguem para o boletim salvo aberto',()=>{
+ const vm=require('node:vm');let receive;const messages=[],windows=[];const context={location:{origin:'https://portal.example'},crypto:require('node:crypto'),toast(){},renderCard(){return ''},document:{addEventListener(){},getElementById(){return null}},window:{addEventListener(type,fn){if(type==='message')receive=fn},open(){const w={closed:false,focus(){},postMessage(m){messages.push(m)}};windows.push(w);return w}}};
+ vm.createContext(context);vm.runInContext(fs.readFileSync('roteiros-portal.js','utf8'),context);
+ vm.runInContext("enviarNoticiaBoletim({titulo:'Notícia A',texto:'Resumo',fonte:'Fonte',url:'https://a.example'})",context);assert.equal(messages.length,0);
+ receive({origin:'https://evil.example',source:windows[0],data:{type:'boletim-pronto'}});assert.equal(messages.length,0);
+ receive({origin:context.location.origin,source:windows[0],data:{type:'boletim-pronto'}});assert.equal(messages[0].item.titulo,'Notícia A');
+ vm.runInContext("prepararBoletim('boletim-salvo');enviarNoticiaBoletim({titulo:'Notícia B',texto:'Resumo',fonte:'Fonte',url:'https://b.example'})",context);assert.equal(windows.length,2);assert.equal(messages.at(-1).item.titulo,'Notícia B');
+});
 test('Roteiros validam tamanho e links e preservam texto como texto',()=>{const item={titulo:'<script>',texto:'Nota própria',fonte:'Redação',url:''};assert.equal(validarRoteiro({titulo:' Jornal ',itens:[item]}).titulo,'Jornal');assert.throws(()=>validarRoteiro({titulo:'',itens:[]}));assert.throws(()=>validarRoteiro({titulo:'x',itens:[{...item,url:'javascript:alert(1)'}]}));assert.throws(()=>validarRoteiro({titulo:'x',itens:Array(101).fill(item)}))});
 test('Roteiros: isolamento real entre rádios, edição, data imutável e leitor protegido',async()=>{
  const db=new PGlite();try{await db.exec(`create role anon;create role authenticated;create role service_role bypassrls;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema public,auth to authenticated;`);

@@ -5,7 +5,7 @@ function prepararBoletim(id,duplicar=false){
  const url='/boletim.html'+(id?'?id='+encodeURIComponent(id)+(duplicar?'&duplicar=1':''):'');
  const w=window.open(url,id?'_blank':'editor-boletim','popup,width=1000,height=850,resizable=yes,scrollbars=yes');
  if(!w){toast('Permita a abertura de janelas para editar o boletim ao lado do portal.');return null}
- if(!id)janelaBoletim=w;return w;
+ if(id)filaBoletim=[];janelaBoletim=w;return w;
 }
 function enviarNoticiaBoletim(item){const existing=janelaBoletim&&!janelaBoletim.closed;const w=prepararBoletim();if(!w)return;const token=crypto.randomUUID();const message={type:'boletim-adicionar',item,token};filaBoletim.push(message);if(existing)w.postMessage(message,location.origin);toast('Enviando notícia ao editor…')}
 window.addEventListener('message',e=>{
@@ -13,7 +13,7 @@ window.addEventListener('message',e=>{
  if(e.data?.type==='boletim-salvo'){renderBoletim();return}
  if(e.source!==janelaBoletim)return;
  if(e.data?.type==='boletim-pronto'){for(const m of filaBoletim)janelaBoletim.postMessage(m,location.origin)}
- if(e.data?.type==='boletim-recebido'){filaBoletim=filaBoletim.filter(m=>m.token!==e.data.token);toast('Notícia adicionada ao boletim.')}
+ if(e.data?.type==='boletim-recebido'){filaBoletim=filaBoletim.filter(m=>m.token!==e.data.token);toast(e.data.ok?'Notícia adicionada ao boletim.':'Confira o editor: a notícia não foi incluída.')}
 });
 const renderCardOriginal=renderCard;
 renderCard=function(n,i,cor,fonte){const html=renderCardOriginal(n,i,cor,fonte),data=encodeURIComponent(JSON.stringify({titulo:n.t,texto:n.r||'',fonte:fonte||'',url:safeURL(n.l)==='#'?'':safeURL(n.l)})).replace(/'/g,'%27');return html.replace('<span class="c-fonte">','<button class="btn-ac bs adicionar-boletim" data-noticia="'+esc(data)+'">+ Adicionar ao boletim</button><span class="c-fonte">')};
