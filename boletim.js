@@ -1,5 +1,6 @@
 'use strict';
 let me,csrf='',id=null,versao=0,itens=[],dirty=false,busy=false,ready=false,criado=null,atualizado=null,writable=false,pendentes=[];
+const portalHost=window.opener||(window.parent!==window?window.parent:null);
 const $=id=>document.getElementById(id),params=new URLSearchParams(location.search);
 function status(text,error=false){$('status').textContent=text;$('status').classList.toggle('erro',error)}
 async function api(route,method='GET',body){const r=await fetch('/api/'+route,{method,headers:{'Content-Type':'application/json','X-CSRF-Token':csrf},body:body===undefined?undefined:JSON.stringify(body)});const b=await r.json();if(!r.ok)throw Error(b.error||'Não foi possível acessar o portal.');return b}
@@ -24,16 +25,16 @@ $('tempo').onclick=async()=>{const b=$('tempo');b.disabled=true;try{const d=awai
 $('salvar').onclick=async()=>{
  if(!writable||busy)return;if(!$('titulo').value.trim())return status('Dê um título ao boletim antes de salvar.',true);
  busy=true;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=true;status('Salvando boletim…');
- try{const record=await api('roteiros'+(id?'?id='+encodeURIComponent(id):''),id?'PUT':'POST',{titulo:$('titulo').value,itens,versao});id=record.id;versao=record.versao;criado=record.criado_em;atualizado=record.atualizado_em;dirty=false;history.replaceState(null,'','?id='+id);metadata();status('Boletim salvo na aba Boletins.');if(window.opener)window.opener.postMessage({type:'boletim-salvo'},location.origin)}catch(e){status(e.message,true)}finally{busy=false;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=!writable;$('leitura').disabled=false;$('imprimir').disabled=false;render();for(const item of pendentes.splice(0))add(item)}
+ try{const record=await api('roteiros'+(id?'?id='+encodeURIComponent(id):''),id?'PUT':'POST',{titulo:$('titulo').value,itens,versao});id=record.id;versao=record.versao;criado=record.criado_em;atualizado=record.atualizado_em;dirty=false;history.replaceState(null,'','?id='+id);metadata();status('Boletim salvo na aba Boletins.');if(portalHost)portalHost.postMessage({type:'boletim-salvo'},location.origin)}catch(e){status(e.message,true)}finally{busy=false;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=!writable;$('leitura').disabled=false;$('imprimir').disabled=false;render();for(const item of pendentes.splice(0))add(item)}
 };
 $('leitura').onclick=()=>{reading();const on=document.body.classList.toggle('lendo');$('roteiro-leitura').hidden=!on;$('leitura').textContent=on?'Voltar à edição':'Modo de leitura'};
 $('imprimir').onclick=()=>{reading();window.print()};window.addEventListener('beforeprint',reading);
 window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}});
-window.addEventListener('message',e=>{if(e.origin!==location.origin||e.source!==window.opener||!ready)return;if(e.data?.type==='boletim-adicionar'&&e.data.item){const ok=add(e.data.item);e.source.postMessage({type:'boletim-recebido',token:e.data.token,ok:!!ok},location.origin)}});
+window.addEventListener('message',e=>{if(e.origin!==location.origin||e.source!==portalHost||!ready)return;if(e.data?.type==='boletim-adicionar'&&e.data.item){const ok=add(e.data.item);e.source.postMessage({type:'boletim-recebido',token:e.data.token,ok:!!ok},location.origin)}});
 (async()=>{try{
  me=await api('me');csrf=me.csrf;writable=['administrador','editor'].includes(me.role);$('radio').textContent=me.radio;
  const requested=params.get('id');if(requested){const r=await api('roteiros?id='+encodeURIComponent(requested));id=params.has('duplicar')?null:r.id;versao=id?r.versao:0;criado=id?r.criado_em:null;atualizado=id?r.atualizado_em:null;itens=r.dados.itens;$('titulo').value=(id?'':'Cópia · ')+r.titulo;dirty=!id}
  else $('titulo').value='Boletim · '+new Date().toLocaleDateString('pt-BR');
- ready=true;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=!writable;$('leitura').disabled=false;$('imprimir').disabled=false;render();status(writable?(dirty?'Cópia ainda não salva.':id?'Boletim aberto.':'Escolha notícias no portal ou adicione uma nota própria.'):'Acesso de leitura.');if(window.opener)window.opener.postMessage({type:'boletim-pronto'},location.origin);
+ ready=true;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=!writable;$('leitura').disabled=false;$('imprimir').disabled=false;render();status(writable?(dirty?'Cópia ainda não salva.':id?'Boletim aberto.':'Escolha notícias no portal ou adicione uma nota própria.'):'Acesso de leitura.');if(portalHost)portalHost.postMessage({type:'boletim-pronto'},location.origin);
  }catch(e){status(e.message+' Abra o portal e entre na sua conta.',true);for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=true}
 })();

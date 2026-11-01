@@ -1,11 +1,12 @@
 'use strict';
 let janelaBoletim=null,filaBoletim=[];
 function prepararBoletim(id,duplicar=false){
- if(!id&&janelaBoletim&&!janelaBoletim.closed){janelaBoletim.focus();return janelaBoletim}
  const url='/boletim.html'+(id?'?id='+encodeURIComponent(id)+(duplicar?'&duplicar=1':''):'');
- const w=window.open(url,id?'_blank':'editor-boletim','popup,width=1000,height=850,resizable=yes,scrollbars=yes');
- if(!w){toast('Permita a abertura de janelas para editar o boletim ao lado do portal.');return null}
- if(id)filaBoletim=[];janelaBoletim=w;return w;
+ let panel=document.getElementById('editor-lateral');
+ if(!id&&panel){panel.hidden=false;document.body.classList.add('editor-aberto');return janelaBoletim}
+ if(id&&panel&&!confirm('Abrir este boletim no editor? Salve antes as alterações do roteiro atual.'))return null;
+ if(!panel){panel=document.createElement('aside');panel.id='editor-lateral';panel.setAttribute('aria-label','Editor de boletim');const bar=document.createElement('div');bar.className='editor-lateral-bar';const title=document.createElement('strong');title.textContent='Preparar boletim';const separate=document.createElement('button');separate.textContent='Janela separada ↗';separate.onclick=()=>{const current=panel.querySelector('iframe');if(!confirm('Salve as alterações no editor antes de abrir uma janela separada. Continuar?'))return;const w=window.open(current.contentWindow.location.href,'_blank','popup,width=1000,height=850,resizable=yes,scrollbars=yes');toast(w?'Janela aberta. Salve seu roteiro antes de continuar em outra janela.':'Seu navegador bloqueou a janela. Continue no editor lateral.');};const minimize=document.createElement('button');minimize.textContent='Minimizar';minimize.onclick=()=>{panel.hidden=true;document.body.classList.remove('editor-aberto')};bar.append(title,separate,minimize);panel.append(bar);document.body.append(panel)}
+ const previous=panel.querySelector('iframe');if(previous)previous.remove();const frame=document.createElement('iframe');frame.title='Editor do boletim';frame.src=url;panel.append(frame);panel.hidden=false;document.body.classList.add('editor-aberto');if(id)filaBoletim=[];janelaBoletim=frame.contentWindow;return janelaBoletim;
 }
 function enviarNoticiaBoletim(item){const existing=janelaBoletim&&!janelaBoletim.closed;const w=prepararBoletim();if(!w)return;const token=crypto.randomUUID();const message={type:'boletim-adicionar',item,token};filaBoletim.push(message);if(existing)w.postMessage(message,location.origin);toast('Enviando notícia ao editor…')}
 window.addEventListener('message',e=>{
