@@ -5,7 +5,7 @@ test('Notícias aguardam o editor e seguem para o boletim salvo aberto',()=>{
  vm.runInContext("enviarNoticiaBoletim({titulo:'Notícia A',texto:'Resumo',fonte:'Fonte',url:'https://a.example'})",context);assert.equal(messages.length,0);
  receive({origin:'https://evil.example',source:windows[0],data:{type:'boletim-pronto'}});assert.equal(messages.length,0);
  receive({origin:context.location.origin,source:windows[0],data:{type:'boletim-pronto'}});assert.equal(messages[0].item.titulo,'Notícia A');
- vm.runInContext("prepararBoletim('boletim-salvo');enviarNoticiaBoletim({titulo:'Notícia B',texto:'Resumo',fonte:'Fonte',url:'https://b.example'})",context);assert.equal(windows.length,2);assert.equal(messages.at(-1).item.titulo,'Notícia B');
+ vm.runInContext("prepararBoletim('boletim-salvo',false,true);enviarNoticiaBoletim({titulo:'Notícia B',texto:'Resumo',fonte:'Fonte',url:'https://b.example'})",context);assert.equal(windows.length,2);assert.equal(messages.at(-1).item.titulo,'Notícia B');
 });
 test('Roteiros validam tamanho e links e preservam texto como texto',()=>{const item={titulo:'<script>',texto:'Nota própria',fonte:'Redação',url:''};assert.equal(validarRoteiro({titulo:' Jornal ',itens:[item]}).titulo,'Jornal');assert.throws(()=>validarRoteiro({titulo:'',itens:[]}));assert.throws(()=>validarRoteiro({titulo:'x',itens:[{...item,url:'javascript:alert(1)'}]}));assert.throws(()=>validarRoteiro({titulo:'x',itens:Array(101).fill(item)}))});
 test('Roteiros: isolamento real entre rádios, edição, data imutável e leitor protegido',async()=>{
