@@ -30,3 +30,7 @@ Até concluir chave, plano e flag, a interface informa revisão em configuraçã
 AUDIO_ENABLED=false e VOICE_CLONING_ENABLED=false foram configurados na produção, e navegação/arquivos públicos de voz foram retirados do build. Código antigo e credenciais continuam privados para eventual retomada; não há revogação da conta do fornecedor. A API conserva compatibilidade com arquivos antigos, sem novas gerações/clonagens.
 
 Por solicitação do usuário, os boletins e áudios existentes da RBN foram retirados por exclusão recuperável no banco. O histórico de consumo e os objetos privados não foram apagados permanentemente. O projeto CRM não foi alterado.
+
+## Ativação parcial — 04/11/2026
+O usuário salvou OPENAI_API_KEY como Secret na Vercel. REVISAO_ENABLED=true foi aplicado e publicado. Plano RBN ativo com limite_mensal=10; sem mudança nos planos de outras rádios. Uma solicitação demonstrativa curta foi enviada e não concluiu; original preservado, registro incerto mantido. O painel de cobrança OpenAI consultado mostra Free trial e Credit remaining US$ 0.00. Não foi cadastrada forma de pagamento nem comprado crédito pelo agente. Falta o proprietário configurar saldo e então validar uma revisão real. Mensagens de erro agora distinguem saldo insuficiente, chave recusada e permissão Responses; não houve repetição automática da solicitação de teste.
+

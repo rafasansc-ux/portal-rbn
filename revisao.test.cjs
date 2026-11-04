@@ -9,6 +9,8 @@ test('Revisão preserva números e declarações e usa saída estruturada sem fe
  await assert.rejects(revisar({key:'teste',texto:'30 escolas',fetcher:async()=>Response.json(result('31 escolas'))}),/números/);
  await assert.rejects(revisar({key:'teste',texto:'Ele disse "não vou".',fetcher:async()=>Response.json(result('Ele disse "eu vou".'))}),/declaração/);
  await assert.rejects(revisar({key:'teste',texto:'Texto',fetcher:async()=>Response.json({status:'incomplete'})}),/interrompida/);
+ await assert.rejects(revisar({key:'teste',texto:'Texto',fetcher:async()=>Response.json({error:{code:'insufficient_quota'}},{status:429})}),e=>e.categoria==='saldo'&&e.publico&&/sem saldo/.test(e.message));
+ await assert.rejects(revisar({key:'teste',texto:'Texto',fetcher:async()=>Response.json({error:{code:'permission_denied'}},{status:403})}),/permissão Responses/);
 });
 test('API não usa IA sem ativação, bloqueia leitor e não repete solicitação incerta',async()=>{
  let answer,calls=0;const base={req:{},res:{},method:'POST',db:{},admin:{rpc:async()=>({data:{nova:false,estado:'incerto'}})},radio:{id:'radio'},user:{id:'user'},role:'editor',env:{},readBody:async()=>({chave:key,texto:'Texto'}),send:(r,status,data)=>answer={status,data},review:async()=>{calls++}};
