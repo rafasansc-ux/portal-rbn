@@ -16,13 +16,13 @@
   el('excluidos').textContent=excluidos?'Voltar ao histórico':'Ver áudios excluídos';
   el('historico').replaceChildren();for(const item of config.historico){
    const section=document.createElement('section'),title=document.createElement('p');title.textContent=`${item.titulo} · ${new Date(item.criado_em).toLocaleString('pt-BR')} · ${item.excluido_em?'Excluído':item.estornado_em?'Créditos devolvidos':item.estado==='pronto'?'Pronto':item.estado==='incerto'?'Pendente de conferência':'Em processamento'} · ${item.creditos??Math.ceil(item.caracteres/100)} crédito(s)`;section.append(title);
+   const actions=document.createElement('div');actions.className='locucao-acoes';
    if(item.estado==='pronto'&&!item.excluido_em){
     const player=document.createElement('audio');player.controls=true;player.preload='none';player.src='/api/locucao?id='+encodeURIComponent(item.id);section.append(player);
-    if(item.aprovado_em){const a=document.createElement('a');a.href=player.src+'&download=1';a.textContent='Baixar MP3 aprovado';a.download='boletim.mp3';section.append(a)}
-    else if(writable){const approve=document.createElement('button');approve.textContent='Aprovar áudio';approve.disabled=true;player.addEventListener('ended',()=>{approve.disabled=false});approve.onclick=async()=>{approve.disabled=true;try{await api('locucao?id='+item.id,'PUT',{});await load()}catch(e){avisar(e.message);approve.disabled=false}};section.append(approve);const hint=document.createElement('small');hint.textContent='Ouça a prévia até o fim para liberar a aprovação.';section.append(hint)}
+    const download=document.createElement('a');download.href=player.src+'&download=1';download.textContent='Baixar áudio';download.download='boletim.mp3';actions.append(download);
    }
-   if(writable&&item.estado==='pronto'){const remove=document.createElement('button');remove.className='secondary';remove.textContent=item.excluido_em?'Restaurar áudio':'Excluir áudio';remove.disabled=working;remove.onclick=()=>alterarAudio(item);section.append(remove)}
-   el('historico').append(section);
+   if(writable&&item.estado==='pronto'){const remove=document.createElement('button');remove.className='secondary';remove.textContent=item.excluido_em?'Restaurar áudio':'Excluir áudio';remove.disabled=working;remove.onclick=()=>alterarAudio(item);actions.append(remove)}
+   section.append(actions);el('historico').append(section);
   }if(!config.historico.length)el('historico').textContent=excluidos?'Nenhum áudio excluído.':'Nenhuma locução registrada.';estimate();
  }
  async function alterarAudio(item){

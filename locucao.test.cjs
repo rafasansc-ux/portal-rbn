@@ -71,14 +71,15 @@ test('API não chama provedor desativado, em repetição ou com voz de outra emi
  await locucaoHandler(base);assert.equal(result.status,200);assert.equal(result.data.repetido,true);assert.equal(calls,0);
  await locucaoHandler({...base,db:{from:t=>query(t==='portal_roteiros'?[record]:[])}});assert.equal(result.status,403);assert.equal(calls,0);
  admin.rpc=async()=>({data:{id:key,nova:true}});await locucaoHandler(base);assert.equal(result.status,502);assert.equal(calls,1);assert.deepEqual(updates,[{estado:'incerto'}]);
- await locucaoHandler({...base,method:'GET',parsed:new URL('https://example.com/api/locucao?id='+key+'&download=1'),db:{from:()=>query([{estado:'pronto',aprovado_em:null}])}});assert.equal(result.status,409);
+ const response={setHeader(){},end(bytes){this.bytes=bytes}};
+ await locucaoHandler({...base,res:response,method:'GET',parsed:new URL('https://example.com/api/locucao?id='+key+'&download=1'),admin:{storage:{from:()=>({download:async()=>({data:new Blob(['audio-teste'])})})}},db:{from:()=>query([{estado:'pronto',aprovado_em:null,caminho:'audio.mp3'}])}});assert.equal(response.statusCode,200);assert.equal(response.bytes.toString(),'audio-teste');assert.equal(calls,1);
 });
-test('Tela de locução exige prévia antes da aprovação e bloqueia rascunho não salvo',async()=>{
+test('Tela oferece baixar e excluir lado a lado sem aprovação e bloqueia rascunho não salvo',async()=>{
  const vm=require('node:vm'),nodes=new Map(),calls=[];
  function element(){return {children:[],value:'1',disabled:false,textContent:'',events:{},append(...children){this.children.push(...children)},replaceChildren(){this.children=[]},addEventListener(name,fn){this.events[name]=fn},showModal(){this.open=true},close(){this.open=false}}}
  const get=id=>{if(!nodes.has(id))nodes.set(id,element());return nodes.get(id)};
  let approved=false;const context={document:{getElementById:get,createElement:element},itens:[{titulo:'Bom dia',texto:'Notícia.'}],writable:true,id:script,versao:1,dirty:false,crypto:require('node:crypto'),api:async(route,method)=>{calls.push({route,method});if(method==='PUT'){approved=true;return {ok:true}}return {habilitado:true,vozes:[{id:voice,nome:'Voz teste'}],plano:{limite_caracteres:1000,limite_segundos:600,usd_por_mil:0.08},uso:{caracteres:10,segundos:5},historico:[{id:key,titulo:'Boletim',estado:'pronto',caracteres:10,aprovado_em:approved?'2026-11-03':null,criado_em:'2026-11-03T12:00:00Z'}]}}};
  context.URLSearchParams=URLSearchParams;context.location={search:''};vm.createContext(context);vm.runInContext(fs.readFileSync('locucao-ui.js','utf8'),context);await get('abrir-locucao').onclick();
- const section=get('locucao-historico').children[0],player=section.children.find(c=>c.controls),button=section.children.find(c=>c.textContent==='Aprovar áudio');assert.equal(button.disabled,true);player.events.ended();assert.equal(button.disabled,false);await button.onclick();assert.equal(approved,true);assert.ok(get('locucao-historico').children[0].children.some(c=>c.textContent==='Baixar MP3 aprovado'));
+ const section=get('locucao-historico').children[0],actions=section.children.find(c=>c.className==='locucao-acoes');assert.ok(actions);assert.deepEqual(actions.children.map(c=>c.textContent),['Baixar áudio','Excluir áudio']);assert.ok(actions.children[0].href.endsWith('&download=1'));assert.ok(!section.children.some(c=>c.textContent==='Aprovar áudio'));assert.ok(!fs.readFileSync('locucao-ui.js','utf8').includes('Ouça a prévia até o fim'));assert.equal(calls.filter(c=>c.method==='PUT').length,0);
  context.dirty=true;await get('abrir-locucao').onclick();assert.equal(get('locucao-gerar').disabled,true);
 });

@@ -69,3 +69,7 @@ Migração: `supabase/migrations/202611040010_creditos_locucao.sql`. Os testes u
 ## Exclusão recuperável de áudio (04/11/2026)
 Excluir áudio move a geração pronta para a lixeira do histórico (excluido_em/excluido_por). Ver áudios excluídos permite restaurar. Arquivo privado, registro de geração e créditos usados permanecem; excluir não libera saldo nem pede nova geração. Leitores não excluem/restauram e outra emissora não acessa o registro. Reprodução, download e aprovação ficam bloqueados enquanto excluído. A tela não exibe mais o resumo de saldo/uso nem o parágrafo longo das regras, por solicitação do usuário; o custo da solicitação e o saldo após gerar permanecem visíveis. Migração 202611040011_excluir_audios.sql.
 
+
+## Download direto (04/11/2026)
+Áudios prontos não excluídos podem ser baixados diretamente com Baixar áudio, ao lado de Excluir áudio. Não se exige aprovação nem reprodução até o fim. Aprovações antigas são preservadas apenas como histórico; a API de download continua exigindo sessão válida, mesma emissora e arquivo pronto não excluído. A mudança não gera áudio nem consome créditos.
+
