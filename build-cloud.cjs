@@ -1,6 +1,8 @@
 const fs=require('node:fs'),path=require('node:path');
 const dir=path.join(__dirname,'public');fs.mkdirSync(dir,{recursive:true});
-for(const name of ['index.html','app.js','styles.css','saas.js','news-utils.js','roteiros-portal.js','boletim.html','boletim.js','boletim.css','locucao-ui.js','vozes.html','vozes.css','vozes-ui.js']){let data=fs.readFileSync(path.join(__dirname,name),'utf8');if(name.endsWith('.html'))data=data.replace('<meta charset="UTF-8">',"<meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://raw.githubusercontent.com; connect-src 'self' https://api.open-meteo.com; object-src 'none'; base-uri 'self'; form-action 'self'\">"+'<meta charset="UTF-8">');fs.writeFileSync(path.join(dir,name),data)}
+for(const name of ['index.html','app.js','styles.css','saas.js','news-utils.js','roteiros-portal.js','boletim.html','boletim.js','boletim.css','revisao-ui.js']){let data=fs.readFileSync(path.join(__dirname,name),'utf8');if(name.endsWith('.html'))data=data.replace('<meta charset="UTF-8">',"<meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://raw.githubusercontent.com; connect-src 'self' https://api.open-meteo.com; object-src 'none'; base-uri 'self'; form-action 'self'\">"+'<meta charset="UTF-8">');fs.writeFileSync(path.join(dir,name),data)}
 console.log('Arquivos públicos preparados em public/.');
 
-fs.copyFileSync(path.join(__dirname,'autorizacao-voz.pdf'),path.join(dir,'autorizacao-voz.pdf'));
+fs.rmSync(path.join(dir,'autorizacao-voz.pdf'),{force:true});
+
+for(const name of ['locucao-ui.js','vozes.html','vozes.css','vozes-ui.js'])fs.rmSync(path.join(dir,name),{force:true});

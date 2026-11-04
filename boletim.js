@@ -34,7 +34,6 @@ window.addEventListener('message',e=>{if(e.origin!==location.origin||e.source!==
 (async()=>{try{
  me=await api('me');csrf=me.csrf;writable=['administrador','editor'].includes(me.role);$('radio').textContent=me.radio;
  const requested=params.get('id');if(requested){const r=await api('roteiros?id='+encodeURIComponent(requested));id=params.has('duplicar')?null:r.id;versao=id?r.versao:0;criado=id?r.criado_em:null;atualizado=id?r.atualizado_em:null;itens=r.dados.itens;$('titulo').value=(id?'':'Cópia · ')+r.titulo;dirty=!id}
- else if(/^[0-9a-f-]{36}$/i.test(params.get('voz')||'')){$('titulo').value='Teste de voz · '+new Date().toLocaleDateString('pt-BR');itens=[{titulo:'Teste de locução',texto:'Olá! Esta é uma amostra de locução para avaliar a voz, a pronúncia e o ritmo de leitura dos boletins da nossa emissora.',fonte:'',url:''}];dirty=true}
  else $('titulo').value='Boletim · '+new Date().toLocaleDateString('pt-BR');
  ready=true;for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=!writable;$('leitura').disabled=false;$('imprimir').disabled=false;render();status(writable?(dirty?'Cópia ainda não salva.':id?'Boletim aberto.':'Escolha notícias no portal ou adicione uma nota própria.'):'Acesso de leitura.');if(portalHost)portalHost.postMessage({type:'boletim-pronto'},location.origin);
  }catch(e){status(e.message+' Abra o portal e entre na sua conta.',true);for(const b of document.querySelectorAll('button,input,textarea'))b.disabled=true}

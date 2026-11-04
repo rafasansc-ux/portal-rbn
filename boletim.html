@@ -2,15 +2,12 @@
 <header><div><small>PORTAL DA REDAÇÃO</small><h1 id="radio">Boletim</h1></div><a href="/" target="_blank" rel="noopener">Abrir portal ↗</a></header>
 <main><div class="toolbar"><button id="salvar">Salvar boletim</button><button id="nota" class="secondary">+ Nota própria</button><button id="tempo" class="secondary">+ Tempo · Epagri</button><button id="leitura" class="secondary">Modo de leitura</button><button id="imprimir" class="secondary">Imprimir / PDF</button></div>
 <p id="status" role="status">Abrindo sua conta…</p>
-<button id="abrir-locucao" class="secondary" type="button">Gerar locução por IA</button> <a href="vozes.html" target="_blank" rel="noopener">Vozes da emissora</a>
-<dialog id="locucao-painel" aria-labelledby="locucao-titulo"><h2 id="locucao-titulo">Locução por IA</h2><p>O áudio usa os títulos e textos da versão salva. Fontes e links ficam fora da leitura. Revise o texto antes de gerar.</p>
-<p id="locucao-aviso" role="status"></p>
-<label for="locucao-voz">Voz autorizada</label><select id="locucao-voz"></select>
-<label for="locucao-ritmo">Ritmo</label><select id="locucao-ritmo"><option value="0.8">Mais lento · 0,8×</option><option value="1" selected>Normal · 1×</option><option value="1.2">Mais rápido · 1,2×</option></select>
-<label for="locucao-estilo">Estilo</label><select id="locucao-estilo"><option value="neutro">Neutro</option><option value="expressivo">Expressivo</option></select>
-<p id="locucao-estimativa"></p><button id="locucao-gerar" type="button">Gerar áudio</button><button id="locucao-fechar" class="secondary" type="button">Fechar</button>
-<h3>Histórico de locuções</h3><button id="locucao-excluidos" class="secondary" type="button">Ver áudios excluídos</button><div id="locucao-historico"></div></dialog>
-<script src="locucao-ui.js" defer></script>
+<button id="abrir-revisao" class="secondary" type="button">Revisar texto</button>
+<dialog id="revisao-painel" aria-labelledby="revisao-titulo"><h2 id="revisao-titulo">Revisar texto</h2><p id="revisao-aviso" role="status"></p>
+<label for="revisao-bloco">Notícia ou nota para revisar</label><select id="revisao-bloco"></select>
+<div class="revisao-comparacao"><div><label for="revisao-original">Texto original</label><textarea id="revisao-original" readonly></textarea></div><div><label for="revisao-sugestao">Sugestão da IA · você pode editar</label><textarea id="revisao-sugestao" maxlength="9000"></textarea></div></div>
+<p id="revisao-alertas"></p><div class="toolbar"><button id="revisao-gerar" type="button">Revisar com IA</button><button id="revisao-aplicar" type="button" disabled>Usar texto revisado</button><button id="revisao-fechar" class="secondary" type="button">Fechar</button></div></dialog>
+<script src="revisao-ui.js" defer></script>
 <input aria-label="Título do boletim" id="titulo" maxlength="160" placeholder="Ex.: Jornal da manhã"><div class="meta"><span id="datas">Novo boletim · ainda não salvo</span><span id="duracao"></span></div>
 <p id="dica">Continue escolhendo notícias no portal e clique em “Adicionar ao boletim”. Aqui você pode editar o texto para leitura no ar.</p><div id="itens"></div><p id="vazio">Seu roteiro está vazio. Adicione notícias pelo portal ou comece com uma nota própria.</p>
 </main><article id="roteiro-leitura" hidden></article></body></html>
