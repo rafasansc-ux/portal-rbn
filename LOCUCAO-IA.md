@@ -32,6 +32,6 @@ Timeout, falha do provedor ou falha ao armazenar não liberam franquia automatic
 
 Geração síncrona limitada a 45s de resposta e 10 minutos de áudio: apropriada apenas ao piloto. Antes de uso comercial, migrar para fila/worker durável com reconciliação automática, retenção de arquivos e política de exclusão. O painel administrativo de custos, concessão de excedentes e gestão de franquias ainda não têm interface; dados e configuração ficam restritos à infraestrutura. Cada pedido exige espaço para uma reserva inteira de 600 segundos além do já utilizado; a franquia inicial de 600 segundos autoriza apenas uma geração enquanto houver consumo no mês. Não aumentar limites sem autorização comercial.
 
-Clonagem com consentimento documentado, revogação e envio de amostras, área Vozes da emissora, trilhas, vinhetas, FFmpeg/ducking e normalização são etapas futuras. Nenhuma clonagem está habilitada neste piloto.
+A área Vozes da emissora com consentimento documentado, revogação e envio de amostras foi implementada na etapa seguinte; consulte VOZES-EMISSORA.md. Nenhuma clonagem real de pessoa foi executada; o envio à ElevenLabs permanece desabilitado até consentimento/amostra e permissões estarem prontos. Trilhas, vinhetas, FFmpeg/ducking e normalização continuam etapas futuras.
 
 Referências oficiais: https://elevenlabs.io/docs/api-reference/text-to-speech/convert e https://elevenlabs.io/pricing/api
