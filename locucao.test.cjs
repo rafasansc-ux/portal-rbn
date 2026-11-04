@@ -43,6 +43,8 @@ test('API não chama provedor desativado, em repetição ou com voz de outra emi
  const admin={rpc:async()=>({data:{id:key,nova:false}}),from:()=>({update(value){updates.push(value);return query([])}})};
  const base={req:{},res:{},parsed:new URL('https://example.com/api/locucao'),method:'POST',db,admin,radio:{id:a},user:{id:u},env:{AUDIO_ENABLED:'true',ELEVENLABS_API_KEY:'test'},send:(res,status,data)=>{result={status,data}},readBody:async()=>({roteiro:script,versao:1,voz:voice,chave:key,ritmo:1,estilo:'neutro'}),checked:async p=>{const r=await p;if(r.error)throw Error('Banco indisponível');return r.data},generate:async()=>{calls++;throw Error('Timeout')}};
  await locucaoHandler({...base,env:{}});assert.equal(result.status,503);assert.equal(calls,0);
+ await locucaoHandler({...base,admin:null,method:'GET',env:{AUDIO_ENABLED:'true',ELEVENLABS_API_KEY:'test',SUPABASE_SERVICE_ROLE_KEY:'sb_secret_mask••••'}});assert.equal(result.data.habilitado,false);assert.match(result.data.aviso,/incompleta ou inválida/);assert.equal(calls,0);
+ const previousRpc=admin.rpc;admin.rpc=async()=>({error:{message:'Invalid API key'}});await locucaoHandler(base);assert.match(result.data.error,/não aceitou a chave privada/);assert.equal(calls,0);admin.rpc=previousRpc;
  await locucaoHandler(base);assert.equal(result.status,200);assert.equal(result.data.repetido,true);assert.equal(calls,0);
  await locucaoHandler({...base,db:{from:t=>query(t==='portal_roteiros'?[record]:[])}});assert.equal(result.status,403);assert.equal(calls,0);
  admin.rpc=async()=>({data:{id:key,nova:true}});await locucaoHandler(base);assert.equal(result.status,502);assert.equal(calls,1);assert.deepEqual(updates,[{estado:'incerto'}]);
