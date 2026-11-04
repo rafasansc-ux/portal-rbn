@@ -2,6 +2,21 @@ const {test}=require('node:test'),assert=require('node:assert/strict'),fs=requir
 const {PGlite}=require('@electric-sql/pglite');
 const {validarCadastro,TERMOS_VERSAO,clonar,consultar,verificacao,consentimentoValido}=require('./lib/vozes.cjs');
 const {vozesHandler}=require('./lib/vozes-handler.cjs');
+test('Guarda externa exige declaração expressa e não cria PDF nem hash fictícios',()=>{
+ const b={...body(),guardaExterna:true,documentoSobGuarda:true};delete b.documento;
+ const valid=validarCadastro(b,Date.parse('2026-11-03'));assert.equal(valid.documento,null);assert.equal(valid.documento_sha256,'');
+ assert.throws(()=>validarCadastro({...b,documentoSobGuarda:false}),/sob sua guarda/);
+ assert.throws(()=>validarCadastro({...b,autorizacaoExpressa:false}));
+ const html=fs.readFileSync('vozes.html','utf8');assert.ok(!html.includes('id="voz-documento"'));assert.ok(!html.includes('id="voz-responsavel"'));
+});
+test('API de guarda externa salva somente áudio e registra o administrador real',async()=>{
+ let resposta,record;const uploads=[],events=[];
+ const q={select(){return this},eq(){return this},limit(){return Promise.resolve({data:[]})}};
+ const payload={...body(),acao:'cadastrar',guardaExterna:true,documentoSobGuarda:true,responsavel:'Ignorar identidade enviada',validade:'2027-11-01'};delete payload.documento;
+ const admin={storage:{from:()=>({upload:async(path)=>{uploads.push(path);return {data:{}}},remove:async()=>({data:{}})})},from:table=>({insert:async(value)=>{if(table==='portal_locutores')record=value;else events.push(value);return {data:{}}}})};
+ await vozesHandler({req:{},res:{},parsed:new URL('https://portal.example/api/vozes'),method:'POST',db:{from:()=>q},admin,radio:{id:'radio-teste'},user:{id:'admin-real'},role:'administrador',env:{},readBody:async()=>payload,checked:async p=>{const r=await p;if(r.error)throw r.error;return r.data},send:(r,status,data)=>{resposta={status,data}}});
+ assert.equal(resposta.status,200);assert.equal(uploads.length,1);assert.ok(uploads[0].endsWith('/amostra.mp3'));assert.equal(record.documento_caminho,'');assert.equal(record.documento_sha256,'');assert.equal(record.responsavel,'Administrador autenticado admin-real');assert.equal(events[0].acao,'autorizacao_declarada_guarda_externa');
+});
 function sample(){const frame=Buffer.alloc(417);frame.set([255,251,144,0]);return Buffer.concat(Array(2390).fill(frame));}
 const body=()=>({nome:'Locutor de teste',responsavel:'Responsável',validade:'2027-11-01',canalRevogacao:'redacao@example.com',destinoAudios:'Suspender novas exibições a pedido do locutor.',guardaDocumentos:'Cinco anos para comprovar a autorização, conforme documento.',documento:Buffer.from('%PDF-1.7\nDocumento fictício de teste\n%%EOF').toString('base64'),amostra:sample().toString('base64'),autorizacaoExpressa:true,documentoConferido:true,termosVersao:TERMOS_VERSAO});
 test('Cadastro exige consentimento documentado, prazo válido, PDF e MP3 limitado',()=>{
@@ -49,3 +64,4 @@ test('Banco: clones exclusivos, consentimento vencido/revogado, limites e privil
  await assert.rejects(db.query(`select portal_iniciar_clonagem('${a}','${loc}','${u}')`),/Limite de vozes/);
  }finally{await db.close()}
 });
+

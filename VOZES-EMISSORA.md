@@ -40,3 +40,6 @@ Revogação não exclui automaticamente o clone do provedor nem os arquivos/áud
 - https://elevenlabs.io/docs/api-reference/voices/get
 - https://elevenlabs.io/docs/eleven-creative/voices/voice-cloning/instant-voice-cloning
 - https://elevenlabs.io/docs/eleven-creative/voices/voice-cloning/professional-voice-cloning
+
+## Cadastro com autorização sob guarda externa (03/11/2026)
+A tela permite baixar o modelo PDF de teste para preenchimento e assinatura. O responsável da emissora mantém o documento, sem upload. O portal pede nome e validade, MP3 e confirmações de autorização e guarda; identifica o conferente pelo usuário autenticado. Não certifica a assinatura nem possui cópia do documento. Campos documento_caminho e documento_sha256 ficam vazios (sem hash fictício), e o evento autorizacao_declarada_guarda_externa distingue essa modalidade. A API continua aceitando os cadastros antigos com upload para compatibilidade. Downloads de PDFs antigos continuam privados; novos cadastros não exibem botão de baixar autorização. Validade, revogação, limites e isolamento entre rádios continuam aplicados. O modelo destina-se a testes internos; outras finalidades exigem autorização adequada.
