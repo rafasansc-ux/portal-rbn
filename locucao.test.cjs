@@ -1,5 +1,12 @@
 const {test}=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs');
 const {preparar,gerar,duracaoMP3}=require('./lib/locucao.cjs');
+test('Amostras MPEG-2 e MPEG-2.5 preservam duração de um minuto',()=>{
+ for(const [header,hz] of [[0xf3,22050],[0xe3,11025]]){
+  const frame=Buffer.alloc(Math.floor(72000*64/hz));frame.set([255,header,0x80,0]);
+  const count=Math.ceil(64*hz/576);
+  assert.equal(duracaoMP3(Buffer.concat(Array(count).fill(frame))),65);
+ }
+});
 const {PGlite}=require('@electric-sql/pglite');
 const {locucaoHandler}=require('./lib/locucao-handler.cjs');
 const a='10000000-0000-4000-8000-000000000001',b='10000000-0000-4000-8000-000000000002',u='20000000-0000-4000-8000-000000000001',v='20000000-0000-4000-8000-000000000002',voice='30000000-0000-4000-8000-000000000001',script='40000000-0000-4000-8000-000000000001',key='50000000-0000-4000-8000-000000000001';
