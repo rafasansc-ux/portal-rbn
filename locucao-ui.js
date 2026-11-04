@@ -1,6 +1,6 @@
 'use strict';
 (()=>{
- let config=null,working=false,request=null;
+ let config=null,working=false,request=null,excluidos=false;
  const el=name=>document.getElementById('locucao-'+name);
  const avisar=text=>{el('aviso').textContent=text};
  const spoken=()=>itens.map(i=>[i.titulo,i.texto].filter(Boolean).join('.\n')).join('\n\n').trim();
@@ -11,19 +11,28 @@
   el('gerar').disabled=working||!writable||!id||dirty||!config?.habilitado||!config.vozes.length||!n||n>3000||!!c&&(c.expirado||cost>c.disponiveis);
  }
  async function load(){
-  const selected=el('voz').value;config=await api('locucao');el('voz').replaceChildren();for(const v of config.vozes){const o=document.createElement('option');o.value=v.id;o.textContent=v.nome;el('voz').append(o)}const suggested=selected||new URLSearchParams(location.search).get('voz');if(config.vozes.some(v=>v.id===suggested))el('voz').value=suggested;
+  const selected=el('voz').value;config=await api('locucao'+(excluidos?'?excluidos=1':''));el('voz').replaceChildren();for(const v of config.vozes){const o=document.createElement('option');o.value=v.id;o.textContent=v.nome;el('voz').append(o)}const suggested=selected||new URLSearchParams(location.search).get('voz');if(config.vozes.some(v=>v.id===suggested))el('voz').value=suggested;
   avisar(config.aviso||(!config.habilitado?'Sua emissora ainda não tem franquia de locução.':dirty||!id?'Salve o boletim e reabra esta opção antes de gerar.':!config.vozes.length?'Nenhuma voz autorizada disponível.':'Cada nova geração utiliza a franquia da emissora.'));
-  const c=config.creditos;
-  el('consumo').textContent=c?`Saldo disponível: ${c.disponiveis} créditos · Utilizados: ${c.usados} · Reservados: ${c.reservados}. `+(c.modo==='piloto'?'Franquia de teste.':c.expirado?'Ciclo encerrado. Renovação após confirmação do pagamento.':`Ciclo válido até ${new Date(c.fim).toLocaleString('pt-BR')}. Renovação após confirmação do pagamento.`)+(c.total&&c.disponiveis<=c.total*0.2?' Atenção: saldo próximo do fim.':''):'';
+  el('excluidos').textContent=excluidos?'Voltar ao histórico':'Ver áudios excluídos';
   el('historico').replaceChildren();for(const item of config.historico){
-   const section=document.createElement('section'),title=document.createElement('p');title.textContent=`${item.titulo} · ${new Date(item.criado_em).toLocaleString('pt-BR')} · ${item.estornado_em?'Créditos devolvidos':item.estado==='pronto'?'Pronto':item.estado==='incerto'?'Pendente de conferência':'Em processamento'} · ${item.creditos??Math.ceil(item.caracteres/100)} crédito(s)`;section.append(title);
-   if(item.estado==='pronto'){
+   const section=document.createElement('section'),title=document.createElement('p');title.textContent=`${item.titulo} · ${new Date(item.criado_em).toLocaleString('pt-BR')} · ${item.excluido_em?'Excluído':item.estornado_em?'Créditos devolvidos':item.estado==='pronto'?'Pronto':item.estado==='incerto'?'Pendente de conferência':'Em processamento'} · ${item.creditos??Math.ceil(item.caracteres/100)} crédito(s)`;section.append(title);
+   if(item.estado==='pronto'&&!item.excluido_em){
     const player=document.createElement('audio');player.controls=true;player.preload='none';player.src='/api/locucao?id='+encodeURIComponent(item.id);section.append(player);
     if(item.aprovado_em){const a=document.createElement('a');a.href=player.src+'&download=1';a.textContent='Baixar MP3 aprovado';a.download='boletim.mp3';section.append(a)}
     else if(writable){const approve=document.createElement('button');approve.textContent='Aprovar áudio';approve.disabled=true;player.addEventListener('ended',()=>{approve.disabled=false});approve.onclick=async()=>{approve.disabled=true;try{await api('locucao?id='+item.id,'PUT',{});await load()}catch(e){avisar(e.message);approve.disabled=false}};section.append(approve);const hint=document.createElement('small');hint.textContent='Ouça a prévia até o fim para liberar a aprovação.';section.append(hint)}
-   }el('historico').append(section);
-  }if(!config.historico.length)el('historico').textContent='Nenhuma locução registrada.';estimate();
+   }
+   if(writable&&item.estado==='pronto'){const remove=document.createElement('button');remove.className='secondary';remove.textContent=item.excluido_em?'Restaurar áudio':'Excluir áudio';remove.disabled=working;remove.onclick=()=>alterarAudio(item);section.append(remove)}
+   el('historico').append(section);
+  }if(!config.historico.length)el('historico').textContent=excluidos?'Nenhum áudio excluído.':'Nenhuma locução registrada.';estimate();
  }
+ async function alterarAudio(item){
+  if(working||!writable)return;
+  const restoring=!!item.excluido_em;
+  if(!restoring&&!confirm('Excluir o áudio “'+item.titulo+'” do histórico? Você pode restaurá-lo em “Ver áudios excluídos”. Os créditos utilizados não serão devolvidos.'))return;
+  working=true;estimate();
+  try{await api('locucao?id='+item.id,restoring?'PATCH':'DELETE',{});await load();avisar(restoring?'Áudio restaurado.':'Áudio excluído do histórico. Você pode restaurá-lo em “Ver áudios excluídos”.')}catch(e){avisar(e.message)}finally{working=false;estimate()}
+ }
+ el('excluidos').onclick=async()=>{if(working)return;excluidos=!excluidos;try{await load()}catch(e){avisar(e.message)}};
  document.getElementById('abrir-locucao').onclick=async()=>{el('painel').showModal();avisar('Consultando vozes e franquia…');try{await load()}catch(e){avisar(e.message);el('gerar').disabled=true}};
  el('fechar').onclick=()=>el('painel').close();el('ritmo').onchange=estimate;
  el('gerar').onclick=async()=>{

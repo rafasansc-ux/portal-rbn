@@ -65,3 +65,7 @@ Planos existentes continuam em piloto, com os limites anteriores; não foram con
 A marca do fornecedor foi retirada das mensagens usuais. Termo de autorização, PDF e informações de tratamento da voz mantêm a identificação do fornecedor. A voz clonada e o histórico anterior são preservados. Os consentimentos e a separação entre emissoras continuam obrigatórios.
 
 Migração: `supabase/migrations/202611040010_creditos_locucao.sql`. Os testes usam banco local e fornecedor simulado; esta atualização não gera áudio pago.
+
+## Exclusão recuperável de áudio (04/11/2026)
+Excluir áudio move a geração pronta para a lixeira do histórico (excluido_em/excluido_por). Ver áudios excluídos permite restaurar. Arquivo privado, registro de geração e créditos usados permanecem; excluir não libera saldo nem pede nova geração. Leitores não excluem/restauram e outra emissora não acessa o registro. Reprodução, download e aprovação ficam bloqueados enquanto excluído. A tela não exibe mais o resumo de saldo/uso nem o parágrafo longo das regras, por solicitação do usuário; o custo da solicitação e o saldo após gerar permanecem visíveis. Migração 202611040011_excluir_audios.sql.
+

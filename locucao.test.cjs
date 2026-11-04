@@ -9,6 +9,18 @@ test('Amostras MPEG-2 e MPEG-2.5 preservam duração de um minuto',()=>{
 });
 const {PGlite}=require('@electric-sql/pglite');
 const {locucaoHandler}=require('./lib/locucao-handler.cjs');
+test('Excluir e restaurar áudio preserva arquivo e consumo, bloqueia leitores e outra rádio',async()=>{
+ let response;const row={id:'50000000-0000-4000-8000-000000000001',radio_id:'10000000-0000-4000-8000-000000000001',estado:'pronto',creditos:2,caminho:'radio/amostra.mp3',excluido_em:null,estornado_em:null};
+ const query=()=>{const filters=[];let values;const q={select(){return q},eq(k,v){filters.push([k,v]);return q},is(k,v){filters.push([k,v]);return q},update(v){values=v;return q},then(resolve){const match=filters.every(([k,v])=>(row[k]??null)===v);if(match&&values)Object.assign(row,values);return Promise.resolve({data:match?[{...row}]:[]}).then(resolve)}};return q};
+ const options={req:{},res:{},parsed:new URL('https://portal.example/api/locucao?id='+row.id),method:'DELETE',db:{from:query},admin:{from:query,storage:{from(){throw Error('Não deve remover o arquivo')}}},radio:{id:row.radio_id},user:{id:'20000000-0000-4000-8000-000000000001'},role:'editor',env:{},checked:async p=>(await p).data,send:(r,status,data)=>{response={status,data}}};
+ await locucaoHandler({...options,role:'leitor'});assert.equal(response.status,403);
+ await locucaoHandler({...options,radio:{id:'outra-radio'}});assert.equal(response.status,404);
+ await locucaoHandler(options);assert.equal(response.status,200);assert.ok(row.excluido_em);assert.equal(row.creditos,2);assert.equal(row.estornado_em,null);assert.equal(row.caminho,'radio/amostra.mp3');
+ await locucaoHandler({...options,method:'GET'});assert.equal(response.status,404);
+ await locucaoHandler({...options,method:'PUT'});assert.equal(response.status,404);
+ await locucaoHandler({...options,method:'PATCH'});assert.equal(response.status,200);assert.equal(row.excluido_em,null);
+ row.estado='processando';await locucaoHandler(options);assert.equal(response.status,409);
+});
 const a='10000000-0000-4000-8000-000000000001',b='10000000-0000-4000-8000-000000000002',u='20000000-0000-4000-8000-000000000001',v='20000000-0000-4000-8000-000000000002',voice='30000000-0000-4000-8000-000000000001',script='40000000-0000-4000-8000-000000000001',key='50000000-0000-4000-8000-000000000001';
 test('Locução lê apenas títulos e texto, valida ritmo e limite de caracteres',()=>{
  const r={dados:{itens:[{titulo:'Manchete',texto:'Texto da notícia.',fonte:'Não ler',url:'https://example.com'}]}};

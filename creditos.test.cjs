@@ -1,14 +1,14 @@
 const {test}=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs');
 const {custo,saldo}=require('./lib/creditos.cjs');
 const {PGlite}=require('@electric-sql/pglite');
-test('Tela informa 500 de saldo, custo 30 e saldo após gerar 470; bloqueia saldo menor',async()=>{
+test('Tela informa custo 30 e saldo após gerar 470; oculta resumo removido e bloqueia saldo menor',async()=>{
  const vm=require('node:vm'),nodes=new Map();
  const node=()=>({value:'1',textContent:'',disabled:false,children:[],append(...v){this.children.push(...v)},replaceChildren(){this.children=[]},showModal(){},close(){},addEventListener(){}});
  const get=id=>{if(!nodes.has(id))nodes.set(id,node());return nodes.get(id)};
  const config={habilitado:true,vozes:[{id:'voz',nome:'Rafa'}],historico:[],creditos:{total:500,disponiveis:500,usados:0,reservados:0,modo:'assinatura',fim:'2026-12-04T03:00:00Z'}};
  const context={document:{getElementById:get,createElement:node},itens:[{texto:'a'.repeat(3000)}],writable:true,id:'roteiro',versao:1,dirty:false,URLSearchParams,location:{search:''},crypto:require('node:crypto'),api:async()=>config};
  vm.createContext(context);vm.runInContext(fs.readFileSync('locucao-ui.js','utf8'),context);await get('abrir-locucao').onclick();
- assert.match(get('locucao-consumo').textContent,/Saldo disponível: 500/);assert.match(get('locucao-estimativa').textContent,/30 crédito/);assert.match(get('locucao-estimativa').textContent,/470 créditos/);assert.equal(get('locucao-gerar').disabled,false);assert.doesNotMatch(get('locucao-estimativa').textContent,/US\$/);
+ assert.ok(!fs.readFileSync('boletim.html','utf8').includes('id="locucao-consumo"'));assert.match(get('locucao-estimativa').textContent,/30 crédito/);assert.match(get('locucao-estimativa').textContent,/470 créditos/);assert.equal(get('locucao-gerar').disabled,false);assert.doesNotMatch(get('locucao-estimativa').textContent,/US\$/);
  config.creditos.disponiveis=29;await get('abrir-locucao').onclick();assert.equal(get('locucao-gerar').disabled,true);assert.match(get('locucao-estimativa').textContent,/faltam 1 créditos/);
 });
 test('Créditos: arredondamento, reservas, estorno e validade do ciclo',()=>{
@@ -20,7 +20,7 @@ test('Créditos: arredondamento, reservas, estorno e validade do ciclo',()=>{
 test('Banco: créditos atômicos, renovação paga, recarga idempotente, estorno e isolamento',async()=>{
  const db=new PGlite();try{
  await db.exec(`create role anon;create role authenticated;create role service_role bypassrls;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema public,auth to authenticated;create schema storage;create table storage.buckets(id text,name text,public boolean,file_size_limit bigint,allowed_mime_types text[]);`);
- for(const name of ['202610280001_portal.sql','202610290004_roteiros.sql','202610290005_excluir_roteiros.sql','202611030006_locucao.sql','202611030007_contagem_locucao.sql','202611030008_vozes_emissora.sql','202611040010_creditos_locucao.sql'])await db.exec(fs.readFileSync('supabase/migrations/'+name,'utf8'));
+ for(const name of ['202610280001_portal.sql','202610290004_roteiros.sql','202610290005_excluir_roteiros.sql','202611030006_locucao.sql','202611030007_contagem_locucao.sql','202611030008_vozes_emissora.sql','202611040010_creditos_locucao.sql','202611040011_excluir_audios.sql'])await db.exec(fs.readFileSync('supabase/migrations/'+name,'utf8'));
  const a='10000000-0000-4000-8000-000000000001',b='10000000-0000-4000-8000-000000000002',u='20000000-0000-4000-8000-000000000001',v='20000000-0000-4000-8000-000000000002',voice='30000000-0000-4000-8000-000000000001',script='40000000-0000-4000-8000-000000000001';
  await db.exec(`insert into auth.users values('${u}'),('${v}');insert into portal_radios(id,nome,acesso_ate) values('${a}','A',now()+interval '60 days'),('${b}','B',now()+interval '60 days');insert into portal_membros values('${a}','${u}','administrador',true),('${b}','${v}','administrador',true);insert into portal_audio_planos(radio_id,ativo,limite_caracteres,limite_segundos) values('${a}',true,100,600);insert into portal_vozes(id,radio_id,nome,provedor_id,ativa,autorizada,evidencia_licenca) values('${voice}','${a}','Voz','provider',true,true,'Autorização teste');insert into portal_roteiros(id,radio_id,titulo,dados) values('${script}','${a}','Teste','{"itens":[{"texto":"${'x'.repeat(101)}"}]}');`);
  await db.exec("select set_config('request.jwt.claim.role','service_role',false)");
@@ -31,7 +31,9 @@ test('Banco: créditos atômicos, renovação paga, recarga idempotente, estorno
  let counter=0;const reserve=(user=u)=>`select portal_reservar_locucao('${a}','${user}','${script}',1,'${voice}','50000000-0000-4000-8000-${String(++counter).padStart(12,'0')}',1,'neutro') as job`;
  const firstSQL=reserve(),job=(await db.query(firstSQL)).rows[0].job;assert.equal(job.nova,true);assert.equal((await db.query(firstSQL)).rows[0].job.nova,false);
  assert.equal((await db.query('select creditos from portal_locucoes')).rows[0].creditos,2);assert.equal((await db.query(`select portal_audio_saldo('${a}') as saldo`)).rows[0].saldo.disponiveis,0);
+ await db.exec(`update portal_locucoes set excluido_em=now() where id='${job.id}';`);
  await assert.rejects(db.query(reserve()),/Créditos insuficientes/);
+ await db.exec(`update portal_locucoes set excluido_em=null where id='${job.id}';`);
  const topup=`select portal_audio_pagamento('${a}','recarga-001',2,null,null,'${c}') as id`;
  assert.equal((await db.query(topup)).rows[0].id,(await db.query(topup)).rows[0].id);
  await db.query(reserve());await assert.rejects(db.query(reserve()),/Créditos insuficientes/);
