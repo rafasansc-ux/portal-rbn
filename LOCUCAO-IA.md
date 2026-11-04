@@ -1,6 +1,10 @@
 # Piloto de locução — etapa 1
 
-Piloto implementado. Em 03/11/2026 a migração 006 foi aplicada ao projeto Portal (`amksnfyktkzewxcandpu`), com bucket privado e franquia RBN de 500 caracteres. Chave ElevenLabs cadastrada pelo titular na Vercel. O teste real ainda depende da configuração privada de acesso ao armazenamento e da voz de catálogo; nenhuma geração paga foi executada durante essa preparação.
+Piloto publicado e testado em produção em 03/11/2026. Migrações 006 e 007 aplicadas ao projeto Portal (`amksnfyktkzewxcandpu`), com bucket privado e franquia RBN de 500 caracteres. Credenciais guardadas como segredos de produção na Vercel. Voz de catálogo Lax em português brasileiro vinculada somente à RBN; nenhuma clonagem própria realizada.
+
+Uma geração real, ID `8b093a74-89dd-479b-9eb8-e4e861d32427`, enviou 230 caracteres do boletim demonstrativo. MP3 de 12,678 segundos (13 segundos no controle de franquia), reprodução completa sem erro, aprovação técnica e download verificados. Arquivo baixado em `C:/Users/User/Downloads/boletim-8b093a74-89dd-479b-9eb8-e4e861d32427.mp3` (conteúdo de demonstração, ainda sujeito à avaliação editorial pelo titular).
+
+O registro inicial reservou 231 caracteres por incluir uma quebra de linha final; a migração 007 corrige a normalização para futuras gerações. O histórico inicial foi preservado. O provedor não enviou `x-character-count` nesse retorno, portanto consumo faturado está nulo e o custo mostrado é somente estimado. Não apresentar esse campo como fatura ou crédito efetivamente cobrado. Conferir o painel da ElevenLabs antes de definir preços comerciais.
 
 ## Uso
 
@@ -26,7 +30,7 @@ Timeout, falha do provedor ou falha ao armazenar não liberam franquia automatic
 
 ## Limites conhecidos e próximas etapas
 
-Geração síncrona limitada a 45s de resposta e 10 minutos de áudio: apropriada apenas ao piloto. Antes de uso comercial, migrar para fila/worker durável com reconciliação automática, retenção de arquivos e política de exclusão. O painel administrativo de custos, concessão de excedentes e gestão de franquias ainda não têm interface; dados e configuração ficam restritos à infraestrutura. Teste real com ElevenLabs e Supabase Storage ainda depende da configuração das contas.
+Geração síncrona limitada a 45s de resposta e 10 minutos de áudio: apropriada apenas ao piloto. Antes de uso comercial, migrar para fila/worker durável com reconciliação automática, retenção de arquivos e política de exclusão. O painel administrativo de custos, concessão de excedentes e gestão de franquias ainda não têm interface; dados e configuração ficam restritos à infraestrutura. Cada pedido exige espaço para uma reserva inteira de 600 segundos além do já utilizado; a franquia inicial de 600 segundos autoriza apenas uma geração enquanto houver consumo no mês. Não aumentar limites sem autorização comercial.
 
 Clonagem com consentimento documentado, revogação e envio de amostras, área Vozes da emissora, trilhas, vinhetas, FFmpeg/ducking e normalização são etapas futuras. Nenhuma clonagem está habilitada neste piloto.
 

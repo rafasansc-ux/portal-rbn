@@ -20,18 +20,22 @@ test('Reserva mensal: isolamento RLS, bloqueio de leitores, desativação e idem
  const db=new PGlite();try{
  await db.exec(`create role anon;create role authenticated;create role service_role bypassrls;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema public,auth to authenticated;create schema storage;create table storage.buckets(id text,name text,public boolean,file_size_limit bigint,allowed_mime_types text[]);`);
  for(const f of ['202610280001_portal.sql','202610290004_roteiros.sql','202610290005_excluir_roteiros.sql','202611030006_locucao.sql'])await db.exec(fs.readFileSync('supabase/migrations/'+f,'utf8'));
+ await db.exec(fs.readFileSync('supabase/migrations/202611030007_contagem_locucao.sql','utf8'));
  await db.exec(`insert into auth.users values('${u}'),('${v}');insert into portal_radios(id,nome,acesso_ate) values('${a}','A',now()+interval '1 day'),('${b}','B',now()+interval '1 day');insert into portal_membros values('${a}','${u}','editor',true),('${b}','${v}','leitor',true);insert into portal_roteiros(id,radio_id,titulo,dados) values('${script}','${a}','Boletim','{"itens":[{"titulo":"Olá","texto":"Bom dia"}]}');insert into portal_audio_planos values('${a}',true,1000,600,0.08);insert into portal_vozes(id,radio_id,nome,provedor_id,autorizada,ativa,evidencia_licenca) values('${voice}','${a}','Voz catálogo','providerId',true,true,'Licença de teste documentada');`);
  const reserve=(usuario=u,request=key)=>`select portal_reservar_locucao('${a}','${usuario}','${script}',1,'${voice}','${request}',1,'neutro') as job`;
  await assert.rejects(db.query(reserve(v)));
- const first=(await db.query(reserve())).rows[0].job;assert.equal(first.nova,true);const second=(await db.query(reserve())).rows[0].job;assert.equal(second.nova,false);assert.equal(second.id,first.id);
- await assert.rejects(db.query(reserve(u,'50000000-0000-4000-8000-000000000002'))); // full minute reservation blocks another request
+ await db.exec(`update portal_roteiros set dados=jsonb_set(dados,'{itens,0,texto}',to_jsonb(E'Bom dia\n'::text));`);
+ const reserveSQL=(usuario=u,request=key)=>reserve(usuario,request).replace(",1,'",",2,'");
+ const first=(await db.query(reserveSQL())).rows[0].job;assert.equal(first.nova,true);const stored=(await db.query('select texto,caracteres from portal_locucoes')).rows[0];assert.equal(stored.texto,'Olá.\nBom dia');assert.equal(stored.caracteres,Array.from(stored.texto).length);
+ const second=(await db.query(reserveSQL())).rows[0].job;assert.equal(second.nova,false);assert.equal(second.id,first.id);
+ await assert.rejects(db.query(reserveSQL(u,'50000000-0000-4000-8000-000000000002')),/Franquia insuficiente/); // full minute reservation blocks another request
  await db.exec(`update portal_locucoes set segundos=5,estado='pronto';update portal_vozes set ativa=false;`);
- await assert.rejects(db.query(reserve(u,'50000000-0000-4000-8000-000000000002')));
+ await assert.rejects(db.query(reserveSQL(u,'50000000-0000-4000-8000-000000000002')),/Voz indisponível/);
  await db.exec('begin;set local role authenticated');await db.query("select set_config('request.jwt.claim.sub',$1,true)",[v]);
  assert.equal((await db.query('select * from portal_locucoes')).rows.length,0);await assert.rejects(db.query('update portal_audio_planos set limite_caracteres=999999'));await db.exec('rollback');
  await db.exec('begin;set local role authenticated');await db.query("select set_config('request.jwt.claim.sub',$1,true)",[u]);
  assert.equal((await db.query('select * from portal_locucoes')).rows.length,1);await assert.rejects(db.query(reserve()));await db.exec('rollback');
- await db.exec(`update portal_vozes set ativa=true;update portal_audio_planos set limite_caracteres=1;`);await assert.rejects(db.query(reserve(u,'50000000-0000-4000-8000-000000000002')));
+ await db.exec(`update portal_vozes set ativa=true;update portal_audio_planos set limite_caracteres=1;`);await assert.rejects(db.query(reserveSQL(u,'50000000-0000-4000-8000-000000000002')),/Franquia insuficiente/);
  await db.exec(`update portal_audio_planos set limite_caracteres=1000;update portal_radios set acesso_ate=now()-interval '1 day';`);await assert.rejects(db.query(reserve(u,'50000000-0000-4000-8000-000000000002')));
  }finally{await db.close()}
 });
