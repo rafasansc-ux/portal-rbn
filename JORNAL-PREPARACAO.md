@@ -2,6 +2,10 @@
 
 O botão Criar com IA abre a seleção de notícias por bloco. A geração automática continua desativada: não há endpoint que envie esta seleção à OpenAI, nenhuma chave é usada e nenhuma franquia é debitada.
 
+Atualização do fluxo: ao abrir, o sistema distribui automaticamente as notícias por editoria compatível com os nomes dos blocos, alternando fontes e evitando reutilização. A seleção manual fica recolhida como ajuste opcional. Esta seleção usa regras locais, não um modelo de IA, não avalia datas ou relevância ausentes e não escreve roteiros. Blocos com nomes sem correspondência recebem alerta; abertura e encerramento ficam pendentes para a futura composição baseada nos blocos noticiosos.
+
+Fluxo final confirmado pelo usuário: configurar espelho → salvar modelo → Criar com IA → receber jornal completo para revisão → editar, salvar, exportar PDF ou imprimir. Criar manualmente permanece disponível. Na entrega atual, geração completa, aprovação e versões ainda estão pendentes; o rascunho de seleção pode ser editado e impresso/salvo em PDF pelo editor de boletim existente, mas contém resumos originais, não roteiro produzido por IA.
+
 ## Disponível
 
 - Catálogo derivado no servidor exclusivamente da coleta e das fontes ativas da emissora autenticada.
