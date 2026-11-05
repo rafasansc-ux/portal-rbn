@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Produzir jornal — Portal da Redação</title><link rel="stylesheet" href="jornal.css"><script src="jornal.js" defer></script></head>
+<body><header><div><small>PORTAL DA REDAÇÃO</small><h1>Produzir jornal</h1><p id="radio"></p></div><a href="/">Voltar ao portal ↗</a></header>
+<main><p id="status" role="status" aria-live="polite">Conferindo sua sessão…</p>
+<section aria-labelledby="espelho-heading"><div class="heading"><h2 id="espelho-heading">Configurar espelho</h2><span>Modelo editável</span></div>
+<label>Modelos da emissora<select id="modelos" disabled><option value="">Novo modelo</option></select></label>
+<label>Nome do jornal<input id="nome" maxlength="160" value="Jornal da Manhã" disabled></label>
+<label>Duração total desejada (minutos)<input id="meta" type="number" min="1" max="1440" value="60" disabled></label>
+<div id="blocos"></div><button id="adicionar" class="wide" disabled>+ Adicionar bloco</button>
+<div class="totais" aria-live="polite"><p>Conteúdo <strong id="editorial"></strong></p><p>Comerciais <strong id="comercial"></strong></p><p>Total previsto <strong id="total"></strong></p><p id="diferenca"></p></div>
+<div class="actions"><button id="novo" disabled>Novo modelo</button><button id="copia" disabled>Salvar como novo modelo</button><button id="salvar" class="primary" disabled>Salvar modelo</button></div></section>
+<section><h2>Como deseja produzir?</h2><div class="modos"><button id="ia" disabled><strong>Criar com IA</strong><span>Em preparação · geração ainda indisponível</span></button><button id="manual" disabled><strong>Criar manualmente</strong><span>Abrir o espelho em branco no editor de boletim</span></button></div><p class="hint">Os tempos são previsões. Entrevistas, vinhetas e ritmo do apresentador alteram a duração no ar.</p></section>
+</main></body></html>
