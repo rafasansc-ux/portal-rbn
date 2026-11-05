@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Produzir jornal — Portal da Redação</title><link rel="stylesheet" href="jornal.css"><script src="jornal.js" defer></script></head>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Produzir jornal — Portal da Redação</title><link rel="stylesheet" href="jornal.css"><script src="jornal.js" defer></script><script src="jornal-producao.js" defer></script></head>
 <body><header><div><small>PORTAL DA REDAÇÃO</small><h1>Produzir jornal</h1><p id="radio"></p></div><a href="/">Voltar ao portal ↗</a></header>
 <main><p id="status" role="status" aria-live="polite">Conferindo sua sessão…</p>
 <section aria-labelledby="espelho-heading"><div class="heading"><h2 id="espelho-heading">Configurar espelho</h2><span>Modelo editável</span></div>
@@ -9,5 +9,14 @@
 <div id="blocos"></div><button id="adicionar" class="wide" disabled>+ Adicionar bloco</button>
 <div class="totais" aria-live="polite"><p>Conteúdo <strong id="editorial"></strong></p><p>Comerciais <strong id="comercial"></strong></p><p>Total previsto <strong id="total"></strong></p><p id="diferenca"></p></div>
 <div class="actions"><button id="novo" disabled>Novo modelo</button><button id="copia" disabled>Salvar como novo modelo</button><button id="salvar" class="primary" disabled>Salvar modelo</button></div></section>
-<section><h2>Como deseja produzir?</h2><div class="modos"><button id="ia" disabled><strong>Criar com IA</strong><span>Em preparação · geração ainda indisponível</span></button><button id="manual" disabled><strong>Criar manualmente</strong><span>Abrir o espelho em branco no editor de boletim</span></button></div><p class="hint">Os tempos são previsões. Entrevistas, vinhetas e ritmo do apresentador alteram a duração no ar.</p></section>
-</main></body></html>
+<section><h2>Como deseja produzir?</h2><div class="modos"><button id="ia" disabled><strong>Criar com IA</strong><span>Selecionar notícias e preparar os blocos · sem consumo de IA</span></button><button id="manual" disabled><strong>Criar manualmente</strong><span>Abrir o espelho em branco no editor de boletim</span></button></div><p class="hint">Os tempos são previsões. Entrevistas, vinhetas e ritmo do apresentador alteram a duração no ar.</p></section>
+<dialog id="producao-painel" aria-labelledby="producao-titulo">
+<div class="heading"><h2 id="producao-titulo">Preparar jornal com IA</h2><button id="producao-fechar">Fechar</button></div>
+<p id="producao-aviso" role="status"></p>
+<p class="hint">A geração automática está desativada. Aqui você organiza as fontes e confere o material disponível, sem gastar créditos.</p>
+<label>Bloco do jornal<select id="producao-bloco"></select></label>
+<div class="filtros"><label>Editoria<select id="producao-editoria"></select></label><label>Buscar notícia ou fonte<input id="producao-busca" type="search"></label></div>
+<p id="producao-contagem" aria-live="polite"></p><div id="producao-noticias"></div>
+<div class="actions"><button id="producao-conferir" class="primary">Conferir plano do jornal</button><button disabled>Gerar bloco com IA · em preparação</button></div>
+<div id="producao-resultado"></div><button id="producao-abrir" disabled>Abrir rascunho com os resumos originais</button>
+</dialog></main></body></html>

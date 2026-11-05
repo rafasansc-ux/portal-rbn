@@ -17,7 +17,7 @@ async function api(route,method='GET',body){const r=await fetch('/api/'+route,{m
 const tempo=s=>`${Math.floor(s/60)}min ${s%60}s`;
 function totals(){let e=0,c=0;for(const b of blocos){if(b.tipo==='comercial')c+=b.segundos;else e+=b.segundos}const meta=Number($('meta').value)*60,total=e+c; $('editorial').textContent=tempo(e);$('comercial').textContent=tempo(c);$('total').textContent=tempo(total);$('diferenca').textContent=!Number.isInteger(meta)||meta<60?'Informe uma meta válida.':total===meta?'Tempo completo.':total<meta?'Faltam '+tempo(meta-total)+' para a meta.':'Excede a meta em '+tempo(total-meta)+'.'}
 function changed(){dirty=true;totals();status('Alterações não salvas. Clique em Salvar modelo.')}
-function controls(){for(const key of ['modelos','nome','meta','adicionar','novo','copia','salvar','manual'])$(key).disabled=!writable||busy}
+function controls(){for(const key of ['modelos','nome','meta','adicionar','novo','copia','salvar','manual','ia'])$(key).disabled=!writable||busy}
 function render(){const target=$('blocos');target.replaceChildren();blocos.forEach((b,i)=>{
  const row=document.createElement('div');row.className='bloco';const n=document.createElement('span');n.className='ordem';n.textContent=i+1;row.append(n);
  function field(label,el,cls){const l=document.createElement('label');l.className=cls||'';l.append(document.createTextNode(label),el);row.append(l);el.disabled=!writable||busy;return el}
