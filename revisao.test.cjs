@@ -33,7 +33,7 @@ test('Banco limita revisões por rádio e mês, protege resultado e idempotênci
  }finally{await db.close()}
 });
 test('Interface retira módulos de voz e só aplica sugestão com revisão humana',()=>{
- const html=fs.readFileSync('boletim.html','utf8'),nav=fs.readFileSync('index.html','utf8');assert.ok(html.includes('Revisar texto'));assert.ok(!html.includes('abrir-locucao'));assert.ok(!nav.includes('Vozes da emissora'));
+ const html=fs.readFileSync('boletim.html','utf8'),nav=fs.readFileSync('index.html','utf8');assert.ok(!html.includes('abrir-revisao'));assert.ok(!html.includes('revisao-ui.js'));assert.ok(!html.includes('abrir-locucao'));assert.ok(!nav.includes('Vozes da emissora'));
  const vm=require('node:vm'),nodes=new Map();const node=()=>({value:'',disabled:false,textContent:'',children:[],events:{},append(v){this.children.push(v)},replaceChildren(){this.children=[]},addEventListener(k,f){this.events[k]=f},showModal(){},close(){}});const get=id=>{if(!nodes.has(id))nodes.set(id,node());return nodes.get(id)};
  const target={titulo:'Teste',texto:'30 escola'},ctx={document:{getElementById:get,createElement:node},itens:[target],ready:true,writable:true,busy:false,crypto:require('node:crypto'),changed(){},render(){},status(){},api:async(route,method)=>method==='POST'?{texto:'30 escolas',alertas:[]}:{habilitado:true}};
  vm.createContext(ctx);vm.runInContext(fs.readFileSync('revisao-ui.js','utf8'),ctx);
